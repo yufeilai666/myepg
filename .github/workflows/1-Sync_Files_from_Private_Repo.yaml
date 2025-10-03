@@ -19,9 +19,8 @@ jobs:
       with:
         script: |
           const fs = require('fs');
-          const core = require('@actions/core');
           
-          // 定义需要获取的文件列表
+          // 定义需要同步的文件列表
           const files = [
             'snow_epg.xml',
             'snow_epg.xml.gz',
@@ -94,6 +93,7 @@ jobs:
           }
           
           // 设置输出变量供后续步骤使用
+          // 注意：在 github-script 中，core 是自动可用的，不需要 require
           core.setOutput('changed_files', changedFiles.length > 0 ? 'true' : 'false');
           core.setOutput('changed_files_list', changedFiles.join(','));
           core.setOutput('success_files', successFiles.join(','));
