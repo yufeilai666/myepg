@@ -128,8 +128,8 @@ jobs:
         # 提交信息 - 使用多行格式
         commit_message="sync: update files from tvepg at $BEIJING_TIME
 
-- Updated: $CHANGED_FILES_LIST
-- Auto-sync from private repository"
+        - Updated: $CHANGED_FILES_LIST
+        - Auto-sync from private repository"
         
         git commit -m "$commit_message"
         
