@@ -49,27 +49,36 @@ jobs:
           echo "========================================="
           echo "ℹ️ Processing: $file"
           
-          # 直接下载文件到磁盘，不通过变量中转
-          http_code=$(curl -s -o "$file" -w "%{http_code}" -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+          # 创建临时文件来下载内容
+          temp_file=$(mktemp)
+          http_code=$(curl -s -o "$temp_file" -w "%{http_code}" -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
             -H "Accept: application/vnd.github.v3.raw" \
             "https://api.github.com/repos/${{ github.repository_owner }}/tvepg/contents/$file")
           
           if [ "$http_code" -eq 200 ]; then
             # 检查文件是否为空
-            if [ -s "$file" ]; then
-              file_size=$(wc -c < "$file")
-              echo "✅ Successfully downloaded: $file (size: $file_size bytes)"
-              changed_files+=("$file")
-              success_files+=("$file")
+            if [ -s "$temp_file" ]; then
+              file_size=$(wc -c < "$temp_file")
+              
+              # 检查文件内容是否发生变化
+              if [ -f "$file" ] && cmp -s "$temp_file" "$file"; then
+                echo "ℹ️ File unchanged: $file (size: $file_size bytes)"
+                rm -f "$temp_file"
+                success_files+=("$file")
+              else
+                echo "✅ File changed: $file (size: $file_size bytes)"
+                mv "$temp_file" "$file"
+                changed_files+=("$file")
+                success_files+=("$file")
+              fi
             else
               echo "❌ Downloaded file is empty: $file"
-              rm -f "$file"
+              rm -f "$temp_file"
               failed_files+=("$file")
             fi
           else
             echo "❌ Failed to download: $file (HTTP code: $http_code)"
-            # 清理可能创建的空文件
-            rm -f "$file"
+            rm -f "$temp_file"
             failed_files+=("$file")
           fi
         done
@@ -77,18 +86,19 @@ jobs:
         # 输出结果
         echo "========================================="
         echo "ℹ️ SYNC RESULT:"
-        echo "  ┖ ✅ Successfully downloaded: ${#success_files[@]} files"
+        echo "  ┖ ✅ Successfully processed: ${#success_files[@]} files"
+        echo "  ┖ 📝 Actually changed: ${#changed_files[@]} files" 
         echo "  ┖ ❌ Failed to download: ${#failed_files[@]} files"
         
-        if [ ${#success_files[@]} -gt 0 ]; then
-          echo "  ┖ 🎉 Success files: ${success_files[*]}"
+        if [ ${#changed_files[@]} -gt 0 ]; then
+          echo "  ┖ 🎉 Changed files: ${changed_files[*]}"
         fi
         
         if [ ${#failed_files[@]} -gt 0 ]; then
           echo "  ┖ ⚠️ Failed files: ${failed_files[*]}"
         fi
         
-        # 设置输出
+        # 设置输出 - 只在实际有变化的文件时才标记为 changed
         if [ ${#changed_files[@]} -gt 0 ]; then
           echo "changed_files=true" >> $GITHUB_OUTPUT
           echo "changed_files_count=${#changed_files[@]}" >> $GITHUB_OUTPUT
