@@ -112,7 +112,8 @@ jobs:
         # 获取北京时间
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
         
-        echo "ℹ️ Changed files: $CHANGED_FILES_LIST\n"
+        echo "ℹ️ Changed files: $CHANGED_FILES_LIST"
+        echo ""
         
         # 添加所有更改的文件
         IFS=' ' read -ra FILES <<< "$CHANGED_FILES_LIST"
@@ -124,16 +125,19 @@ jobs:
           fi
         done
         
-        # 提交信息包含北京时间
-        git commit -m "\nsync: update files from tvepg at $BEIJING_TIME
+        # 提交信息 - 使用多行格式
+        commit_message="sync: update files from tvepg at $BEIJING_TIME
+
+- Updated: $CHANGED_FILES_LIST
+- Auto-sync from private repository"
         
-        - Updated: $CHANGED_FILES_LIST
-        - Auto-sync from private repository"
+        git commit -m "$commit_message"
         
         echo "Pushing changes to repository..."
         git push
         
-        echo "\n✅ Successfully synced and committed changes"
+        echo ""
+        echo "✅ Successfully synced and committed changes"
         
     - name: No changes detected
       if: steps.sync_files.outputs.changed_files_count == 0
