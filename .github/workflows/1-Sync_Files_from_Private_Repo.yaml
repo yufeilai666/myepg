@@ -15,140 +15,98 @@ jobs:
       
     - name: Sync files from private repository
       id: sync_files
-      uses: actions/github-script@v7
-      with:
-        script: |
-          const fs = require('fs');
-          const https = require('https');
-          const http = require('http');
+      run: |
+        # 需要同步的文件列表 - 使用数组形式，支持注释
+        files=(
+          'snow_epg.xml'
+          'snow_epg.xml.gz'
+          # 'snow_epg.json'
+          'README.md'
+          'chuanliu.xml'
+          'cqunicom.xml'
+          'epgastro_mst.xml'
+          # 'epgindonesia.xml'
+          # 'epgsooka_mst.xml'
+          # 'epgunifi.xml',
+          'singtel.xml'
+          'epghebei.xml'
+        )
+        
+        changed_files=()
+        failed_files=()
+        success_files=()
+        
+        echo "Starting sync process..."
+        echo "Files to process: ${#files[@]}"
+        
+        for file in "${files[@]}"; do
+          # 跳过注释行（以#开头的元素）
+          if [[ $file =~ ^# ]]; then
+            echo "ℹ️ Skipping commented file: $file"
+            continue
+          fi
           
-          // 定义需要同步的文件列表
-          const files = [
-            'snow_epg.xml',
-            'snow_epg.xml.gz',
-            # 'snow_epg.json',
-            'README.md', 
-            'chuanliu.xml',
-            'cqunicom.xml',
-            'epgastro_mst.xml',
-            # 'epgindonesia.xml',
-            # 'epgsooka_mst.xml',
-            # 'epgunifi.xml',
-            'singtel.xml',
-            'epghebei.xml'
-          ];
+          echo "========================================="
+          echo "Processing: $file"
           
-          let successFiles = [];
-          let changedFiles = [];
+          # 获取文件内容
+          response=$(curl -s -w "%{http_code}" -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            "https://api.github.com/repos/${{ github.repository_owner }}/tvepg/contents/$file")
           
-          console.log('Starting file sync from private repository...');
-          console.log('Files to sync:', files);
+          http_code=$(echo "$response" | tail -n1)
+          content=$(echo "$response" | head -n -1)
           
-          // 下载文件的辅助函数
-          const downloadFile = (url, filePath, token) => {
-            return new Promise((resolve, reject) => {
-              const protocol = url.startsWith('https') ? https : http;
-              const headers = {
-                'User-Agent': 'GitHub-Actions-Workflow',
-                'Authorization': `token ${token}`
-              };
-              
-              protocol.get(url, { headers }, (response) => {
-                if (response.statusCode !== 200) {
-                  reject(new Error(`Failed to download: ${response.statusCode}`));
-                  return;
-                }
-                
-                const fileStream = fs.createWriteStream(filePath);
-                response.pipe(fileStream);
-                
-                fileStream.on('finish', () => {
-                  fileStream.close();
-                  resolve();
-                });
-                
-                fileStream.on('error', (err) => {
-                  fs.unlink(filePath, () => {}); // 删除不完整的文件
-                  reject(err);
-                });
-              }).on('error', (err) => {
-                reject(err);
-              });
-            });
-          };
-          
-          for (const file of files) {
-            try {
-              console.log(`\nProcessing: ${file}`);
-              
-              // 获取文件信息
-              const response = await github.rest.repos.getContent({
-                owner: context.repo.owner,
-                repo: 'tvepg',
-                path: file,
-                headers: {
-                  authorization: `token ${{ secrets.PAT_TOKEN }}`
-                }
-              });
-              
-              const fileInfo = response.data;
-              
-              // 检查文件大小 - 如果超过1MB，使用下载URL
-              let sourceContent;
-              if (fileInfo.size > 1000000) { // 1MB
-                console.log(`File is large (${fileInfo.size} bytes), using download URL`);
-                const tempPath = `temp_${file}`;
-                await downloadFile(fileInfo.download_url, tempPath, '${{ secrets.PAT_TOKEN }}');
-                sourceContent = fs.readFileSync(tempPath, 'utf8');
-                fs.unlinkSync(tempPath); // 清理临时文件
-              } else {
-                // 小文件直接使用base64解码
-                sourceContent = Buffer.from(fileInfo.content, 'base64').toString();
-              }
-              
-              // 检查本地文件是否存在且内容是否相同
-              let needsUpdate = true;
-              if (fs.existsSync(file)) {
-                const localContent = fs.readFileSync(file, 'utf8');
-                if (localContent === sourceContent) {
-                  needsUpdate = false;
-                  console.log(`✓ No changes for: ${file}`);
-                }
-              }
-              
-              // 只有内容不同时才写入文件
-              if (needsUpdate) {
-                fs.writeFileSync(file, sourceContent);
-                changedFiles.push(file);
-                console.log(`✅ Updated: ${file}`);
-                console.log(`File size: ${sourceContent.length} characters`);
-              }
-              
-              successFiles.push(file);
-              
-            } catch (error) {
-              console.log(`❌ Failed to sync ${file}: ${error.message}`);
-              // 继续处理其他文件，不中断流程
-            }
-          }
-          
-          // 输出结果摘要
-          console.log('\n=== Sync Summary ===');
-          console.log(`✅ Successfully processed: ${successFiles.length}/${files.length} files`);
-          console.log(`📝 Files updated: ${changedFiles.length} files`);
-          if (changedFiles.length > 0) {
-            console.log(`Changed files: ${changedFiles.join(', ')}`);
-          } else {
-            console.log('No files were updated - all files are already in sync');
-          }
-          
-          // 设置输出变量供后续步骤使用
-          core.setOutput('changed_files', changedFiles.length > 0 ? 'true' : 'false');
-          core.setOutput('changed_files_list', changedFiles.join(','));
-          core.setOutput('success_files', successFiles.join(','));
-          
+          if [ "$http_code" -eq 200 ]; then
+            # 保存文件内容
+            echo "$content" > "$file"
+            
+            # 检查文件是否为空
+            if [ -s "$file" ]; then
+              file_size=$(wc -c < "$file")
+              echo "✅ Successfully downloaded: $file (size: $file_size bytes)"
+              changed_files+=("$file")
+              success_files+=("$file")
+            else
+              echo "❌ Downloaded file is empty: $file"
+              rm -f "$file"
+              failed_files+=("$file")
+            fi
+          else
+            echo "❌ Failed to download: $file (HTTP code: $http_code)"
+            failed_files+=("$file")
+          fi
+        done
+        
+        # 输出结果
+        echo "========================================="
+        echo "ℹ️ SYNC SUMMARY:"
+        echo "  ✅ Successfully downloaded: ${#success_files[@]} files"
+        echo "  ❌ Failed to download: ${#failed_files[@]} files"
+        
+        if [ ${#success_files[@]} -gt 0 ]; then
+          echo "🎉 Success files: ${success_files[*]}"
+        fi
+        
+        if [ ${#failed_files[@]} -gt 0 ]; then
+          echo "⚠️ Failed files: ${failed_files[*]}"
+        fi
+        
+        # 设置输出
+        if [ ${#changed_files[@]} -gt 0 ]; then
+          echo "changed_files=true" >> $GITHUB_OUTPUT
+          echo "changed_files_count=${#changed_files[@]}" >> $GITHUB_OUTPUT
+          echo "changed_files_list=${changed_files[*]}" >> $GITHUB_OUTPUT
+        else
+          echo "changed_files=false" >> $GITHUB_OUTPUT
+          echo "changed_files_count=0" >> $GITHUB_OUTPUT
+        fi
+        
+        echo "success_files_count=${#success_files[@]}" >> $GITHUB_OUTPUT
+        echo "failed_files_count=${#failed_files[@]}" >> $GITHUB_OUTPUT
+        
     - name: Commit and push changes
-      if: steps.sync_files.outputs.changed_files == 'true'
+      if: steps.sync_files.outputs.changed_files_count > 0
       env:
         CHANGED_FILES_LIST: ${{ steps.sync_files.outputs.changed_files_list }}
       run: |
@@ -158,24 +116,17 @@ jobs:
         # 获取北京时间
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
         
-        echo "Changed files: $CHANGED_FILES_LIST"
+        echo "ℹ️ Changed files: $CHANGED_FILES_LIST"
         
-        # 检查文件大小，确保不是空文件
-        IFS=',' read -ra FILES <<< "$CHANGED_FILES_LIST"
+        # 添加所有更改的文件
+        IFS=' ' read -ra FILES <<< "$CHANGED_FILES_LIST"
         for file in "${FILES[@]}"; do
           if [ -f "$file" ] && [ -s "$file" ]; then
-            echo "Adding $file to git (size: $(wc -c < "$file") bytes)"
+            file_size=$(wc -c < "$file")
+            echo "ℹ️ Adding $file to git (size: $file_size bytes)"
             git add "$file"
-          else
-            echo "Warning: $file does not exist or is empty, skipping"
           fi
         done
-        
-        # 检查是否有文件实际被添加
-        if git diff --staged --quiet; then
-          echo "No changes to commit after filtering empty files"
-          exit 0
-        fi
         
         # 提交信息包含北京时间
         git commit -m "sync: update files from tvepg at $BEIJING_TIME
@@ -189,6 +140,16 @@ jobs:
         echo "✅ Successfully synced and committed changes"
         
     - name: No changes detected
-      if: steps.sync_files.outputs.changed_files == 'false'
+      if: steps.sync_files.outputs.changed_files_count == 0
       run: |
-        echo "✅ All files are already up to date, no changes to commit"
+        echo "========================================="
+        echo "ℹ️ SYNC RESULT:"
+        echo "  ✅ Successfully processed: ${{ steps.sync_files.outputs.success_files_count }} files"
+        echo "  ❌ Failed: ${{ steps.sync_files.outputs.failed_files_count }} files"
+        
+        if [ "${{ steps.sync_files.outputs.success_files_count }}" -eq 0 ] && [ "${{ steps.sync_files.outputs.failed_files_count }}" -gt 0 ]; then
+          echo "❌ All file downloads failed"
+          exit 1
+        else
+          echo "✅ No new changes to commit - all files are already in sync"
+        fi
