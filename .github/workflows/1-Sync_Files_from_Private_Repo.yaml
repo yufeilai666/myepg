@@ -150,7 +150,6 @@ jobs:
     - name: No changes detected
       if: steps.sync_files.outputs.changed_files_count == 0
       run: |
-        echo "========================================="
         echo "ℹ️ SYNC COMPLETED: No new changes detected"
         
         if [ "${{ steps.sync_files.outputs.success_files_count }}" -eq 0 ] && [ "${{ steps.sync_files.outputs.failed_files_count }}" -gt 0 ]; then
