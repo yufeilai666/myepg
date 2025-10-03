@@ -111,7 +111,7 @@ jobs:
         echo "ℹ️ SYNC RESULT:"
         echo "  ┖ ✅ Successfully processed: ${#success_files[@]} files"
         echo "  ┖ 📝 Actually changed: ${#changed_files[@]} files" 
-        echo "    ┖ 📁 New: ${#new_files[@]} files"
+        echo "    ┖ 💬 New: ${#new_files[@]} files"
         echo "  ┖ ❌ Failed to download: ${#failed_files[@]} files"
         
         if [ ${#changed_files[@]} -gt 0 ]; then
