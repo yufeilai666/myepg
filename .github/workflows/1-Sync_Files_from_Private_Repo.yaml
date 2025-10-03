@@ -47,20 +47,14 @@ jobs:
           fi
           
           echo "========================================="
-          echo "Processing: $file"
+          echo "ℹ️ Processing: $file"
           
-          # 获取文件内容
-          response=$(curl -s -w "%{http_code}" -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+          # 直接下载文件到磁盘，不通过变量中转
+          http_code=$(curl -s -o "$file" -w "%{http_code}" -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
             -H "Accept: application/vnd.github.v3.raw" \
             "https://api.github.com/repos/${{ github.repository_owner }}/tvepg/contents/$file")
           
-          http_code=$(echo "$response" | tail -n1)
-          content=$(echo "$response" | head -n -1)
-          
           if [ "$http_code" -eq 200 ]; then
-            # 保存文件内容
-            echo "$content" > "$file"
-            
             # 检查文件是否为空
             if [ -s "$file" ]; then
               file_size=$(wc -c < "$file")
@@ -74,22 +68,24 @@ jobs:
             fi
           else
             echo "❌ Failed to download: $file (HTTP code: $http_code)"
+            # 清理可能创建的空文件
+            rm -f "$file"
             failed_files+=("$file")
           fi
         done
         
         # 输出结果
         echo "========================================="
-        echo "ℹ️ SYNC SUMMARY:"
-        echo "  ✅ Successfully downloaded: ${#success_files[@]} files"
-        echo "  ❌ Failed to download: ${#failed_files[@]} files"
+        echo "ℹ️ SYNC RESULT:"
+        echo "  ┖ ✅ Successfully downloaded: ${#success_files[@]} files"
+        echo "  ┖ ❌ Failed to download: ${#failed_files[@]} files"
         
         if [ ${#success_files[@]} -gt 0 ]; then
-          echo "🎉 Success files: ${success_files[*]}"
+          echo "  ┖ 🎉 Success files: ${success_files[*]}"
         fi
         
         if [ ${#failed_files[@]} -gt 0 ]; then
-          echo "⚠️ Failed files: ${failed_files[*]}"
+          echo "  ┖ ⚠️ Failed files: ${failed_files[*]}"
         fi
         
         # 设置输出
@@ -116,7 +112,7 @@ jobs:
         # 获取北京时间
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
         
-        echo "ℹ️ Changed files: $CHANGED_FILES_LIST"
+        echo "ℹ️ Changed files: $CHANGED_FILES_LIST\n"
         
         # 添加所有更改的文件
         IFS=' ' read -ra FILES <<< "$CHANGED_FILES_LIST"
@@ -129,7 +125,7 @@ jobs:
         done
         
         # 提交信息包含北京时间
-        git commit -m "sync: update files from tvepg at $BEIJING_TIME
+        git commit -m "\nsync: update files from tvepg at $BEIJING_TIME
         
         - Updated: $CHANGED_FILES_LIST
         - Auto-sync from private repository"
@@ -137,19 +133,17 @@ jobs:
         echo "Pushing changes to repository..."
         git push
         
-        echo "✅ Successfully synced and committed changes"
+        echo "\n✅ Successfully synced and committed changes"
         
     - name: No changes detected
       if: steps.sync_files.outputs.changed_files_count == 0
       run: |
         echo "========================================="
-        echo "ℹ️ SYNC RESULT:"
-        echo "  ✅ Successfully processed: ${{ steps.sync_files.outputs.success_files_count }} files"
-        echo "  ❌ Failed: ${{ steps.sync_files.outputs.failed_files_count }} files"
+        echo "ℹ️ SYNC COMPLETED: No new changes detected"
         
         if [ "${{ steps.sync_files.outputs.success_files_count }}" -eq 0 ] && [ "${{ steps.sync_files.outputs.failed_files_count }}" -gt 0 ]; then
           echo "❌ All file downloads failed"
           exit 1
         else
-          echo "✅ No new changes to commit - all files are already in sync"
+          echo "✅ All files are already in sync"
         fi
