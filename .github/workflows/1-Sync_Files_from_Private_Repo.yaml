@@ -19,18 +19,21 @@ jobs:
       with:
         script: |
           const fs = require('fs');
+          const https = require('https');
+          const http = require('http');
           
           // 定义需要同步的文件列表
           const files = [
             'snow_epg.xml',
             'snow_epg.xml.gz',
+            # 'snow_epg.json',
             'README.md', 
             'chuanliu.xml',
             'cqunicom.xml',
             'epgastro_mst.xml',
-            'epgindonesia.xml',
-            'epgsooka_mst.xml',
-            'epgunifi.xml',
+            # 'epgindonesia.xml',
+            # 'epgsooka_mst.xml',
+            # 'epgunifi.xml',
             'singtel.xml',
             'epghebei.xml'
           ];
@@ -41,11 +44,44 @@ jobs:
           console.log('Starting file sync from private repository...');
           console.log('Files to sync:', files);
           
+          // 下载文件的辅助函数
+          const downloadFile = (url, filePath, token) => {
+            return new Promise((resolve, reject) => {
+              const protocol = url.startsWith('https') ? https : http;
+              const headers = {
+                'User-Agent': 'GitHub-Actions-Workflow',
+                'Authorization': `token ${token}`
+              };
+              
+              protocol.get(url, { headers }, (response) => {
+                if (response.statusCode !== 200) {
+                  reject(new Error(`Failed to download: ${response.statusCode}`));
+                  return;
+                }
+                
+                const fileStream = fs.createWriteStream(filePath);
+                response.pipe(fileStream);
+                
+                fileStream.on('finish', () => {
+                  fileStream.close();
+                  resolve();
+                });
+                
+                fileStream.on('error', (err) => {
+                  fs.unlink(filePath, () => {}); // 删除不完整的文件
+                  reject(err);
+                });
+              }).on('error', (err) => {
+                reject(err);
+              });
+            });
+          };
+          
           for (const file of files) {
             try {
               console.log(`\nProcessing: ${file}`);
               
-              // 获取源文件内容
+              // 获取文件信息
               const response = await github.rest.repos.getContent({
                 owner: context.repo.owner,
                 repo: 'tvepg',
@@ -55,7 +91,20 @@ jobs:
                 }
               });
               
-              const sourceContent = Buffer.from(response.data.content, 'base64').toString();
+              const fileInfo = response.data;
+              
+              // 检查文件大小 - 如果超过1MB，使用下载URL
+              let sourceContent;
+              if (fileInfo.size > 1000000) { // 1MB
+                console.log(`File is large (${fileInfo.size} bytes), using download URL`);
+                const tempPath = `temp_${file}`;
+                await downloadFile(fileInfo.download_url, tempPath, '${{ secrets.PAT_TOKEN }}');
+                sourceContent = fs.readFileSync(tempPath, 'utf8');
+                fs.unlinkSync(tempPath); // 清理临时文件
+              } else {
+                // 小文件直接使用base64解码
+                sourceContent = Buffer.from(fileInfo.content, 'base64').toString();
+              }
               
               // 检查本地文件是否存在且内容是否相同
               let needsUpdate = true;
@@ -72,6 +121,7 @@ jobs:
                 fs.writeFileSync(file, sourceContent);
                 changedFiles.push(file);
                 console.log(`✅ Updated: ${file}`);
+                console.log(`File size: ${sourceContent.length} characters`);
               }
               
               successFiles.push(file);
@@ -93,7 +143,6 @@ jobs:
           }
           
           // 设置输出变量供后续步骤使用
-          // 注意：在 github-script 中，core 是自动可用的，不需要 require
           core.setOutput('changed_files', changedFiles.length > 0 ? 'true' : 'false');
           core.setOutput('changed_files_list', changedFiles.join(','));
           core.setOutput('success_files', successFiles.join(','));
@@ -111,16 +160,22 @@ jobs:
         
         echo "Changed files: $CHANGED_FILES_LIST"
         
-        # 只添加实际变化的文件
+        # 检查文件大小，确保不是空文件
         IFS=',' read -ra FILES <<< "$CHANGED_FILES_LIST"
         for file in "${FILES[@]}"; do
-          if [ -f "$file" ]; then
-            echo "Adding $file to git"
+          if [ -f "$file" ] && [ -s "$file" ]; then
+            echo "Adding $file to git (size: $(wc -c < "$file") bytes)"
             git add "$file"
           else
-            echo "Warning: $file does not exist, skipping"
+            echo "Warning: $file does not exist or is empty, skipping"
           fi
         done
+        
+        # 检查是否有文件实际被添加
+        if git diff --staged --quiet; then
+          echo "No changes to commit after filtering empty files"
+          exit 0
+        fi
         
         # 提交信息包含北京时间
         git commit -m "sync: update files from tvepg at $BEIJING_TIME
