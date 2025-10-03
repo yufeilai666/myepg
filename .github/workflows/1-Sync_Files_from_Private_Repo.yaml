@@ -111,7 +111,7 @@ jobs:
         echo "ℹ️ SYNC RESULT:"
         echo "  ┖ ✅ Successfully processed: ${#success_files[@]} files"
         echo "  ┖ 📝 Actually changed: ${#changed_files[@]} files" 
-        echo "  ┖ 🆕 New files: ${#new_files[@]} files"
+        echo "    ┖ 📁 New: ${#new_files[@]} files"
         echo "  ┖ ❌ Failed to download: ${#failed_files[@]} files"
         
         if [ ${#changed_files[@]} -gt 0 ]; then
@@ -119,11 +119,11 @@ jobs:
         fi
         
         if [ ${#new_files[@]} -gt 0 ]; then
-          echo "  ┖ 🆕 New files: ${new_files[*]}"
+          echo "    ┖ 🆕 New files: ${new_files[*]}"
         fi
         
         if [ ${#failed_files[@]} -gt 0 ]; then
-          echo "  ┖ ⚠️ Failed files: ${failed_files[*]}"
+          echo "    ┖ ⚠️ Failed files: ${failed_files[*]}"
         fi
         
         # 设置输出
@@ -155,9 +155,9 @@ jobs:
         # 获取北京时间
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
         
-        echo "ℹ️ Changed files: $CHANGED_FILES_LIST"
+        echo "🎉 Changed files: $CHANGED_FILES_LIST"
         if [ "$NEW_FILES_COUNT" -gt 0 ]; then
-          echo "ℹ️ New files: $NEW_FILES_LIST"
+          echo "  ┖ 🆕 New files: $NEW_FILES_LIST"
         fi
         echo "========================================="
         
