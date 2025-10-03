@@ -113,7 +113,7 @@ jobs:
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
         
         echo "ℹ️ Changed files: $CHANGED_FILES_LIST"
-        echo ""
+        echo "========================================="
         
         # 添加所有更改的文件
         IFS=' ' read -ra FILES <<< "$CHANGED_FILES_LIST"
@@ -125,18 +125,16 @@ jobs:
           fi
         done
         
-        # 提交信息 - 使用多行格式
-        commit_message="sync: update files from tvepg at $BEIJING_TIME
-
-        - Updated: $CHANGED_FILES_LIST
-        - Auto-sync from private repository"
-        
-        git commit -m "$commit_message"
+        echo "========================================="
+        # 使用多个 -m 参数来创建多行提交信息
+        git commit -m "sync: update files from tvepg at $BEIJING_TIME" \
+          -m "  - Updated: $CHANGED_FILES_LIST" \
+          -m "  - Auto-sync from private repository"
         
         echo "Pushing changes to repository..."
         git push
         
-        echo ""
+        echo "========================================="
         echo "✅ Successfully synced and committed changes"
         
     - name: No changes detected
