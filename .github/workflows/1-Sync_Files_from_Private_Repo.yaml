@@ -35,9 +35,14 @@ jobs:
         changed_files=()
         failed_files=()
         success_files=()
+        new_files=()
         
         echo "Starting sync process..."
         echo "Files to process: ${#files[@]}"
+        
+        # 先检查当前目录的文件状态
+        echo "Current directory files:"
+        ls -la || echo "No files in directory"
         
         for file in "${files[@]}"; do
           # 跳过注释行（以#开头的元素）
@@ -48,6 +53,15 @@ jobs:
           
           echo "========================================="
           echo "ℹ️ Processing: $file"
+          
+          # 检查文件当前状态
+          if [ -f "$file" ]; then
+            echo "📁 File exists locally: $file"
+            local_exists=true
+          else
+            echo "📁 File does NOT exist locally: $file"
+            local_exists=false
+          fi
           
           # 创建临时文件来下载内容
           temp_file=$(mktemp)
@@ -60,15 +74,24 @@ jobs:
             if [ -s "$temp_file" ]; then
               file_size=$(wc -c < "$temp_file")
               
-              # 检查文件内容是否发生变化
-              if [ -f "$file" ] && cmp -s "$temp_file" "$file"; then
-                echo "ℹ️ File unchanged: $file (size: $file_size bytes)"
-                rm -f "$temp_file"
-                success_files+=("$file")
+              if [ "$local_exists" = true ]; then
+                # 文件存在，检查内容是否发生变化
+                if cmp -s "$temp_file" "$file"; then
+                  echo "ℹ️ File unchanged: $file (size: $file_size bytes)"
+                  rm -f "$temp_file"
+                  success_files+=("$file")
+                else
+                  echo "✅ File changed: $file (size: $file_size bytes)"
+                  mv "$temp_file" "$file"
+                  changed_files+=("$file")
+                  success_files+=("$file")
+                fi
               else
-                echo "✅ File changed: $file (size: $file_size bytes)"
+                # 文件不存在，直接添加为新文件
+                echo "🆕 File added (new): $file (size: $file_size bytes)"
                 mv "$temp_file" "$file"
                 changed_files+=("$file")
+                new_files+=("$file")
                 success_files+=("$file")
               fi
             else
@@ -88,24 +111,32 @@ jobs:
         echo "ℹ️ SYNC RESULT:"
         echo "  ┖ ✅ Successfully processed: ${#success_files[@]} files"
         echo "  ┖ 📝 Actually changed: ${#changed_files[@]} files" 
+        echo "  ┖ 🆕 New files: ${#new_files[@]} files"
         echo "  ┖ ❌ Failed to download: ${#failed_files[@]} files"
         
         if [ ${#changed_files[@]} -gt 0 ]; then
           echo "  ┖ 🎉 Changed files: ${changed_files[*]}"
         fi
         
+        if [ ${#new_files[@]} -gt 0 ]; then
+          echo "  ┖ 🆕 New files: ${new_files[*]}"
+        fi
+        
         if [ ${#failed_files[@]} -gt 0 ]; then
           echo "  ┖ ⚠️ Failed files: ${failed_files[*]}"
         fi
         
-        # 设置输出 - 只在实际有变化的文件时才标记为 changed
+        # 设置输出
         if [ ${#changed_files[@]} -gt 0 ]; then
           echo "changed_files=true" >> $GITHUB_OUTPUT
           echo "changed_files_count=${#changed_files[@]}" >> $GITHUB_OUTPUT
           echo "changed_files_list=${changed_files[*]}" >> $GITHUB_OUTPUT
+          echo "new_files_count=${#new_files[@]}" >> $GITHUB_OUTPUT
+          echo "new_files_list=${new_files[*]}" >> $GITHUB_OUTPUT
         else
           echo "changed_files=false" >> $GITHUB_OUTPUT
           echo "changed_files_count=0" >> $GITHUB_OUTPUT
+          echo "new_files_count=0" >> $GITHUB_OUTPUT
         fi
         
         echo "success_files_count=${#success_files[@]}" >> $GITHUB_OUTPUT
@@ -115,6 +146,8 @@ jobs:
       if: steps.sync_files.outputs.changed_files_count > 0
       env:
         CHANGED_FILES_LIST: ${{ steps.sync_files.outputs.changed_files_list }}
+        NEW_FILES_LIST: ${{ steps.sync_files.outputs.new_files_list }}
+        NEW_FILES_COUNT: ${{ steps.sync_files.outputs.new_files_count }}
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -123,6 +156,9 @@ jobs:
         BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
         
         echo "ℹ️ Changed files: $CHANGED_FILES_LIST"
+        if [ "$NEW_FILES_COUNT" -gt 0 ]; then
+          echo "ℹ️ New files: $NEW_FILES_LIST"
+        fi
         echo "========================================="
         
         # 添加所有更改的文件
@@ -136,10 +172,15 @@ jobs:
         done
         
         echo "========================================="
-        # 使用多个 -m 参数来创建多行提交信息
-        git commit -m "sync: update files from tvepg at $BEIJING_TIME" \
-          -m "  - Updated: $CHANGED_FILES_LIST" \
-          -m "  - Auto-sync from private repository"
+        
+        # 构建提交信息
+        commit_msg="sync: update files from tvepg at $BEIJING_TIME"
+        if [ "$NEW_FILES_COUNT" -gt 0 ]; then
+          commit_msg="$commit_msg"$'\n'"  - Added new files: $NEW_FILES_LIST"
+        fi
+        commit_msg="$commit_msg"$'\n'"  - Updated: $CHANGED_FILES_LIST"$'\n'"  - Auto-sync from private repository"
+        
+        git commit -m "$commit_msg"
         
         echo "Pushing changes to repository..."
         git push
