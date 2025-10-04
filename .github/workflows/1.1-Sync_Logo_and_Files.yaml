@@ -106,7 +106,7 @@ jobs:
           echo "ℹ️ All files in main branch are already up to date"
         fi
 
-  sync-logo-to-logo-info:
+  sync-logo-to-logoInfo:
     runs-on: ubuntu-latest
     needs: sync-to-main  # 确保在 main 分支同步完成后执行
     steps:
@@ -124,9 +124,13 @@ jobs:
         git config core.quotepath false  # 避免中文路径转义
         git config core.precomposeunicode true  # 处理unicode文件名
 
-    - name: Clone private repository (logo_info branch for logo)
+    - name: Clone private repository (main branch for logo)
       run: |
-        git clone -b logo_info --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-logo
+        git clone -b main --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-main-logo
+
+    - name: Clone private repository (logo_info branch for other files)
+      run: |
+        git clone -b logo_info --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-logo-info
 
     - name: Create logo directory if not exists
       run: |
@@ -135,12 +139,12 @@ jobs:
           echo "✅ Created logo directory"
         fi
 
-    - name: Sync logo files from logo_info branch
+    - name: Sync logo files from main branch
       run: |
-        if [ -d "private-repo-logo/logo" ]; then
+        if [ -d "private-repo-main-logo/logo" ]; then
           # 创建临时目录用于比对
           mkdir -p temp_logo_sync
-          cp -r private-repo-logo/logo/* temp_logo_sync/ 2>/dev/null || true
+          cp -r private-repo-main-logo/logo/* temp_logo_sync/ 2>/dev/null || true
           
           # 检查是否有变化
           has_changes=false
@@ -157,7 +161,7 @@ jobs:
                 fi
               else
                 cp "temp_logo_sync/$filename" "logo/$filename"
-                echo "✅ Added: $filename"
+                echo "🆕 Added: $filename"
                 has_changes=true
               fi
             fi
@@ -187,19 +191,117 @@ jobs:
             echo "logo_changes=false" >> $GITHUB_ENV
           fi
         else
-          echo "⚠️ Logo folder not found in logo_info branch"
+          echo "⚠️ Logo folder not found in main branch"
           echo "logo_changes=false" >> $GITHUB_ENV
         fi
 
-    - name: Clean up logo temp repo
+    - name: Sync and modify files from logo_info branch
       run: |
-        rm -rf private-repo-logo
-        echo "✅ private-repo-logo has been deleted"
+        # 定义需要替换链接再同步的文件数组
+        files=(
+          'README.md'
+          'logo.json'
+        )
+        
+        # 同步每个文件并进行链接替换
+        file_changes=false
+        for file in "${files[@]}"; do
+          if [ -f "private-repo-logo-info/$file" ]; then
+            # 创建临时文件用于处理
+            temp_file="temp_$file"
+            cp "private-repo-logo-info/$file" "$temp_file"
+            
+            # 替换文件中的链接
+            sed -i 's|tvepg/main|myepg/logo_info|g' "$temp_file"
+            
+            # 检查文件是否变化
+            if [ -f "./$file" ]; then
+              if ! cmp -s "$temp_file" "./$file"; then
+                cp "$temp_file" "./$file"
+                echo "✅ Synced and modified: $file"
+                file_changes=true
+              else
+                echo "ℹ️ No changes: $file"
+              fi
+            else
+              cp "$temp_file" "./$file"
+              echo "🆕 Added and modified: $file"
+              file_changes=true
+            fi
+            
+            # 清理临时文件
+            rm -f "$temp_file"
+          else
+            echo "⚠️ File not found in logo_info branch: $file"
+          fi
+        done
+        
+        # 记录文件变化
+        if [ "$file_changes" = true ]; then
+          echo "file_content_changes=true" >> $GITHUB_ENV
+        else
+          echo "file_content_changes=false" >> $GITHUB_ENV
+        fi
+
+    - name: Sync other files from logo_info branch
+      run: |
+        # 定义需要同步但无需处理的其他文件数组（排除已经处理的文件）
+        other_files=(
+          'logo_112114.json'
+          'logo_112114.md'
+          'logo_fanmingming.json'
+          'logo_fanmingming.md'
+          'logo_taksssss.json'
+          'logo_taksssss.md'
+        )
+        
+        # 如果没有定义其他文件，则跳过
+        if [ ${#other_files[@]} -eq 0 ]; then
+          echo "ℹ️ No other files defined for sync"
+          echo "other_files_changes=false" >> $GITHUB_ENV
+          exit 0
+        fi
+        
+        # 同步每个文件
+        other_changes=false
+        for file in "${other_files[@]}"; do
+          if [ -f "private-repo-logo-info/$file" ]; then
+            # 检查文件是否变化
+            if [ -f "./$file" ]; then
+              if ! cmp -s "private-repo-logo-info/$file" "./$file"; then
+                cp "private-repo-logo-info/$file" "./$file"
+                echo "✅ Synced: $file"
+                other_changes=true
+              else
+                echo "ℹ️ No changes: $file"
+              fi
+            else
+              cp "private-repo-logo-info/$file" "./$file"
+              echo "🆕 Added: $file"
+              other_changes=true
+            fi
+          else
+            echo "⚠️ File not found in logo_info branch: $file"
+          fi
+        done
+        
+        # 记录变化
+        if [ "$other_changes" = true ]; then
+          echo "other_files_changes=true" >> $GITHUB_ENV
+        else
+          echo "other_files_changes=false" >> $GITHUB_ENV
+        fi
+
+    - name: Clean up temp repos
+      run: |
+        rm -rf private-repo-main-logo
+        rm -rf private-repo-logo-info
+        echo "✅ Temporary repositories have been deleted"
 
     - name: Check for any changes in logo_info
       run: |
-        # 使用我们自己的变化检测结果
-        if [ "$logo_changes" = "true" ]; then
+        # 检查是否有任何变化（logo变化、文件内容变化或其他文件变化）
+        if [ "$logo_changes" = "true" ] || [ "$file_content_changes" = "true" ] || [ "$other_files_changes" = "true" ]; then
           echo "✅ Changes detected in logo_info, will commit"
           echo "has_changes=true" >> $GITHUB_ENV
         else
@@ -214,26 +316,30 @@ jobs:
         export TZ='Asia/Shanghai'
         commit_time=$(date +'%Y-%m-%d %H:%M:%S %Z')
         
-        # 获取实际变化的文件统计
-        changed_files_info=$(git status --porcelain logo/)
-        added_files=$(echo "$changed_files_info" | grep -E '^A' | wc -l)
-        modified_files=$(echo "$changed_files_info" | grep -E '^M' | wc -l)
-        deleted_files=$(echo "$changed_files_info" | grep -E '^D' | wc -l)
+        # 构建提交信息
+        commit_message="chore: sync files to logo_info [北京时间: $commit_time]"
         
-        # 只添加logo文件夹
-        git add logo/
-        git commit -m "chore: sync logo files [北京时间: $commit_time]
-
-        - 新增: $added_files 个文件
-        - 修改: $modified_files 个文件  
-        - 删除: $deleted_files 个文件"
+        # 添加详细的变更信息
+        if [ "$logo_changes" = "true" ]; then
+          commit_message="$commit_message\n- Logo files updated from main branch"
+        fi
         
+        if [ "$file_content_changes" = "true" ]; then
+          commit_message="$commit_message\n- README.md and logo.json links updated"
+        fi
+        
+        if [ "$other_files_changes" = "true" ]; then
+          commit_message="$commit_message\n- Other files synced from logo_info branch"
+        fi
+        
+        git add .
+        git commit -m "$commit_message"
         git push origin logo_info
 
     - name: Log completion for logo_info
       run: |
         if [ "$has_changes" = "true" ]; then
-          echo "✅ Logo synced successfully to logo_info branch"
+          echo "✅ Logo and files synced successfully to logo_info branch"
         else
-          echo "ℹ️ Logo in logo_info branch is already up to date"
+          echo "ℹ️ Logo and files in logo_info branch are already up to date"
         fi
