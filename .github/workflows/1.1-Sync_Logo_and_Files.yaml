@@ -67,12 +67,6 @@ jobs:
         # 同步每个文件
         changed_files=()
         for file in "${files[@]}"; do
-          # 跳过注释掉的文件
-          if [[ $file == \#* ]]; then
-            echo "⏭️ Skipping commented file: $file"
-            continue
-          fi
-          
           if [ -f "private-repo-main/$file" ]; then
             # 检查文件是否变化
             if ! cmp -s "private-repo-main/$file" "./$file" 2>/dev/null; then
@@ -97,13 +91,13 @@ jobs:
 
     - name: Check for any changes
       run: |
-        # 检查logo文件夹或文件是否有变化
-        if git diff --quiet && [ "$file_changes" = "false" ]; then
-          echo "No changes detected"
-          echo "has_changes=false" >> $GITHUB_ENV
-        else
+        # 检查是否有任何未跟踪或修改的文件
+        if git status --porcelain | grep -q .; then
           echo "Changes detected, will commit"
           echo "has_changes=true" >> $GITHUB_ENV
+        else
+          echo "No changes detected"
+          echo "has_changes=false" >> $GITHUB_ENV
         fi
 
     - name: Commit and push changes
@@ -114,7 +108,7 @@ jobs:
         commit_time=$(date +'%Y-%m-%d %H:%M:%S %Z')
         
         git add .
-        git commit -m "chore: sync files from private repository [北京时间: $commit_time]"
+        git commit -m "chore: sync files from private repository [UTC+8 时间: $commit_time]"
         git push
       
     - name: Clean up
