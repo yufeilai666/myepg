@@ -62,7 +62,7 @@ jobs:
         
         # 记录变化的文件
         if [ ${#changed_files[@]} -gt 0 ]; then
-          echo "Changed files: ${changed_files[*]}"
+          echo "📝 Changed files: ${changed_files[*]}"
           echo "file_changes=true" >> $GITHUB_ENV
         else
           echo "file_changes=false" >> $GITHUB_ENV
@@ -87,7 +87,7 @@ jobs:
         commit_time=$(date +'%Y-%m-%d %H:%M:%S %Z')
         
         git add .
-        git commit -m "chore: sync files from private repository [UTC+8 时间: $commit_time]"
+        git commit -m "chore: sync files from private repository [北京时间: $commit_time]"
         git push origin main
       
     - name: Clean up main
@@ -122,11 +122,18 @@ jobs:
       run: |
         git clone -b logo_info --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-logo
 
+    - name: Create logo directory if not exists
+      run: |
+        if [ ! -d "logo" ]; then
+          mkdir -p logo
+          echo "Created logo directory"
+        fi
+
     - name: Sync logo files from logo_info branch
       run: |
-        # 使用rsync同步logo文件夹
+        # 使用rsync同步logo文件夹，但排除.git目录
         if [ -d "private-repo-logo/logo" ]; then
-          rsync -av --delete private-repo-logo/logo/ ./
+          rsync -av --delete --exclude='.git' private-repo-logo/logo/ logo/
           echo "✅ Logo folder synced from logo_info branch"
         else
           echo "⚠️ Logo folder not found in logo_info branch"
