@@ -26,46 +26,62 @@ jobs:
       run: |
         git checkout main
         
-        # 获取所有子模块路径
-        SUBMODULES=$(git config --file .gitmodules --get-regexp path | awk '{print $2}')
-        
-        # 删除每个子模块
-        for submodule in $SUBMODULES; do
-          git rm --cached $submodule
-          echo "已移除子模块: $submodule"
-        done
-        
+        # 强制删除所有可能的子模块目录和配置
         # 删除.gitmodules文件
         if [ -f .gitmodules ]; then
-          git rm --cached .gitmodules
+          git rm -f .gitmodules
         fi
         
-        # 提交更改
-        git commit -m "Remove all submodules from main branch" || echo "没有更改可提交"
+        # 删除所有可能是子模块的目录
+        for dir in $(find . -name ".gitmodules" -o -name ".git" -type d | grep -v "\.git/"); do
+          if [ -f "$dir/../.git" ] || [ -f "$dir/../../.gitmodules" ]; then
+            submodule_path=$(dirname "$dir" | sed 's|^\./||')
+            git rm -rf --cached "$submodule_path" 2>/dev/null || true
+            echo "尝试移除可能的子模块: $submodule_path"
+          fi
+        done
         
-        # 推送更改
-        git push origin main
+        # 使用git命令列出并删除所有子模块
+        git submodule deinit -f . || true
+        git submodule foreach --recursive 'git rm -rf --cached .' || true
+        
+        # 提交更改
+        if git diff-index --quiet HEAD --; then
+          echo "没有检测到子模块更改"
+        else
+          git commit -m "Remove all submodules from main branch"
+          git push origin main
+          echo "已从main分支移除所有子模块"
+        fi
 
     - name: Remove all submodules from logo_info branch
       run: |
         git checkout logo_info
         
-        # 获取所有子模块路径
-        SUBMODULES=$(git config --file .gitmodules --get-regexp path | awk '{print $2}')
-        
-        # 删除每个子模块
-        for submodule in $SUBMODULES; do
-          git rm --cached $submodule
-          echo "已移除子模块: $submodule"
-        done
-        
+        # 强制删除所有可能的子模块目录和配置
         # 删除.gitmodules文件
         if [ -f .gitmodules ]; then
-          git rm --cached .gitmodules
+          git rm -f .gitmodules
         fi
         
-        # 提交更改
-        git commit -m "Remove all submodules from logo_info branch" || echo "没有更改可提交"
+        # 删除所有可能是子模块的目录
+        for dir in $(find . -name ".gitmodules" -o -name ".git" -type d | grep -v "\.git/"); do
+          if [ -f "$dir/../.git" ] || [ -f "$dir/../../.gitmodules" ]; then
+            submodule_path=$(dirname "$dir" | sed 's|^\./||')
+            git rm -rf --cached "$submodule_path" 2>/dev/null || true
+            echo "尝试移除可能的子模块: $submodule_path"
+          fi
+        done
         
-        # 推送更改
-        git push origin logo_info
+        # 使用git命令列出并删除所有子模块
+        git submodule deinit -f . || true
+        git submodule foreach --recursive 'git rm -rf --cached .' || true
+        
+        # 提交更改
+        if git diff-index --quiet HEAD --; then
+          echo "没有检测到子模块更改"
+        else
+          git commit -m "Remove all submodules from logo_info branch"
+          git push origin logo_info
+          echo "已从logo_info分支移除所有子模块"
+        fi
