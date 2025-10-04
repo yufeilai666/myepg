@@ -20,6 +20,8 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config core.quotepath false  # 避免中文路径转义
+        git config core.precomposeunicode true  # 处理unicode文件名
 
     - name: Clone private repository (main branch for files)
       run: |
@@ -62,6 +64,7 @@ jobs:
         
         # 记录变化的文件
         if [ ${#changed_files[@]} -gt 0 ]; then
+          echo "========================================="
           echo "📝 Changed files: ${changed_files[*]}"
           echo "file_changes=true" >> $GITHUB_ENV
         else
@@ -118,6 +121,8 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config core.quotepath false  # 避免中文路径转义
+        git config core.precomposeunicode true  # 处理unicode文件名
 
     - name: Clone private repository (logo_info branch for logo)
       run: |
@@ -209,9 +214,20 @@ jobs:
         export TZ='Asia/Shanghai'
         commit_time=$(date +'%Y-%m-%d %H:%M:%S %Z')
         
+        # 获取实际变化的文件统计
+        changed_files_info=$(git status --porcelain logo/)
+        added_files=$(echo "$changed_files_info" | grep -E '^A' | wc -l)
+        modified_files=$(echo "$changed_files_info" | grep -E '^M' | wc -l)
+        deleted_files=$(echo "$changed_files_info" | grep -E '^D' | wc -l)
+        
         # 只添加logo文件夹
         git add logo/
-        git commit -m "chore: sync logo from private repository [北京时间: $commit_time]"
+        git commit -m "chore: sync logo files [北京时间: $commit_time]
+
+        - 新增: $added_files 个文件
+        - 修改: $modified_files 个文件  
+        - 删除: $deleted_files 个文件"
+        
         git push origin logo_info
 
     - name: Log completion for logo_info
