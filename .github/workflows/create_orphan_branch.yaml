@@ -1,0 +1,72 @@
+name: Create Orphan Branches
+
+on:
+  workflow_dispatch:  # 允许手动触发此工作流
+    inputs:
+      branch_names:
+        description: '要创建的孤立分支名称（多个分支用逗号分隔）'
+        required: true
+        default: 'epg_scripts'
+
+jobs:
+  create-orphan-branches:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 获取所有历史记录
+
+    - name: Configure Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "github-actions@github.com"
+
+    - name: Create orphan branches
+      run: |
+        # 将输入的分支名称拆分为数组
+        IFS=',' read -ra BRANCH_ARRAY <<< "${{ github.event.inputs.branch_names }}"
+        
+        for BRANCH_NAME in "${BRANCH_ARRAY[@]}"; do
+          # 去除前后空格
+          BRANCH_NAME=$(echo "$BRANCH_NAME" | xargs)
+          
+          # 检查分支是否已存在
+          if git ls-remote --exit-code --heads origin refs/heads/"$BRANCH_NAME"; then
+            echo "分支 $BRANCH_NAME 已存在，跳过创建"
+            continue
+          fi
+          
+          echo "正在创建孤立分支: $BRANCH_NAME"
+          
+          # 创建孤立分支
+          git checkout --orphan "$BRANCH_NAME"
+          
+          # 安全地清空暂存区（如果工作区有文件则删除，没有则跳过）
+          if [ "$(git ls-files)" ]; then
+            git rm -rf .
+          else
+            echo "工作区已为空，跳过删除文件步骤"
+          fi
+          
+          # 创建初始空提交
+          git commit --allow-empty -m "Initial empty commit on $BRANCH_NAME branch"
+          
+          # 推送到远程
+          git push origin "$BRANCH_NAME"
+          
+          echo "成功创建分支: $BRANCH_NAME"
+          
+          # 切换回默认分支，为下一个分支创建做准备
+          git checkout main  # 或者你的默认分支名称，如 master
+        done
+      env:
+        # 使用GITHUB_TOKEN进行推送权限
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Summary
+      run: |
+        echo "孤立分支创建流程完成"
+        echo "输入的分支名称: ${{ github.event.inputs.branch_names }}"
