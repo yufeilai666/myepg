@@ -106,12 +106,13 @@ jobs:
     runs-on: ubuntu-latest
     needs: sync-to-main  # 确保在 main 分支同步完成后执行
     steps:
-    - name: Checkout logo_info branch
-      uses: actions/checkout@v4
+    - name: Checkout main branch
+      uses: actions/checkout@v3
       with:
         token: ${{ secrets.PAT_TOKEN }}
-        ref: logo_info
-        fetch-depth: 0
+        ref: main
+        # 使用浅克隆，只获取最新的提交
+        fetch-depth: 1
 
     - name: Configure Git
       run: |
@@ -122,15 +123,26 @@ jobs:
       run: |
         git clone -b logo_info --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-logo
 
-    - name: Create logo directory if not exists
+    - name: Checkout logo_info branch or create if not exists
       run: |
-        if [ ! -d "logo" ]; then
-          mkdir -p logo
-          echo "✅ Created logo directory"
+        # 检查logo_info分支是否存在
+        if git ls-remote --exit-code --heads origin logo_info; then
+          echo "ℹ️ logo_info分支已存在，切换到该分支"
+          git fetch origin logo_info
+          git checkout logo_info
+        else
+          echo "✅ 创建新的logo_info孤立分支"
+          # 创建一个空的孤立分支
+          git checkout --orphan logo_info
+          # 清空工作区
+          git rm -rf --quiet .
         fi
 
-    - name: Sync logo files from logo_info branch
+    - name: Sync logo files from private repository
       run: |
+        # 确保logo目录存在
+        mkdir -p logo
+        
         if [ -d "private-repo-logo/logo" ]; then
           # 创建临时目录用于比对
           mkdir -p temp_logo_sync
@@ -173,6 +185,7 @@ jobs:
           rm -rf temp_logo_sync
           
           if [ "$has_changes" = true ]; then
+            echo "========================================="
             echo "✅ Logo files synced with changes"
             echo "logo_changes=true" >> $GITHUB_ENV
           else
@@ -188,32 +201,31 @@ jobs:
       run: |
         rm -rf private-repo-logo
 
-    - name: Check for any changes in logo_info
+    - name: Commit and push changes to logo_info branch
+      if: env.logo_changes == 'true'
       run: |
-        # 使用我们自己的变化检测结果
-        if [ "$logo_changes" = "true" ]; then
-          echo "✅ Changes detected in logo_info, will commit"
-          echo "has_changes=true" >> $GITHUB_ENV
-        else
-          echo "ℹ️ No changes detected in logo_info"
-          echo "has_changes=false" >> $GITHUB_ENV
-        fi
-
-    - name: Commit and push changes to logo_info
-      if: env.has_changes == 'true'
-      run: |
-        # 设置北京时区并获取时间
-        export TZ='Asia/Shanghai'
-        commit_time=$(date +'%Y-%m-%d %H:%M:%S %Z')
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
         
         # 只添加logo文件夹
         git add logo/
-        git commit -m "chore: sync logo from private repository [北京时间: $commit_time]"
-        git push origin logo_info
+        
+        # 检查是否有更改
+        if git diff --staged --quiet; then
+          echo "没有更改需要提交"
+        else
+          # 设置北京时区并获取时间
+          export TZ='Asia/Shanghai'
+          commit_time=$(date +'%Y-%m-%d %H:%M:%S %Z')
+          
+          # 使用与update-logo-list.yaml相似的提交信息格式
+          git commit -m "Update logo files [skip ci]: $commit_time"
+          git push origin logo_info
+        fi
 
     - name: Log completion for logo_info
       run: |
-        if [ "$has_changes" = "true" ]; then
+        if [ "$logo_changes" = "true" ]; then
           echo "✅ Logo synced successfully to logo_info branch"
         else
           echo "ℹ️ Logo in logo_info branch is already up to date"
