@@ -1,0 +1,130 @@
+name: Sync Logo and Files
+
+on:
+  schedule:
+    - cron: '0 0/1 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  sync-files:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout current repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.PAT_TOKEN }}
+        fetch-depth: 0
+
+    - name: Configure Git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Clone private repository (logo_info branch for logo)
+      run: |
+        git clone -b logo_info --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-logo
+
+    - name: Clone private repository (main branch for files)
+      run: |
+        git clone -b main --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-main
+
+    - name: Create logo directory if not exists
+      run: |
+        if [ ! -d "logo" ]; then
+          mkdir -p logo
+          echo "Created logo directory"
+        fi
+
+    - name: Sync logo files from logo_info branch
+      run: |
+        # 使用rsync同步logo文件夹
+        if [ -d "private-repo-logo/logo" ]; then
+          rsync -av --delete private-repo-logo/logo/ logo/
+          echo "✅ Logo folder synced from logo_info branch"
+        else
+          echo "⚠️ Logo folder not found in logo_info branch"
+        fi
+
+    - name: Sync specific files from main branch
+      run: |
+        # 定义需要同步的文件数组
+        files=(
+          'snow_epg.xml'
+          'snow_epg.xml.gz'
+          'snow_epg.json'
+          'README.md'
+          'chuanliu.xml'
+          'cqunicom.xml'
+          'epgastro_mst.xml'
+          # 'epgindonesia.xml'
+          # 'epgsooka_mst.xml'
+          # 'epgunifi.xml'
+          'singtel.xml'
+          'epghebei.xml'
+        )
+        
+        # 同步每个文件
+        changed_files=()
+        for file in "${files[@]}"; do
+          # 跳过注释掉的文件
+          if [[ $file == \#* ]]; then
+            echo "⏭️ Skipping commented file: $file"
+            continue
+          fi
+          
+          if [ -f "private-repo-main/$file" ]; then
+            # 检查文件是否变化
+            if ! cmp -s "private-repo-main/$file" "./$file" 2>/dev/null; then
+              cp "private-repo-main/$file" "./$file"
+              changed_files+=("$file")
+              echo "✅ Synced: $file"
+            else
+              echo "ℹ️ No changes: $file"
+            fi
+          else
+            echo "⚠️ File not found in main branch: $file"
+          fi
+        done
+        
+        # 记录变化的文件
+        if [ ${#changed_files[@]} -gt 0 ]; then
+          echo "Changed files: ${changed_files[*]}"
+          echo "file_changes=true" >> $GITHUB_ENV
+        else
+          echo "file_changes=false" >> $GITHUB_ENV
+        fi
+
+    - name: Check for any changes
+      run: |
+        # 检查logo文件夹或文件是否有变化
+        if git diff --quiet && [ "$file_changes" = "false" ]; then
+          echo "No changes detected"
+          echo "has_changes=false" >> $GITHUB_ENV
+        else
+          echo "Changes detected, will commit"
+          echo "has_changes=true" >> $GITHUB_ENV
+        fi
+
+    - name: Commit and push changes
+      if: env.has_changes == 'true'
+      run: |
+        # 设置北京时区并获取时间
+        export TZ='Asia/Shanghai'
+        commit_time=$(date +'%Y-%m-%d %H:%M:%S %Z')
+        
+        git add .
+        git commit -m "chore: sync files from private repository [北京时间: $commit_time]"
+        git push
+      
+    - name: Clean up
+      run: |
+        rm -rf private-repo-logo private-repo-main
+
+    - name: Log completion
+      run: |
+        if [ "$has_changes" = "true" ]; then
+          echo "✅ Files synced successfully with new changes"
+        else
+          echo "ℹ️ All files are already up to date"
+        fi
