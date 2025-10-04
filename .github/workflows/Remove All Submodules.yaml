@@ -1,0 +1,71 @@
+name: Remove All Submodules from Main and Logo_info Branches
+
+on:
+  workflow_dispatch:
+
+jobs:
+  remove-submodules:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Configure Git
+      run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+
+    - name: Remove all submodules from main branch
+      run: |
+        git checkout main
+        
+        # 获取所有子模块路径
+        SUBMODULES=$(git config --file .gitmodules --get-regexp path | awk '{print $2}')
+        
+        # 删除每个子模块
+        for submodule in $SUBMODULES; do
+          git rm --cached $submodule
+          echo "已移除子模块: $submodule"
+        done
+        
+        # 删除.gitmodules文件
+        if [ -f .gitmodules ]; then
+          git rm --cached .gitmodules
+        fi
+        
+        # 提交更改
+        git commit -m "Remove all submodules from main branch" || echo "没有更改可提交"
+        
+        # 推送更改
+        git push origin main
+
+    - name: Remove all submodules from logo_info branch
+      run: |
+        git checkout logo_info
+        
+        # 获取所有子模块路径
+        SUBMODULES=$(git config --file .gitmodules --get-regexp path | awk '{print $2}')
+        
+        # 删除每个子模块
+        for submodule in $SUBMODULES; do
+          git rm --cached $submodule
+          echo "已移除子模块: $submodule"
+        done
+        
+        # 删除.gitmodules文件
+        if [ -f .gitmodules ]; then
+          git rm --cached .gitmodules
+        fi
+        
+        # 提交更改
+        git commit -m "Remove all submodules from logo_info branch" || echo "没有更改可提交"
+        
+        # 推送更改
+        git push origin logo_info
