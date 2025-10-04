@@ -68,6 +68,10 @@ jobs:
           echo "file_changes=false" >> $GITHUB_ENV
         fi
 
+    - name: Clean up main temp repo
+      run: |
+        rm -rf private-repo-main
+
     - name: Check for any changes in main
       run: |
         # 检查是否有任何未跟踪或修改的文件
@@ -89,10 +93,6 @@ jobs:
         git add .
         git commit -m "chore: sync files from private repository [北京时间: $commit_time]"
         git push origin main
-      
-    - name: Clean up main
-      run: |
-        rm -rf private-repo-main
 
     - name: Log completion for main
       run: |
@@ -126,23 +126,72 @@ jobs:
       run: |
         if [ ! -d "logo" ]; then
           mkdir -p logo
-          echo "Created logo directory"
+          echo "✅ Created logo directory"
         fi
 
     - name: Sync logo files from logo_info branch
       run: |
-        # 使用rsync同步logo文件夹，但排除.git目录
         if [ -d "private-repo-logo/logo" ]; then
-          rsync -av --delete --exclude='.git' private-repo-logo/logo/ logo/
-          echo "✅ Logo folder synced from logo_info branch"
+          # 创建临时目录用于比对
+          mkdir -p temp_logo_sync
+          cp -r private-repo-logo/logo/* temp_logo_sync/ 2>/dev/null || true
+          
+          # 检查是否有变化
+          has_changes=false
+          
+          # 检查新增或修改的文件
+          for file in temp_logo_sync/*; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              if [ -f "logo/$filename" ]; then
+                if ! cmp -s "temp_logo_sync/$filename" "logo/$filename"; then
+                  cp "temp_logo_sync/$filename" "logo/$filename"
+                  echo "✅ Updated: $filename"
+                  has_changes=true
+                fi
+              else
+                cp "temp_logo_sync/$filename" "logo/$filename"
+                echo "✅ Added: $filename"
+                has_changes=true
+              fi
+            fi
+          done
+          
+          # 检查需要删除的文件
+          for file in logo/*; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              if [ ! -f "temp_logo_sync/$filename" ]; then
+                rm "$file"
+                echo "✅ Deleted: $filename"
+                has_changes=true
+              fi
+            fi
+          done
+          
+          # 清理临时目录
+          rm -rf temp_logo_sync
+          
+          if [ "$has_changes" = true ]; then
+            echo "✅ Logo files synced with changes"
+            echo "logo_changes=true" >> $GITHUB_ENV
+          else
+            echo "ℹ️ No logo changes detected"
+            echo "logo_changes=false" >> $GITHUB_ENV
+          fi
         else
           echo "⚠️ Logo folder not found in logo_info branch"
+          echo "logo_changes=false" >> $GITHUB_ENV
         fi
+
+    - name: Clean up logo temp repo
+      run: |
+        rm -rf private-repo-logo
 
     - name: Check for any changes in logo_info
       run: |
-        # 检查是否有任何未跟踪或修改的文件
-        if git status --porcelain | grep -q .; then
+        # 使用我们自己的变化检测结果
+        if [ "$logo_changes" = "true" ]; then
           echo "✅ Changes detected in logo_info, will commit"
           echo "has_changes=true" >> $GITHUB_ENV
         else
@@ -157,13 +206,10 @@ jobs:
         export TZ='Asia/Shanghai'
         commit_time=$(date +'%Y-%m-%d %H:%M:%S %Z')
         
-        git add .
+        # 只添加logo文件夹
+        git add logo/
         git commit -m "chore: sync logo from private repository [北京时间: $commit_time]"
         git push origin logo_info
-      
-    - name: Clean up logo_info
-      run: |
-        rm -rf private-repo-logo
 
     - name: Log completion for logo_info
       run: |
