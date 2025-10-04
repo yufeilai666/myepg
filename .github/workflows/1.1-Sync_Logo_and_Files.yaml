@@ -137,6 +137,8 @@ jobs:
         if [ ! -d "logo" ]; then
           mkdir -p logo
           echo "✅ Created logo directory"
+        else
+          echo "ℹ️ Logo directory already exists"
         fi
 
     - name: Sync logo files from main branch
