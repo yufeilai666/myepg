@@ -64,7 +64,7 @@ jobs:
         
         # 记录变化的文件
         if [ ${#changed_files[@]} -gt 0 ]; then
-          echo "========================================="
+          echo "===================================="
           echo "📝 Changed files: ${changed_files[*]}"
           echo "file_changes=true" >> $GITHUB_ENV
         else
