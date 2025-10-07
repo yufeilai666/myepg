@@ -24,7 +24,7 @@ def clean_movie_title(title):
     # 移除多余空格
     cleaned_title = cleaned_title.strip()
     
-    print(f"ℹ️ 清理标题: '{title}' -> '{cleaned_title}'")
+    print(f"🛠 清理标题: '{title}' -> '{cleaned_title}'")
     return cleaned_title
 
 def format_description(description):
@@ -344,7 +344,7 @@ def generate_xmltv_epg(schedule_data):
     # 处理7天的数据
     days_to_process = min(7, len(schedule_data))
     
-    print(f"📅 处理 {days_to_process} 天的节目数据")
+    print(f"📺 处理 {days_to_process} 天的节目数据")
     
     # 处理7天的节目
     for day_idx in range(days_to_process):
@@ -356,7 +356,7 @@ def generate_xmltv_epg(schedule_data):
         month, day = date_parts
         programs = day_info['programs']
         
-        print(f"📺 处理 {month}/{day} 的节目，共 {len(programs)} 个")
+        print(f"📅 处理 {month}/{day} 的节目，共 {len(programs)} 个")
         
         # 为每个节目计算结束时间
         for i in range(len(programs)):
@@ -386,8 +386,8 @@ def generate_xmltv_epg(schedule_data):
                     end_dt = start_dt + timedelta(hours=2)
             else:
                 # 当天最后一个节目
-                if day_idx < len(schedule_data) - 1 and day_idx < days_to_process - 1:
-                    # 使用下一天的第一个节目的开始时间（确保有下一天且在第7天内）
+                if day_idx < len(schedule_data) - 1:
+                    # 使用下一天的第一个节目的开始时间
                     next_day_info = schedule_data[day_idx + 1]
                     if next_day_info['programs']:
                         next_day_program = next_day_info['programs'][0]
@@ -398,23 +398,23 @@ def generate_xmltv_epg(schedule_data):
                                 next_month, next_day = next_day_date_parts
                                 end_hour, end_minute = next_time_parts
                                 end_dt = datetime(current_year, int(next_month), int(next_day), int(end_hour), int(end_minute))
-                                print(f"✅ 使用下一天第一个节目作为结束时间: {end_dt}")
+                                print(f"✅ 使用下一天第一个节目开始时间作为结束时间: {end_dt}")
                             else:
-                                # 使用第八天的0点
+                                # 使用下一天的0点
                                 end_dt = start_dt.replace(hour=0, minute=0) + timedelta(days=1)
-                                print(f"⚠️ 无法解析下一天日期，使用第八天0点: {end_dt}")
+                                print(f"⚠️ 无法解析下一天日期，使用下一天0点作为结束时间: {end_dt}")
                         else:
-                            # 使用第八天的0点
+                            # 使用下一天的0点
                             end_dt = start_dt.replace(hour=0, minute=0) + timedelta(days=1)
-                            print(f"⚠️ 无法解析下一天时间，使用第八天0点: {end_dt}")
+                            print(f"⚠️ 无法解析下一天时间，使用下一天0点作为结束时间: {end_dt}")
                     else:
-                        # 使用第八天的0点
+                        # 使用下一天的0点
                         end_dt = start_dt.replace(hour=0, minute=0) + timedelta(days=1)
-                        print(f"⚠️ 下一天无节目，使用第八天0点: {end_dt}")
+                        print(f"⚠️ 下一天无节目，使用下一天0点作为结束时间: {end_dt}")
                 else:
-                    # 第七天或最后一天，使用第八天的0点
+                    # 第七天或最后一天最后一个节目，如果找不到下一天的节目，使用下一天的0点
                     end_dt = start_dt.replace(hour=0, minute=0) + timedelta(days=1)
-                    print(f"ℹ️ 第七天最后一个节目，使用第八天0点: {end_dt}")
+                    print(f"⚠️ 找不到下一天节目，第七天最后一个节目使用第八天0点作为结束时间: {end_dt}")
             
             end_time = end_dt.strftime("%Y%m%d%H%M00")
             
@@ -501,7 +501,7 @@ def main():
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
         
-        print("ℹ️ 正在获取节目表数据...")
+        print("🌏 正在获取节目表数据...")
         response = requests.get(url, headers=headers, timeout=10)
         response.encoding = 'utf-8'
         
