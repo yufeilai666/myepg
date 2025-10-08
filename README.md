@@ -450,6 +450,7 @@
 | TVBE-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVBE-V2.png> |
 | TVBJ1 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVBJ1.png> |
 | TVBJ1-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVBJ1-V2.png> |
+| TVBNEWS | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVBNEWS.png> |
 | TVBPLUS | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVBPLUS.png> |
 | TVBS | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVBS.png> |
 | TVBS-Asia | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVBS-Asia.png> |
