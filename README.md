@@ -920,8 +920,12 @@
 | 衛視電影台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/衛視電影台.png> |
 | 卫视电影台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/卫视电影台.png> |
 | 无线新闻 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/无线新闻.png> |
+| 无线新闻台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/无线新闻台.png> |
 | 無綫新聞台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/無綫新聞台.png> |
+| 无线新闻台-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/无线新闻台-V2.png> |
+| 無綫新聞台-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/無綫新聞台-V2.png> |
 | 無綫新聞台-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/無綫新聞台-V3.png> |
+| 无线新闻台-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/无线新闻台-V3.png> |
 | 緯來電影 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/緯來電影.png> |
 | 纬来电影台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/纬来电影台.png> |
 | 緯來精采 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/緯來精采.png> |
