@@ -255,6 +255,14 @@
 | HOY93怪谈台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY93怪谈台.jpg> |
 | HOY94体育台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY94体育台.jpg> |
 | HOYTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOYTV.png> |
+| HOY怪谈台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY怪谈台.jpg> |
+| HOY国际财经台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY国际财经台.png> |
+| HOY國際財經台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY國際財經台.png> |
+| HOY剧集台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY剧集台.jpg> |
+| HOY生活台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY生活台.jpg> |
+| HOY体育台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY体育台.jpg> |
+| HOY资讯台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY资讯台.png> |
+| HOY資訊台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY資訊台.png> |
 | HUB-PREMIER1 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HUB-PREMIER1.png> |
 | HUB-PREMIER10 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HUB-PREMIER10.png> |
 | HUB-PREMIER11 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HUB-PREMIER11.png> |
@@ -497,6 +505,7 @@
 | TVNMOVIES-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVNMOVIES-V2.png> |
 | TVN綜合娛樂 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVN綜合娛樂.png> |
 | Travel&FoodTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/Travel&FoodTV.jpg> |
+| TravelNFoodTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TravelNFoodTV.jpg> |
 | UniqueNews | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/UniqueNews.png> |
 | VIU6 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/VIU6.png> |
 | VIUTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/VIUTV.png> |
