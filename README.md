@@ -345,6 +345,7 @@
 | MYTVSUPER千禧經典台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MYTVSUPER千禧經典台.png> |
 | MYTVSUPER戲曲台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MYTVSUPER戲曲台.png> |
 | MYTVSUPER粵語片台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MYTVSUPER粵語片台.png> |
+| MotorVision | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MotorVision.jpg> |
 | NATIONAL-GEOGRAPHIC | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/NATIONAL-GEOGRAPHIC.png> |
 | NBA | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/NBA.png> |
 | NBATV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/NBATV.png> |
