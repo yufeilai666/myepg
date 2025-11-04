@@ -21,10 +21,13 @@
 | ANIMALPLANET-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ANIMALPLANET-V3.png> |
 | ANIMAX | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ANIMAX.png> |
 | ARIRANGTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ARIRANGTV.png> |
+| ASTRO-AOD | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-AOD.png> |
 | ASTRO-AOD | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-AOD.jpg> |
+| ASTROAOD | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTROAOD.png> |
 | ASTROAOD | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTROAOD.jpg> |
 | ASTROAOD-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTROAOD-V2.png> |
 | ASTROAOD-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTROAOD-V3.png> |
+| ASTROAOD-V4 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTROAOD-V4.jpg> |
 | AXN | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/AXN.png> |
 | AnimalPlanet | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/AnimalPlanet.png> |
 | AnimalPlanet-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/AnimalPlanet-V2.png> |
