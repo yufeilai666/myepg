@@ -3319,7 +3319,7 @@
       "end": "2025-11-22 03:00:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "全運801台",
@@ -3330,7 +3330,7 @@
       "end": "2025-11-22 04:00:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "全運802台",
@@ -3341,7 +3341,7 @@
       "end": "2025-11-22 04:00:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "全運803台",
@@ -3363,7 +3363,7 @@
       "end": "2025-11-22 04:00:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "全運805台",
@@ -3374,7 +3374,7 @@
       "end": "2025-11-22 04:00:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "全運806台",
@@ -3385,7 +3385,7 @@
       "end": "2025-11-22 04:00:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "全運818台 (4合1 801-804)",
@@ -6811,10 +6811,10 @@
   {
     "channel_id": "大湾区卫视",
     "channel_name": "大湾区卫视",
-    "programme_count": 23,
+    "programme_count": 48,
     "date_range": {
       "start": "2025-11-21 23:20:00",
-      "end": "2025-11-23 00:30:00"
+      "end": "2025-11-24 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6822,10 +6822,10 @@
   {
     "channel_id": "海峡卫视 (2)",
     "channel_name": "海峡卫视",
-    "programme_count": 49,
+    "programme_count": 90,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6888,10 +6888,10 @@
   {
     "channel_id": "中学生",
     "channel_name": "中学生",
-    "programme_count": 80,
+    "programme_count": 158,
     "date_range": {
       "start": "2025-11-21 23:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6899,10 +6899,10 @@
   {
     "channel_id": "上海新闻综合",
     "channel_name": "上海新闻综合",
-    "programme_count": 34,
+    "programme_count": 70,
     "date_range": {
       "start": "2025-11-21 23:25:00",
-      "end": "2025-11-23 00:08:00"
+      "end": "2025-11-24 00:08:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6965,10 +6965,10 @@
   {
     "channel_id": "江苏体育休闲频道",
     "channel_name": "江苏体育休闲频道",
-    "programme_count": 47,
+    "programme_count": 94,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6976,10 +6976,10 @@
   {
     "channel_id": "江苏城市频道",
     "channel_name": "江苏城市频道",
-    "programme_count": 45,
+    "programme_count": 90,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6987,10 +6987,10 @@
   {
     "channel_id": "江苏国际",
     "channel_name": "江苏国际",
-    "programme_count": 29,
+    "programme_count": 58,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6998,10 +6998,10 @@
   {
     "channel_id": "江苏教育",
     "channel_name": "江苏教育",
-    "programme_count": 50,
+    "programme_count": 100,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -7009,10 +7009,10 @@
   {
     "channel_id": "江苏影视频道",
     "channel_name": "江苏影视频道",
-    "programme_count": 8,
+    "programme_count": 16,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -7020,10 +7020,10 @@
   {
     "channel_id": "江苏综艺频道",
     "channel_name": "江苏综艺频道",
-    "programme_count": 15,
+    "programme_count": 30,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -7031,10 +7031,10 @@
   {
     "channel_id": "江苏公共新闻频道",
     "channel_name": "江苏公共新闻频道",
-    "programme_count": 42,
+    "programme_count": 84,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -7119,10 +7119,10 @@
   {
     "channel_id": "优漫卡通频道",
     "channel_name": "优漫卡通频道",
-    "programme_count": 30,
+    "programme_count": 60,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-23 00:00:00"
+      "end": "2025-11-24 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -7526,10 +7526,10 @@
   {
     "channel_id": "cctv风云音乐",
     "channel_name": "cctv风云音乐",
-    "programme_count": 295,
+    "programme_count": 324,
     "date_range": {
       "start": "2025-11-21 00:12:45",
-      "end": "2025-11-23 23:44:07"
+      "end": "2025-11-24 00:14:07"
     },
     "has_programmes": true,
     "is_valid": true
@@ -7691,7 +7691,7 @@
   {
     "channel_id": "北京卫视",
     "channel_name": "北京卫视",
-    "programme_count": 105,
+    "programme_count": 126,
     "date_range": {
       "start": "2025-11-21 00:16:00",
       "end": "2025-11-24 00:00:00"
@@ -7801,7 +7801,7 @@
   {
     "channel_id": "重庆卫视",
     "channel_name": "重庆卫视",
-    "programme_count": 111,
+    "programme_count": 122,
     "date_range": {
       "start": "2025-11-21 01:18:00",
       "end": "2025-11-24 00:00:00"
@@ -7823,7 +7823,7 @@
   {
     "channel_id": "四川卫视",
     "channel_name": "四川卫视",
-    "programme_count": 103,
+    "programme_count": 106,
     "date_range": {
       "start": "2025-11-21 00:57:00",
       "end": "2025-11-24 00:00:00"
@@ -7867,7 +7867,7 @@
   {
     "channel_id": "江西卫视",
     "channel_name": "江西卫视",
-    "programme_count": 84,
+    "programme_count": 99,
     "date_range": {
       "start": "2025-11-21 00:17:00",
       "end": "2025-11-24 00:00:00"
@@ -7889,7 +7889,7 @@
   {
     "channel_id": "安徽卫视 (2)",
     "channel_name": "安徽卫视",
-    "programme_count": 106,
+    "programme_count": 112,
     "date_range": {
       "start": "2025-11-21 00:05:00",
       "end": "2025-11-24 00:00:00"
@@ -7944,7 +7944,7 @@
   {
     "channel_id": "陕西卫视",
     "channel_name": "陕西卫视",
-    "programme_count": 100,
+    "programme_count": 98,
     "date_range": {
       "start": "2025-11-21 00:35:00",
       "end": "2025-11-24 00:00:00"
@@ -8032,7 +8032,7 @@
   {
     "channel_id": "中国教育电视台-1",
     "channel_name": "中国教育电视台-1",
-    "programme_count": 145,
+    "programme_count": 206,
     "date_range": {
       "start": "2025-11-21 00:20:00",
       "end": "2025-11-24 00:00:00"
@@ -8197,9 +8197,9 @@
   {
     "channel_id": "HOY怪談台",
     "channel_name": "HOY怪談台",
-    "programme_count": 164,
+    "programme_count": 135,
     "date_range": {
-      "start": "2025-11-19 23:08:00",
+      "start": "2025-11-20 00:00:00",
       "end": "2025-11-27 23:59:59"
     },
     "has_programmes": true,
@@ -8208,10 +8208,10 @@
   {
     "channel_id": "HOY劇集台",
     "channel_name": "HOY劇集台",
-    "programme_count": 193,
+    "programme_count": 194,
     "date_range": {
-      "start": "2025-11-19 23:04:00",
-      "end": "2025-11-28 00:04:00"
+      "start": "2025-11-20 00:00:00",
+      "end": "2025-11-29 00:04:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8219,10 +8219,10 @@
   {
     "channel_id": "HOY生活台",
     "channel_name": "HOY生活台",
-    "programme_count": 272,
+    "programme_count": 273,
     "date_range": {
       "start": "2025-11-20 00:00:00",
-      "end": "2025-11-28 00:00:00"
+      "end": "2025-11-29 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8230,7 +8230,7 @@
   {
     "channel_id": "HOY體育台",
     "channel_name": "HOY體育台",
-    "programme_count": 70,
+    "programme_count": 59,
     "date_range": {
       "start": "2025-11-20 00:00:00",
       "end": "2025-11-27 23:59:59"
@@ -8241,10 +8241,10 @@
   {
     "channel_id": "HOY國際財經台",
     "channel_name": "HOY國際財經台",
-    "programme_count": 598,
+    "programme_count": 608,
     "date_range": {
-      "start": "2025-11-07 00:30:00",
-      "end": "2025-11-28 23:45:00"
+      "start": "2025-11-08 00:30:00",
+      "end": "2025-11-29 23:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8252,10 +8252,10 @@
   {
     "channel_id": "HOY TV",
     "channel_name": "HOY TV",
-    "programme_count": 492,
+    "programme_count": 487,
     "date_range": {
-      "start": "2025-11-07 00:00:00",
-      "end": "2025-11-28 23:45:00"
+      "start": "2025-11-08 00:15:00",
+      "end": "2025-11-29 23:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8263,10 +8263,10 @@
   {
     "channel_id": "HOY資訊台",
     "channel_name": "HOY資訊台",
-    "programme_count": 1195,
+    "programme_count": 1190,
     "date_range": {
-      "start": "2025-11-07 00:00:00",
-      "end": "2025-11-28 23:30:00"
+      "start": "2025-11-08 00:00:00",
+      "end": "2025-11-29 23:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8274,10 +8274,10 @@
   {
     "channel_id": "MotorVision",
     "channel_name": "MotorVision",
-    "programme_count": 390,
+    "programme_count": 377,
     "date_range": {
       "start": "2025-11-20 00:00:00",
-      "end": "2025-11-28 00:00:00"
+      "end": "2025-11-28 08:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8285,9 +8285,9 @@
   {
     "channel_id": "SportsPlus",
     "channel_name": "SportsPlus",
-    "programme_count": 221,
+    "programme_count": 185,
     "date_range": {
-      "start": "2025-11-19 23:41:00",
+      "start": "2025-11-20 00:00:00",
       "end": "2025-11-27 23:59:59"
     },
     "has_programmes": true,
@@ -8296,9 +8296,9 @@
   {
     "channel_id": "Travel N Food TV",
     "channel_name": "Travel N Food TV",
-    "programme_count": 417,
+    "programme_count": 332,
     "date_range": {
-      "start": "2025-11-19 23:49:00",
+      "start": "2025-11-20 00:00:00",
       "end": "2025-11-27 23:59:59"
     },
     "has_programmes": true,
@@ -8307,7 +8307,7 @@
   {
     "channel_id": "spot on news",
     "channel_name": "spot on news",
-    "programme_count": 3294,
+    "programme_count": 1949,
     "date_range": {
       "start": "2025-11-20 00:00:00",
       "end": "2025-11-27 23:59:59"
@@ -14434,9 +14434,9 @@
   {
     "channel_id": "ELTV生活英語台 (2)",
     "channel_name": "ELTV生活英語台",
-    "programme_count": 125,
+    "programme_count": 121,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -14610,9 +14610,9 @@
   {
     "channel_id": "中天新聞台 (2)",
     "channel_name": "中天新聞台",
-    "programme_count": 112,
+    "programme_count": 108,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -14632,9 +14632,9 @@
   {
     "channel_id": "寰宇新聞台 (2)",
     "channel_name": "寰宇新聞台",
-    "programme_count": 113,
+    "programme_count": 109,
     "date_range": {
-      "start": "2025-11-21 23:55:00",
+      "start": "2025-11-22 03:55:00",
       "end": "2025-11-26 15:55:00"
     },
     "has_programmes": true,
@@ -14643,9 +14643,9 @@
   {
     "channel_id": "寰宇新聞台灣台 (2)",
     "channel_name": "寰宇新聞台灣台",
-    "programme_count": 112,
+    "programme_count": 108,
     "date_range": {
-      "start": "2025-11-21 23:55:00",
+      "start": "2025-11-22 03:55:00",
       "end": "2025-11-26 15:55:00"
     },
     "has_programmes": true,
@@ -15479,9 +15479,9 @@
   {
     "channel_id": "好消息2台 (2)",
     "channel_name": "好消息2台",
-    "programme_count": 210,
+    "programme_count": 203,
     "date_range": {
-      "start": "2025-11-22 00:15:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -15490,9 +15490,9 @@
   {
     "channel_id": "好消息 (2)",
     "channel_name": "好消息",
-    "programme_count": 222,
+    "programme_count": 217,
     "date_range": {
-      "start": "2025-11-22 00:35:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -15523,9 +15523,9 @@
   {
     "channel_id": "亞洲旅遊台 (3)",
     "channel_name": "亞洲旅遊台",
-    "programme_count": 112,
+    "programme_count": 108,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -15666,9 +15666,9 @@
   {
     "channel_id": "中視新聞 (2)",
     "channel_name": "中視新聞",
-    "programme_count": 55,
+    "programme_count": 51,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-24 07:00:00"
     },
     "has_programmes": true,
@@ -16161,9 +16161,9 @@
   {
     "channel_id": "台視 (3)",
     "channel_name": "台視",
-    "programme_count": 58,
+    "programme_count": 53,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-24 07:00:00"
     },
     "has_programmes": true,
@@ -16172,9 +16172,9 @@
   {
     "channel_id": "中視 (3)",
     "channel_name": "中視",
-    "programme_count": 42,
+    "programme_count": 37,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-24 07:00:00"
     },
     "has_programmes": true,
@@ -16183,9 +16183,9 @@
   {
     "channel_id": "華視 (3)",
     "channel_name": "華視",
-    "programme_count": 104,
+    "programme_count": 99,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16194,9 +16194,9 @@
   {
     "channel_id": "好消息2台 (2)",
     "channel_name": "好消息2台",
-    "programme_count": 210,
+    "programme_count": 203,
     "date_range": {
-      "start": "2025-11-22 00:15:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16205,9 +16205,9 @@
   {
     "channel_id": "好消息 (2)",
     "channel_name": "好消息",
-    "programme_count": 222,
+    "programme_count": 217,
     "date_range": {
-      "start": "2025-11-22 00:35:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16216,9 +16216,9 @@
   {
     "channel_id": "ELTV生活英語台 (2)",
     "channel_name": "ELTV生活英語台",
-    "programme_count": 125,
+    "programme_count": 121,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16227,9 +16227,9 @@
   {
     "channel_id": "龍華卡通台 (3)",
     "channel_name": "龍華卡通台",
-    "programme_count": 224,
+    "programme_count": 216,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16238,9 +16238,9 @@
   {
     "channel_id": "亞洲旅遊台 (3)",
     "channel_name": "亞洲旅遊台",
-    "programme_count": 112,
+    "programme_count": 108,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16249,9 +16249,9 @@
   {
     "channel_id": "Smart知識台 (2)",
     "channel_name": "Smart知識台",
-    "programme_count": 103,
+    "programme_count": 100,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16260,9 +16260,9 @@
   {
     "channel_id": "龍華戲劇台 (2)",
     "channel_name": "龍華戲劇台",
-    "programme_count": 109,
+    "programme_count": 105,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16271,9 +16271,9 @@
   {
     "channel_id": "台灣戲劇台",
     "channel_name": "台灣戲劇台",
-    "programme_count": 119,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-11-22 00:30:00",
+      "start": "2025-11-22 03:30:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16282,9 +16282,9 @@
   {
     "channel_id": "東森購物1台 (3)",
     "channel_name": "東森購物1台",
-    "programme_count": 168,
+    "programme_count": 162,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16293,9 +16293,9 @@
   {
     "channel_id": "龍華偶像台 (2)",
     "channel_name": "龍華偶像台",
-    "programme_count": 116,
+    "programme_count": 112,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16304,9 +16304,9 @@
   {
     "channel_id": "龍華日韓台 (2)",
     "channel_name": "龍華日韓台",
-    "programme_count": 112,
+    "programme_count": 108,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16315,9 +16315,9 @@
   {
     "channel_id": "東森購物2台 (3)",
     "channel_name": "東森購物2台",
-    "programme_count": 168,
+    "programme_count": 161,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:40:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16326,9 +16326,9 @@
   {
     "channel_id": "華視新聞 (2)",
     "channel_name": "華視新聞",
-    "programme_count": 108,
+    "programme_count": 104,
     "date_range": {
-      "start": "2025-11-21 23:55:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16348,9 +16348,9 @@
   {
     "channel_id": "三立新聞iNEWS (2)",
     "channel_name": "三立新聞iNEWS",
-    "programme_count": 103,
+    "programme_count": 101,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 03:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16359,9 +16359,9 @@
   {
     "channel_id": "寰宇財經台 (2)",
     "channel_name": "寰宇財經台",
-    "programme_count": 112,
+    "programme_count": 108,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16370,9 +16370,9 @@
   {
     "channel_id": "台視新聞 (2)",
     "channel_name": "台視新聞",
-    "programme_count": 119,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16381,9 +16381,9 @@
   {
     "channel_id": "中視新聞 (2)",
     "channel_name": "中視新聞",
-    "programme_count": 55,
+    "programme_count": 51,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-24 07:00:00"
     },
     "has_programmes": true,
@@ -16392,9 +16392,9 @@
   {
     "channel_id": "中天新聞台 (2)",
     "channel_name": "中天新聞台",
-    "programme_count": 112,
+    "programme_count": 108,
     "date_range": {
-      "start": "2025-11-22 00:00:00",
+      "start": "2025-11-22 04:00:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16403,9 +16403,9 @@
   {
     "channel_id": "寰宇新聞台灣台 (2)",
     "channel_name": "寰宇新聞台灣台",
-    "programme_count": 112,
+    "programme_count": 108,
     "date_range": {
-      "start": "2025-11-21 23:55:00",
+      "start": "2025-11-22 03:55:00",
       "end": "2025-11-26 15:55:00"
     },
     "has_programmes": true,
@@ -16414,9 +16414,9 @@
   {
     "channel_id": "寰宇新聞台 (2)",
     "channel_name": "寰宇新聞台",
-    "programme_count": 113,
+    "programme_count": 109,
     "date_range": {
-      "start": "2025-11-21 23:55:00",
+      "start": "2025-11-22 03:55:00",
       "end": "2025-11-26 15:55:00"
     },
     "has_programmes": true,
@@ -16425,9 +16425,9 @@
   {
     "channel_id": "第1商業台 (2)",
     "channel_name": "第1商業台",
-    "programme_count": 203,
+    "programme_count": 195,
     "date_range": {
-      "start": "2025-11-22 00:30:00",
+      "start": "2025-11-22 04:30:00",
       "end": "2025-11-26 16:00:00"
     },
     "has_programmes": true,
@@ -16458,9 +16458,9 @@
   {
     "channel_id": "龍華經典台 (2)",
     "channel_name": "龍華經典台",
-    "programme_count": 47,
+    "programme_count": 46,
     "date_range": {
-      "start": "2025-11-21 23:40:00",
+      "start": "2025-11-22 02:00:00",
       "end": "2025-11-26 15:05:00"
     },
     "has_programmes": true,
@@ -16469,9 +16469,9 @@
   {
     "channel_id": "龍華電影台",
     "channel_name": "龍華電影台",
-    "programme_count": 55,
+    "programme_count": 53,
     "date_range": {
-      "start": "2025-11-21 22:30:00",
+      "start": "2025-11-22 03:55:00",
       "end": "2025-11-26 14:45:00"
     },
     "has_programmes": true,
@@ -16480,9 +16480,9 @@
   {
     "channel_id": "龍華洋片台",
     "channel_name": "龍華洋片台",
-    "programme_count": 61,
+    "programme_count": 59,
     "date_range": {
-      "start": "2025-11-21 23:15:00",
+      "start": "2025-11-22 03:05:00",
       "end": "2025-11-26 15:40:00"
     },
     "has_programmes": true,
@@ -16739,7 +16739,7 @@
       "end": "2025-11-22 03:15:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "社會NOW什麼",
@@ -16750,7 +16750,7 @@
       "end": "2025-11-22 05:50:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "啦啦隊獨家專訪",
@@ -17520,7 +17520,7 @@
       "end": "2025-11-22 03:40:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "刀劍神域(中文版)",
@@ -17696,7 +17696,7 @@
       "end": "2025-11-22 03:05:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "忍者亂太郎(中文版)",
@@ -18015,7 +18015,7 @@
       "end": "2025-11-22 02:55:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "食尚玩家-天菜就醬吃",
@@ -18125,7 +18125,7 @@
       "end": "2025-11-22 04:25:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "台灣真善美",
@@ -18180,7 +18180,7 @@
       "end": "2025-11-22 04:25:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "中國美食大探索",
@@ -19560,10 +19560,10 @@
   {
     "channel_id": "时代出行",
     "channel_name": "时代出行",
-    "programme_count": 40,
+    "programme_count": 80,
     "date_range": {
       "start": "2025-11-22 00:00:00",
-      "end": "2025-11-22 23:59:59"
+      "end": "2025-11-23 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21287,10 +21287,10 @@
   {
     "channel_id": "睛彩河北",
     "channel_name": "睛彩河北",
-    "programme_count": 145,
+    "programme_count": 144,
     "date_range": {
-      "start": "2025-11-18 12:33:00",
-      "end": "2025-11-23 13:54:00"
+      "start": "2025-11-19 00:54:00",
+      "end": "2025-11-24 02:09:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21298,10 +21298,10 @@
   {
     "channel_id": "河北杂技频道",
     "channel_name": "河北杂技频道",
-    "programme_count": 229,
+    "programme_count": 236,
     "date_range": {
-      "start": "2025-11-18 13:08:00",
-      "end": "2025-11-23 13:32:00"
+      "start": "2025-11-19 01:20:00",
+      "end": "2025-11-24 01:33:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21311,8 +21311,8 @@
     "channel_name": "石家庄新闻综合",
     "programme_count": 170,
     "date_range": {
-      "start": "2025-11-18 13:30:00",
-      "end": "2025-11-23 16:30:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 05:52:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21322,8 +21322,8 @@
     "channel_name": "石家庄文化娱乐",
     "programme_count": 145,
     "date_range": {
-      "start": "2025-11-18 13:05:00",
-      "end": "2025-11-23 13:55:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21333,8 +21333,8 @@
     "channel_name": "承德新闻综合",
     "programme_count": 195,
     "date_range": {
-      "start": "2025-11-18 13:30:00",
-      "end": "2025-11-23 13:55:00"
+      "start": "2025-11-19 00:50:00",
+      "end": "2025-11-24 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21342,10 +21342,10 @@
   {
     "channel_id": "承德旅游文化",
     "channel_name": "承德旅游文化",
-    "programme_count": 182,
+    "programme_count": 180,
     "date_range": {
-      "start": "2025-11-18 13:00:00",
-      "end": "2025-11-23 13:55:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21353,10 +21353,10 @@
   {
     "channel_id": "张家口新闻综合",
     "channel_name": "张家口新闻综合",
-    "programme_count": 244,
+    "programme_count": 242,
     "date_range": {
-      "start": "2025-11-18 13:20:00",
-      "end": "2025-11-23 14:10:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21364,10 +21364,10 @@
   {
     "channel_id": "张家口公共",
     "channel_name": "张家口公共",
-    "programme_count": 274,
+    "programme_count": 273,
     "date_range": {
-      "start": "2025-11-18 13:25:00",
-      "end": "2025-11-23 13:45:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21375,10 +21375,10 @@
   {
     "channel_id": "秦皇岛新闻综合",
     "channel_name": "秦皇岛新闻综合",
-    "programme_count": 237,
+    "programme_count": 238,
     "date_range": {
-      "start": "2025-11-18 12:34:00",
-      "end": "2025-11-23 14:02:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 05:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21386,10 +21386,10 @@
   {
     "channel_id": "秦皇岛民生",
     "channel_name": "秦皇岛民生",
-    "programme_count": 237,
+    "programme_count": 240,
     "date_range": {
-      "start": "2025-11-18 13:22:00",
-      "end": "2025-11-23 13:34:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 05:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21399,8 +21399,8 @@
     "channel_name": "唐山新闻综合",
     "programme_count": 115,
     "date_range": {
-      "start": "2025-11-18 12:30:00",
-      "end": "2025-11-23 14:30:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:45:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21408,10 +21408,10 @@
   {
     "channel_id": "唐山生活服务",
     "channel_name": "唐山生活服务",
-    "programme_count": 94,
+    "programme_count": 95,
     "date_range": {
-      "start": "2025-11-18 13:15:00",
-      "end": "2025-11-23 17:00:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 07:31:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21419,10 +21419,10 @@
   {
     "channel_id": "唐山影视",
     "channel_name": "唐山影视",
-    "programme_count": 99,
+    "programme_count": 100,
     "date_range": {
-      "start": "2025-11-18 13:25:00",
-      "end": "2025-11-23 15:50:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21432,8 +21432,8 @@
     "channel_name": "唐山公共",
     "programme_count": 80,
     "date_range": {
-      "start": "2025-11-18 12:20:00",
-      "end": "2025-11-23 14:40:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21443,8 +21443,8 @@
     "channel_name": "廊坊新闻",
     "programme_count": 205,
     "date_range": {
-      "start": "2025-11-18 13:30:00",
-      "end": "2025-11-23 13:50:00"
+      "start": "2025-11-19 01:30:00",
+      "end": "2025-11-24 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21454,8 +21454,8 @@
     "channel_name": "廊坊公共",
     "programme_count": 235,
     "date_range": {
-      "start": "2025-11-18 13:30:00",
-      "end": "2025-11-23 14:00:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21465,8 +21465,8 @@
     "channel_name": "沧州新闻综合",
     "programme_count": 290,
     "date_range": {
-      "start": "2025-11-18 13:28:00",
-      "end": "2025-11-23 13:49:00"
+      "start": "2025-11-19 00:23:00",
+      "end": "2025-11-24 06:23:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21476,8 +21476,8 @@
     "channel_name": "沧州公共",
     "programme_count": 290,
     "date_range": {
-      "start": "2025-11-18 13:19:00",
-      "end": "2025-11-23 13:38:00"
+      "start": "2025-11-19 00:58:00",
+      "end": "2025-11-24 06:56:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21487,8 +21487,8 @@
     "channel_name": "沧州影视娱乐",
     "programme_count": 230,
     "date_range": {
-      "start": "2025-11-18 10:55:00",
-      "end": "2025-11-23 14:12:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21498,8 +21498,8 @@
     "channel_name": "保定新闻综合",
     "programme_count": 155,
     "date_range": {
-      "start": "2025-11-18 13:30:00",
-      "end": "2025-11-23 13:40:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 05:58:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21507,10 +21507,10 @@
   {
     "channel_id": "保定公共频道",
     "channel_name": "保定公共频道",
-    "programme_count": 140,
+    "programme_count": 138,
     "date_range": {
-      "start": "2025-11-18 13:25:00",
-      "end": "2025-11-23 14:05:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 05:58:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21520,8 +21520,8 @@
     "channel_name": "保定生活健康",
     "programme_count": 275,
     "date_range": {
-      "start": "2025-11-18 12:50:00",
-      "end": "2025-11-23 13:40:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21529,10 +21529,10 @@
   {
     "channel_id": "衡水新闻综合",
     "channel_name": "衡水新闻综合",
-    "programme_count": 177,
+    "programme_count": 178,
     "date_range": {
-      "start": "2025-11-18 13:10:00",
-      "end": "2025-11-23 14:04:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21540,10 +21540,10 @@
   {
     "channel_id": "衡水经济科教",
     "channel_name": "衡水经济科教",
-    "programme_count": 150,
+    "programme_count": 151,
     "date_range": {
-      "start": "2025-11-18 13:30:00",
-      "end": "2025-11-23 13:55:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 07:40:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21551,10 +21551,10 @@
   {
     "channel_id": "邢台综合",
     "channel_name": "邢台综合",
-    "programme_count": 162,
+    "programme_count": 166,
     "date_range": {
-      "start": "2025-11-18 13:05:00",
-      "end": "2025-11-23 13:59:00"
+      "start": "2025-11-19 00:00:00",
+      "end": "2025-11-24 06:29:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21562,10 +21562,10 @@
   {
     "channel_id": "邢台城市生活",
     "channel_name": "邢台城市生活",
-    "programme_count": 227,
+    "programme_count": 230,
     "date_range": {
-      "start": "2025-11-18 13:28:00",
-      "end": "2025-11-23 14:15:00"
+      "start": "2025-11-19 00:06:00",
+      "end": "2025-11-24 06:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21573,10 +21573,10 @@
   {
     "channel_id": "邯郸新闻综合",
     "channel_name": "邯郸新闻综合",
-    "programme_count": 125,
+    "programme_count": 122,
     "date_range": {
-      "start": "2025-11-18 13:00:00",
-      "end": "2025-11-23 17:25:00"
+      "start": "2025-11-19 01:00:00",
+      "end": "2025-11-24 06:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21586,8 +21586,8 @@
     "channel_name": "邯郸公共",
     "programme_count": 130,
     "date_range": {
-      "start": "2025-11-18 13:25:00",
-      "end": "2025-11-23 17:50:00"
+      "start": "2025-11-19 00:10:00",
+      "end": "2025-11-24 06:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21595,10 +21595,10 @@
   {
     "channel_id": "邯郸科技教育",
     "channel_name": "邯郸科技教育",
-    "programme_count": 121,
+    "programme_count": 120,
     "date_range": {
-      "start": "2025-11-18 13:06:00",
-      "end": "2025-11-23 14:40:00"
+      "start": "2025-11-19 00:40:00",
+      "end": "2025-11-24 06:30:00"
     },
     "has_programmes": true,
     "is_valid": true
