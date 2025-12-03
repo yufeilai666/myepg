@@ -680,7 +680,11 @@
 | 非凡新闻台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/非凡新闻台.png> |
 | 翡翠剧集台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/翡翠剧集台.png> |
 | 翡翠劇集台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/翡翠劇集台.png> |
+| 翡翠劇集台(北美) | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/翡翠劇集台(北美).png> |
 | 翡翠台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/翡翠台.png> |
+| 翡翠娛樂台(北美) | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/翡翠娛樂台(北美).png> |
+| 翡翠一台(北美) | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/翡翠一台(北美).png> |
+| 翡翠綜合台(北美) | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/翡翠綜合台(北美).png> |
 | 法治天地 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/法治天地.png> |
 | 贵州卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/贵州卫视.png> |
 | 国会频道1 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/国会频道1.png> |
@@ -834,6 +838,7 @@
 | 魅力足球 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/魅力足球.png> |
 | 明珠剧集台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/明珠剧集台.png> |
 | 明珠劇集台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/明珠劇集台.png> |
+| 明珠劇集台(北美) | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/明珠劇集台(北美).png> |
 | 明珠剧集台-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/明珠剧集台-V2.png> |
 | 明珠劇集台-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/明珠劇集台-V2.png> |
 | 明珠台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/明珠台.png> |
@@ -935,6 +940,7 @@
 | 无线新闻 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/无线新闻.png> |
 | 无线新闻台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/无线新闻台.png> |
 | 無綫新聞台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/無綫新聞台.png> |
+| 無綫新聞台(北美) | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/無綫新聞台(北美).png> |
 | 无线新闻台-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/无线新闻台-V2.png> |
 | 無綫新聞台-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/無綫新聞台-V2.png> |
 | 無綫新聞台-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/無綫新聞台-V3.png> |
