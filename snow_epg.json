@@ -4,8 +4,8 @@
     "channel_name": "TVB星河 (astro)",
     "programme_count": 168,
     "date_range": {
-      "start": "2025-12-02 00:10:00",
-      "end": "2025-12-09 00:00:00"
+      "start": "2025-12-03 00:10:00",
+      "end": "2025-12-10 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15,8 +15,8 @@
     "channel_name": "TVB星河 (新加坡)",
     "programme_count": 168,
     "date_range": {
-      "start": "2025-12-02 00:00:00",
-      "end": "2025-12-08 23:50:00"
+      "start": "2025-12-03 00:00:00",
+      "end": "2025-12-09 23:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -26,8 +26,8 @@
     "channel_name": "翡翠台 (astro)",
     "programme_count": 283,
     "date_range": {
-      "start": "2025-12-02 00:00:00",
-      "end": "2025-12-09 00:00:00"
+      "start": "2025-12-03 00:00:00",
+      "end": "2025-12-10 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -37,8 +37,8 @@
     "channel_name": "iQIYI (astro)",
     "programme_count": 159,
     "date_range": {
-      "start": "2025-12-02 00:30:00",
-      "end": "2025-12-09 00:00:00"
+      "start": "2025-12-03 00:30:00",
+      "end": "2025-12-10 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -48,8 +48,8 @@
     "channel_name": "TVBS Asia (astro)",
     "programme_count": 153,
     "date_range": {
-      "start": "2025-12-02 00:03:00",
-      "end": "2025-12-09 00:00:00"
+      "start": "2025-12-03 00:03:00",
+      "end": "2025-12-10 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -59,8 +59,8 @@
     "channel_name": "astro AOD (astro)",
     "programme_count": 188,
     "date_range": {
-      "start": "2025-12-02 00:30:00",
-      "end": "2025-12-09 00:00:00"
+      "start": "2025-12-03 00:30:00",
+      "end": "2025-12-10 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -68,10 +68,10 @@
   {
     "channel_id": "Global Trekker (astro)",
     "channel_name": "Global Trekker (astro)",
-    "programme_count": 252,
+    "programme_count": 253,
     "date_range": {
-      "start": "2025-12-02 00:10:00",
-      "end": "2025-12-09 00:10:00"
+      "start": "2025-12-03 00:40:00",
+      "end": "2025-12-10 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -81,8 +81,8 @@
     "channel_name": "美亚电影台 (Mod)",
     "programme_count": 107,
     "date_range": {
-      "start": "2025-12-02 00:30:00",
-      "end": "2025-12-09 00:00:00"
+      "start": "2025-12-03 00:40:00",
+      "end": "2025-12-10 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -92,8 +92,8 @@
     "channel_name": "History (astro)",
     "programme_count": 182,
     "date_range": {
-      "start": "2025-12-02 00:45:00",
-      "end": "2025-12-09 00:05:00"
+      "start": "2025-12-03 00:45:00",
+      "end": "2025-12-10 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -101,10 +101,10 @@
   {
     "channel_id": "亚洲美食台 (astro)",
     "channel_name": "亚洲美食台 (astro)",
-    "programme_count": 316,
+    "programme_count": 313,
     "date_range": {
-      "start": "2025-12-02 00:10:00",
-      "end": "2025-12-09 00:10:00"
+      "start": "2025-12-03 00:10:00",
+      "end": "2025-12-10 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -114,8 +114,8 @@
     "channel_name": "Discovery Asia (astro)",
     "programme_count": 227,
     "date_range": {
-      "start": "2025-12-02 00:25:00",
-      "end": "2025-12-09 00:05:00"
+      "start": "2025-12-03 00:25:00",
+      "end": "2025-12-10 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -706,13 +706,13 @@
   {
     "channel_id": "東風衛視",
     "channel_name": "東風衛視",
-    "programme_count": 47,
+    "programme_count": 0,
     "date_range": {
-      "start": "2025-12-03 00:45:00",
-      "end": "2025-12-05 00:45:00"
+      "start": null,
+      "end": null
     },
-    "has_programmes": true,
-    "is_valid": true
+    "has_programmes": false,
+    "is_valid": false
   },
   {
     "channel_id": "年代MUCH TV",
@@ -1212,13 +1212,13 @@
   {
     "channel_id": "鏡電視新聞台",
     "channel_name": "鏡電視新聞台",
-    "programme_count": 47,
+    "programme_count": 0,
     "date_range": {
-      "start": "2025-12-03 00:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": null,
+      "end": null
     },
-    "has_programmes": true,
-    "is_valid": true
+    "has_programmes": false,
+    "is_valid": false
   },
   {
     "channel_id": "台灣藝術台",
@@ -2796,7 +2796,7 @@
   {
     "channel_id": "無綫新聞台 (免費)",
     "channel_name": "無綫新聞台 (免費)",
-    "programme_count": 156,
+    "programme_count": 163,
     "date_range": {
       "start": "2025-12-02 06:00:00",
       "end": "2025-12-05 06:00:00"
@@ -3258,7 +3258,7 @@
   {
     "channel_id": "東方衛視國際頻道 (免費)",
     "channel_name": "東方衛視國際頻道 (免費)",
-    "programme_count": 100,
+    "programme_count": 113,
     "date_range": {
       "start": "2025-12-02 06:00:00",
       "end": "2025-12-05 06:00:00"
@@ -3720,10 +3720,10 @@
   {
     "channel_id": "viu6",
     "channel_name": "viu6",
-    "programme_count": 44,
+    "programme_count": 33,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3731,10 +3731,10 @@
   {
     "channel_id": "ViuTV",
     "channel_name": "ViuTV",
-    "programme_count": 58,
+    "programme_count": 50,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3742,10 +3742,10 @@
   {
     "channel_id": "Viu 頻道",
     "channel_name": "Viu 頻道",
-    "programme_count": 33,
+    "programme_count": 29,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3753,10 +3753,10 @@
   {
     "channel_id": "now 劇集",
     "channel_name": "now 劇集",
-    "programme_count": 33,
+    "programme_count": 29,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3764,10 +3764,10 @@
   {
     "channel_id": "video express rentnow",
     "channel_name": "video express rentnow",
-    "programme_count": 17,
+    "programme_count": 15,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3775,10 +3775,10 @@
   {
     "channel_id": "nowjeli",
     "channel_name": "nowjeli",
-    "programme_count": 28,
+    "programme_count": 24,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3786,10 +3786,10 @@
   {
     "channel_id": "HBO Hits香港",
     "channel_name": "HBO Hits香港",
-    "programme_count": 19,
+    "programme_count": 16,
     "date_range": {
-      "start": "2025-12-03 14:05:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:15:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3797,10 +3797,10 @@
   {
     "channel_id": "HBO Family香港",
     "channel_name": "HBO Family香港",
-    "programme_count": 64,
+    "programme_count": 51,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3808,10 +3808,10 @@
   {
     "channel_id": "CINEMAX香港",
     "channel_name": "CINEMAX香港",
-    "programme_count": 19,
+    "programme_count": 17,
     "date_range": {
-      "start": "2025-12-03 15:15:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:20:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3819,10 +3819,10 @@
   {
     "channel_id": "HBO Signature香港",
     "channel_name": "HBO Signature香港",
-    "programme_count": 21,
+    "programme_count": 18,
     "date_range": {
-      "start": "2025-12-03 14:35:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:35:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3830,10 +3830,10 @@
   {
     "channel_id": "HBO香港",
     "channel_name": "HBO香港",
-    "programme_count": 22,
+    "programme_count": 20,
     "date_range": {
-      "start": "2025-12-03 15:10:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:20:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3841,10 +3841,10 @@
   {
     "channel_id": "MOVIE MOVIE",
     "channel_name": "MOVIE MOVIE",
-    "programme_count": 20,
+    "programme_count": 17,
     "date_range": {
-      "start": "2025-12-03 14:35:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:25:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3852,10 +3852,10 @@
   {
     "channel_id": "爆谷台",
     "channel_name": "爆谷台",
-    "programme_count": 21,
+    "programme_count": 19,
     "date_range": {
-      "start": "2025-12-03 14:05:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:15:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3863,10 +3863,10 @@
   {
     "channel_id": "Now爆谷星影台",
     "channel_name": "Now爆谷星影台",
-    "programme_count": 20,
+    "programme_count": 17,
     "date_range": {
-      "start": "2025-12-03 14:05:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:20:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3874,10 +3874,10 @@
   {
     "channel_id": "Animax香港",
     "channel_name": "Animax香港",
-    "programme_count": 65,
+    "programme_count": 57,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3885,10 +3885,10 @@
   {
     "channel_id": "tvN香港",
     "channel_name": "tvN香港",
-    "programme_count": 25,
+    "programme_count": 22,
     "date_range": {
-      "start": "2025-12-03 14:25:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:05:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3896,10 +3896,10 @@
   {
     "channel_id": "KBS World香港",
     "channel_name": "KBS World香港",
-    "programme_count": 38,
+    "programme_count": 33,
     "date_range": {
-      "start": "2025-12-03 14:25:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:35:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3907,10 +3907,10 @@
   {
     "channel_id": "東森亞洲",
     "channel_name": "東森亞洲",
-    "programme_count": 33,
+    "programme_count": 29,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3918,10 +3918,10 @@
   {
     "channel_id": "moov",
     "channel_name": "moov",
-    "programme_count": 16,
+    "programme_count": 14,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3931,7 +3931,7 @@
     "channel_name": "Panda TV",
     "programme_count": 6,
     "date_range": {
-      "start": "2025-12-03 10:00:00",
+      "start": "2025-12-03 16:30:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -3940,10 +3940,10 @@
   {
     "channel_id": "Discovery Asia香港",
     "channel_name": "Discovery Asia香港",
-    "programme_count": 44,
+    "programme_count": 39,
     "date_range": {
-      "start": "2025-12-03 15:10:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:20:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3951,10 +3951,10 @@
   {
     "channel_id": "Discovery Channel香港",
     "channel_name": "Discovery Channel香港",
-    "programme_count": 37,
+    "programme_count": 34,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:10:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3962,10 +3962,10 @@
   {
     "channel_id": "動物星球頻道香港",
     "channel_name": "動物星球頻道香港",
-    "programme_count": 38,
+    "programme_count": 34,
     "date_range": {
-      "start": "2025-12-03 15:15:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3973,10 +3973,10 @@
   {
     "channel_id": "Discovery 科學頻道香港",
     "channel_name": "Discovery 科學頻道香港",
-    "programme_count": 50,
+    "programme_count": 44,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:29:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3984,10 +3984,10 @@
   {
     "channel_id": "DMAX香港",
     "channel_name": "DMAX香港",
-    "programme_count": 48,
+    "programme_count": 42,
     "date_range": {
-      "start": "2025-12-03 14:45:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:25:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -3995,10 +3995,10 @@
   {
     "channel_id": "TLC旅遊生活頻道香港",
     "channel_name": "TLC旅遊生活頻道香港",
-    "programme_count": 41,
+    "programme_count": 36,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:10:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4006,10 +4006,10 @@
   {
     "channel_id": "Love Nature香港",
     "channel_name": "Love Nature香港",
-    "programme_count": 37,
+    "programme_count": 33,
     "date_range": {
-      "start": "2025-12-03 15:25:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:05:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4017,10 +4017,10 @@
   {
     "channel_id": "BBC Earth香港",
     "channel_name": "BBC Earth香港",
-    "programme_count": 35,
+    "programme_count": 31,
     "date_range": {
-      "start": "2025-12-03 15:20:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4028,10 +4028,10 @@
   {
     "channel_id": "戶外頻道香港",
     "channel_name": "戶外頻道香港",
-    "programme_count": 48,
+    "programme_count": 42,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4039,10 +4039,10 @@
   {
     "channel_id": "罪案 + 偵緝香港",
     "channel_name": "罪案 + 偵緝香港",
-    "programme_count": 43,
+    "programme_count": 38,
     "date_range": {
-      "start": "2025-12-03 15:05:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:25:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4050,10 +4050,10 @@
   {
     "channel_id": "HISTORY香港",
     "channel_name": "HISTORY香港",
-    "programme_count": 36,
+    "programme_count": 32,
     "date_range": {
-      "start": "2025-12-03 15:25:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:10:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4061,10 +4061,10 @@
   {
     "channel_id": "CNN 國際新聞網絡香港",
     "channel_name": "CNN 國際新聞網絡香港",
-    "programme_count": 41,
+    "programme_count": 36,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4072,10 +4072,10 @@
   {
     "channel_id": "CNBC香港",
     "channel_name": "CNBC香港",
-    "programme_count": 64,
+    "programme_count": 56,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4083,10 +4083,10 @@
   {
     "channel_id": "BBC News香港",
     "channel_name": "BBC News香港",
-    "programme_count": 71,
+    "programme_count": 62,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4094,10 +4094,10 @@
   {
     "channel_id": "Bloomberg Television香港",
     "channel_name": "Bloomberg Television香港",
-    "programme_count": 23,
+    "programme_count": 20,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4105,10 +4105,10 @@
   {
     "channel_id": "亞洲新聞台香港",
     "channel_name": "亞洲新聞台香港",
-    "programme_count": 32,
+    "programme_count": 27,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4119,7 +4119,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4127,10 +4127,10 @@
   {
     "channel_id": "DW (English)香港",
     "channel_name": "DW (English)香港",
-    "programme_count": 77,
+    "programme_count": 69,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4138,10 +4138,10 @@
   {
     "channel_id": "半島電視台英語頻道香港",
     "channel_name": "半島電視台英語頻道香港",
-    "programme_count": 53,
+    "programme_count": 46,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4149,10 +4149,10 @@
   {
     "channel_id": "euronews香港",
     "channel_name": "euronews香港",
-    "programme_count": 114,
+    "programme_count": 99,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:46:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4160,10 +4160,10 @@
   {
     "channel_id": "France 24香港",
     "channel_name": "France 24香港",
-    "programme_count": 170,
+    "programme_count": 141,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:46:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4171,10 +4171,10 @@
   {
     "channel_id": "NHK WORLD-JAPA香港",
     "channel_name": "NHK WORLD-JAPA香港",
-    "programme_count": 77,
+    "programme_count": 68,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:43:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4182,9 +4182,9 @@
   {
     "channel_id": "RT香港",
     "channel_name": "RT香港",
-    "programme_count": 4,
+    "programme_count": 5,
     "date_range": {
-      "start": "2025-12-03 08:00:00",
+      "start": "2025-12-03 16:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -4193,10 +4193,10 @@
   {
     "channel_id": "中國環球電視網香港",
     "channel_name": "中國環球電視網香港",
-    "programme_count": 62,
+    "programme_count": 54,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4204,10 +4204,10 @@
   {
     "channel_id": "now直播 ",
     "channel_name": "now直播 ",
-    "programme_count": 58,
+    "programme_count": 50,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4215,10 +4215,10 @@
   {
     "channel_id": "now新聞",
     "channel_name": "now新聞",
-    "programme_count": 89,
+    "programme_count": 76,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4226,10 +4226,10 @@
   {
     "channel_id": "now財經",
     "channel_name": "now財經",
-    "programme_count": 75,
+    "programme_count": 65,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4237,10 +4237,10 @@
   {
     "channel_id": "now報價",
     "channel_name": "now報價",
-    "programme_count": 16,
+    "programme_count": 14,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4248,10 +4248,10 @@
   {
     "channel_id": "鳳凰資訊",
     "channel_name": "鳳凰資訊",
-    "programme_count": 85,
+    "programme_count": 75,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4262,7 +4262,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4273,7 +4273,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4281,10 +4281,10 @@
   {
     "channel_id": "鳳凰中文",
     "channel_name": "鳳凰中文",
-    "programme_count": 68,
+    "programme_count": 58,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4295,7 +4295,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4303,10 +4303,10 @@
   {
     "channel_id": "東森亞洲新聞",
     "channel_name": "東森亞洲新聞",
-    "programme_count": 33,
+    "programme_count": 29,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4314,10 +4314,10 @@
   {
     "channel_id": "DreamWorks 頻道香港",
     "channel_name": "DreamWorks 頻道香港",
-    "programme_count": 82,
+    "programme_count": 71,
     "date_range": {
-      "start": "2025-12-03 15:10:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4325,10 +4325,10 @@
   {
     "channel_id": "Cartoon Network香港",
     "channel_name": "Cartoon Network香港",
-    "programme_count": 53,
+    "programme_count": 44,
     "date_range": {
-      "start": "2025-12-03 15:15:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4336,10 +4336,10 @@
   {
     "channel_id": "Nickelodeon香港",
     "channel_name": "Nickelodeon香港",
-    "programme_count": 94,
+    "programme_count": 81,
     "date_range": {
-      "start": "2025-12-03 15:15:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:40:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4347,10 +4347,10 @@
   {
     "channel_id": "CBeebies香港",
     "channel_name": "CBeebies香港",
-    "programme_count": 219,
+    "programme_count": 189,
     "date_range": {
-      "start": "2025-12-03 15:25:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4358,10 +4358,10 @@
   {
     "channel_id": "Moonbug香港",
     "channel_name": "Moonbug香港",
-    "programme_count": 62,
+    "programme_count": 54,
     "date_range": {
-      "start": "2025-12-03 15:24:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:22:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4369,10 +4369,10 @@
   {
     "channel_id": "Nick Jr.香港",
     "channel_name": "Nick Jr.香港",
-    "programme_count": 109,
+    "programme_count": 93,
     "date_range": {
-      "start": "2025-12-03 15:15:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:25:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4380,10 +4380,10 @@
   {
     "channel_id": "Da Vinc香港",
     "channel_name": "Da Vinc香港",
-    "programme_count": 137,
+    "programme_count": 119,
     "date_range": {
-      "start": "2025-12-03 15:24:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:33:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4391,10 +4391,10 @@
   {
     "channel_id": "BBC Lifestyle香港",
     "channel_name": "BBC Lifestyle香港",
-    "programme_count": 38,
+    "programme_count": 33,
     "date_range": {
-      "start": "2025-12-03 15:20:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4402,10 +4402,10 @@
   {
     "channel_id": "AXN香港",
     "channel_name": "AXN香港",
-    "programme_count": 37,
+    "programme_count": 33,
     "date_range": {
-      "start": "2025-12-03 15:25:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4413,10 +4413,10 @@
   {
     "channel_id": "ROCK Entertainment香港",
     "channel_name": "ROCK Entertainment香港",
-    "programme_count": 32,
+    "programme_count": 28,
     "date_range": {
-      "start": "2025-12-03 15:10:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:15:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4424,10 +4424,10 @@
   {
     "channel_id": "Lifetime香港",
     "channel_name": "Lifetime香港",
-    "programme_count": 35,
+    "programme_count": 30,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4435,10 +4435,10 @@
   {
     "channel_id": "Food Network香港",
     "channel_name": "Food Network香港",
-    "programme_count": 54,
+    "programme_count": 45,
     "date_range": {
-      "start": "2025-12-03 14:48:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:40:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4446,10 +4446,10 @@
   {
     "channel_id": "亞洲美食台香港",
     "channel_name": "亞洲美食台香港",
-    "programme_count": 63,
+    "programme_count": 55,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4460,7 +4460,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4471,7 +4471,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4479,10 +4479,10 @@
   {
     "channel_id": "Netflix香港",
     "channel_name": "Netflix香港",
-    "programme_count": 16,
+    "programme_count": 14,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4490,10 +4490,10 @@
   {
     "channel_id": "深圳衛視香港",
     "channel_name": "深圳衛視香港",
-    "programme_count": 39,
+    "programme_count": 34,
     "date_range": {
-      "start": "2025-12-03 13:05:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4501,10 +4501,10 @@
   {
     "channel_id": "CCTV-1香港",
     "channel_name": "CCTV-1香港",
-    "programme_count": 53,
+    "programme_count": 45,
     "date_range": {
-      "start": "2025-12-03 15:20:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:41:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4512,10 +4512,10 @@
   {
     "channel_id": "CCTV-4香港",
     "channel_name": "CCTV-4香港",
-    "programme_count": 57,
+    "programme_count": 50,
     "date_range": {
-      "start": "2025-12-03 15:15:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4523,10 +4523,10 @@
   {
     "channel_id": "大灣區衛視香港",
     "channel_name": "大灣區衛視香港",
-    "programme_count": 30,
+    "programme_count": 26,
     "date_range": {
-      "start": "2025-12-03 09:05:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4534,10 +4534,10 @@
   {
     "channel_id": "中央電視台新聞頻道香港",
     "channel_name": "中央電視台新聞頻道香港",
-    "programme_count": 37,
+    "programme_count": 34,
     "date_range": {
-      "start": "2025-12-03 13:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:39:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4545,10 +4545,10 @@
   {
     "channel_id": "鳳凰衛視中文台",
     "channel_name": "鳳凰衛視中文台",
-    "programme_count": 68,
+    "programme_count": 58,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4559,7 +4559,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4567,9 +4567,9 @@
   {
     "channel_id": "三沙衛視香港",
     "channel_name": "三沙衛視香港",
-    "programme_count": 4,
+    "programme_count": 5,
     "date_range": {
-      "start": "2025-12-03 08:00:00",
+      "start": "2025-12-03 16:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -4578,10 +4578,10 @@
   {
     "channel_id": "浙江衛視香港",
     "channel_name": "浙江衛視香港",
-    "programme_count": 31,
+    "programme_count": 24,
     "date_range": {
-      "start": "2025-12-03 09:43:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:33:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4589,10 +4589,10 @@
   {
     "channel_id": "ABC Australia香港",
     "channel_name": "ABC Australia香港",
-    "programme_count": 52,
+    "programme_count": 45,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:35:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4603,7 +4603,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4633,10 +4633,10 @@
   {
     "channel_id": "now體育4k (3)",
     "channel_name": "now體育4k",
-    "programme_count": 49,
+    "programme_count": 43,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4644,10 +4644,10 @@
   {
     "channel_id": "Now Sports 英超TV",
     "channel_name": "Now Sports 英超TV",
-    "programme_count": 52,
+    "programme_count": 47,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4655,10 +4655,10 @@
   {
     "channel_id": "Now Sports 英超TV1",
     "channel_name": "Now Sports 英超TV1",
-    "programme_count": 40,
+    "programme_count": 35,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4666,10 +4666,10 @@
   {
     "channel_id": "Now Sports 英超 TV2",
     "channel_name": "Now Sports 英超 TV2",
-    "programme_count": 10,
+    "programme_count": 9,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4677,10 +4677,10 @@
   {
     "channel_id": "Now Sports 英超 TV3",
     "channel_name": "Now Sports 英超 TV3",
-    "programme_count": 9,
+    "programme_count": 8,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4688,10 +4688,10 @@
   {
     "channel_id": "Now Sports 英超 TV4",
     "channel_name": "Now Sports 英超 TV4",
-    "programme_count": 9,
+    "programme_count": 8,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4699,10 +4699,10 @@
   {
     "channel_id": "Now Sports 英超 TV5",
     "channel_name": "Now Sports 英超 TV5",
-    "programme_count": 9,
+    "programme_count": 8,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4710,10 +4710,10 @@
   {
     "channel_id": "Now Sports 英超 TV6",
     "channel_name": "Now Sports 英超 TV6",
-    "programme_count": 9,
+    "programme_count": 8,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4721,10 +4721,10 @@
   {
     "channel_id": "Now Sports 英超 TV7",
     "channel_name": "Now Sports 英超 TV7",
-    "programme_count": 8,
+    "programme_count": 7,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4732,10 +4732,10 @@
   {
     "channel_id": "Now Sports Premier",
     "channel_name": "Now Sports Premier",
-    "programme_count": 41,
+    "programme_count": 35,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4743,10 +4743,10 @@
   {
     "channel_id": "Now Sports 1",
     "channel_name": "Now Sports 1",
-    "programme_count": 26,
+    "programme_count": 24,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4754,10 +4754,10 @@
   {
     "channel_id": "Now Sports 2",
     "channel_name": "Now Sports 2",
-    "programme_count": 23,
+    "programme_count": 20,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4765,10 +4765,10 @@
   {
     "channel_id": "Now Sports 3",
     "channel_name": "Now Sports 3",
-    "programme_count": 63,
+    "programme_count": 58,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4776,10 +4776,10 @@
   {
     "channel_id": "Now Sports 4",
     "channel_name": "Now Sports 4",
-    "programme_count": 26,
+    "programme_count": 24,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4787,10 +4787,10 @@
   {
     "channel_id": "Now Sports 5",
     "channel_name": "Now Sports 5",
-    "programme_count": 26,
+    "programme_count": 23,
     "date_range": {
-      "start": "2025-12-03 14:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4798,10 +4798,10 @@
   {
     "channel_id": "Now Sports 6",
     "channel_name": "Now Sports 6",
-    "programme_count": 24,
+    "programme_count": 20,
     "date_range": {
-      "start": "2025-12-03 14:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4809,10 +4809,10 @@
   {
     "channel_id": "Now Sports 7",
     "channel_name": "Now Sports 7",
-    "programme_count": 45,
+    "programme_count": 42,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4820,10 +4820,10 @@
   {
     "channel_id": "beIN SPORTS 1",
     "channel_name": "beIN SPORTS 1",
-    "programme_count": 27,
+    "programme_count": 22,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:20:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4831,10 +4831,10 @@
   {
     "channel_id": "beIN SPORTS 2",
     "channel_name": "beIN SPORTS 2",
-    "programme_count": 31,
+    "programme_count": 27,
     "date_range": {
-      "start": "2025-12-03 15:25:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:15:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4842,10 +4842,10 @@
   {
     "channel_id": "MUTV",
     "channel_name": "MUTV",
-    "programme_count": 46,
+    "programme_count": 43,
     "date_range": {
-      "start": "2025-12-03 14:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4853,10 +4853,10 @@
   {
     "channel_id": "Now Sports 641",
     "channel_name": "Now Sports 641",
-    "programme_count": 17,
+    "programme_count": 15,
     "date_range": {
-      "start": "2025-12-03 14:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4864,10 +4864,10 @@
   {
     "channel_id": "NBA",
     "channel_name": "NBA",
-    "programme_count": 51,
+    "programme_count": 43,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4875,10 +4875,10 @@
   {
     "channel_id": "beIN SPORTS 3",
     "channel_name": "beIN SPORTS 3",
-    "programme_count": 23,
+    "programme_count": 20,
     "date_range": {
-      "start": "2025-12-03 15:10:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4886,10 +4886,10 @@
   {
     "channel_id": "beIN SPORTS 4",
     "channel_name": "beIN SPORTS 4",
-    "programme_count": 8,
+    "programme_count": 7,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4897,10 +4897,10 @@
   {
     "channel_id": "beIN SPORTS 5",
     "channel_name": "beIN SPORTS 5",
-    "programme_count": 8,
+    "programme_count": 7,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4908,10 +4908,10 @@
   {
     "channel_id": "beIN SPORTS 6",
     "channel_name": "beIN SPORTS 6",
-    "programme_count": 8,
+    "programme_count": 7,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 16:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4922,7 +4922,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4930,10 +4930,10 @@
   {
     "channel_id": "Now Sports 651",
     "channel_name": "Now Sports 651",
-    "programme_count": 16,
+    "programme_count": 14,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4941,10 +4941,10 @@
   {
     "channel_id": "Now Sports 652",
     "channel_name": "Now Sports 652",
-    "programme_count": 16,
+    "programme_count": 14,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4952,10 +4952,10 @@
   {
     "channel_id": "Now Sports 668",
     "channel_name": "Now Sports 668",
-    "programme_count": 39,
+    "programme_count": 35,
     "date_range": {
-      "start": "2025-12-03 14:35:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4966,7 +4966,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4977,7 +4977,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -4987,7 +4987,7 @@
     "channel_name": "Astro Cricket",
     "programme_count": 14,
     "date_range": {
-      "start": "2025-12-03 12:30:00",
+      "start": "2025-12-03 15:50:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -4996,10 +4996,10 @@
   {
     "channel_id": "Premier Sports",
     "channel_name": "Premier Sports",
-    "programme_count": 44,
+    "programme_count": 40,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:40:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5007,10 +5007,10 @@
   {
     "channel_id": "Now Sports plus",
     "channel_name": "Now Sports plus",
-    "programme_count": 32,
+    "programme_count": 29,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5021,7 +5021,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5029,10 +5029,10 @@
   {
     "channel_id": "Now 高爾夫2",
     "channel_name": "Now 高爾夫2",
-    "programme_count": 24,
+    "programme_count": 23,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5040,10 +5040,10 @@
   {
     "channel_id": "Now 高爾夫3",
     "channel_name": "Now 高爾夫3",
-    "programme_count": 21,
+    "programme_count": 18,
     "date_range": {
-      "start": "2025-12-03 14:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5054,7 +5054,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5062,10 +5062,10 @@
   {
     "channel_id": "NHK World Premium",
     "channel_name": "NHK World Premium",
-    "programme_count": 92,
+    "programme_count": 77,
     "date_range": {
-      "start": "2025-12-03 14:50:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5073,10 +5073,10 @@
   {
     "channel_id": "TV5MONDE Style",
     "channel_name": "TV5MONDE Style",
-    "programme_count": 75,
+    "programme_count": 66,
     "date_range": {
-      "start": "2025-12-03 15:25:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:25:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5084,10 +5084,10 @@
   {
     "channel_id": "TV5MONDE ASIE",
     "channel_name": "TV5MONDE ASIE",
-    "programme_count": 65,
+    "programme_count": 53,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5095,10 +5095,10 @@
   {
     "channel_id": "France 24 (French)",
     "channel_name": "France 24 (French)",
-    "programme_count": 136,
+    "programme_count": 118,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5106,10 +5106,10 @@
   {
     "channel_id": "GMA Pinoy TV",
     "channel_name": "GMA Pinoy TV",
-    "programme_count": 41,
+    "programme_count": 34,
     "date_range": {
-      "start": "2025-12-03 15:20:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:15:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5117,10 +5117,10 @@
   {
     "channel_id": "GMA Life T",
     "channel_name": "GMA Life T",
-    "programme_count": 37,
+    "programme_count": 33,
     "date_range": {
-      "start": "2025-12-03 15:15:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5128,10 +5128,10 @@
   {
     "channel_id": "TFC",
     "channel_name": "TFC",
-    "programme_count": 39,
+    "programme_count": 33,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 18:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5139,10 +5139,10 @@
   {
     "channel_id": "Sony TV (India)",
     "channel_name": "Sony TV (India)",
-    "programme_count": 43,
+    "programme_count": 39,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5150,10 +5150,10 @@
   {
     "channel_id": "Sony MAX",
     "channel_name": "Sony MAX",
-    "programme_count": 15,
+    "programme_count": 14,
     "date_range": {
-      "start": "2025-12-03 15:19:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 17:34:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5161,10 +5161,10 @@
   {
     "channel_id": "Sony SAB",
     "channel_name": "Sony SAB",
-    "programme_count": 73,
+    "programme_count": 63,
     "date_range": {
-      "start": "2025-12-03 15:10:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5172,10 +5172,10 @@
   {
     "channel_id": "MTV India",
     "channel_name": "MTV India",
-    "programme_count": 33,
+    "programme_count": 29,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5183,10 +5183,10 @@
   {
     "channel_id": "COLORS",
     "channel_name": "COLORS",
-    "programme_count": 53,
+    "programme_count": 46,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5194,10 +5194,10 @@
   {
     "channel_id": "Zee Cinema International",
     "channel_name": "Zee Cinema International",
-    "programme_count": 12,
+    "programme_count": 11,
     "date_range": {
-      "start": "2025-12-03 14:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 17:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5205,10 +5205,10 @@
   {
     "channel_id": "Zee TV",
     "channel_name": "Zee TV",
-    "programme_count": 58,
+    "programme_count": 50,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5216,9 +5216,9 @@
   {
     "channel_id": "Zee News",
     "channel_name": "Zee News",
-    "programme_count": 4,
+    "programme_count": 5,
     "date_range": {
-      "start": "2025-12-03 08:00:00",
+      "start": "2025-12-03 16:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -5227,10 +5227,10 @@
   {
     "channel_id": "Star Gold",
     "channel_name": "Star Gold",
-    "programme_count": 14,
+    "programme_count": 13,
     "date_range": {
-      "start": "2025-12-03 14:45:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 17:45:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5238,10 +5238,10 @@
   {
     "channel_id": "STAR PLUS",
     "channel_name": "STAR PLUS",
-    "programme_count": 59,
+    "programme_count": 52,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5249,10 +5249,10 @@
   {
     "channel_id": "Star Bharat",
     "channel_name": "Star Bharat",
-    "programme_count": 42,
+    "programme_count": 36,
     "date_range": {
-      "start": "2025-12-03 15:30:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:30:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5263,7 +5263,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5271,9 +5271,9 @@
   {
     "channel_id": "冰火頻道",
     "channel_name": "冰火頻道",
-    "programme_count": 15,
+    "programme_count": 14,
     "date_range": {
-      "start": "2025-12-03 14:30:00",
+      "start": "2025-12-03 19:30:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -5282,10 +5282,10 @@
   {
     "channel_id": "成人極品台",
     "channel_name": "成人極品台",
-    "programme_count": 33,
+    "programme_count": 29,
     "date_range": {
-      "start": "2025-12-03 15:00:00",
-      "end": "2025-12-05 00:00:00"
+      "start": "2025-12-03 19:00:00",
+      "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -5832,7 +5832,7 @@
   {
     "channel_id": "東方衛視國際版",
     "channel_name": "東方衛視國際版",
-    "programme_count": 82,
+    "programme_count": 84,
     "date_range": {
       "start": "2025-12-03 00:00:00",
       "end": "2025-12-06 01:00:00"
@@ -6096,10 +6096,10 @@
   {
     "channel_id": "Kalaignar TV",
     "channel_name": "Kalaignar TV",
-    "programme_count": 31,
+    "programme_count": 81,
     "date_range": {
       "start": "2025-12-03 00:00:00",
-      "end": "2025-12-07 00:00:00"
+      "end": "2025-12-06 03:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6657,10 +6657,10 @@
   {
     "channel_id": "CCTV-4美洲频道",
     "channel_name": "CCTV-4美洲频道",
-    "programme_count": 84,
+    "programme_count": 63,
     "date_range": {
       "start": "2025-12-03 00:10:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 10:40:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -6668,10 +6668,10 @@
   {
     "channel_id": "劲爆体育 (3)",
     "channel_name": "劲爆体育",
-    "programme_count": 39,
+    "programme_count": 18,
     "date_range": {
       "start": "2025-12-03 00:00:00",
-      "end": "2025-12-05 00:00:00"
+      "end": "2025-12-04 08:12:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -7900,10 +7900,10 @@
   {
     "channel_id": "海峡卫视 (2)",
     "channel_name": "海峡卫视",
-    "programme_count": 46,
+    "programme_count": 89,
     "date_range": {
       "start": "2025-12-03 00:00:00",
-      "end": "2025-12-04 23:59:00"
+      "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8318,10 +8318,10 @@
   {
     "channel_id": "看看新聞直播",
     "channel_name": "看看新聞直播",
-    "programme_count": 1,
+    "programme_count": 5,
     "date_range": {
       "start": "2025-12-04 19:00:00",
-      "end": "2025-12-04 19:00:00"
+      "end": "2025-12-07 14:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8331,8 +8331,8 @@
     "channel_name": "第一財經直播",
     "programme_count": 400,
     "date_range": {
-      "start": "2025-10-17 15:00:00",
-      "end": "2025-12-05 14:30:00"
+      "start": "2025-10-18 09:00:00",
+      "end": "2025-12-05 16:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -8340,9 +8340,9 @@
   {
     "channel_id": "cctv1",
     "channel_name": "cctv1",
-    "programme_count": 103,
+    "programme_count": 98,
     "date_range": {
-      "start": "2025-12-02 02:45:00",
+      "start": "2025-12-02 06:00:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8351,9 +8351,9 @@
   {
     "channel_id": "cctv2",
     "channel_name": "cctv2",
-    "programme_count": 109,
+    "programme_count": 104,
     "date_range": {
-      "start": "2025-12-02 03:33:00",
+      "start": "2025-12-02 07:00:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8362,9 +8362,9 @@
   {
     "channel_id": "cctv3",
     "channel_name": "cctv3",
-    "programme_count": 76,
+    "programme_count": 71,
     "date_range": {
-      "start": "2025-12-02 02:41:20",
+      "start": "2025-12-02 07:27:15",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8373,9 +8373,9 @@
   {
     "channel_id": "cctv4亚洲",
     "channel_name": "cctv4亚洲",
-    "programme_count": 123,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8384,9 +8384,9 @@
   {
     "channel_id": "cctv5",
     "channel_name": "cctv5",
-    "programme_count": 60,
+    "programme_count": 57,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 07:00:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8395,9 +8395,9 @@
   {
     "channel_id": "cctv5+",
     "channel_name": "cctv5+",
-    "programme_count": 53,
+    "programme_count": 54,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 07:30:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8406,9 +8406,9 @@
   {
     "channel_id": "cctv6",
     "channel_name": "cctv6",
-    "programme_count": 62,
+    "programme_count": 60,
     "date_range": {
-      "start": "2025-12-02 03:24:30",
+      "start": "2025-12-02 06:55:18",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8417,9 +8417,9 @@
   {
     "channel_id": "cctv7",
     "channel_name": "cctv7",
-    "programme_count": 109,
+    "programme_count": 104,
     "date_range": {
-      "start": "2025-12-02 06:03:00",
+      "start": "2025-12-02 07:58:30",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8428,9 +8428,9 @@
   {
     "channel_id": "cctv8",
     "channel_name": "cctv8",
-    "programme_count": 112,
+    "programme_count": 105,
     "date_range": {
-      "start": "2025-12-02 03:52:45",
+      "start": "2025-12-02 07:57:05",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8439,9 +8439,9 @@
   {
     "channel_id": "cctv9",
     "channel_name": "cctv9",
-    "programme_count": 80,
+    "programme_count": 74,
     "date_range": {
-      "start": "2025-12-02 03:54:00",
+      "start": "2025-12-02 07:59:30",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8450,9 +8450,9 @@
   {
     "channel_id": "cctv10",
     "channel_name": "cctv10",
-    "programme_count": 86,
+    "programme_count": 80,
     "date_range": {
-      "start": "2025-12-02 06:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8461,9 +8461,9 @@
   {
     "channel_id": "cctv11",
     "channel_name": "cctv11",
-    "programme_count": 50,
+    "programme_count": 49,
     "date_range": {
-      "start": "2025-12-02 06:06:30",
+      "start": "2025-12-02 07:18:30",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8472,9 +8472,9 @@
   {
     "channel_id": "cctv12",
     "channel_name": "cctv12",
-    "programme_count": 85,
+    "programme_count": 82,
     "date_range": {
-      "start": "2025-12-02 06:03:00",
+      "start": "2025-12-02 07:52:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8483,9 +8483,9 @@
   {
     "channel_id": "cctv13",
     "channel_name": "cctv13",
-    "programme_count": 94,
+    "programme_count": 89,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 06:00:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8494,9 +8494,9 @@
   {
     "channel_id": "cctv14",
     "channel_name": "cctv14",
-    "programme_count": 45,
+    "programme_count": 42,
     "date_range": {
-      "start": "2025-12-02 06:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8505,9 +8505,9 @@
   {
     "channel_id": "cctv15",
     "channel_name": "cctv15",
-    "programme_count": 58,
+    "programme_count": 56,
     "date_range": {
-      "start": "2025-12-02 06:00:00",
+      "start": "2025-12-02 07:15:30",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8516,9 +8516,9 @@
   {
     "channel_id": "cctv16",
     "channel_name": "cctv16",
-    "programme_count": 76,
+    "programme_count": 74,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 07:30:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8527,9 +8527,9 @@
   {
     "channel_id": "cctv17",
     "channel_name": "cctv17",
-    "programme_count": 105,
+    "programme_count": 100,
     "date_range": {
-      "start": "2025-12-02 05:55:00",
+      "start": "2025-12-02 07:55:00",
       "end": "2025-12-04 23:59:00"
     },
     "has_programmes": true,
@@ -8538,9 +8538,9 @@
   {
     "channel_id": "cctv4k",
     "channel_name": "cctv4k",
-    "programme_count": 169,
+    "programme_count": 164,
     "date_range": {
-      "start": "2025-12-02 06:00:49",
+      "start": "2025-12-02 07:30:55",
       "end": "2025-12-04 23:59:25"
     },
     "has_programmes": true,
@@ -8549,9 +8549,9 @@
   {
     "channel_id": "cctv8k",
     "channel_name": "cctv8k",
-    "programme_count": 853,
+    "programme_count": 831,
     "date_range": {
-      "start": "2025-12-02 07:00:35",
+      "start": "2025-12-02 08:01:00",
       "end": "2025-12-04 22:59:25"
     },
     "has_programmes": true,
@@ -8560,9 +8560,9 @@
   {
     "channel_id": "cctv第一剧场",
     "channel_name": "cctv第一剧场",
-    "programme_count": 461,
+    "programme_count": 460,
     "date_range": {
-      "start": "2025-12-02 07:00:15",
+      "start": "2025-12-02 07:46:15",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8571,9 +8571,9 @@
   {
     "channel_id": "cctv风云剧场",
     "channel_name": "cctv风云剧场",
-    "programme_count": 173,
+    "programme_count": 170,
     "date_range": {
-      "start": "2025-12-02 07:00:00",
+      "start": "2025-12-02 07:52:29",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8593,9 +8593,9 @@
   {
     "channel_id": "cctv世界地理",
     "channel_name": "cctv世界地理",
-    "programme_count": 145,
+    "programme_count": 142,
     "date_range": {
-      "start": "2025-12-02 07:00:00",
+      "start": "2025-12-02 07:42:45",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8604,9 +8604,9 @@
   {
     "channel_id": "cctv风云音乐",
     "channel_name": "cctv风云音乐",
-    "programme_count": 73,
+    "programme_count": 72,
     "date_range": {
-      "start": "2025-12-02 07:00:00",
+      "start": "2025-12-02 07:45:30",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8626,9 +8626,9 @@
   {
     "channel_id": "cctv风云足球",
     "channel_name": "cctv风云足球",
-    "programme_count": 104,
+    "programme_count": 99,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 06:55:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8637,9 +8637,9 @@
   {
     "channel_id": "cctv高尔夫",
     "channel_name": "cctv高尔夫",
-    "programme_count": 46,
+    "programme_count": 44,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 06:45:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8670,9 +8670,9 @@
   {
     "channel_id": "cctv台球",
     "channel_name": "cctv台球",
-    "programme_count": 72,
+    "programme_count": 67,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 07:09:45",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8681,9 +8681,9 @@
   {
     "channel_id": "cctv电视指南",
     "channel_name": "cctv电视指南",
-    "programme_count": 393,
+    "programme_count": 371,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 07:44:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8692,9 +8692,9 @@
   {
     "channel_id": "cctv卫生健康",
     "channel_name": "cctv卫生健康",
-    "programme_count": 138,
+    "programme_count": 130,
     "date_range": {
-      "start": "2025-12-02 04:00:30",
+      "start": "2025-12-02 07:30:08",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8703,9 +8703,9 @@
   {
     "channel_id": "cgtn (2)",
     "channel_name": "cgtn",
-    "programme_count": 130,
+    "programme_count": 123,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8714,9 +8714,9 @@
   {
     "channel_id": "cgtn法语",
     "channel_name": "cgtn法语",
-    "programme_count": 117,
+    "programme_count": 110,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8725,9 +8725,9 @@
   {
     "channel_id": "cgtn俄语",
     "channel_name": "cgtn俄语",
-    "programme_count": 133,
+    "programme_count": 126,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8736,9 +8736,9 @@
   {
     "channel_id": "cgtn阿拉伯语",
     "channel_name": "cgtn阿拉伯语",
-    "programme_count": 125,
+    "programme_count": 118,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8747,9 +8747,9 @@
   {
     "channel_id": "cgtn西班牙语",
     "channel_name": "cgtn西班牙语",
-    "programme_count": 138,
+    "programme_count": 130,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8758,9 +8758,9 @@
   {
     "channel_id": "cgtn英文记录片",
     "channel_name": "cgtn英文记录片",
-    "programme_count": 102,
+    "programme_count": 96,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8769,9 +8769,9 @@
   {
     "channel_id": "北京卫视",
     "channel_name": "北京卫视",
-    "programme_count": 111,
+    "programme_count": 104,
     "date_range": {
-      "start": "2025-12-02 03:34:00",
+      "start": "2025-12-02 07:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8780,9 +8780,9 @@
   {
     "channel_id": "东方卫视",
     "channel_name": "东方卫视",
-    "programme_count": 136,
+    "programme_count": 128,
     "date_range": {
-      "start": "2025-12-02 04:00:00",
+      "start": "2025-12-02 07:01:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8791,9 +8791,9 @@
   {
     "channel_id": "江苏卫视",
     "channel_name": "江苏卫视",
-    "programme_count": 93,
+    "programme_count": 84,
     "date_range": {
-      "start": "2025-12-02 04:01:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8802,9 +8802,9 @@
   {
     "channel_id": "浙江卫视 (2)",
     "channel_name": "浙江卫视",
-    "programme_count": 128,
+    "programme_count": 117,
     "date_range": {
-      "start": "2025-12-02 03:23:00",
+      "start": "2025-12-02 07:56:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8813,9 +8813,9 @@
   {
     "channel_id": "湖南卫视",
     "channel_name": "湖南卫视",
-    "programme_count": 106,
+    "programme_count": 100,
     "date_range": {
-      "start": "2025-12-02 03:45:00",
+      "start": "2025-12-02 07:34:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8824,9 +8824,9 @@
   {
     "channel_id": "湖北卫视",
     "channel_name": "湖北卫视",
-    "programme_count": 92,
+    "programme_count": 86,
     "date_range": {
-      "start": "2025-12-02 03:26:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8835,9 +8835,9 @@
   {
     "channel_id": "广东卫视 (2)",
     "channel_name": "广东卫视",
-    "programme_count": 103,
+    "programme_count": 93,
     "date_range": {
-      "start": "2025-12-02 03:04:00",
+      "start": "2025-12-02 07:58:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8846,9 +8846,9 @@
   {
     "channel_id": "广西卫视 (2)",
     "channel_name": "广西卫视",
-    "programme_count": 95,
+    "programme_count": 85,
     "date_range": {
-      "start": "2025-12-02 03:34:00",
+      "start": "2025-12-02 07:37:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8857,9 +8857,9 @@
   {
     "channel_id": "黑龙江卫视",
     "channel_name": "黑龙江卫视",
-    "programme_count": 92,
+    "programme_count": 83,
     "date_range": {
-      "start": "2025-12-02 03:46:00",
+      "start": "2025-12-02 07:17:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8868,9 +8868,9 @@
   {
     "channel_id": "海南卫视",
     "channel_name": "海南卫视",
-    "programme_count": 110,
+    "programme_count": 103,
     "date_range": {
-      "start": "2025-12-02 03:22:00",
+      "start": "2025-12-02 07:33:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8879,9 +8879,9 @@
   {
     "channel_id": "重庆卫视",
     "channel_name": "重庆卫视",
-    "programme_count": 112,
+    "programme_count": 105,
     "date_range": {
-      "start": "2025-12-02 03:58:00",
+      "start": "2025-12-02 07:15:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8890,9 +8890,9 @@
   {
     "channel_id": "深圳卫视",
     "channel_name": "深圳卫视",
-    "programme_count": 134,
+    "programme_count": 120,
     "date_range": {
-      "start": "2025-12-02 03:27:00",
+      "start": "2025-12-02 07:59:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8901,9 +8901,9 @@
   {
     "channel_id": "四川卫视",
     "channel_name": "四川卫视",
-    "programme_count": 102,
+    "programme_count": 95,
     "date_range": {
-      "start": "2025-12-02 03:07:00",
+      "start": "2025-12-02 08:01:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8923,9 +8923,9 @@
   {
     "channel_id": "东南卫视",
     "channel_name": "东南卫视",
-    "programme_count": 98,
+    "programme_count": 92,
     "date_range": {
-      "start": "2025-12-02 03:32:00",
+      "start": "2025-12-02 07:01:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8934,9 +8934,9 @@
   {
     "channel_id": "贵州卫视",
     "channel_name": "贵州卫视",
-    "programme_count": 95,
+    "programme_count": 88,
     "date_range": {
-      "start": "2025-12-02 03:46:00",
+      "start": "2025-12-02 07:55:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8945,9 +8945,9 @@
   {
     "channel_id": "江西卫视",
     "channel_name": "江西卫视",
-    "programme_count": 85,
+    "programme_count": 77,
     "date_range": {
-      "start": "2025-12-02 02:29:00",
+      "start": "2025-12-02 07:58:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8956,9 +8956,9 @@
   {
     "channel_id": "辽宁卫视",
     "channel_name": "辽宁卫视",
-    "programme_count": 104,
+    "programme_count": 96,
     "date_range": {
-      "start": "2025-12-02 03:49:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8967,9 +8967,9 @@
   {
     "channel_id": "安徽卫视 (2)",
     "channel_name": "安徽卫视",
-    "programme_count": 99,
+    "programme_count": 90,
     "date_range": {
-      "start": "2025-12-02 02:48:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8978,9 +8978,9 @@
   {
     "channel_id": "河北卫视 (2)",
     "channel_name": "河北卫视",
-    "programme_count": 85,
+    "programme_count": 81,
     "date_range": {
-      "start": "2025-12-02 03:40:00",
+      "start": "2025-12-02 07:30:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -8989,9 +8989,9 @@
   {
     "channel_id": "山东卫视 (2)",
     "channel_name": "山东卫视",
-    "programme_count": 99,
+    "programme_count": 92,
     "date_range": {
-      "start": "2025-12-02 04:18:00",
+      "start": "2025-12-02 07:36:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9000,9 +9000,9 @@
   {
     "channel_id": "天津卫视",
     "channel_name": "天津卫视",
-    "programme_count": 89,
+    "programme_count": 82,
     "date_range": {
-      "start": "2025-12-02 03:43:00",
+      "start": "2025-12-02 07:47:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9011,9 +9011,9 @@
   {
     "channel_id": "吉林卫视",
     "channel_name": "吉林卫视",
-    "programme_count": 121,
+    "programme_count": 114,
     "date_range": {
-      "start": "2025-12-02 01:30:00",
+      "start": "2025-12-02 08:01:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9022,9 +9022,9 @@
   {
     "channel_id": "陕西卫视",
     "channel_name": "陕西卫视",
-    "programme_count": 95,
+    "programme_count": 88,
     "date_range": {
-      "start": "2025-12-02 03:57:00",
+      "start": "2025-12-02 07:34:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9033,9 +9033,9 @@
   {
     "channel_id": "甘肃卫视",
     "channel_name": "甘肃卫视",
-    "programme_count": 119,
+    "programme_count": 113,
     "date_range": {
-      "start": "2025-12-02 00:52:00",
+      "start": "2025-12-02 07:51:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9044,9 +9044,9 @@
   {
     "channel_id": "宁夏卫视",
     "channel_name": "宁夏卫视",
-    "programme_count": 111,
+    "programme_count": 106,
     "date_range": {
-      "start": "2025-12-02 02:00:00",
+      "start": "2025-12-02 07:52:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9055,9 +9055,9 @@
   {
     "channel_id": "内蒙古卫视",
     "channel_name": "内蒙古卫视",
-    "programme_count": 108,
+    "programme_count": 102,
     "date_range": {
-      "start": "2025-12-02 03:30:00",
+      "start": "2025-12-02 07:55:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9066,9 +9066,9 @@
   {
     "channel_id": "云南卫视",
     "channel_name": "云南卫视",
-    "programme_count": 96,
+    "programme_count": 91,
     "date_range": {
-      "start": "2025-12-02 02:06:00",
+      "start": "2025-12-02 08:02:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9077,9 +9077,9 @@
   {
     "channel_id": "山西卫视",
     "channel_name": "山西卫视",
-    "programme_count": 89,
+    "programme_count": 82,
     "date_range": {
-      "start": "2025-12-02 03:40:00",
+      "start": "2025-12-02 07:25:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9088,9 +9088,9 @@
   {
     "channel_id": "青海卫视",
     "channel_name": "青海卫视",
-    "programme_count": 93,
+    "programme_count": 87,
     "date_range": {
-      "start": "2025-12-02 05:00:00",
+      "start": "2025-12-02 07:36:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9099,9 +9099,9 @@
   {
     "channel_id": "西藏卫视",
     "channel_name": "西藏卫视",
-    "programme_count": 122,
+    "programme_count": 114,
     "date_range": {
-      "start": "2025-12-02 03:31:00",
+      "start": "2025-12-02 07:51:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9110,9 +9110,9 @@
   {
     "channel_id": "中国教育电视台-1",
     "channel_name": "中国教育电视台-1",
-    "programme_count": 191,
+    "programme_count": 176,
     "date_range": {
-      "start": "2025-12-02 03:20:00",
+      "start": "2025-12-02 07:55:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9121,9 +9121,9 @@
   {
     "channel_id": "新疆卫视",
     "channel_name": "新疆卫视",
-    "programme_count": 112,
+    "programme_count": 105,
     "date_range": {
-      "start": "2025-12-02 03:51:00",
+      "start": "2025-12-02 08:00:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9132,9 +9132,9 @@
   {
     "channel_id": "兵团卫视",
     "channel_name": "兵团卫视",
-    "programme_count": 93,
+    "programme_count": 91,
     "date_range": {
-      "start": "2025-12-02 00:01:00",
+      "start": "2025-12-02 06:17:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9143,9 +9143,9 @@
   {
     "channel_id": "国学频道",
     "channel_name": "国学频道",
-    "programme_count": 159,
+    "programme_count": 150,
     "date_range": {
-      "start": "2025-12-02 03:54:00",
+      "start": "2025-12-02 07:34:00",
       "end": "2025-12-05 00:00:00"
     },
     "has_programmes": true,
@@ -9165,7 +9165,7 @@
   {
     "channel_id": "香港電台32",
     "channel_name": "香港電台32",
-    "programme_count": 46,
+    "programme_count": 50,
     "date_range": {
       "start": "2025-12-03 00:00:00",
       "end": "2025-12-05 00:00:00"
@@ -15446,9 +15446,9 @@
   {
     "channel_id": "ELTV生活英語台 (2)",
     "channel_name": "ELTV生活英語台",
-    "programme_count": 134,
+    "programme_count": 130,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -15622,9 +15622,9 @@
   {
     "channel_id": "中天新聞台 (2)",
     "channel_name": "中天新聞台",
-    "programme_count": 86,
+    "programme_count": 82,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-07 07:00:00"
     },
     "has_programmes": true,
@@ -15644,9 +15644,9 @@
   {
     "channel_id": "寰宇新聞台 (2)",
     "channel_name": "寰宇新聞台",
-    "programme_count": 120,
+    "programme_count": 116,
     "date_range": {
-      "start": "2025-12-03 16:55:00",
+      "start": "2025-12-03 20:55:00",
       "end": "2025-12-08 15:55:00"
     },
     "has_programmes": true,
@@ -15655,9 +15655,9 @@
   {
     "channel_id": "寰宇新聞台灣台 (2)",
     "channel_name": "寰宇新聞台灣台",
-    "programme_count": 119,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-12-03 16:55:00",
+      "start": "2025-12-03 20:55:00",
       "end": "2025-12-08 15:55:00"
     },
     "has_programmes": true,
@@ -16491,9 +16491,9 @@
   {
     "channel_id": "好消息2台 (2)",
     "channel_name": "好消息2台",
-    "programme_count": 224,
+    "programme_count": 217,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -16502,9 +16502,9 @@
   {
     "channel_id": "好消息 (2)",
     "channel_name": "好消息",
-    "programme_count": 228,
+    "programme_count": 217,
     "date_range": {
-      "start": "2025-12-03 17:30:00",
+      "start": "2025-12-03 21:05:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -16535,9 +16535,9 @@
   {
     "channel_id": "亞洲旅遊台 (3)",
     "channel_name": "亞洲旅遊台",
-    "programme_count": 119,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -16667,9 +16667,9 @@
   {
     "channel_id": "中視新聞 (2)",
     "channel_name": "中視新聞",
-    "programme_count": 110,
+    "programme_count": 106,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 07:00:00"
     },
     "has_programmes": true,
@@ -17140,9 +17140,9 @@
   {
     "channel_id": "中視 (3)",
     "channel_name": "中視",
-    "programme_count": 109,
+    "programme_count": 104,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 07:00:00"
     },
     "has_programmes": true,
@@ -17151,9 +17151,9 @@
   {
     "channel_id": "華視 (3)",
     "channel_name": "華視",
-    "programme_count": 110,
+    "programme_count": 107,
     "date_range": {
-      "start": "2025-12-03 16:58:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 07:00:00"
     },
     "has_programmes": true,
@@ -17162,9 +17162,9 @@
   {
     "channel_id": "好消息2台 (2)",
     "channel_name": "好消息2台",
-    "programme_count": 224,
+    "programme_count": 217,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17173,9 +17173,9 @@
   {
     "channel_id": "好消息 (2)",
     "channel_name": "好消息",
-    "programme_count": 228,
+    "programme_count": 217,
     "date_range": {
-      "start": "2025-12-03 17:30:00",
+      "start": "2025-12-03 21:05:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17184,9 +17184,9 @@
   {
     "channel_id": "ELTV生活英語台 (2)",
     "channel_name": "ELTV生活英語台",
-    "programme_count": 134,
+    "programme_count": 130,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17195,9 +17195,9 @@
   {
     "channel_id": "龍華卡通台 (3)",
     "channel_name": "龍華卡通台",
-    "programme_count": 237,
+    "programme_count": 230,
     "date_range": {
-      "start": "2025-12-03 17:30:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17206,9 +17206,9 @@
   {
     "channel_id": "亞洲旅遊台 (3)",
     "channel_name": "亞洲旅遊台",
-    "programme_count": 119,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17217,9 +17217,9 @@
   {
     "channel_id": "Smart知識台 (2)",
     "channel_name": "Smart知識台",
-    "programme_count": 107,
+    "programme_count": 103,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17228,9 +17228,9 @@
   {
     "channel_id": "龍華戲劇台 (2)",
     "channel_name": "龍華戲劇台",
-    "programme_count": 118,
+    "programme_count": 114,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17239,9 +17239,9 @@
   {
     "channel_id": "台灣戲劇台",
     "channel_name": "台灣戲劇台",
-    "programme_count": 124,
+    "programme_count": 118,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17250,9 +17250,9 @@
   {
     "channel_id": "東森購物1台 (3)",
     "channel_name": "東森購物1台",
-    "programme_count": 178,
+    "programme_count": 173,
     "date_range": {
-      "start": "2025-12-03 17:20:00",
+      "start": "2025-12-03 20:40:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17261,9 +17261,9 @@
   {
     "channel_id": "龍華偶像台 (2)",
     "channel_name": "龍華偶像台",
-    "programme_count": 123,
+    "programme_count": 119,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17272,9 +17272,9 @@
   {
     "channel_id": "龍華日韓台 (2)",
     "channel_name": "龍華日韓台",
-    "programme_count": 119,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17283,9 +17283,9 @@
   {
     "channel_id": "東森購物2台 (3)",
     "channel_name": "東森購物2台",
-    "programme_count": 178,
+    "programme_count": 173,
     "date_range": {
-      "start": "2025-12-03 17:20:00",
+      "start": "2025-12-03 20:40:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17294,9 +17294,9 @@
   {
     "channel_id": "華視新聞 (2)",
     "channel_name": "華視新聞",
-    "programme_count": 104,
+    "programme_count": 102,
     "date_range": {
-      "start": "2025-12-03 16:53:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 07:00:00"
     },
     "has_programmes": true,
@@ -17305,9 +17305,9 @@
   {
     "channel_id": "倪珍播新聞 (2)",
     "channel_name": "倪珍播新聞",
-    "programme_count": 20,
+    "programme_count": 19,
     "date_range": {
-      "start": "2025-12-03 12:00:00",
+      "start": "2025-12-03 18:00:00",
       "end": "2025-12-08 12:00:00"
     },
     "has_programmes": true,
@@ -17316,9 +17316,9 @@
   {
     "channel_id": "三立新聞iNEWS (2)",
     "channel_name": "三立新聞iNEWS",
-    "programme_count": 109,
+    "programme_count": 105,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17327,9 +17327,9 @@
   {
     "channel_id": "寰宇財經台 (2)",
     "channel_name": "寰宇財經台",
-    "programme_count": 119,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17338,9 +17338,9 @@
   {
     "channel_id": "中視新聞 (2)",
     "channel_name": "中視新聞",
-    "programme_count": 110,
+    "programme_count": 106,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 07:00:00"
     },
     "has_programmes": true,
@@ -17349,9 +17349,9 @@
   {
     "channel_id": "中天新聞台 (2)",
     "channel_name": "中天新聞台",
-    "programme_count": 86,
+    "programme_count": 82,
     "date_range": {
-      "start": "2025-12-03 17:00:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-07 07:00:00"
     },
     "has_programmes": true,
@@ -17360,9 +17360,9 @@
   {
     "channel_id": "寰宇新聞台灣台 (2)",
     "channel_name": "寰宇新聞台灣台",
-    "programme_count": 119,
+    "programme_count": 115,
     "date_range": {
-      "start": "2025-12-03 16:55:00",
+      "start": "2025-12-03 20:55:00",
       "end": "2025-12-08 15:55:00"
     },
     "has_programmes": true,
@@ -17371,9 +17371,9 @@
   {
     "channel_id": "寰宇新聞台 (2)",
     "channel_name": "寰宇新聞台",
-    "programme_count": 120,
+    "programme_count": 116,
     "date_range": {
-      "start": "2025-12-03 16:55:00",
+      "start": "2025-12-03 20:55:00",
       "end": "2025-12-08 15:55:00"
     },
     "has_programmes": true,
@@ -17382,9 +17382,9 @@
   {
     "channel_id": "第1商業台 (2)",
     "channel_name": "第1商業台",
-    "programme_count": 217,
+    "programme_count": 210,
     "date_range": {
-      "start": "2025-12-03 17:30:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 16:00:00"
     },
     "has_programmes": true,
@@ -17393,9 +17393,9 @@
   {
     "channel_id": "國會頻道1台 (3)",
     "channel_name": "國會頻道1台",
-    "programme_count": 27,
+    "programme_count": 26,
     "date_range": {
-      "start": "2025-12-03 09:00:00",
+      "start": "2025-12-03 18:00:00",
       "end": "2025-12-08 09:00:00"
     },
     "has_programmes": true,
@@ -17404,9 +17404,9 @@
   {
     "channel_id": "國會頻道2台 (3)",
     "channel_name": "國會頻道2台",
-    "programme_count": 27,
+    "programme_count": 26,
     "date_range": {
-      "start": "2025-12-03 09:00:00",
+      "start": "2025-12-03 18:00:00",
       "end": "2025-12-08 09:00:00"
     },
     "has_programmes": true,
@@ -17415,9 +17415,9 @@
   {
     "channel_id": "龍華經典台 (2)",
     "channel_name": "龍華經典台",
-    "programme_count": 50,
+    "programme_count": 48,
     "date_range": {
-      "start": "2025-12-03 16:30:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 15:05:00"
     },
     "has_programmes": true,
@@ -17426,9 +17426,9 @@
   {
     "channel_id": "龍華電影台",
     "channel_name": "龍華電影台",
-    "programme_count": 57,
+    "programme_count": 55,
     "date_range": {
-      "start": "2025-12-03 16:10:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 14:10:00"
     },
     "has_programmes": true,
@@ -17437,9 +17437,9 @@
   {
     "channel_id": "龍華洋片台",
     "channel_name": "龍華洋片台",
-    "programme_count": 66,
+    "programme_count": 63,
     "date_range": {
-      "start": "2025-12-03 15:55:00",
+      "start": "2025-12-03 21:00:00",
       "end": "2025-12-08 15:35:00"
     },
     "has_programmes": true,
@@ -17451,7 +17451,7 @@
     "programme_count": 139,
     "date_range": {
       "start": "2025-12-02 17:55:00",
-      "end": "2025-12-08 10:40:00"
+      "end": "2025-12-08 04:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17484,7 +17484,7 @@
     "programme_count": 99,
     "date_range": {
       "start": "2025-12-01 21:00:00",
-      "end": "2025-12-03 22:40:00"
+      "end": "2025-12-03 22:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17506,7 +17506,7 @@
     "programme_count": 139,
     "date_range": {
       "start": "2025-12-02 05:40:00",
-      "end": "2025-12-07 07:05:00"
+      "end": "2025-12-07 03:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17514,10 +17514,10 @@
   {
     "channel_id": "東森娛樂台",
     "channel_name": "東森娛樂台",
-    "programme_count": 137,
+    "programme_count": 199,
     "date_range": {
       "start": "2025-12-01 17:20:00",
-      "end": "2025-12-06 21:05:00"
+      "end": "2025-12-09 01:45:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17528,7 +17528,7 @@
     "programme_count": 199,
     "date_range": {
       "start": "2025-11-30 05:40:00",
-      "end": "2025-12-06 21:40:00"
+      "end": "2025-12-06 13:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17550,10 +17550,10 @@
     "programme_count": 99,
     "date_range": {
       "start": "2025-12-02 12:00:00",
-      "end": "2025-12-03 21:35:00"
+      "end": "2025-12-03 20:20:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "Yes娛樂",
@@ -17605,7 +17605,7 @@
     "programme_count": 59,
     "date_range": {
       "start": "2025-12-03 00:00:00",
-      "end": "2025-12-04 11:30:00"
+      "end": "2025-12-04 11:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17616,10 +17616,10 @@
     "programme_count": 13,
     "date_range": {
       "start": "2025-12-02 18:00:00",
-      "end": "2025-12-03 20:50:00"
+      "end": "2025-12-03 19:05:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "周星馳台",
@@ -17704,7 +17704,7 @@
     "programme_count": 48,
     "date_range": {
       "start": "2025-12-03 06:50:00",
-      "end": "2025-12-04 05:30:00"
+      "end": "2025-12-04 05:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17715,7 +17715,7 @@
     "programme_count": 48,
     "date_range": {
       "start": "2025-12-02 21:55:00",
-      "end": "2025-12-03 13:55:00"
+      "end": "2025-12-03 13:10:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -17726,7 +17726,7 @@
     "programme_count": 78,
     "date_range": {
       "start": "2025-12-02 04:55:00",
-      "end": "2025-12-03 13:40:00"
+      "end": "2025-12-03 11:25:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -17737,7 +17737,7 @@
     "programme_count": 99,
     "date_range": {
       "start": "2025-12-02 22:55:00",
-      "end": "2025-12-03 17:05:00"
+      "end": "2025-12-03 16:40:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -17748,7 +17748,7 @@
     "programme_count": 62,
     "date_range": {
       "start": "2025-12-02 19:30:00",
-      "end": "2025-12-03 12:50:00"
+      "end": "2025-12-03 11:55:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -17759,7 +17759,7 @@
     "programme_count": 4,
     "date_range": {
       "start": "2025-12-03 05:30:00",
-      "end": "2025-12-03 15:05:00"
+      "end": "2025-12-03 14:20:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -17770,7 +17770,7 @@
     "programme_count": 59,
     "date_range": {
       "start": "2025-12-03 00:35:00",
-      "end": "2025-12-03 10:45:00"
+      "end": "2025-12-03 10:30:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -17803,7 +17803,7 @@
     "programme_count": 69,
     "date_range": {
       "start": "2025-12-02 20:50:00",
-      "end": "2025-12-04 12:30:00"
+      "end": "2025-12-04 12:25:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18144,7 +18144,7 @@
     "programme_count": 95,
     "date_range": {
       "start": "2025-12-01 06:55:00",
-      "end": "2025-12-04 14:35:00"
+      "end": "2025-12-04 14:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18180,7 +18180,7 @@
       "end": "2025-12-03 18:10:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "天才衝衝衝",
@@ -18199,7 +18199,7 @@
     "programme_count": 90,
     "date_range": {
       "start": "2025-12-01 15:10:00",
-      "end": "2025-12-04 18:20:00"
+      "end": "2025-12-04 18:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18221,10 +18221,10 @@
     "programme_count": 95,
     "date_range": {
       "start": "2025-12-02 06:50:00",
-      "end": "2025-12-03 22:15:00"
+      "end": "2025-12-03 22:00:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "木曜4超玩 一日系列",
@@ -18235,7 +18235,7 @@
       "end": "2025-12-03 21:20:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "月曜1起玩",
@@ -18243,7 +18243,7 @@
     "programme_count": 99,
     "date_range": {
       "start": "2025-12-03 08:00:00",
-      "end": "2025-12-06 11:05:00"
+      "end": "2025-12-06 10:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18496,7 +18496,7 @@
     "programme_count": 99,
     "date_range": {
       "start": "2025-12-02 00:40:00",
-      "end": "2025-12-04 04:05:00"
+      "end": "2025-12-04 03:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18510,7 +18510,7 @@
       "end": "2025-12-03 21:10:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "獵人(中文版)",
@@ -18532,7 +18532,7 @@
       "end": "2025-12-03 20:55:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "隊長小翼(中文版)",
@@ -18554,7 +18554,7 @@
       "end": "2025-12-03 19:55:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "SPY X FAMILY 間諜家家酒(中文版)",
@@ -18609,7 +18609,7 @@
       "end": "2025-12-03 20:10:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "鋼之鍊金術師",
@@ -18617,7 +18617,7 @@
     "programme_count": 50,
     "date_range": {
       "start": "2025-12-03 05:20:00",
-      "end": "2025-12-04 06:20:00"
+      "end": "2025-12-04 06:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18642,7 +18642,7 @@
       "end": "2025-12-03 21:15:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "史上最強弟子兼一(中文版)",
@@ -18664,7 +18664,7 @@
       "end": "2025-12-03 18:55:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "膽大黨",
@@ -18716,7 +18716,7 @@
     "programme_count": 51,
     "date_range": {
       "start": "2025-12-03 07:30:00",
-      "end": "2025-12-04 09:40:00"
+      "end": "2025-12-04 09:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18727,7 +18727,7 @@
     "programme_count": 62,
     "date_range": {
       "start": "2025-12-02 22:30:00",
-      "end": "2025-12-04 10:35:00"
+      "end": "2025-12-04 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18771,7 +18771,7 @@
     "programme_count": 9,
     "date_range": {
       "start": "2025-12-01 22:45:00",
-      "end": "2025-12-03 08:10:00"
+      "end": "2025-12-03 05:20:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -18793,7 +18793,7 @@
     "programme_count": 9,
     "date_range": {
       "start": "2025-12-03 05:25:00",
-      "end": "2025-12-03 14:30:00"
+      "end": "2025-12-03 14:25:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -18878,10 +18878,10 @@
   {
     "channel_id": "電動車時代",
     "channel_name": "電動車時代",
-    "programme_count": 99,
+    "programme_count": 98,
     "date_range": {
       "start": "2025-12-02 19:40:00",
-      "end": "2025-12-04 18:15:00"
+      "end": "2025-12-04 16:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18892,10 +18892,10 @@
     "programme_count": 62,
     "date_range": {
       "start": "2025-12-03 04:05:00",
-      "end": "2025-12-03 20:35:00"
+      "end": "2025-12-03 19:55:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "狂人日誌",
@@ -18903,7 +18903,7 @@
     "programme_count": 62,
     "date_range": {
       "start": "2025-12-02 07:15:00",
-      "end": "2025-12-03 09:30:00"
+      "end": "2025-12-03 08:20:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -18914,7 +18914,7 @@
     "programme_count": 95,
     "date_range": {
       "start": "2025-12-02 08:55:00",
-      "end": "2025-12-03 12:25:00"
+      "end": "2025-12-03 10:15:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -18958,7 +18958,7 @@
     "programme_count": 95,
     "date_range": {
       "start": "2025-12-02 15:45:00",
-      "end": "2025-12-05 23:10:00"
+      "end": "2025-12-05 23:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18991,7 +18991,7 @@
     "programme_count": 95,
     "date_range": {
       "start": "2025-12-03 04:50:00",
-      "end": "2025-12-06 12:10:00"
+      "end": "2025-12-06 12:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19013,7 +19013,7 @@
     "programme_count": 95,
     "date_range": {
       "start": "2025-12-02 02:55:00",
-      "end": "2025-12-05 10:15:00"
+      "end": "2025-12-05 10:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19045,22 +19045,22 @@
     "channel_name": "台灣真善美",
     "programme_count": 34,
     "date_range": {
-      "start": "2025-12-01 22:35:00",
-      "end": "2025-12-03 05:20:00"
+      "start": "2025-12-03 07:20:00",
+      "end": "2025-12-04 14:05:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "請問今晚住誰家",
     "channel_name": "請問今晚住誰家",
     "programme_count": 95,
     "date_range": {
-      "start": "2025-11-29 16:35:00",
-      "end": "2025-12-02 23:45:00"
+      "start": "2025-12-03 05:50:00",
+      "end": "2025-12-06 13:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "早餐中國",
@@ -19115,18 +19115,18 @@
       "end": "2025-12-03 20:45:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "秘境不思溢",
     "channel_name": "秘境不思溢",
     "programme_count": 28,
     "date_range": {
-      "start": "2025-12-02 04:10:00",
-      "end": "2025-12-03 04:35:00"
+      "start": "2025-12-03 07:15:00",
+      "end": "2025-12-04 07:40:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "紓壓雷雨聲",
@@ -19134,7 +19134,7 @@
     "programme_count": 1,
     "date_range": {
       "start": "2025-12-03 06:00:00",
-      "end": "2025-12-03 07:15:00"
+      "end": "2025-12-03 07:10:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -19145,7 +19145,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 07:55:00",
-      "end": "2025-12-03 10:25:00"
+      "end": "2025-12-03 10:15:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -19156,7 +19156,7 @@
     "programme_count": 4,
     "date_range": {
       "start": "2025-12-03 07:15:00",
-      "end": "2025-12-03 12:30:00"
+      "end": "2025-12-03 11:55:00"
     },
     "has_programmes": true,
     "is_valid": false
@@ -19167,7 +19167,7 @@
     "programme_count": 2,
     "date_range": {
       "start": "2025-12-03 07:20:00",
-      "end": "2025-12-03 09:55:00"
+      "end": "2025-12-03 09:40:00"
     },
     "has_programmes": true,
     "is_valid": false
