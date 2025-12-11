@@ -990,6 +990,10 @@
 | 粵語片台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/粵語片台.png> |
 | 粵語片台-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/粵語片台-V2.png> |
 | 亚洲旅游台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/亚洲旅游台.png> |
+| 亞洲衛視 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/亞洲衛視.png> |
+| 亚洲卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/亚洲卫视.png> |
+| 亚洲卫视-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/亚洲卫视-V2.png> |
+| 亞洲衛視-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/亞洲衛視-V2.png> |
 | 延边卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/延边卫视.png> |
 | 游戏风云 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/游戏风云.png> |
 | 娱乐新闻台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/娱乐新闻台.png> |
