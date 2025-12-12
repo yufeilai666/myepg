@@ -715,6 +715,10 @@
 | 黃金翡翠台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/黃金翡翠台.png> |
 | 黃金華劇台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/黃金華劇台.png> |
 | 黄金华剧台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/黄金华剧台.png> |
+| 環球電視台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/環球電視台.png> |
+| 环球电视台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/环球电视台.png> |
+| 環球電視台V-2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/環球電視台V-2.png> |
+| 环球电视台V-2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/环球电视台V-2.png> |
 | 寰宇財經台-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/寰宇財經台-V2.png> |
 | 寰宇新聞台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/寰宇新聞台.png> |
 | 寰宇新聞台灣台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/寰宇新聞台灣台.png> |
