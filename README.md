@@ -21,8 +21,13 @@
 | ANIMALPLANET-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ANIMALPLANET-V3.png> |
 | ANIMAX | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ANIMAX.png> |
 | ARIRANGTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ARIRANGTV.png> |
+| ASTRO-AEC | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-AEC.png> |
+| ASTRO-AEC-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-AEC-V2.png> |
+| ASTRO-AEC-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-AEC-V3.png> |
 | ASTRO-AOD | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-AOD.png> |
 | ASTRO-AOD | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-AOD.jpg> |
+| ASTRO-QJ | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-QJ.png> |
+| ASTRO-QJ-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTRO-QJ-V2.png> |
 | ASTROAOD | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTROAOD.png> |
 | ASTROAOD | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTROAOD.jpg> |
 | ASTROAOD-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/ASTROAOD-V2.png> |
