@@ -148,6 +148,7 @@
 | CN卡通頻道 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/CN卡通頻道.png> |
 | CTI+ | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/CTI+.png> |
 | CTI+-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/CTI+-V2.png> |
+| Channel5 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/Channel5.png> |
 | CinemaWorld | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/CinemaWorld.png> |
 | CtiEntertainment | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/CtiEntertainment.png> |
 | DAZN1 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/DAZN1.png> |
@@ -576,7 +577,10 @@
 | 八大综合台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/八大综合台.png> |
 | 八大綜藝台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/八大綜藝台.png> |
 | 八大综艺台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/八大综艺台.png> |
+| 八度空間 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/八度空間.png> |
 | 八度空间 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/八度空间.png> |
+| 八度空間-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/八度空間-V2.png> |
+| 八度空间-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/八度空间-V2.png> |
 | 北京财经 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/北京财经.png> |
 | 北京纪实科教 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/北京纪实科教.png> |
 | 北京纪实科教8K | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/北京纪实科教8K.png> |
