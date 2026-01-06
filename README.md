@@ -624,6 +624,10 @@
 | 动物星球 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/动物星球.png> |
 | 东方卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/东方卫视.png> |
 | 东方卫视4K | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/东方卫视4K.png> |
+| 東風衛視 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/東風衛視.png> |
+| 东风卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/东风卫视.png> |
+| 東風衛視-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/東風衛視-V2.png> |
+| 东风卫视-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/东风卫视-V2.png> |
 | 东南卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/东南卫视.png> |
 | 東森LIVE | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/東森LIVE.jpg> |
 | 东森LIVE | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/东森LIVE.jpg> |
@@ -975,6 +979,12 @@
 | 五星体育 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/五星体育.png> |
 | 厦门卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/厦门卫视.png> |
 | 香港國際財經台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/香港國際財經台.png> |
+| 香港衛視 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/香港衛視.png> |
+| 香港卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/香港卫视.png> |
+| 香港衛視-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/香港衛視-V2.png> |
+| 香港卫视-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/香港卫视-V2.png> |
+| 香港衛視文旅臺 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/香港衛視文旅臺.png> |
+| 香港卫视文旅台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/香港卫视文旅台.png> |
 | 香蕉台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/香蕉台.png> |
 | 小公視 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/小公視.png> |
 | 幸福空间居家 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/幸福空间居家.png> |
@@ -982,6 +992,8 @@
 | 幸福空間居家台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/幸福空間居家台.png> |
 | 幸福空间居家台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/幸福空间居家台.png> |
 | 星光院线 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/星光院线.png> |
+| 星空衛視 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/星空衛視.png> |
+| 星空卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/星空卫视.png> |
 | 新疆卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/新疆卫视.png> |
 | 新加坡CH5 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/新加坡CH5.png> |
 | 新加坡CH8 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/新加坡CH8.png> |
