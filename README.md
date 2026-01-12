@@ -58,6 +58,9 @@
 | BBC-LIFESTYLE | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/BBC-LIFESTYLE.png> |
 | BBCEARTH | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/BBCEARTH.png> |
 | BBCEarth-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/BBCEarth-V2.png> |
+| C+ | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/C+.jpg> |
+| C+頻道 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/C+頻道.jpg> |
+| C+频道 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/C+频道.jpg> |
 | CATCHPLAY电影台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/CATCHPLAY电影台.png> |
 | CATCHPLAY電影台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/CATCHPLAY電影台.png> |
 | CCTV1 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/CCTV1.png> |
