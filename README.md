@@ -7,6 +7,8 @@
 
 | logo名称 | logo链接 |
 |----------|----------|
+| 1905电影网 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/1905电影网.png> |
+| 1905電影網 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/1905電影網.png> |
 | 28AI智慧赛马 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/28AI智慧赛马.png> |
 | 28AI智慧赛马-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/28AI智慧赛马-V2.png> |
 | 88台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/88台.png> |
@@ -1023,6 +1025,8 @@
 | 亚洲卫视-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/亚洲卫视-V2.png> |
 | 亞洲衛視-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/亞洲衛視-V2.png> |
 | 延边卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/延边卫视.png> |
+| 阳光卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/阳光卫视.png> |
+| 陽光衛視 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/陽光衛視.png> |
 | 游戏风云 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/游戏风云.png> |
 | 娱乐新闻台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/娱乐新闻台.png> |
 | 娛樂新聞台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/娛樂新聞台.png> |
