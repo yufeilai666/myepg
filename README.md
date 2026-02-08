@@ -765,6 +765,7 @@
 | 哈哈炫动 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/哈哈炫动.png> |
 | 黑龙江卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/黑龙江卫视.png> |
 | 海南卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/海南卫视.png> |
+| 海峡卫视 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/海峡卫视.png> |
 | 好萊塢電影 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/好萊塢電影.png> |
 | 好莱坞电影台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/好莱坞电影台.png> |
 | 好消息1台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/好消息1台.png> |
