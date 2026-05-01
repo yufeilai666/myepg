@@ -359,6 +359,7 @@
 | MYTVSUPER千禧經典台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MYTVSUPER千禧經典台.png> |
 | MYTVSUPER戲曲台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MYTVSUPER戲曲台.png> |
 | MYTVSUPER粵語片台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MYTVSUPER粵語片台.png> |
+| MotorVision | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MotorVision.png> |
 | MotorVision | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/MotorVision.jpg> |
 | NATIONAL-GEOGRAPHIC | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/NATIONAL-GEOGRAPHIC.png> |
 | NBA | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/NBA.png> |
@@ -474,7 +475,9 @@
 | STARMOVIES-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/STARMOVIES-V3.png> |
 | SUPER-KidsChannel | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/SUPER-KidsChannel.png> |
 | SUPERKIDSCHANNEL | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/SUPERKIDSCHANNEL.png> |
+| SportsPlus | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/SportsPlus.png> |
 | SportsPlus | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/SportsPlus.jpg> |
+| SpotOnNews | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/SpotOnNews.png> |
 | SpotOnNews | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/SpotOnNews.jpg> |
 | TAIWANPLUS | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TAIWANPLUS.png> |
 | TAIWANPLUS | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TAIWANPLUS.jpg> |
@@ -533,6 +536,7 @@
 | TVNMOVIES | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVNMOVIES.png> |
 | TVNMOVIES-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVNMOVIES-V2.png> |
 | TVN綜合娛樂 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TVN綜合娛樂.png> |
+| Travel&FoodTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/Travel&FoodTV.png> |
 | Travel&FoodTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/Travel&FoodTV.jpg> |
 | TravelNFoodTV | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/TravelNFoodTV.jpg> |
 | UniqueNews | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/UniqueNews.png> |
