@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout main branch
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         token: ${{ secrets.PAT_TOKEN }}
         ref: main
@@ -112,7 +112,7 @@ jobs:
     needs: sync-to-main  # 确保在 main 分支同步完成后执行
     steps:
     - name: Checkout logo_info branch
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         token: ${{ secrets.PAT_TOKEN }}
         ref: logo_info
