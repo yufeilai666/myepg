@@ -258,9 +258,11 @@
 | HOPSPORTS | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOPSPORTS.png> |
 | HOT频道 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOT频道.png> |
 | HOY76 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY76.png> |
+| HOY76-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY76-V2.png> |
 | HOY76國際財經台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY76國際財經台.png> |
 | HOY76国际财经台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY76国际财经台.png> |
 | HOY77 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY77.png> |
+| HOY77-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY77-V2.png> |
 | HOY78 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY78.png> |
 | HOY78资讯台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY78资讯台.png> |
 | HOY78資訊台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/HOY78資訊台.png> |
