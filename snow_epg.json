@@ -178,10 +178,10 @@
   {
     "channel_id": "重温经典",
     "channel_name": "重温经典",
-    "programme_count": 86,
+    "programme_count": 90,
     "date_range": {
-      "start": "2026-05-28 06:02:00",
-      "end": "2026-05-31 06:00:00"
+      "start": "2026-05-29 06:00:00",
+      "end": "2026-06-01 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -349,7 +349,7 @@
       "end": "2026-05-30 06:55:33"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "三立國際台",
@@ -7477,7 +7477,7 @@
       "end": "2026-05-30 04:42:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "山东少儿",
@@ -8989,9 +8989,9 @@
   {
     "channel_id": "香港卫视",
     "channel_name": "香港卫视",
-    "programme_count": 120,
+    "programme_count": 57,
     "date_range": {
-      "start": "2026-05-29 00:11:00",
+      "start": "2026-05-30 00:11:00",
       "end": "2026-05-31 00:00:00"
     },
     "has_programmes": true,
@@ -9000,9 +9000,9 @@
   {
     "channel_id": "CCTV4EUO",
     "channel_name": "CCTV4 欧洲",
-    "programme_count": 87,
+    "programme_count": 43,
     "date_range": {
-      "start": "2026-05-29 00:00:00",
+      "start": "2026-05-30 00:00:00",
       "end": "2026-05-31 00:00:00"
     },
     "has_programmes": true,
@@ -9011,9 +9011,9 @@
   {
     "channel_id": "CCTV4AME",
     "channel_name": "CCTV4 美洲",
-    "programme_count": 85,
+    "programme_count": 44,
     "date_range": {
-      "start": "2026-05-29 00:00:00",
+      "start": "2026-05-30 00:00:00",
       "end": "2026-05-31 00:00:00"
     },
     "has_programmes": true,
@@ -9025,6 +9025,17 @@
     "programme_count": 699,
     "date_range": {
       "start": "2026-05-16 00:15:00",
+      "end": "2026-06-06 23:30:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "HOY 77",
+    "channel_name": "HOY 77",
+    "programme_count": 742,
+    "date_range": {
+      "start": "2026-05-16 00:45:00",
       "end": "2026-06-06 23:30:00"
     },
     "has_programmes": true,
@@ -15149,9 +15160,9 @@
   {
     "channel_id": "ELTV生活英語台 (2)",
     "channel_name": "ELTV生活英語台",
-    "programme_count": 217,
+    "programme_count": 211,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -15325,9 +15336,9 @@
   {
     "channel_id": "中天新聞台 (2)",
     "channel_name": "中天新聞台",
-    "programme_count": 96,
+    "programme_count": 94,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -15347,9 +15358,9 @@
   {
     "channel_id": "寰宇新聞台 (2)",
     "channel_name": "寰宇新聞台",
-    "programme_count": 110,
+    "programme_count": 107,
     "date_range": {
-      "start": "2026-05-30 01:55:00",
+      "start": "2026-05-30 04:55:00",
       "end": "2026-06-03 15:55:00"
     },
     "has_programmes": true,
@@ -15358,9 +15369,9 @@
   {
     "channel_id": "寰宇新聞台灣台 (2)",
     "channel_name": "寰宇新聞台灣台",
-    "programme_count": 110,
+    "programme_count": 107,
     "date_range": {
-      "start": "2026-05-30 01:55:00",
+      "start": "2026-05-30 04:55:00",
       "end": "2026-06-03 15:55:00"
     },
     "has_programmes": true,
@@ -15765,9 +15776,9 @@
   {
     "channel_id": "亞洲旅遊台 (2)",
     "channel_name": "亞洲旅遊台",
-    "programme_count": 92,
+    "programme_count": 90,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 04:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -16271,9 +16282,9 @@
   {
     "channel_id": "中視 (2)",
     "channel_name": "中視",
-    "programme_count": 45,
+    "programme_count": 41,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-01 07:00:00"
     },
     "has_programmes": true,
@@ -16282,9 +16293,9 @@
   {
     "channel_id": "華視 (2)",
     "channel_name": "華視",
-    "programme_count": 106,
+    "programme_count": 103,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -16480,9 +16491,9 @@
   {
     "channel_id": "華視新聞 (2)",
     "channel_name": "華視新聞",
-    "programme_count": 106,
+    "programme_count": 103,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -16502,9 +16513,9 @@
   {
     "channel_id": "三立新聞iNEWS (2)",
     "channel_name": "三立新聞iNEWS",
-    "programme_count": 106,
+    "programme_count": 104,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -16535,9 +16546,9 @@
   {
     "channel_id": "中視新聞 (2)",
     "channel_name": "中視新聞",
-    "programme_count": 53,
+    "programme_count": 50,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-01 07:00:00"
     },
     "has_programmes": true,
@@ -17063,9 +17074,9 @@
   {
     "channel_id": "好消息2台 (2)",
     "channel_name": "好消息2台",
-    "programme_count": 214,
+    "programme_count": 209,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:05:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18240,9 +18251,9 @@
   {
     "channel_id": "好消息 (2)",
     "channel_name": "好消息",
-    "programme_count": 207,
+    "programme_count": 203,
     "date_range": {
-      "start": "2026-05-30 02:15:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18504,9 +18515,9 @@
   {
     "channel_id": "龍華洋片台 (2)",
     "channel_name": "龍華洋片台",
-    "programme_count": 59,
+    "programme_count": 57,
     "date_range": {
-      "start": "2026-05-30 00:50:00",
+      "start": "2026-05-30 04:25:00",
       "end": "2026-06-03 15:50:00"
     },
     "has_programmes": true,
@@ -18856,9 +18867,9 @@
   {
     "channel_id": "中視 (2)",
     "channel_name": "中視",
-    "programme_count": 45,
+    "programme_count": 41,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-01 07:00:00"
     },
     "has_programmes": true,
@@ -18867,9 +18878,9 @@
   {
     "channel_id": "華視 (2)",
     "channel_name": "華視",
-    "programme_count": 106,
+    "programme_count": 103,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18878,9 +18889,9 @@
   {
     "channel_id": "好消息2台 (2)",
     "channel_name": "好消息2台",
-    "programme_count": 214,
+    "programme_count": 209,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:05:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18889,9 +18900,9 @@
   {
     "channel_id": "好消息 (2)",
     "channel_name": "好消息",
-    "programme_count": 207,
+    "programme_count": 203,
     "date_range": {
-      "start": "2026-05-30 02:15:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18900,9 +18911,9 @@
   {
     "channel_id": "ELTV生活英語台 (2)",
     "channel_name": "ELTV生活英語台",
-    "programme_count": 217,
+    "programme_count": 211,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18911,9 +18922,9 @@
   {
     "channel_id": "龍華卡通台 (3)",
     "channel_name": "龍華卡通台",
-    "programme_count": 220,
+    "programme_count": 214,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18922,9 +18933,9 @@
   {
     "channel_id": "亞洲旅遊台 (2)",
     "channel_name": "亞洲旅遊台",
-    "programme_count": 92,
+    "programme_count": 90,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 04:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18933,9 +18944,9 @@
   {
     "channel_id": "Smart知識台 (2)",
     "channel_name": "Smart知識台",
-    "programme_count": 111,
+    "programme_count": 108,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18944,9 +18955,9 @@
   {
     "channel_id": "龍華戲劇台 (2)",
     "channel_name": "龍華戲劇台",
-    "programme_count": 112,
+    "programme_count": 109,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18955,9 +18966,9 @@
   {
     "channel_id": "台灣戲劇台 (2)",
     "channel_name": "台灣戲劇台",
-    "programme_count": 116,
+    "programme_count": 114,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18966,9 +18977,9 @@
   {
     "channel_id": "東森購物1台 (3)",
     "channel_name": "東森購物1台",
-    "programme_count": 165,
+    "programme_count": 161,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 04:40:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18977,9 +18988,9 @@
   {
     "channel_id": "龍華偶像台 (2)",
     "channel_name": "龍華偶像台",
-    "programme_count": 114,
+    "programme_count": 111,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18988,9 +18999,9 @@
   {
     "channel_id": "龍華日韓台 (3)",
     "channel_name": "龍華日韓台",
-    "programme_count": 116,
+    "programme_count": 113,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -18999,9 +19010,9 @@
   {
     "channel_id": "東森購物2台 (3)",
     "channel_name": "東森購物2台",
-    "programme_count": 165,
+    "programme_count": 161,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 04:40:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -19010,9 +19021,9 @@
   {
     "channel_id": "華視新聞 (2)",
     "channel_name": "華視新聞",
-    "programme_count": 106,
+    "programme_count": 103,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -19032,9 +19043,9 @@
   {
     "channel_id": "三立新聞iNEWS (2)",
     "channel_name": "三立新聞iNEWS",
-    "programme_count": 106,
+    "programme_count": 104,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -19043,9 +19054,9 @@
   {
     "channel_id": "寰宇財經台 (2)",
     "channel_name": "寰宇財經台",
-    "programme_count": 110,
+    "programme_count": 107,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -19054,9 +19065,9 @@
   {
     "channel_id": "daystar",
     "channel_name": "daystar",
-    "programme_count": 204,
+    "programme_count": 198,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -19065,9 +19076,9 @@
   {
     "channel_id": "中視新聞 (2)",
     "channel_name": "中視新聞",
-    "programme_count": 53,
+    "programme_count": 50,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-01 07:00:00"
     },
     "has_programmes": true,
@@ -19076,9 +19087,9 @@
   {
     "channel_id": "中天新聞台 (2)",
     "channel_name": "中天新聞台",
-    "programme_count": 96,
+    "programme_count": 94,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -19087,9 +19098,9 @@
   {
     "channel_id": "寰宇新聞台灣台 (2)",
     "channel_name": "寰宇新聞台灣台",
-    "programme_count": 110,
+    "programme_count": 107,
     "date_range": {
-      "start": "2026-05-30 01:55:00",
+      "start": "2026-05-30 04:55:00",
       "end": "2026-06-03 15:55:00"
     },
     "has_programmes": true,
@@ -19098,9 +19109,9 @@
   {
     "channel_id": "寰宇新聞台 (2)",
     "channel_name": "寰宇新聞台",
-    "programme_count": 110,
+    "programme_count": 107,
     "date_range": {
-      "start": "2026-05-30 01:55:00",
+      "start": "2026-05-30 04:55:00",
       "end": "2026-06-03 15:55:00"
     },
     "has_programmes": true,
@@ -19109,9 +19120,9 @@
   {
     "channel_id": "第1商業台 (2)",
     "channel_name": "第1商業台",
-    "programme_count": 200,
+    "programme_count": 194,
     "date_range": {
-      "start": "2026-05-30 02:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 16:00:00"
     },
     "has_programmes": true,
@@ -19120,9 +19131,9 @@
   {
     "channel_id": "國會頻道1台 (3)",
     "channel_name": "國會頻道1台",
-    "programme_count": 25,
+    "programme_count": 24,
     "date_range": {
-      "start": "2026-05-30 00:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 09:00:00"
     },
     "has_programmes": true,
@@ -19131,9 +19142,9 @@
   {
     "channel_id": "國會頻道2台 (3)",
     "channel_name": "國會頻道2台",
-    "programme_count": 25,
+    "programme_count": 24,
     "date_range": {
-      "start": "2026-05-30 00:00:00",
+      "start": "2026-05-30 05:00:00",
       "end": "2026-06-03 09:00:00"
     },
     "has_programmes": true,
@@ -19153,9 +19164,9 @@
   {
     "channel_id": "龍華電影台 (2)",
     "channel_name": "龍華電影台",
-    "programme_count": 55,
+    "programme_count": 54,
     "date_range": {
-      "start": "2026-05-30 01:45:00",
+      "start": "2026-05-30 03:35:00",
       "end": "2026-06-03 14:45:00"
     },
     "has_programmes": true,
@@ -19164,9 +19175,9 @@
   {
     "channel_id": "龍華洋片台 (2)",
     "channel_name": "龍華洋片台",
-    "programme_count": 59,
+    "programme_count": 57,
     "date_range": {
-      "start": "2026-05-30 00:50:00",
+      "start": "2026-05-30 04:25:00",
       "end": "2026-06-03 15:50:00"
     },
     "has_programmes": true,
@@ -19973,7 +19984,7 @@
       "end": "2026-05-30 05:50:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "一字千金",
@@ -20347,7 +20358,7 @@
       "end": "2026-05-30 05:00:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "JOJO 的奇妙冒險",
