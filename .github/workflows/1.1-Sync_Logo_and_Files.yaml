@@ -2,7 +2,7 @@ name: Sync Logo and Files
 
 on:
   # schedule:
-    # - cron: '0 0/3 * * *'
+    # - cron: '0 2,5,8,11,14,17,20,23 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
