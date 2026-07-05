@@ -468,6 +468,7 @@
 | RTHK35 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/RTHK35.png> |
 | RTHK35-V2 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/RTHK35-V2.png> |
 | RTHK35-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/RTHK35-V3.png> |
+| RTHK36 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/RTHK36.png> |
 | RTHK36-V3 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/RTHK36-V3.png> |
 | SITV乐游 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/SITV乐游.png> |
 | SMART知识台 | <https://raw.githubusercontent.com/yufeilai666/myepg/logo_info/logo/SMART知识台.png> |
