@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-07-24 12:50:48 (UTC+8)
+- **最后更新时间**: 2026-07-24 16:50:54 (UTC+8)
 - **频道总数**: 1869
 
 ## 频道列表
