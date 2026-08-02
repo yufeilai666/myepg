@@ -250,6 +250,8 @@ jobs:
       run: |
         # 定义需要同步但无需处理的其他文件数组（排除已经处理的文件）
         other_files=(
+          'logo_LiuYi0526.json'
+          'logo_LiuYi0526.md'
           'logo_112114.json'
           'logo_112114.md'
           'logo_fanmingming.json'
