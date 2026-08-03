@@ -110,6 +110,7 @@ jobs:
   sync-logo-to-logoInfo:
     runs-on: ubuntu-latest
     needs: sync-to-main  # 确保在 main 分支同步完成后执行
+    if: always()
     steps:
     - name: Checkout logo_info branch
       uses: actions/checkout@v6
