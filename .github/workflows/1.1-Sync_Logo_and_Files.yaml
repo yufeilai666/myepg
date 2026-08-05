@@ -25,7 +25,7 @@ jobs:
 
     - name: Clone private repository (main branch for files)
       run: |
-        git clone -b main --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-main
+        git clone -b main --single-branch --depth 1 --no-tags https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-main  # 浅克隆加速
 
     - name: Sync specific files from main branch
       run: |
@@ -128,11 +128,11 @@ jobs:
 
     - name: Clone private repository (main branch for logo)
       run: |
-        git clone -b main --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-main-logo
+        git clone -b main --single-branch --depth 1 --no-tags https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-main-logo  # 浅克隆加速
 
     - name: Clone private repository (logo_info branch for other files)
       run: |
-        git clone -b logo_info --single-branch https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-logo-info
+        git clone -b logo_info --single-branch --depth 1 --no-tags https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/tvepg.git private-repo-logo-info  # 浅克隆加速
 
     - name: Create logo directory if not exists
       run: |
