@@ -573,7 +573,7 @@
       "end": "2026-08-11 13:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "第一財經直播",
@@ -6945,7 +6945,7 @@
       "end": "2026-08-11 23:55:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門資訊",
@@ -6969,7 +6969,7 @@
       "end": "2026-08-12 01:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門綜藝",
@@ -6981,7 +6981,7 @@
       "end": "2026-08-12 00:01:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門衛星",
@@ -17793,7 +17793,7 @@
       "end": "2026-08-12 07:40:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "宁夏经济",
@@ -18189,7 +18189,19 @@
       "end": "2026-08-12 02:12:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
+  },
+  {
+    "channel_id": "云南影视",
+    "channel_name": "云南影视",
+    "source": "51zmt",
+    "programme_count": 46,
+    "date_range": {
+      "start": "2026-08-10 00:18:00",
+      "end": "2026-08-12 00:18:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "安徽经济生活",
@@ -19659,10 +19671,10 @@
     "channel_id": "新疆汉语",
     "channel_name": "新疆汉语",
     "source": "51zmt",
-    "programme_count": 10,
+    "programme_count": 23,
     "date_range": {
       "start": "2026-08-10 01:00:00",
-      "end": "2026-08-11 02:00:00"
+      "end": "2026-08-12 01:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19956,6 +19968,30 @@
     "is_valid": true
   },
   {
+    "channel_id": "山东文旅 (2)",
+    "channel_name": "山东文旅",
+    "source": "51zmt",
+    "programme_count": 31,
+    "date_range": {
+      "start": "2026-08-10 00:00:00",
+      "end": "2026-08-11 02:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "山东新闻 (2)",
+    "channel_name": "山东新闻",
+    "source": "51zmt",
+    "programme_count": 37,
+    "date_range": {
+      "start": "2026-08-10 00:00:00",
+      "end": "2026-08-11 02:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "江西都市",
     "channel_name": "江西都市",
     "source": "51zmt",
@@ -19989,7 +20025,7 @@
       "end": "2026-08-12 08:50:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "江西新闻",
