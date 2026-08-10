@@ -1284,7 +1284,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KBS LIFE | KBS LIFE | 4gtv | 40 | 2026-08-10 04:55:00 至 2026-08-12 04:00:00 | ✅ |
 | KBS KIDS | KBS KIDS | 4gtv | 142 | 2026-08-10 04:55:00 至 2026-08-12 04:00:00 | ✅ |
 | SBS | SBS | 4gtv | 48 | 2026-08-10 04:00:00 至 2026-08-12 01:20:00 | ✅ |
-| SBS plus | SBS plus | 4gtv | 15 | 2026-08-10 03:00:00 至 2026-08-11 02:50:00 | ✅ |
+| SBS plus | SBS plus | 4gtv | 15 | 2026-08-10 03:00:00 至 2026-08-11 02:50:00 | ❌ |
 | SBS funE | SBS funE | 4gtv | 28 | 2026-08-10 03:00:00 至 2026-08-12 02:45:00 | ✅ |
 | SBS life | SBS life | 4gtv | 30 | 2026-08-10 03:00:00 至 2026-08-12 02:10:00 | ✅ |
 | SBS sport | SBS sport | 4gtv | 28 | 2026-08-10 02:00:00 至 2026-08-12 01:30:00 | ✅ |
