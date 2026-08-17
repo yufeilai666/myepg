@@ -204,6 +204,78 @@
     "is_valid": true
   },
   {
+    "channel_id": "东方卫视",
+    "channel_name": "东方卫视",
+    "source": "kankannews",
+    "programme_count": 83,
+    "date_range": {
+      "start": "2026-08-17 00:00:00",
+      "end": "2026-08-19 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "上海新闻综合",
+    "channel_name": "上海新闻综合频道",
+    "source": "kankannews",
+    "programme_count": 66,
+    "date_range": {
+      "start": "2026-08-17 00:00:00",
+      "end": "2026-08-19 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "第一财经",
+    "channel_name": "第一财经",
+    "source": "kankannews",
+    "programme_count": 56,
+    "date_range": {
+      "start": "2026-08-17 00:00:00",
+      "end": "2026-08-19 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "五星体育",
+    "channel_name": "五星体育",
+    "source": "kankannews",
+    "programme_count": 66,
+    "date_range": {
+      "start": "2026-08-17 00:00:00",
+      "end": "2026-08-19 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "上海都市频道",
+    "channel_name": "上海都市频道",
+    "source": "kankannews",
+    "programme_count": 86,
+    "date_range": {
+      "start": "2026-08-17 00:00:00",
+      "end": "2026-08-19 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "哈哈炫动",
+    "channel_name": "哈哈炫动",
+    "source": "kankannews",
+    "programme_count": 152,
+    "date_range": {
+      "start": "2026-08-17 00:00:00",
+      "end": "2026-08-19 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "LS TIME 龙祥时代",
     "channel_name": "龙祥时代",
     "source": "person",
@@ -996,7 +1068,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "东方卫视",
+    "channel_id": "东方卫视 (2)",
     "channel_name": "东方卫视",
     "source": "tvbanywhere",
     "programme_count": 129,
@@ -6585,7 +6657,7 @@
       "end": "2026-08-18 00:30:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "山东生活",
@@ -6597,7 +6669,7 @@
       "end": "2026-08-18 00:22:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "山东综艺",
@@ -6609,7 +6681,7 @@
       "end": "2026-08-18 00:48:59"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "山东农科",
@@ -6655,6 +6727,78 @@
     "date_range": {
       "start": "2026-08-15 23:38:16",
       "end": "2026-08-18 20:49:40"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "亚洲卫视",
+    "channel_name": "亚洲卫视",
+    "source": "asiasatv",
+    "programme_count": 126,
+    "date_range": {
+      "start": "2026-08-17 00:00:00",
+      "end": "2026-08-24 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV1 香港",
+    "channel_name": "CCTV1 香港",
+    "source": "epg.pw",
+    "programme_count": 136,
+    "date_range": {
+      "start": "2026-08-16 00:00:00",
+      "end": "2026-08-21 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV4 香港",
+    "channel_name": "CCTV4 香港",
+    "source": "epg.pw",
+    "programme_count": 158,
+    "date_range": {
+      "start": "2026-08-16 00:00:00",
+      "end": "2026-08-20 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV4 欧洲",
+    "channel_name": "CCTV4 欧洲",
+    "source": "epg.pw",
+    "programme_count": 168,
+    "date_range": {
+      "start": "2026-08-16 00:01:00",
+      "end": "2026-08-20 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV4 美洲",
+    "channel_name": "CCTV4 美洲",
+    "source": "epg.pw",
+    "programme_count": 172,
+    "date_range": {
+      "start": "2026-08-16 00:00:00",
+      "end": "2026-08-21 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "香港卫视",
+    "channel_name": "香港卫视",
+    "source": "hkstv",
+    "programme_count": 247,
+    "date_range": {
+      "start": "2026-08-17 00:11:00",
+      "end": "2026-08-20 23:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -13346,11 +13490,11 @@
   {
     "channel_id": "ELTV生活英語台 (2)",
     "channel_name": "ELTV生活英語台",
-    "source": "4gtv",
-    "programme_count": 141,
+    "source": "ofiii",
+    "programme_count": 284,
     "date_range": {
-      "start": "2026-08-17 00:30:00",
-      "end": "2026-08-20 00:00:00"
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -13550,11 +13694,11 @@
   {
     "channel_id": "寰宇新聞台 (2)",
     "channel_name": "寰宇新聞台",
-    "source": "4gtv",
-    "programme_count": 72,
+    "source": "ofiii",
+    "programme_count": 14256,
     "date_range": {
-      "start": "2026-08-17 00:55:00",
-      "end": "2026-08-20 00:55:00"
+      "start": "2026-08-17 01:55:00",
+      "end": "2026-08-23 00:55:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -13562,11 +13706,11 @@
   {
     "channel_id": "寰宇新聞台灣台 (2)",
     "channel_name": "寰宇新聞台灣台",
-    "source": "4gtv",
-    "programme_count": 72,
+    "source": "ofiii",
+    "programme_count": 143,
     "date_range": {
-      "start": "2026-08-17 00:55:00",
-      "end": "2026-08-20 00:55:00"
+      "start": "2026-08-17 01:55:00",
+      "end": "2026-08-23 00:55:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -14006,11 +14150,11 @@
   {
     "channel_id": "亞洲旅遊台 (2)",
     "channel_name": "亞洲旅遊台",
-    "source": "4gtv",
-    "programme_count": 72,
+    "source": "ofiii",
+    "programme_count": 118,
     "date_range": {
-      "start": "2026-08-17 00:00:00",
-      "end": "2026-08-20 00:00:00"
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -14534,50 +14678,50 @@
   {
     "channel_id": "中視 (2)",
     "channel_name": "中視",
-    "source": "4gtv",
-    "programme_count": 0,
+    "source": "ofiii",
+    "programme_count": 157,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-08-17 00:30:00",
+      "end": "2026-08-23 00:00:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "華視 (2)",
     "channel_name": "華視",
-    "source": "4gtv",
-    "programme_count": 0,
+    "source": "ofiii",
+    "programme_count": 143,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-08-17 01:30:00",
+      "end": "2026-08-23 00:10:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "好消息2台 (2)",
     "channel_name": "好消息2台",
-    "source": "4gtv",
-    "programme_count": 0,
+    "source": "ofiii",
+    "programme_count": 273,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "好消息 (2)",
     "channel_name": "好消息",
-    "source": "4gtv",
-    "programme_count": 0,
+    "source": "ofiii",
+    "programme_count": 286,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-08-17 01:30:00",
+      "end": "2026-08-23 00:30:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "ELTV生活英语台",
@@ -14750,26 +14894,26 @@
   {
     "channel_id": "中視新聞 (2)",
     "channel_name": "中視新聞",
-    "source": "4gtv",
-    "programme_count": 0,
+    "source": "ofiii",
+    "programme_count": 142,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "中天新聞台 (2)",
     "channel_name": "中天新聞台",
-    "source": "4gtv",
-    "programme_count": 0,
+    "source": "ofiii",
+    "programme_count": 124,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "寰宇新聞台 (3)",
@@ -14810,26 +14954,26 @@
   {
     "channel_id": "國會頻道1台 (2)",
     "channel_name": "國會頻道1台",
-    "source": "4gtv",
-    "programme_count": 0,
+    "source": "ofiii",
+    "programme_count": 33,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-08-17 00:56:00",
+      "end": "2026-08-23 02:11:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "國會頻道2台 (2)",
     "channel_name": "國會頻道2台",
-    "source": "4gtv",
-    "programme_count": 0,
+    "source": "ofiii",
+    "programme_count": 37,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-08-17 00:22:00",
+      "end": "2026-08-23 02:36:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "龍華經典台",
@@ -15252,7 +15396,2095 @@
     "is_valid": true
   },
   {
-    "channel_id": "哈哈炫动",
+    "channel_id": "ASMR行車紀錄",
+    "channel_name": "ASMR行車紀錄",
+    "source": "ofiii",
+    "programme_count": 5,
+    "date_range": {
+      "start": "2026-08-17 00:45:41",
+      "end": "2026-08-17 09:08:42"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "DayStar",
+    "channel_name": "DayStar",
+    "source": "ofiii",
+    "programme_count": 261,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:30:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "ELTV生活英語台 (2)",
+    "channel_name": "ELTV生活英語台",
+    "source": "ofiii",
+    "programme_count": 284,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "Focus探索新知台",
+    "channel_name": "Focus探索新知台",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-15 23:19:02",
+      "end": "2026-08-18 08:17:42"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "Freeman @台灣",
+    "channel_name": "Freeman @台灣",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-16 20:19:42",
+      "end": "2026-08-17 02:52:18"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "Golden 強片台",
+    "channel_name": "Golden 強片台",
+    "source": "ofiii",
+    "programme_count": 14,
+    "date_range": {
+      "start": "2026-08-16 12:03:55",
+      "end": "2026-08-17 12:36:12"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "Golden影迷台",
+    "channel_name": "Golden影迷台",
+    "source": "ofiii",
+    "programme_count": 20,
+    "date_range": {
+      "start": "2026-08-16 07:21:35",
+      "end": "2026-08-17 17:43:23"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "JOJO 的奇妙冒險",
+    "channel_name": "JOJO 的奇妙冒險",
+    "source": "ofiii",
+    "programme_count": 155,
+    "date_range": {
+      "start": "2026-08-16 12:30:10",
+      "end": "2026-08-19 02:25:34"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "SPY X FAMILY 間諜家家酒",
+    "channel_name": "SPY X FAMILY 間諜家家酒",
+    "source": "ofiii",
+    "programme_count": 50,
+    "date_range": {
+      "start": "2026-08-16 21:27:10",
+      "end": "2026-08-17 17:22:44"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "SPY X FAMILY 間諜家家酒(中文版)",
+    "channel_name": "SPY X FAMILY 間諜家家酒(中文版)",
+    "source": "ofiii",
+    "programme_count": 50,
+    "date_range": {
+      "start": "2026-08-16 20:24:23",
+      "end": "2026-08-17 16:20:13"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "SiCAR愛車酷",
+    "channel_name": "SiCAR愛車酷",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-16 21:56:06",
+      "end": "2026-08-17 11:31:07"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "Smart知識台 (2)",
+    "channel_name": "Smart知識台",
+    "source": "ofiii",
+    "programme_count": 138,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "WTO姐妹會",
+    "channel_name": "WTO姐妹會",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-15 13:30:32",
+      "end": "2026-08-18 16:06:28"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "Yes娛樂",
+    "channel_name": "Yes娛樂",
+    "source": "ofiii",
+    "programme_count": 21,
+    "date_range": {
+      "start": "2026-08-17 01:47:54",
+      "end": "2026-08-17 02:23:11"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "一拳超人(中文版)",
+    "channel_name": "一拳超人(中文版)",
+    "source": "ofiii",
+    "programme_count": 12,
+    "date_range": {
+      "start": "2026-08-17 01:33:32",
+      "end": "2026-08-17 06:22:06"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "三十而已",
+    "channel_name": "三十而已",
+    "source": "ofiii",
+    "programme_count": 43,
+    "date_range": {
+      "start": "2026-08-17 02:21:54",
+      "end": "2026-08-18 09:55:57"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "三國",
+    "channel_name": "三國",
+    "source": "ofiii",
+    "programme_count": 95,
+    "date_range": {
+      "start": "2026-08-15 20:27:34",
+      "end": "2026-08-18 21:23:10"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "三立新聞LIVE",
+    "channel_name": "三立新聞LIVE",
+    "source": "ofiii",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "三立新聞iNEWS (2)",
+    "channel_name": "三立新聞iNEWS",
+    "source": "ofiii",
+    "programme_count": 137,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "世界第一等",
+    "channel_name": "世界第一等",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-15 04:12:29",
+      "end": "2026-08-18 04:10:31"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "中國旅遊大探索",
+    "channel_name": "中國旅遊大探索",
+    "source": "ofiii",
+    "programme_count": 19,
+    "date_range": {
+      "start": "2026-08-17 00:12:44",
+      "end": "2026-08-17 15:47:13"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "中國美食大探索",
+    "channel_name": "中國美食大探索",
+    "source": "ofiii",
+    "programme_count": 70,
+    "date_range": {
+      "start": "2026-08-16 17:35:07",
+      "end": "2026-08-17 08:34:31"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "中天亞洲精采台",
+    "channel_name": "中天亞洲精采台",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-14 06:39:36",
+      "end": "2026-08-17 03:15:22"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "中天新聞台 (2)",
+    "channel_name": "中天新聞台",
+    "source": "ofiii",
+    "programme_count": 124,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "中華一番(中文版)",
+    "channel_name": "中華一番(中文版)",
+    "source": "ofiii",
+    "programme_count": 52,
+    "date_range": {
+      "start": "2026-08-16 08:18:38",
+      "end": "2026-08-17 04:25:18"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "中視 (2)",
+    "channel_name": "中視",
+    "source": "ofiii",
+    "programme_count": 157,
+    "date_range": {
+      "start": "2026-08-17 00:30:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "中視新聞 (2)",
+    "channel_name": "中視新聞",
+    "source": "ofiii",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "九九敬老頻道",
+    "channel_name": "九九敬老頻道",
+    "source": "ofiii",
+    "programme_count": 80,
+    "date_range": {
+      "start": "2026-08-15 22:33:10",
+      "end": "2026-08-17 14:28:13"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "九重紫",
+    "channel_name": "九重紫",
+    "source": "ofiii",
+    "programme_count": 34,
+    "date_range": {
+      "start": "2026-08-16 01:34:34",
+      "end": "2026-08-17 03:21:19"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "亞洲旅遊台 (2)",
+    "channel_name": "亞洲旅遊台",
+    "source": "ofiii",
+    "programme_count": 118,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "人氣動漫預告",
+    "channel_name": "人氣動漫預告",
+    "source": "ofiii",
+    "programme_count": 32,
+    "date_range": {
+      "start": "2026-08-17 02:02:40",
+      "end": "2026-08-17 02:51:20"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "仁心俱樂部",
+    "channel_name": "仁心俱樂部",
+    "source": "ofiii",
+    "programme_count": 40,
+    "date_range": {
+      "start": "2026-08-16 09:02:21",
+      "end": "2026-08-17 15:18:29"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "以愛為營",
+    "channel_name": "以愛為營",
+    "source": "ofiii",
+    "programme_count": 36,
+    "date_range": {
+      "start": "2026-08-16 04:14:52",
+      "end": "2026-08-17 07:36:16"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "俗女養成記",
+    "channel_name": "俗女養成記",
+    "source": "ofiii",
+    "programme_count": 10,
+    "date_range": {
+      "start": "2026-08-17 01:24:00",
+      "end": "2026-08-17 09:14:03"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "倚天屠龍記 2019",
+    "channel_name": "倚天屠龍記 2019",
+    "source": "ofiii",
+    "programme_count": 50,
+    "date_range": {
+      "start": "2026-08-15 14:14:58",
+      "end": "2026-08-17 04:20:59"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "全民星攻略",
+    "channel_name": "全民星攻略",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-14 05:21:03",
+      "end": "2026-08-17 08:21:08"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "全民星攻略 知識開箱",
+    "channel_name": "全民星攻略 知識開箱",
+    "source": "ofiii",
+    "programme_count": 28,
+    "date_range": {
+      "start": "2026-08-17 01:44:17",
+      "end": "2026-08-17 02:40:44"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "刀劍神域(中文版)",
+    "channel_name": "刀劍神域(中文版)",
+    "source": "ofiii",
+    "programme_count": 50,
+    "date_range": {
+      "start": "2026-08-16 22:11:23",
+      "end": "2026-08-17 19:18:36"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "劉德華台",
+    "channel_name": "劉德華台",
+    "source": "ofiii",
+    "programme_count": 8,
+    "date_range": {
+      "start": "2026-08-17 00:12:58",
+      "end": "2026-08-17 12:39:16"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "包青天 1993版",
+    "channel_name": "包青天 1993版",
+    "source": "ofiii",
+    "programme_count": 110,
+    "date_range": {
+      "start": "2026-08-16 19:45:32",
+      "end": "2026-08-20 09:55:09"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "去有風的地方",
+    "channel_name": "去有風的地方",
+    "source": "ofiii",
+    "programme_count": 40,
+    "date_range": {
+      "start": "2026-08-16 21:09:09",
+      "end": "2026-08-18 03:54:49"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "台灣1001個故事",
+    "channel_name": "台灣1001個故事",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-15 01:43:44",
+      "end": "2026-08-18 08:54:27"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "台灣向前行",
+    "channel_name": "台灣向前行",
+    "source": "ofiii",
+    "programme_count": 10,
+    "date_range": {
+      "start": "2026-08-17 01:00:48",
+      "end": "2026-08-17 13:28:54"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "台灣啟示錄",
+    "channel_name": "台灣啟示錄",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-16 10:15:35",
+      "end": "2026-08-19 17:21:17"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "台灣壹百種味道",
+    "channel_name": "台灣壹百種味道",
+    "source": "ofiii",
+    "programme_count": 93,
+    "date_range": {
+      "start": "2026-08-16 12:35:58",
+      "end": "2026-08-18 02:22:51"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "台灣戲劇台",
+    "channel_name": "台灣戲劇台",
+    "source": "ofiii",
+    "programme_count": 149,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "台灣最前線",
+    "channel_name": "台灣最前線",
+    "source": "ofiii",
+    "programme_count": 10,
+    "date_range": {
+      "start": "2026-08-16 18:59:26",
+      "end": "2026-08-17 11:23:55"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "台灣真善美",
+    "channel_name": "台灣真善美",
+    "source": "ofiii",
+    "programme_count": 35,
+    "date_range": {
+      "start": "2026-08-16 15:06:54",
+      "end": "2026-08-17 20:01:46"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "台灣第一等",
+    "channel_name": "台灣第一等",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-15 12:42:13",
+      "end": "2026-08-18 12:42:53"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "台灣靈異事件",
+    "channel_name": "台灣靈異事件",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 01:47:48",
+      "end": "2026-08-20 19:13:43"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "史上最強弟子兼一(中文版)",
+    "channel_name": "史上最強弟子兼一(中文版)",
+    "source": "ofiii",
+    "programme_count": 50,
+    "date_range": {
+      "start": "2026-08-17 00:04:02",
+      "end": "2026-08-17 20:40:05"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "周星馳台",
+    "channel_name": "周星馳台",
+    "source": "ofiii",
+    "programme_count": 8,
+    "date_range": {
+      "start": "2026-08-16 14:20:11",
+      "end": "2026-08-17 02:53:44"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "咱的城 咱的市 咱台灣的味",
+    "channel_name": "咱的城 咱的市 咱台灣的味",
+    "source": "ofiii",
+    "programme_count": 26,
+    "date_range": {
+      "start": "2026-08-16 05:52:35",
+      "end": "2026-08-17 02:30:00"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "哆啦Ａ夢台",
+    "channel_name": "哆啦Ａ夢台",
+    "source": "ofiii",
+    "programme_count": 21,
+    "date_range": {
+      "start": "2026-08-15 18:31:17",
+      "end": "2026-08-17 05:08:54"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "哈哈台",
+    "channel_name": "哈哈台",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-16 08:21:25",
+      "end": "2026-08-17 19:03:17"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "啦啦隊獨家專訪",
+    "channel_name": "啦啦隊獨家專訪",
+    "source": "ofiii",
+    "programme_count": 82,
+    "date_range": {
+      "start": "2026-08-16 12:51:09",
+      "end": "2026-08-17 05:41:07"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "回到20歲",
+    "channel_name": "回到20歲",
+    "source": "ofiii",
+    "programme_count": 12,
+    "date_range": {
+      "start": "2026-08-16 23:31:47",
+      "end": "2026-08-17 11:49:04"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "國會頻道1台 (2)",
+    "channel_name": "國會頻道1台",
+    "source": "ofiii",
+    "programme_count": 33,
+    "date_range": {
+      "start": "2026-08-17 00:56:00",
+      "end": "2026-08-23 02:11:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "國會頻道2台 (2)",
+    "channel_name": "國會頻道2台",
+    "source": "ofiii",
+    "programme_count": 37,
+    "date_range": {
+      "start": "2026-08-17 00:22:00",
+      "end": "2026-08-23 02:36:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "國色芳華",
+    "channel_name": "國色芳華",
+    "source": "ofiii",
+    "programme_count": 32,
+    "date_range": {
+      "start": "2026-08-16 06:48:33",
+      "end": "2026-08-17 06:35:53"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "國際大小事",
+    "channel_name": "國際大小事",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-17 02:09:02",
+      "end": "2026-08-17 05:10:22"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～",
+    "channel_name": "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～",
+    "source": "ofiii",
+    "programme_count": 14,
+    "date_range": {
+      "start": "2026-08-17 02:02:46",
+      "end": "2026-08-17 08:02:09"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "地球檔案庫",
+    "channel_name": "地球檔案庫",
+    "source": "ofiii",
+    "programme_count": 26,
+    "date_range": {
+      "start": "2026-08-16 23:40:42",
+      "end": "2026-08-17 20:55:12"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "夏日陽光海浪聲",
+    "channel_name": "夏日陽光海浪聲",
+    "source": "ofiii",
+    "programme_count": 3,
+    "date_range": {
+      "start": "2026-08-17 01:38:59",
+      "end": "2026-08-17 04:44:51"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "夢幻遊戲(中文版)",
+    "channel_name": "夢幻遊戲(中文版)",
+    "source": "ofiii",
+    "programme_count": 52,
+    "date_range": {
+      "start": "2026-08-16 16:57:44",
+      "end": "2026-08-17 13:19:14"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "大新聞大爆卦",
+    "channel_name": "大新聞大爆卦",
+    "source": "ofiii",
+    "programme_count": 10,
+    "date_range": {
+      "start": "2026-08-16 23:11:39",
+      "end": "2026-08-17 15:42:06"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "大生意人",
+    "channel_name": "大生意人",
+    "source": "ofiii",
+    "programme_count": 40,
+    "date_range": {
+      "start": "2026-08-16 09:21:06",
+      "end": "2026-08-17 15:43:46"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "大胃王來了！",
+    "channel_name": "大胃王來了！",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-14 11:57:32",
+      "end": "2026-08-17 17:16:50"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "大自然流水聲",
+    "channel_name": "大自然流水聲",
+    "source": "ofiii",
+    "programme_count": 1,
+    "date_range": {
+      "start": "2026-08-17 01:44:27",
+      "end": "2026-08-17 02:50:32"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "天才衝衝衝",
+    "channel_name": "天才衝衝衝",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-10 15:17:17",
+      "end": "2026-08-18 03:18:47"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "女神蒙上眼",
+    "channel_name": "女神蒙上眼",
+    "source": "ofiii",
+    "programme_count": 30,
+    "date_range": {
+      "start": "2026-08-17 02:21:51",
+      "end": "2026-08-18 00:57:40"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "好搭檔",
+    "channel_name": "好搭檔",
+    "source": "ofiii",
+    "programme_count": 16,
+    "date_range": {
+      "start": "2026-08-16 09:57:05",
+      "end": "2026-08-17 02:58:24"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "好消息 (2)",
+    "channel_name": "好消息",
+    "source": "ofiii",
+    "programme_count": 286,
+    "date_range": {
+      "start": "2026-08-17 01:30:00",
+      "end": "2026-08-23 00:30:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "好消息2台 (2)",
+    "channel_name": "好消息2台",
+    "source": "ofiii",
+    "programme_count": 273,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "好運來",
+    "channel_name": "好運來",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-15 08:24:28",
+      "end": "2026-08-22 04:50:20"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "完美的家族",
+    "channel_name": "完美的家族",
+    "source": "ofiii",
+    "programme_count": 12,
+    "date_range": {
+      "start": "2026-08-16 19:56:37",
+      "end": "2026-08-17 07:49:48"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "家業",
+    "channel_name": "家業",
+    "source": "ofiii",
+    "programme_count": 42,
+    "date_range": {
+      "start": "2026-08-16 11:08:56",
+      "end": "2026-08-17 18:56:26"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "寰宇全視界",
+    "channel_name": "寰宇全視界",
+    "source": "ofiii",
+    "programme_count": 10,
+    "date_range": {
+      "start": "2026-08-16 22:43:19",
+      "end": "2026-08-17 08:45:12"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "寰宇新聞台 (2)",
+    "channel_name": "寰宇新聞台",
+    "source": "ofiii",
+    "programme_count": 14256,
+    "date_range": {
+      "start": "2026-08-17 01:55:00",
+      "end": "2026-08-23 00:55:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "寰宇新聞台灣台 (2)",
+    "channel_name": "寰宇新聞台灣台",
+    "source": "ofiii",
+    "programme_count": 143,
+    "date_range": {
+      "start": "2026-08-17 01:55:00",
+      "end": "2026-08-23 00:55:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "寰宇財經台 (2)",
+    "channel_name": "寰宇財經台",
+    "source": "ofiii",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "徐海莉 Hailey",
+    "channel_name": "徐海莉 Hailey",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-17 01:01:33",
+      "end": "2026-08-17 17:31:20"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "怪奇研究室",
+    "channel_name": "怪奇研究室",
+    "source": "ofiii",
+    "programme_count": 21,
+    "date_range": {
+      "start": "2026-08-17 02:27:43",
+      "end": "2026-08-17 10:16:41"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "怪醫黑傑克TV(中文版)",
+    "channel_name": "怪醫黑傑克TV(中文版)",
+    "source": "ofiii",
+    "programme_count": 62,
+    "date_range": {
+      "start": "2026-08-16 10:55:04",
+      "end": "2026-08-17 11:57:33"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "我們這一家",
+    "channel_name": "我們這一家",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 10:09:10",
+      "end": "2026-08-17 16:33:46"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "我的老師叫小賀",
+    "channel_name": "我的老師叫小賀",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-15 18:25:55",
+      "end": "2026-08-17 04:16:24"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "掏掏新聞",
+    "channel_name": "掏掏新聞",
+    "source": "ofiii",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:03:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "放鬆的爵士午後",
+    "channel_name": "放鬆的爵士午後",
+    "source": "ofiii",
+    "programme_count": 5,
+    "date_range": {
+      "start": "2026-08-16 21:21:25",
+      "end": "2026-08-17 02:32:19"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "新哆啦A夢(中文版)",
+    "channel_name": "新哆啦A夢(中文版)",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 16:01:21",
+      "end": "2026-08-18 07:16:51"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "新哆啦A夢(中文版)2台",
+    "channel_name": "新哆啦A夢(中文版)2台",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-16 02:55:18",
+      "end": "2026-08-17 05:09:55"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "新忍者哈特利",
+    "channel_name": "新忍者哈特利",
+    "source": "ofiii",
+    "programme_count": 52,
+    "date_range": {
+      "start": "2026-08-16 18:18:45",
+      "end": "2026-08-17 15:32:45"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "新聞觀測站",
+    "channel_name": "新聞觀測站",
+    "source": "ofiii",
+    "programme_count": 20,
+    "date_range": {
+      "start": "2026-08-17 02:13:37",
+      "end": "2026-08-17 14:49:33"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "早餐中國",
+    "channel_name": "早餐中國",
+    "source": "ofiii",
+    "programme_count": 90,
+    "date_range": {
+      "start": "2026-08-17 02:23:02",
+      "end": "2026-08-17 12:48:29"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "月曜1起玩",
+    "channel_name": "月曜1起玩",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-14 06:39:22",
+      "end": "2026-08-17 03:25:05"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "有你的時光裡",
+    "channel_name": "有你的時光裡",
+    "source": "ofiii",
+    "programme_count": 32,
+    "date_range": {
+      "start": "2026-08-16 09:28:11",
+      "end": "2026-08-17 09:09:28"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "木曜4超玩 一日系列",
+    "channel_name": "木曜4超玩 一日系列",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-16 23:11:47",
+      "end": "2026-08-19 13:04:10"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "朱元璋",
+    "channel_name": "朱元璋",
+    "source": "ofiii",
+    "programme_count": 46,
+    "date_range": {
+      "start": "2026-08-16 17:19:07",
+      "end": "2026-08-18 04:24:08"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "朱雀堂",
+    "channel_name": "朱雀堂",
+    "source": "ofiii",
+    "programme_count": 30,
+    "date_range": {
+      "start": "2026-08-16 20:56:04",
+      "end": "2026-08-17 05:57:34"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "東森娛樂台",
+    "channel_name": "東森娛樂台",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 00:45:50",
+      "end": "2026-08-19 04:58:22"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "東森購物1台 (2)",
+    "channel_name": "東森購物1台",
+    "source": "ofiii",
+    "programme_count": 213,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "東森購物2台 (2)",
+    "channel_name": "東森購物2台",
+    "source": "ofiii",
+    "programme_count": 213,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "歐飛動作電影台",
+    "channel_name": "歐飛動作電影台",
+    "source": "ofiii",
+    "programme_count": 14,
+    "date_range": {
+      "start": "2026-08-16 07:45:17",
+      "end": "2026-08-17 06:38:25"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "歐飛電影台",
+    "channel_name": "歐飛電影台",
+    "source": "ofiii",
+    "programme_count": 14,
+    "date_range": {
+      "start": "2026-08-16 15:41:46",
+      "end": "2026-08-17 16:29:10"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "歡迎光琳",
+    "channel_name": "歡迎光琳",
+    "source": "ofiii",
+    "programme_count": 26,
+    "date_range": {
+      "start": "2026-08-16 08:44:28",
+      "end": "2026-08-17 03:52:58"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "步步驚心",
+    "channel_name": "步步驚心",
+    "source": "ofiii",
+    "programme_count": 35,
+    "date_range": {
+      "start": "2026-08-15 22:49:44",
+      "end": "2026-08-17 03:24:21"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "武媚娘傳奇",
+    "channel_name": "武媚娘傳奇",
+    "source": "ofiii",
+    "programme_count": 82,
+    "date_range": {
+      "start": "2026-08-16 04:37:31",
+      "end": "2026-08-18 18:20:52"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "毛茸茸親子台",
+    "channel_name": "毛茸茸親子台",
+    "source": "ofiii",
+    "programme_count": 29,
+    "date_range": {
+      "start": "2026-08-17 00:55:04",
+      "end": "2026-08-17 04:44:00"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "民視異言堂",
+    "channel_name": "民視異言堂",
+    "source": "ofiii",
+    "programme_count": 20,
+    "date_range": {
+      "start": "2026-08-16 16:10:45",
+      "end": "2026-08-17 04:37:05"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "水龍吟",
+    "channel_name": "水龍吟",
+    "source": "ofiii",
+    "programme_count": 40,
+    "date_range": {
+      "start": "2026-08-16 00:38:09",
+      "end": "2026-08-17 07:33:04"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "法眼黑與白",
+    "channel_name": "法眼黑與白",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-15 22:10:58",
+      "end": "2026-08-19 04:18:35"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "泰可愛旋風",
+    "channel_name": "泰可愛旋風",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 23:42:04",
+      "end": "2026-08-18 06:45:50"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "溢起趣打卡",
+    "channel_name": "溢起趣打卡",
+    "source": "ofiii",
+    "programme_count": 13,
+    "date_range": {
+      "start": "2026-08-16 18:29:42",
+      "end": "2026-08-17 04:12:05"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "溢遊未盡",
+    "channel_name": "溢遊未盡",
+    "source": "ofiii",
+    "programme_count": 26,
+    "date_range": {
+      "start": "2026-08-16 21:11:37",
+      "end": "2026-08-17 17:41:00"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "演唱會直擊",
+    "channel_name": "演唱會直擊",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-17 00:26:59",
+      "end": "2026-08-17 12:46:39"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "無職轉生，到了異世界就拿出真本事",
+    "channel_name": "無職轉生，到了異世界就拿出真本事",
+    "source": "ofiii",
+    "programme_count": 56,
+    "date_range": {
+      "start": "2026-08-16 22:23:43",
+      "end": "2026-08-17 20:29:07"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "狂人日誌",
+    "channel_name": "狂人日誌",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-16 05:08:51",
+      "end": "2026-08-17 02:29:58"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "獵人(中文版)",
+    "channel_name": "獵人(中文版)",
+    "source": "ofiii",
+    "programme_count": 148,
+    "date_range": {
+      "start": "2026-08-16 22:34:38",
+      "end": "2026-08-19 08:43:58"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "生命的贏家",
+    "channel_name": "生命的贏家",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-16 21:46:43",
+      "end": "2026-08-18 01:10:48"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "療癒下雨聲",
+    "channel_name": "療癒下雨聲",
+    "source": "ofiii",
+    "programme_count": 3,
+    "date_range": {
+      "start": "2026-08-17 01:20:59",
+      "end": "2026-08-17 04:26:31"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "白雪公主非死不可",
+    "channel_name": "白雪公主非死不可",
+    "source": "ofiii",
+    "programme_count": 14,
+    "date_range": {
+      "start": "2026-08-16 12:52:34",
+      "end": "2026-08-17 03:52:28"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "真珠美人魚(中文版)",
+    "channel_name": "真珠美人魚(中文版)",
+    "source": "ofiii",
+    "programme_count": 52,
+    "date_range": {
+      "start": "2026-08-17 00:59:15",
+      "end": "2026-08-17 22:04:32"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "短劇馬拉松",
+    "channel_name": "短劇馬拉松",
+    "source": "ofiii",
+    "programme_count": 108,
+    "date_range": {
+      "start": "2026-08-16 02:29:29",
+      "end": "2026-08-17 07:07:39"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "私藏浪漫",
+    "channel_name": "私藏浪漫",
+    "source": "ofiii",
+    "programme_count": 33,
+    "date_range": {
+      "start": "2026-08-16 14:35:14",
+      "end": "2026-08-17 15:48:41"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "科學小飛俠",
+    "channel_name": "科學小飛俠",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-16 09:25:42",
+      "end": "2026-08-17 12:13:20"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "秘境不思溢",
+    "channel_name": "秘境不思溢",
+    "source": "ofiii",
+    "programme_count": 29,
+    "date_range": {
+      "start": "2026-08-16 10:07:43",
+      "end": "2026-08-17 10:02:31"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "空中英語教室HD頻道",
+    "channel_name": "空中英語教室HD頻道",
+    "source": "ofiii",
+    "programme_count": 577,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "第1商業台 (2)",
+    "channel_name": "第1商業台",
+    "source": "ofiii",
+    "programme_count": 260,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "第1財經",
+    "channel_name": "第1財經",
+    "source": "ofiii",
+    "programme_count": 10,
+    "date_range": {
+      "start": "2026-08-17 01:32:22",
+      "end": "2026-08-17 05:39:10"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "第一神拳",
+    "channel_name": "第一神拳",
+    "source": "ofiii",
+    "programme_count": 127,
+    "date_range": {
+      "start": "2026-08-16 15:32:54",
+      "end": "2026-08-18 17:17:18"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "紓壓雷雨聲",
+    "channel_name": "紓壓雷雨聲",
+    "source": "ofiii",
+    "programme_count": 2,
+    "date_range": {
+      "start": "2026-08-17 01:53:55",
+      "end": "2026-08-17 03:58:11"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "經典劇場",
+    "channel_name": "經典劇場",
+    "source": "ofiii",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:12:54"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "綜藝大集合",
+    "channel_name": "綜藝大集合",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-11 19:00:28",
+      "end": "2026-08-17 16:26:37"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "脖子解說 Mr. Neck",
+    "channel_name": "脖子解說 Mr. Neck",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-16 13:54:14",
+      "end": "2026-08-17 09:10:26"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "膽大黨",
+    "channel_name": "膽大黨",
+    "source": "ofiii",
+    "programme_count": 24,
+    "date_range": {
+      "start": "2026-08-16 21:15:32",
+      "end": "2026-08-17 06:49:14"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "良陳美錦",
+    "channel_name": "良陳美錦",
+    "source": "ofiii",
+    "programme_count": 41,
+    "date_range": {
+      "start": "2026-08-16 10:20:03",
+      "end": "2026-08-17 17:44:17"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "華視 (2)",
+    "channel_name": "華視",
+    "source": "ofiii",
+    "programme_count": 143,
+    "date_range": {
+      "start": "2026-08-17 01:30:00",
+      "end": "2026-08-23 00:10:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "華視新聞 (2)",
+    "channel_name": "華視新聞",
+    "source": "ofiii",
+    "programme_count": 132,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "華語金選台",
+    "channel_name": "華語金選台",
+    "source": "ofiii",
+    "programme_count": 7,
+    "date_range": {
+      "start": "2026-08-16 17:44:58",
+      "end": "2026-08-17 05:56:12"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "葬送的芙莉蓮",
+    "channel_name": "葬送的芙莉蓮",
+    "source": "ofiii",
+    "programme_count": 38,
+    "date_range": {
+      "start": "2026-08-17 00:47:34",
+      "end": "2026-08-17 16:17:13"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "蠟筆小新(中文版)",
+    "channel_name": "蠟筆小新(中文版)",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 00:17:13",
+      "end": "2026-08-17 16:44:48"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "親子探索台",
+    "channel_name": "親子探索台",
+    "source": "ofiii",
+    "programme_count": 36,
+    "date_range": {
+      "start": "2026-08-17 00:51:04",
+      "end": "2026-08-17 05:37:17"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "詹姆士出走料理",
+    "channel_name": "詹姆士出走料理",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-15 09:45:01",
+      "end": "2026-08-18 10:28:13"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "請問今晚住誰家",
+    "channel_name": "請問今晚住誰家",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-14 10:39:14",
+      "end": "2026-08-17 13:31:54"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "豬哥壹級棒",
+    "channel_name": "豬哥壹級棒",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-15 18:38:36",
+      "end": "2026-08-18 23:21:25"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "超人力霸王劇場版",
+    "channel_name": "超人力霸王劇場版",
+    "source": "ofiii",
+    "programme_count": 17,
+    "date_range": {
+      "start": "2026-08-16 19:49:55",
+      "end": "2026-08-17 17:26:34"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "超人力霸王台",
+    "channel_name": "超人力霸王台",
+    "source": "ofiii",
+    "programme_count": 52,
+    "date_range": {
+      "start": "2026-08-16 06:47:06",
+      "end": "2026-08-17 04:42:14"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "軍師聯盟",
+    "channel_name": "軍師聯盟",
+    "source": "ofiii",
+    "programme_count": 42,
+    "date_range": {
+      "start": "2026-08-16 11:23:23",
+      "end": "2026-08-17 20:00:03"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "軍師聯盟2 虎嘯龍吟",
+    "channel_name": "軍師聯盟2 虎嘯龍吟",
+    "source": "ofiii",
+    "programme_count": 44,
+    "date_range": {
+      "start": "2026-08-16 23:45:15",
+      "end": "2026-08-18 08:32:24"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "進擊的台灣",
+    "channel_name": "進擊的台灣",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-14 22:58:45",
+      "end": "2026-08-18 05:34:08"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "鄉民大學問",
+    "channel_name": "鄉民大學問",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-16 02:31:32",
+      "end": "2026-08-18 22:22:12"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "酷洛米的繽紛旅程 (中文版)",
+    "channel_name": "酷洛米的繽紛旅程 (中文版)",
+    "source": "ofiii",
+    "programme_count": 21,
+    "date_range": {
+      "start": "2026-08-17 02:18:28",
+      "end": "2026-08-17 03:05:25"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "醫學大聯盟",
+    "channel_name": "醫學大聯盟",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-17 02:17:17",
+      "end": "2026-08-20 06:18:53"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "醫師好辣",
+    "channel_name": "醫師好辣",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-16 10:49:23",
+      "end": "2026-08-19 13:29:55"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "鋼之鍊金術師",
+    "channel_name": "鋼之鍊金術師",
+    "source": "ofiii",
+    "programme_count": 51,
+    "date_range": {
+      "start": "2026-08-16 21:20:43",
+      "end": "2026-08-17 17:39:12"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "錦繡安寧",
+    "channel_name": "錦繡安寧",
+    "source": "ofiii",
+    "programme_count": 40,
+    "date_range": {
+      "start": "2026-08-16 21:11:09",
+      "end": "2026-08-18 03:51:31"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "隊長小翼(中文版)",
+    "channel_name": "隊長小翼(中文版)",
+    "source": "ofiii",
+    "programme_count": 52,
+    "date_range": {
+      "start": "2026-08-16 09:11:16",
+      "end": "2026-08-17 05:58:22"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "雖然等級只有1級但固有技能是最強的",
+    "channel_name": "雖然等級只有1級但固有技能是最強的",
+    "source": "ofiii",
+    "programme_count": 12,
+    "date_range": {
+      "start": "2026-08-16 22:45:46",
+      "end": "2026-08-17 03:29:45"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "雙軌",
+    "channel_name": "雙軌",
+    "source": "ofiii",
+    "programme_count": 29,
+    "date_range": {
+      "start": "2026-08-16 10:09:14",
+      "end": "2026-08-17 06:39:16"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "電動車時代",
+    "channel_name": "電動車時代",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 04:01:02",
+      "end": "2026-08-17 19:02:42"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "非凡大探索",
+    "channel_name": "非凡大探索",
+    "source": "ofiii",
+    "programme_count": 96,
+    "date_range": {
+      "start": "2026-08-16 09:42:30",
+      "end": "2026-08-19 16:12:53"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "韶華若錦",
+    "channel_name": "韶華若錦",
+    "source": "ofiii",
+    "programme_count": 31,
+    "date_range": {
+      "start": "2026-08-16 11:54:10",
+      "end": "2026-08-17 11:30:28"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "頭腦共助",
+    "channel_name": "頭腦共助",
+    "source": "ofiii",
+    "programme_count": 16,
+    "date_range": {
+      "start": "2026-08-16 18:24:22",
+      "end": "2026-08-17 11:13:56"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "饕客揪愛吃",
+    "channel_name": "饕客揪愛吃",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 22:57:27",
+      "end": "2026-08-17 04:32:19"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "香港天王台",
+    "channel_name": "香港天王台",
+    "source": "ofiii",
+    "programme_count": 14,
+    "date_range": {
+      "start": "2026-08-16 21:13:51",
+      "end": "2026-08-17 18:33:39"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "鬼話連篇",
+    "channel_name": "鬼話連篇",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-14 03:48:09",
+      "end": "2026-08-17 12:13:15"
+    },
+    "has_programmes": true,
+    "is_valid": false
+  },
+  {
+    "channel_id": "麥卡貝網路電視",
+    "channel_name": "麥卡貝網路電視",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-16 20:39:53",
+      "end": "2026-08-20 23:30:48"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "黃金歲月",
+    "channel_name": "黃金歲月",
+    "source": "ofiii",
+    "programme_count": 100,
+    "date_range": {
+      "start": "2026-08-13 17:01:40",
+      "end": "2026-08-20 13:00:41"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "龍華偶像台 (2)",
+    "channel_name": "龍華偶像台",
+    "source": "ofiii",
+    "programme_count": 144,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "龍華卡通台 (3)",
+    "channel_name": "龍華卡通台",
+    "source": "ofiii",
+    "programme_count": 245,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "龍華戲劇台 (2)",
+    "channel_name": "龍華戲劇台",
+    "source": "ofiii",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "龍華日韓台 (2)",
+    "channel_name": "龍華日韓台",
+    "source": "ofiii",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "龍華洋片台 (2)",
+    "channel_name": "龍華洋片台",
+    "source": "ofiii",
+    "programme_count": 82,
+    "date_range": {
+      "start": "2026-08-17 00:40:00",
+      "end": "2026-08-23 00:40:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "龍華經典台 (2)",
+    "channel_name": "龍華經典台",
+    "source": "ofiii",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-17 02:00:00",
+      "end": "2026-08-23 02:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "龍華電影台",
+    "channel_name": "龍華電影台",
+    "source": "ofiii",
+    "programme_count": 70,
+    "date_range": {
+      "start": "2026-08-17 01:35:00",
+      "end": "2026-08-23 01:40:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "哈哈炫动 (2)",
     "channel_name": "哈哈炫动",
     "source": "51zmt",
     "programme_count": 40,
@@ -15525,7 +17757,7 @@
       "end": "2026-08-19 07:40:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "宁夏经济",
@@ -16488,7 +18720,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "上海新闻综合",
+    "channel_id": "上海新闻综合 (2)",
     "channel_name": "上视新闻频道",
     "source": "51zmt",
     "programme_count": 69,
@@ -16500,7 +18732,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "第一财经",
+    "channel_id": "第一财经 (2)",
     "channel_name": "第一财经",
     "source": "51zmt",
     "programme_count": 65,
@@ -17709,7 +19941,7 @@
       "end": "2026-08-19 02:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "江西都市",
