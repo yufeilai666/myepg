@@ -573,7 +573,7 @@
       "end": "2026-08-17 16:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "第一財經直播",
@@ -3969,7 +3969,7 @@
       "end": "2026-08-18 23:59:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "Now Sports 7",
@@ -6861,7 +6861,7 @@
       "end": "2026-08-18 23:55:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門資訊",
@@ -6885,7 +6885,7 @@
       "end": "2026-08-19 05:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門綜藝",
@@ -6897,7 +6897,7 @@
       "end": "2026-08-19 05:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門衛星",
@@ -11385,7 +11385,7 @@
       "end": "2026-08-19 11:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "博斯無限台有線",
@@ -15621,7 +15621,7 @@
       "end": "2026-08-17 08:34:31"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "中天亞洲精采台",
@@ -15789,7 +15789,7 @@
       "end": "2026-08-17 08:21:08"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "全民星攻略 知識開箱",
@@ -16293,7 +16293,7 @@
       "end": "2026-08-17 08:45:12"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "寰宇新聞台 (2)",
@@ -17721,7 +17721,7 @@
       "end": "2026-08-19 07:40:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "宁夏经济",
@@ -18117,7 +18117,19 @@
       "end": "2026-08-19 02:12:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
+  },
+  {
+    "channel_id": "云南影视",
+    "channel_name": "云南影视",
+    "source": "51zmt",
+    "programme_count": 46,
+    "date_range": {
+      "start": "2026-08-17 00:18:00",
+      "end": "2026-08-19 00:18:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "安徽经济生活",
@@ -19587,10 +19599,10 @@
     "channel_id": "新疆汉语",
     "channel_name": "新疆汉语",
     "source": "51zmt",
-    "programme_count": 10,
+    "programme_count": 23,
     "date_range": {
       "start": "2026-08-17 01:00:00",
-      "end": "2026-08-18 02:00:00"
+      "end": "2026-08-19 01:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19884,6 +19896,18 @@
     "is_valid": true
   },
   {
+    "channel_id": "山东文旅 (2)",
+    "channel_name": "山东文旅",
+    "source": "51zmt",
+    "programme_count": 26,
+    "date_range": {
+      "start": "2026-08-18 08:59:00",
+      "end": "2026-08-19 02:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "江西都市",
     "channel_name": "江西都市",
     "source": "51zmt",
@@ -19917,7 +19941,7 @@
       "end": "2026-08-19 08:50:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "江西新闻",
