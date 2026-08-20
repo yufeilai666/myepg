@@ -375,73 +375,73 @@
     "channel_id": "东方卫视",
     "channel_name": "东方卫视",
     "source": "kankannews",
-    "programme_count": 88,
+    "programme_count": 83,
     "date_range": {
-      "start": "2026-08-19 00:00:00",
-      "end": "2026-08-21 00:00:00"
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "上海新闻综合",
     "channel_name": "上海新闻综合频道",
     "source": "kankannews",
-    "programme_count": 67,
+    "programme_count": 66,
     "date_range": {
-      "start": "2026-08-19 00:00:00",
-      "end": "2026-08-21 00:00:00"
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "第一财经",
     "channel_name": "第一财经",
     "source": "kankannews",
-    "programme_count": 58,
+    "programme_count": 54,
     "date_range": {
-      "start": "2026-08-19 00:00:00",
-      "end": "2026-08-21 00:00:00"
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "五星体育",
     "channel_name": "五星体育",
     "source": "kankannews",
-    "programme_count": 73,
+    "programme_count": 68,
     "date_range": {
-      "start": "2026-08-19 00:00:00",
-      "end": "2026-08-21 00:00:00"
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "上海都市频道",
     "channel_name": "上海都市频道",
     "source": "kankannews",
-    "programme_count": 97,
+    "programme_count": 94,
     "date_range": {
-      "start": "2026-08-19 00:00:00",
-      "end": "2026-08-21 00:00:00"
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "哈哈炫动",
     "channel_name": "哈哈炫动",
     "source": "kankannews",
-    "programme_count": 161,
+    "programme_count": 162,
     "date_range": {
-      "start": "2026-08-19 00:00:00",
-      "end": "2026-08-21 00:00:00"
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "亚洲卫视",
@@ -6321,7 +6321,7 @@
       "end": "2026-08-21 00:40:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "广东珠江",
@@ -6801,7 +6801,7 @@
       "end": "2026-08-21 00:30:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "山东生活",
@@ -6813,7 +6813,7 @@
       "end": "2026-08-21 00:22:00"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "山东综艺",
@@ -6825,7 +6825,7 @@
       "end": "2026-08-21 00:48:59"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "山东农科",
@@ -17484,6 +17484,642 @@
     "is_valid": true
   },
   {
+    "channel_id": "CCTV1 (2)",
+    "channel_name": "CCTV1",
+    "source": "51zmt",
+    "programme_count": 74,
+    "date_range": {
+      "start": "2026-08-20 00:50:00",
+      "end": "2026-08-22 00:50:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV2 (2)",
+    "channel_name": "CCTV2",
+    "source": "51zmt",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2026-08-20 00:24:00",
+      "end": "2026-08-22 00:54:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV3 (2)",
+    "channel_name": "CCTV3",
+    "source": "51zmt",
+    "programme_count": 53,
+    "date_range": {
+      "start": "2026-08-20 00:05:00",
+      "end": "2026-08-22 00:43:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV4",
+    "channel_name": "CCTV4",
+    "source": "51zmt",
+    "programme_count": 91,
+    "date_range": {
+      "start": "2026-08-20 00:35:00",
+      "end": "2026-08-22 00:35:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV5 (2)",
+    "channel_name": "CCTV5",
+    "source": "51zmt",
+    "programme_count": 48,
+    "date_range": {
+      "start": "2026-08-20 01:06:00",
+      "end": "2026-08-22 01:06:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV5+ (2)",
+    "channel_name": "CCTV5+",
+    "source": "51zmt",
+    "programme_count": 35,
+    "date_range": {
+      "start": "2026-08-20 00:06:00",
+      "end": "2026-08-22 01:06:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV6 (2)",
+    "channel_name": "CCTV6",
+    "source": "51zmt",
+    "programme_count": 68,
+    "date_range": {
+      "start": "2026-08-20 00:01:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV7 (2)",
+    "channel_name": "CCTV7",
+    "source": "51zmt",
+    "programme_count": 73,
+    "date_range": {
+      "start": "2026-08-20 00:10:15",
+      "end": "2026-08-21 23:59:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV8 (2)",
+    "channel_name": "CCTV8",
+    "source": "51zmt",
+    "programme_count": 78,
+    "date_range": {
+      "start": "2026-08-20 00:01:00",
+      "end": "2026-08-22 00:04:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV9 (2)",
+    "channel_name": "CCTV9",
+    "source": "51zmt",
+    "programme_count": 56,
+    "date_range": {
+      "start": "2026-08-20 00:31:00",
+      "end": "2026-08-21 23:59:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV10 (2)",
+    "channel_name": "CCTV10",
+    "source": "51zmt",
+    "programme_count": 76,
+    "date_range": {
+      "start": "2026-08-20 00:25:00",
+      "end": "2026-08-22 00:25:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV11 (2)",
+    "channel_name": "CCTV11",
+    "source": "51zmt",
+    "programme_count": 38,
+    "date_range": {
+      "start": "2026-08-20 00:07:00",
+      "end": "2026-08-22 00:29:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV12 (2)",
+    "channel_name": "CCTV12",
+    "source": "51zmt",
+    "programme_count": 62,
+    "date_range": {
+      "start": "2026-08-20 00:47:00",
+      "end": "2026-08-22 00:47:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV13 (2)",
+    "channel_name": "CCTV13",
+    "source": "51zmt",
+    "programme_count": 84,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV14 (2)",
+    "channel_name": "CCTV14",
+    "source": "51zmt",
+    "programme_count": 38,
+    "date_range": {
+      "start": "2026-08-20 00:10:00",
+      "end": "2026-08-22 00:10:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV15 (2)",
+    "channel_name": "CCTV15",
+    "source": "51zmt",
+    "programme_count": 34,
+    "date_range": {
+      "start": "2026-08-20 00:13:00",
+      "end": "2026-08-22 00:10:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV17 (2)",
+    "channel_name": "CCTV17",
+    "source": "51zmt",
+    "programme_count": 54,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:52:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CGTN (3)",
+    "channel_name": "CGTN",
+    "source": "51zmt",
+    "programme_count": 90,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "海峡卫视 (2)",
+    "channel_name": "海峡卫视",
+    "source": "51zmt",
+    "programme_count": 78,
+    "date_range": {
+      "start": "2026-08-20 00:30:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV4EUO",
+    "channel_name": "CCTV4EUO",
+    "source": "51zmt",
+    "programme_count": 87,
+    "date_range": {
+      "start": "2026-08-20 00:02:00",
+      "end": "2026-08-22 00:02:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV4AME",
+    "channel_name": "CCTV4AME",
+    "source": "51zmt",
+    "programme_count": 84,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "湖南卫视 (2)",
+    "channel_name": "湖南卫视",
+    "source": "51zmt",
+    "programme_count": 65,
+    "date_range": {
+      "start": "2026-08-20 01:30:00",
+      "end": "2026-08-22 01:30:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "浙江卫视 (2)",
+    "channel_name": "浙江卫视",
+    "source": "51zmt",
+    "programme_count": 73,
+    "date_range": {
+      "start": "2026-08-20 01:42:00",
+      "end": "2026-08-22 00:34:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "江苏卫视 (2)",
+    "channel_name": "江苏卫视",
+    "source": "51zmt",
+    "programme_count": 59,
+    "date_range": {
+      "start": "2026-08-20 00:08:00",
+      "end": "2026-08-22 00:46:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "北京卫视 (2)",
+    "channel_name": "北京卫视",
+    "source": "51zmt",
+    "programme_count": 68,
+    "date_range": {
+      "start": "2026-08-20 00:09:00",
+      "end": "2026-08-22 00:27:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "东方卫视 (3)",
+    "channel_name": "东方卫视",
+    "source": "51zmt",
+    "programme_count": 89,
+    "date_range": {
+      "start": "2026-08-20 00:35:00",
+      "end": "2026-08-22 00:47:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "安徽卫视 (2)",
+    "channel_name": "安徽卫视",
+    "source": "51zmt",
+    "programme_count": 66,
+    "date_range": {
+      "start": "2026-08-20 00:07:00",
+      "end": "2026-08-22 00:35:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "广东卫视 (3)",
+    "channel_name": "广东卫视",
+    "source": "51zmt",
+    "programme_count": 60,
+    "date_range": {
+      "start": "2026-08-20 01:46:00",
+      "end": "2026-08-22 01:46:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "深圳卫视 (2)",
+    "channel_name": "深圳卫视",
+    "source": "51zmt",
+    "programme_count": 85,
+    "date_range": {
+      "start": "2026-08-20 00:10:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "辽宁卫视 (2)",
+    "channel_name": "辽宁卫视",
+    "source": "51zmt",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2026-08-20 00:28:00",
+      "end": "2026-08-22 00:05:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "旅游卫视",
+    "channel_name": "旅游卫视",
+    "source": "51zmt",
+    "programme_count": 73,
+    "date_range": {
+      "start": "2026-08-20 00:15:00",
+      "end": "2026-08-22 00:16:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "山东卫视 (3)",
+    "channel_name": "山东卫视",
+    "source": "51zmt",
+    "programme_count": 69,
+    "date_range": {
+      "start": "2026-08-20 00:16:00",
+      "end": "2026-08-22 00:21:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "天津卫视 (2)",
+    "channel_name": "天津卫视",
+    "source": "51zmt",
+    "programme_count": 60,
+    "date_range": {
+      "start": "2026-08-20 00:30:00",
+      "end": "2026-08-22 00:55:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "重庆卫视 (2)",
+    "channel_name": "重庆卫视",
+    "source": "51zmt",
+    "programme_count": 71,
+    "date_range": {
+      "start": "2026-08-20 00:30:00",
+      "end": "2026-08-22 00:30:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "东南卫视 (2)",
+    "channel_name": "东南卫视",
+    "source": "51zmt",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-20 00:15:00",
+      "end": "2026-08-22 01:47:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "甘肃卫视 (2)",
+    "channel_name": "甘肃卫视",
+    "source": "51zmt",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2026-08-20 00:20:00",
+      "end": "2026-08-22 00:22:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "广西卫视 (3)",
+    "channel_name": "广西卫视",
+    "source": "51zmt",
+    "programme_count": 71,
+    "date_range": {
+      "start": "2026-08-20 00:09:00",
+      "end": "2026-08-22 00:25:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "贵州卫视 (2)",
+    "channel_name": "贵州卫视",
+    "source": "51zmt",
+    "programme_count": 58,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "河北卫视 (3)",
+    "channel_name": "河北卫视",
+    "source": "51zmt",
+    "programme_count": 70,
+    "date_range": {
+      "start": "2026-08-20 00:14:00",
+      "end": "2026-08-22 00:09:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "黑龙江卫视 (2)",
+    "channel_name": "黑龙江卫视",
+    "source": "51zmt",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2026-08-20 00:29:00",
+      "end": "2026-08-22 00:25:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "河南卫视 (3)",
+    "channel_name": "河南卫视",
+    "source": "51zmt",
+    "programme_count": 71,
+    "date_range": {
+      "start": "2026-08-20 00:07:00",
+      "end": "2026-08-22 00:19:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "湖北卫视 (2)",
+    "channel_name": "湖北卫视",
+    "source": "51zmt",
+    "programme_count": 61,
+    "date_range": {
+      "start": "2026-08-20 00:47:00",
+      "end": "2026-08-22 00:42:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "江西卫视 (2)",
+    "channel_name": "江西卫视",
+    "source": "51zmt",
+    "programme_count": 40,
+    "date_range": {
+      "start": "2026-08-20 01:15:00",
+      "end": "2026-08-22 01:15:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "吉林卫视 (2)",
+    "channel_name": "吉林卫视",
+    "source": "51zmt",
+    "programme_count": 73,
+    "date_range": {
+      "start": "2026-08-20 00:24:00",
+      "end": "2026-08-22 00:23:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "内蒙古卫视 (2)",
+    "channel_name": "内蒙古卫视",
+    "source": "51zmt",
+    "programme_count": 62,
+    "date_range": {
+      "start": "2026-08-20 00:52:00",
+      "end": "2026-08-22 00:03:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "宁夏卫视 (2)",
+    "channel_name": "宁夏卫视",
+    "source": "51zmt",
+    "programme_count": 84,
+    "date_range": {
+      "start": "2026-08-20 00:10:00",
+      "end": "2026-08-22 00:58:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "山西卫视 (2)",
+    "channel_name": "山西卫视",
+    "source": "51zmt",
+    "programme_count": 67,
+    "date_range": {
+      "start": "2026-08-20 00:20:00",
+      "end": "2026-08-22 00:20:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "陕西卫视 (2)",
+    "channel_name": "陕西卫视",
+    "source": "51zmt",
+    "programme_count": 62,
+    "date_range": {
+      "start": "2026-08-20 00:15:00",
+      "end": "2026-08-22 00:20:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "四川卫视 (2)",
+    "channel_name": "四川卫视",
+    "source": "51zmt",
+    "programme_count": 64,
+    "date_range": {
+      "start": "2026-08-20 00:19:00",
+      "end": "2026-08-22 00:43:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "新疆卫视 (2)",
+    "channel_name": "新疆卫视",
+    "source": "51zmt",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2026-08-20 00:16:00",
+      "end": "2026-08-22 00:17:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "云南卫视 (2)",
+    "channel_name": "云南卫视",
+    "source": "51zmt",
+    "programme_count": 65,
+    "date_range": {
+      "start": "2026-08-20 00:41:00",
+      "end": "2026-08-22 00:05:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "青海卫视 (2)",
+    "channel_name": "青海卫视",
+    "source": "51zmt",
+    "programme_count": 69,
+    "date_range": {
+      "start": "2026-08-20 01:04:00",
+      "end": "2026-08-22 00:30:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "兵团卫视 (2)",
+    "channel_name": "兵团卫视",
+    "source": "51zmt",
+    "programme_count": 73,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "哈哈炫动 (2)",
     "channel_name": "哈哈炫动",
     "source": "51zmt",
@@ -17491,6 +18127,18 @@
     "date_range": {
       "start": "2026-08-20 00:15:00",
       "end": "2026-08-22 00:15:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "延边卫视",
+    "channel_name": "延边卫视",
+    "source": "51zmt",
+    "programme_count": 42,
+    "date_range": {
+      "start": "2026-08-20 01:05:00",
+      "end": "2026-08-22 01:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17508,7 +18156,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "卡酷少儿",
+    "channel_id": "卡酷动画",
     "channel_name": "卡酷动画",
     "source": "51zmt",
     "programme_count": 128,
@@ -17520,10 +18168,58 @@
     "is_valid": true
   },
   {
+    "channel_id": "厦门卫视 (2)",
+    "channel_name": "厦门卫视",
+    "source": "51zmt",
+    "programme_count": 54,
+    "date_range": {
+      "start": "2026-08-20 01:00:00",
+      "end": "2026-08-22 01:30:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "金鹰卡通",
     "channel_name": "金鹰卡通",
     "source": "51zmt",
     "programme_count": 185,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "康巴卫视",
+    "channel_name": "康巴卫视",
+    "source": "51zmt",
+    "programme_count": 88,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "西藏卫视 (2)",
+    "channel_name": "西藏卫视",
+    "source": "51zmt",
+    "programme_count": 105,
+    "date_range": {
+      "start": "2026-08-20 00:01:00",
+      "end": "2026-08-22 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "三沙卫视",
+    "channel_name": "三沙卫视",
+    "source": "51zmt",
+    "programme_count": 6,
     "date_range": {
       "start": "2026-08-20 00:00:00",
       "end": "2026-08-22 00:00:00"
@@ -17563,6 +18259,18 @@
     "date_range": {
       "start": "2026-08-20 00:04:00",
       "end": "2026-08-22 00:04:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "CCTV4K (2)",
+    "channel_name": "CCTV4K",
+    "source": "51zmt",
+    "programme_count": 74,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-22 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18372,7 +19080,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "北京纪实科教",
+    "channel_id": "北京纪实",
     "channel_name": "北京纪实",
     "source": "51zmt",
     "programme_count": 86,
@@ -18384,7 +19092,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "北京文艺",
+    "channel_id": "BTV文艺",
     "channel_name": "BTV文艺",
     "source": "51zmt",
     "programme_count": 62,
@@ -18396,7 +19104,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "北京影视",
+    "channel_id": "BTV影视",
     "channel_name": "BTV影视",
     "source": "51zmt",
     "programme_count": 62,
@@ -18408,7 +19116,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "北京财经",
+    "channel_id": "BTV财经",
     "channel_name": "BTV财经",
     "source": "51zmt",
     "programme_count": 53,
@@ -18420,7 +19128,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "北京体育休闲",
+    "channel_id": "BTV体育",
     "channel_name": "BTV体育",
     "source": "51zmt",
     "programme_count": 54,
@@ -18432,7 +19140,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "北京生活",
+    "channel_id": "BTV生活",
     "channel_name": "BTV生活",
     "source": "51zmt",
     "programme_count": 56,
@@ -18444,7 +19152,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "北京新闻",
+    "channel_id": "BTV新闻",
     "channel_name": "BTV新闻",
     "source": "51zmt",
     "programme_count": 54,
@@ -18624,7 +19332,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "金色学堂",
+    "channel_id": "金色",
     "channel_name": "金色",
     "source": "51zmt",
     "programme_count": 251,
@@ -18708,7 +19416,7 @@
     "is_valid": true
   },
   {
-    "channel_id": "上海新闻综合 (2)",
+    "channel_id": "上视新闻频道",
     "channel_name": "上视新闻频道",
     "source": "51zmt",
     "programme_count": 61,
@@ -19548,6 +20256,18 @@
     "is_valid": true
   },
   {
+    "channel_id": "CCTV16 (2)",
+    "channel_name": "CCTV16",
+    "source": "51zmt",
+    "programme_count": 50,
+    "date_range": {
+      "start": "2026-08-20 00:10:00",
+      "end": "2026-08-22 00:35:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "广东影视 (2)",
     "channel_name": "广东影视",
     "source": "51zmt",
@@ -19896,6 +20616,18 @@
     "is_valid": true
   },
   {
+    "channel_id": "大湾区卫视",
+    "channel_name": "大湾区卫视",
+    "source": "51zmt",
+    "programme_count": 38,
+    "date_range": {
+      "start": "2026-08-20 02:06:00",
+      "end": "2026-08-22 00:15:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "广东民生 (2)",
     "channel_name": "广东民生",
     "source": "51zmt",
@@ -20179,6 +20911,18 @@
     "date_range": {
       "start": "2026-08-20 05:25:00",
       "end": "2026-08-22 05:25:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "noepg",
+    "channel_name": "noepg",
+    "source": "51zmt",
+    "programme_count": 48,
+    "date_range": {
+      "start": "2026-08-20 00:00:00",
+      "end": "2026-08-21 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
