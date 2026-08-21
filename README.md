@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-08-21 12:50:51 (UTC+8)
+- **最后更新时间**: 2026-08-21 16:51:01 (UTC+8)
 - **频道总数**: 1784
 
 ## 频道列表
@@ -77,8 +77,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | TVB粤语片 | TVB粤语片 | tvbanywhere | 30 | 2026-08-21 01:05:00 至 2026-08-23 00:55:00 | ✅ |
 |  CCCTV4 |  CCCTV4 | tvbanywhere | 114 | 2026-08-21 00:01:00 至 2026-08-23 00:01:00 | ✅ |
 | 中國電影頻道CCMC | 中國電影頻道CCMC | tvbanywhere | 32 | 2026-08-21 00:13:00 至 2026-08-23 00:06:00 | ✅ |
-| 看看新聞直播 | 看看新聞直播 | tvbanywhere | 1 | 2026-08-23 18:00:00 至 2026-08-23 19:00:00 | ❌ |
-| 第一財經直播 | 第一財經直播 | tvbanywhere | 400 | 2026-05-28 09:30:00 至 2026-08-21 16:30:00 | ✅ |
+| 看看新聞直播 | 看看新聞直播 | tvbanywhere | 1 | 2026-08-23 18:00:00 至 2026-08-23 19:00:00 | ✅ |
+| 第一財經直播 | 第一財經直播 | tvbanywhere | 400 | 2026-05-28 09:30:00 至 2026-08-21 16:30:00 | ❌ |
 | cctv1 | cctv1 | tvbanywhere | 107 | 2026-08-20 00:50:00 至 2026-08-22 23:59:00 | ✅ |
 | cctv2 | cctv2 | tvbanywhere | 112 | 2026-08-20 00:24:20 至 2026-08-22 23:59:00 | ✅ |
 | cctv3 | cctv3 | tvbanywhere | 80 | 2026-08-20 00:04:30 至 2026-08-22 23:59:00 | ✅ |
@@ -422,7 +422,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 |  W-Sport |  W-Sport | mytvsuper | 49 | 2026-08-20 23:25:00 至 2026-08-24 01:10:00 | ✅ |
 | TRACE Sport Stars | TRACE Sport Stars | mytvsuper | 147 | 2026-08-21 00:00:00 至 2026-08-24 00:30:00 | ✅ |
 | Action Hollywood Movies | Action Hollywood Movies | mytvsuper | 38 | 2026-08-21 00:00:00 至 2026-08-24 02:15:00 | ✅ |
-| Kartoon Channel! | Kartoon Channel! | mytvsuper | 133 | 2026-08-21 23:10:00 至 2026-08-24 00:30:00 | ❌ |
+| Kartoon Channel! | Kartoon Channel! | mytvsuper | 133 | 2026-08-21 23:10:00 至 2026-08-24 00:30:00 | ✅ |
 | TG Junior | TG Junior | mytvsuper | 216 | 2026-08-21 00:00:00 至 2026-08-24 00:30:00 | ✅ |
 | NOW 80s | NOW 80s | mytvsuper | 43 | 2026-08-21 00:00:00 至 2026-08-24 01:00:00 | ✅ |
 | NOW 70s | NOW 70s | mytvsuper | 45 | 2026-08-21 00:00:00 至 2026-08-24 01:00:00 | ✅ |
@@ -1308,7 +1308,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Freeman @台灣 | Freeman @台灣 | ofiii | 63 | 2026-08-20 22:28:42 至 2026-08-21 05:01:18 | ❌ |
 | Golden 強片台 | Golden 強片台 | ofiii | 14 | 2026-08-20 14:23:41 至 2026-08-21 14:55:58 | ❌ |
 | Golden影迷台 | Golden影迷台 | ofiii | 20 | 2026-08-20 14:26:59 至 2026-08-22 00:48:47 | ✅ |
-| JOJO 的奇妙冒險 | JOJO 的奇妙冒險 | ofiii | 155 | 2026-08-19 02:26:55 至 2026-08-21 16:22:19 | ✅ |
+| JOJO 的奇妙冒險 | JOJO 的奇妙冒險 | ofiii | 155 | 2026-08-19 02:26:55 至 2026-08-21 16:22:19 | ❌ |
 | SPY X FAMILY 間諜家家酒 | SPY X FAMILY 間諜家家酒 | ofiii | 50 | 2026-08-21 01:05:53 至 2026-08-21 21:01:27 | ✅ |
 | SPY X FAMILY 間諜家家酒(中文版) | SPY X FAMILY 間諜家家酒(中文版) | ofiii | 50 | 2026-08-21 00:04:29 至 2026-08-21 20:00:19 | ✅ |
 | SiCAR愛車酷 | SiCAR愛車酷 | ofiii | 63 | 2026-08-20 22:45:04 至 2026-08-21 12:30:56 | ❌ |
