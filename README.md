@@ -1278,7 +1278,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KBS DRAMA | KBS DRAMA | 4gtv | 44 | 2026-08-23 04:40:00 至 2026-08-25 03:50:00 | ✅ |
 | KBS JOY | KBS JOY | 4gtv | 34 | 2026-08-23 05:40:00 至 2026-08-25 03:45:00 | ✅ |
 | KBS STORY | KBS STORY | 4gtv | 43 | 2026-08-23 05:00:00 至 2026-08-25 03:40:00 | ✅ |
-| KBS LIFE | KBS LIFE | 4gtv | 20 | 2026-08-24 04:55:00 至 2026-08-25 03:40:00 | ✅ |
+| KBS LIFE | KBS LIFE | 4gtv | 20 | 2026-08-24 04:55:00 至 2026-08-25 03:40:00 | ❌ |
 | KBS KIDS | KBS KIDS | 4gtv | 130 | 2026-08-23 05:00:00 至 2026-08-25 03:55:00 | ✅ |
 | SBS | SBS | 4gtv | 44 | 2026-08-23 04:00:00 至 2026-08-25 00:30:00 | ✅ |
 | SBS plus | SBS plus | 4gtv | 31 | 2026-08-23 03:00:00 至 2026-08-25 01:50:00 | ✅ |
@@ -1309,7 +1309,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Golden 強片台 | Golden 強片台 | ofiii | 14 | 2026-08-22 15:26:16 至 2026-08-23 15:58:33 | ✅ |
 | Golden影迷台 | Golden影迷台 | ofiii | 20 | 2026-08-22 00:57:34 至 2026-08-23 11:19:22 | ❌ |
 | JOJO 的奇妙冒險 | JOJO 的奇妙冒險 | ofiii | 155 | 2026-08-21 16:40:53 至 2026-08-24 06:36:17 | ✅ |
-| SPY X FAMILY 間諜家家酒 | SPY X FAMILY 間諜家家酒 | ofiii | 50 | 2026-08-22 16:56:08 至 2026-08-23 12:51:42 | ✅ |
+| SPY X FAMILY 間諜家家酒 | SPY X FAMILY 間諜家家酒 | ofiii | 50 | 2026-08-22 16:56:08 至 2026-08-23 12:51:42 | ❌ |
 | SPY X FAMILY 間諜家家酒(中文版) | SPY X FAMILY 間諜家家酒(中文版) | ofiii | 50 | 2026-08-22 15:55:13 至 2026-08-23 11:51:03 | ❌ |
 | SiCAR愛車酷 | SiCAR愛車酷 | ofiii | 63 | 2026-08-22 16:19:39 至 2026-08-23 06:05:31 | ❌ |
 | Smart知識台 (2) | Smart知識台 | ofiii | 139 | 2026-08-23 02:00:00 至 2026-08-29 00:00:00 | ✅ |
