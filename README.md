@@ -1278,7 +1278,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KBS DRAMA | KBS DRAMA | 4gtv | 44 | 2026-08-23 04:40:00 至 2026-08-25 03:50:00 | ✅ |
 | KBS JOY | KBS JOY | 4gtv | 34 | 2026-08-23 05:40:00 至 2026-08-25 03:45:00 | ✅ |
 | KBS STORY | KBS STORY | 4gtv | 43 | 2026-08-23 05:00:00 至 2026-08-25 03:40:00 | ✅ |
-| KBS LIFE | KBS LIFE | 4gtv | 20 | 2026-08-24 04:55:00 至 2026-08-25 03:40:00 | ✅ |
+| KBS LIFE | KBS LIFE | 4gtv | 20 | 2026-08-24 04:55:00 至 2026-08-25 03:40:00 | ❌ |
 | KBS KIDS | KBS KIDS | 4gtv | 130 | 2026-08-23 05:00:00 至 2026-08-25 03:55:00 | ✅ |
 | SBS | SBS | 4gtv | 44 | 2026-08-23 04:00:00 至 2026-08-25 00:30:00 | ✅ |
 | SBS plus | SBS plus | 4gtv | 31 | 2026-08-23 03:00:00 至 2026-08-25 01:50:00 | ✅ |
