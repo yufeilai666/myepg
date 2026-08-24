@@ -459,10 +459,10 @@
     "channel_id": "CCTV1 香港",
     "channel_name": "CCTV1 香港",
     "source": "epg.pw",
-    "programme_count": 133,
+    "programme_count": 136,
     "date_range": {
-      "start": "2026-08-22 00:00:00",
-      "end": "2026-08-27 00:00:00"
+      "start": "2026-08-23 00:00:00",
+      "end": "2026-08-28 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -471,10 +471,10 @@
     "channel_id": "CCTV4 香港",
     "channel_name": "CCTV4 香港",
     "source": "epg.pw",
-    "programme_count": 155,
+    "programme_count": 158,
     "date_range": {
-      "start": "2026-08-22 00:40:00",
-      "end": "2026-08-26 00:00:00"
+      "start": "2026-08-23 00:00:00",
+      "end": "2026-08-27 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -483,10 +483,10 @@
     "channel_id": "CCTV4 欧洲",
     "channel_name": "CCTV4 欧洲",
     "source": "epg.pw",
-    "programme_count": 164,
+    "programme_count": 162,
     "date_range": {
-      "start": "2026-08-22 00:02:00",
-      "end": "2026-08-27 00:00:00"
+      "start": "2026-08-23 00:01:00",
+      "end": "2026-08-28 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -495,10 +495,10 @@
     "channel_id": "CCTV4 美洲",
     "channel_name": "CCTV4 美洲",
     "source": "epg.pw",
-    "programme_count": 163,
+    "programme_count": 161,
     "date_range": {
-      "start": "2026-08-22 00:00:00",
-      "end": "2026-08-26 00:00:00"
+      "start": "2026-08-23 00:00:00",
+      "end": "2026-08-28 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -717,7 +717,7 @@
       "end": "2026-08-24 20:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "第一財經直播",
@@ -6897,7 +6897,7 @@
       "end": "2026-08-25 23:30:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門資訊",
@@ -6921,7 +6921,7 @@
       "end": "2026-08-26 05:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門綜藝",
@@ -6933,7 +6933,7 @@
       "end": "2026-08-26 05:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "澳門衛星",
@@ -15501,7 +15501,7 @@
       "end": "2026-08-24 08:47:16"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "SPY X FAMILY 間諜家家酒(中文版)",
@@ -15957,7 +15957,7 @@
       "end": "2026-08-24 08:50:22"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "台灣真善美",
@@ -16641,7 +16641,7 @@
       "end": "2026-08-24 08:30:49"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "步步驚心",
@@ -16725,7 +16725,7 @@
       "end": "2026-08-24 08:36:03"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "溢起趣打卡",
@@ -17049,7 +17049,7 @@
       "end": "2026-08-24 08:33:28"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "葬送的芙莉蓮",
@@ -17325,7 +17325,7 @@
       "end": "2026-08-24 08:44:34"
     },
     "has_programmes": true,
-    "is_valid": true
+    "is_valid": false
   },
   {
     "channel_id": "頭腦共助",
@@ -18153,7 +18153,19 @@
       "end": "2026-08-26 02:12:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
+  },
+  {
+    "channel_id": "云南影视",
+    "channel_name": "云南影视",
+    "source": "51zmt",
+    "programme_count": 46,
+    "date_range": {
+      "start": "2026-08-24 00:18:00",
+      "end": "2026-08-26 00:18:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "安徽经济生活",
@@ -19623,10 +19635,10 @@
     "channel_id": "新疆汉语",
     "channel_name": "新疆汉语",
     "source": "51zmt",
-    "programme_count": 10,
+    "programme_count": 23,
     "date_range": {
       "start": "2026-08-24 01:00:00",
-      "end": "2026-08-25 02:00:00"
+      "end": "2026-08-26 01:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19920,6 +19932,18 @@
     "is_valid": true
   },
   {
+    "channel_id": "山东文旅 (2)",
+    "channel_name": "山东文旅",
+    "source": "51zmt",
+    "programme_count": 30,
+    "date_range": {
+      "start": "2026-08-24 00:00:00",
+      "end": "2026-08-25 02:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "江西都市",
     "channel_name": "江西都市",
     "source": "51zmt",
@@ -19953,7 +19977,7 @@
       "end": "2026-08-26 08:50:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "江西新闻",
