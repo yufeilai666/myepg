@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | TVB粤语片 | TVB粤语片 | tvbanywhere | 14 | 2026-08-30 00:10:00 至 2026-08-30 23:35:00 | ✅ |
 |  CCCTV4 |  CCCTV4 | tvbanywhere | 48 | 2026-08-30 00:00:00 至 2026-08-30 23:30:00 | ✅ |
 | 中國電影頻道CCMC | 中國電影頻道CCMC | tvbanywhere | 0 | 无节目 | ❌ |
-| 第一財經直播 | 第一財經直播 | tvbanywhere | 3 | 2026-08-31 08:30:00 至 2026-09-02 16:00:00 | ✅ |
+| 第一財經直播 | 第一財經直播 | tvbanywhere | 3 | 2026-08-31 08:30:00 至 2026-09-02 16:00:00 | ❌ |
 | cctv1 | cctv1 | tvbanywhere | 102 | 2026-08-29 00:50:00 至 2026-08-31 23:59:00 | ✅ |
 | cctv2 | cctv2 | tvbanywhere | 115 | 2026-08-29 00:32:40 至 2026-08-31 23:59:00 | ✅ |
 | cctv3 | cctv3 | tvbanywhere | 80 | 2026-08-29 00:25:25 至 2026-08-31 23:59:00 | ✅ |
