@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-09-22 22:56:12 (UTC+8)
+- **最后更新时间**: 2026-09-23 00:55:57 (UTC+8)
 - **频道总数**: 1926
 
 ## 频道列表
@@ -50,12 +50,12 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | PopC (香港) | PopC | person | 113 | 2026-09-22 01:05:00 至 2026-09-28 23:55:00 | ✅ |
 | 重温经典 | 重温经典频道 | gehua | 229 | 2026-09-22 06:02:00 至 2026-09-29 00:00:00 | ✅ |
 | 澳门莲花 | 澳門蓮花衛視 | lotustv | 86 | 2026-09-21 01:07:00 至 2026-09-28 00:00:00 | ✅ |
-| 东方卫视 | 东方卫视 | kankannews | 74 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ❌ |
-| 上海新闻综合 | 上海新闻综合频道 | kankannews | 62 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ❌ |
-| 第一财经 | 第一财经 | kankannews | 60 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ❌ |
-| 五星体育 | 五星体育 | kankannews | 73 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ❌ |
-| 上海都市频道 | 上海都市频道 | kankannews | 83 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ❌ |
-| 哈哈炫动 | 哈哈炫动 | kankannews | 145 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ❌ |
+| 东方卫视 | 东方卫视 | kankannews | 72 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 上海新闻综合 | 上海新闻综合频道 | kankannews | 64 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 第一财经 | 第一财经 | kankannews | 58 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 五星体育 | 五星体育 | kankannews | 71 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 上海都市频道 | 上海都市频道 | kankannews | 83 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 哈哈炫动 | 哈哈炫动 | kankannews | 149 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 亚洲卫视 | 亚洲卫视 | asiasatv | 126 | 2026-09-21 00:00:00 至 2026-09-28 00:00:00 | ✅ |
 | CCTV1 香港 | CCTV1 香港 | epg.pw | 159 | 2026-09-21 00:00:00 至 2026-09-26 00:00:00 | ✅ |
 | CCTV4 香港 | CCTV4 香港 | epg.pw | 161 | 2026-09-21 00:20:00 至 2026-09-25 00:00:00 | ✅ |
@@ -165,8 +165,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | AXN | AXN | tvbanywhere | 0 | 无节目 | ❌ |
 | AXN HD  | AXN HD  | tvbanywhere | 0 | 无节目 | ❌ |
 | BBC Earth | BBC Earth | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ✅ |
-| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ✅ |
+| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ❌ |
+| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ❌ |
 | Bloomberg | Bloomberg | tvbanywhere | 0 | 无节目 | ❌ |
 | BTV | BTV | tvbanywhere | 0 | 无节目 | ❌ |
 | CBeebies | CBeebies | tvbanywhere | 0 | 无节目 | ❌ |
@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Celestial Movies | Celestial Movies | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN  | CGTN  | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN Documentary | CGTN Documentary | tvbanywhere | 0 | 无节目 | ❌ |
-| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ✅ |
+| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI | CINEMACHI | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION | CINEMACHI ACTION | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION HD | CINEMACHI ACTION HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Global Trekker | Global Trekker | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV  | GTV  | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV HD | GTV HD | tvbanywhere | 0 | 无节目 | ❌ |
-| History  | History  | tvbanywhere | 0 | 无节目 | ✅ |
+| History  | History  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS  | HITS  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES | HITS MOVIES | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES HD | HITS MOVIES HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KIX | KIX | tvbanywhere | 0 | 无节目 | ❌ |
 | Kompas TV | Kompas TV | tvbanywhere | 0 | 无节目 | ❌ |
 | LIFE | LIFE | tvbanywhere | 0 | 无节目 | ❌ |
-| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ✅ |
+| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature  | Love Nature  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature HD | Love Nature HD | tvbanywhere | 0 | 无节目 | ❌ |
 | Metro TV | Metro TV | tvbanywhere | 0 | 无节目 | ❌ |
@@ -1513,7 +1513,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | ofiii | 14 | 2026-09-22 00:33:58 至 2026-09-22 06:33:21 | ❌ |
 | 地球檔案庫 | 地球檔案庫 | ofiii | 26 | 2026-09-21 09:20:42 至 2026-09-22 06:35:12 | ❌ |
 | 夏日陽光海浪聲 | 夏日陽光海浪聲 | ofiii | 3 | 2026-09-22 05:01:39 至 2026-09-22 08:07:31 | ❌ |
-| 夢幻遊戲(中文版) | 夢幻遊戲(中文版) | ofiii | 52 | 2026-09-22 04:22:14 至 2026-09-23 00:43:44 | ✅ |
+| 夢幻遊戲(中文版) | 夢幻遊戲(中文版) | ofiii | 52 | 2026-09-22 04:22:14 至 2026-09-23 00:43:44 | ❌ |
 | 大新聞大爆卦 | 大新聞大爆卦 | ofiii | 10 | 2026-09-21 13:15:18 至 2026-09-22 05:47:57 | ❌ |
 | 大生意人 | 大生意人 | ofiii | 40 | 2026-09-22 02:04:03 至 2026-09-23 08:26:43 | ✅ |
 | 大胃王來了！ | 大胃王來了！ | ofiii | 100 | 2026-09-22 03:49:08 至 2026-09-25 09:08:26 | ✅ |
