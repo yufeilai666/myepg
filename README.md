@@ -12,8 +12,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-09-22 04:55:50 (UTC+8)
-- **频道总数**: 1928
+- **最后更新时间**: 2026-09-22 08:55:52 (UTC+8)
+- **频道总数**: 1793
 
 ## 频道列表
 | 频道id | 频道名称 | 数据源 | 节目数量 | 时间范围 | EPG状态 |
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | LS TIME 龙祥时代 | 龙祥时代 | person | 73 | 2026-09-21 01:30:00 至 2026-09-27 21:00:00 | ✅ |
 | LS TIMES TV | 龙祥频道 (CA) | person | 109 | 2026-09-21 00:45:00 至 2026-09-28 00:55:00 | ✅ |
 | 好莱坞电影台 | 好莱坞电影台 | person | 48 | 2026-09-21 00:15:00 至 2026-09-25 02:15:00 | ✅ |
-| 天映频道 (新加坡) | 天映频道 | person | 57 | 2026-09-24 00:20:00 至 2026-09-27 23:00:00 | ❌ |
+| 天映频道 (新加坡) | 天映频道 | person | 57 | 2026-09-24 00:20:00 至 2026-09-27 23:00:00 | ✅ |
 | 天映频道 (astro) | 天映频道 | person | 89 | 2026-09-21 00:50:00 至 2026-09-27 22:45:00 | ✅ |
 | 天映频道 (印尼) | 天映频道 | person | 100 | 2026-09-21 02:05:00 至 2026-09-28 00:40:00 | ✅ |
 | 天映经典 (香港) | 天映经典 | person | 96 | 2026-09-21 00:30:00 至 2026-09-27 22:45:00 | ✅ |
@@ -57,10 +57,10 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 上海都市频道 | 上海都市频道 | kankannews | 83 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ✅ |
 | 哈哈炫动 | 哈哈炫动 | kankannews | 145 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ✅ |
 | 亚洲卫视 | 亚洲卫视 | asiasatv | 126 | 2026-09-21 00:00:00 至 2026-09-28 00:00:00 | ✅ |
-| CCTV1 香港 | CCTV1 香港 | epg.pw | 136 | 2026-09-20 00:00:00 至 2026-09-25 00:00:00 | ✅ |
-| CCTV4 香港 | CCTV4 香港 | epg.pw | 158 | 2026-09-20 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| CCTV4 欧洲 | CCTV4 欧洲 | epg.pw | 158 | 2026-09-20 00:00:00 至 2026-09-25 00:00:00 | ✅ |
-| CCTV4 美洲 | CCTV4 美洲 | epg.pw | 164 | 2026-09-20 00:00:00 至 2026-09-25 00:00:00 | ✅ |
+| CCTV1 香港 | CCTV1 香港 | epg.pw | 69 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| CCTV4 香港 | CCTV4 香港 | epg.pw | 79 | 2026-09-21 00:20:00 至 2026-09-23 00:00:00 | ✅ |
+| CCTV4 欧洲 | CCTV4 欧洲 | epg.pw | 84 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
+| CCTV4 美洲 | CCTV4 美洲 | epg.pw | 83 | 2026-09-22 00:23:00 至 2026-09-25 00:00:00 | ✅ |
 | 香港卫视 | 香港衛視 | hkstv | 247 | 2026-09-21 00:11:00 至 2026-09-24 23:50:00 | ✅ |
 | HOY 76 | HOY 76 | hoytv | 611 | 2026-09-08 01:30:00 至 2026-09-29 23:30:00 | ✅ |
 | HOY 77 | HOY 77 | hoytv | 633 | 2026-09-08 00:45:00 至 2026-09-29 23:30:00 | ✅ |
@@ -68,234 +68,99 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 雷霆881 | 商業電台 881 | HKToolbar | 42 | 2026-09-21 02:00:00 至 2026-09-23 02:00:00 | ✅ |
 | 叱咤903 | 商業電台 903 | HKToolbar | 34 | 2026-09-21 02:00:00 至 2026-09-23 02:00:00 | ✅ |
 | AM864 | 商業電台 AM864 | HKToolbar | 12 | 2026-09-21 02:00:00 至 2026-09-23 02:00:00 | ✅ |
-| 翡翠台 | 翡翠台 | tvbanywhere | 96 | 2025-02-19 23:55:00 至 2025-02-22 00:55:00 | ❌ |
-| 翡翠台(国际版) | 翡翠台(国际版) | tvbanywhere | 82 | 2025-02-19 23:15:00 至 2025-02-22 00:00:00 | ❌ |
-| 无线新闻(国际版) | 无线新闻(国际版) | tvbanywhere | 98 | 2025-02-19 23:30:00 至 2025-02-22 00:00:00 | ❌ |
-| TVB生活台 | TVB生活台 | tvbanywhere | 98 | 2025-02-19 23:30:00 至 2025-02-22 00:00:00 | ❌ |
-| 娱乐新闻 | 娱乐新闻 | tvbanywhere | 98 | 2025-02-19 23:30:00 至 2025-02-22 00:00:00 | ❌ |
-| TVB星河 | TVB星河 | tvbanywhere | 0 | 无节目 | ❌ |
-| TVB功夫台 | TVB功夫台 | tvbanywhere | 62 | 2025-02-19 23:30:00 至 2025-02-22 00:20:00 | ❌ |
-| TVB粤语片 | TVB粤语片 | tvbanywhere | 31 | 2025-02-19 22:50:00 至 2025-02-22 00:45:00 | ❌ |
-| 神州新闻 | 神州新闻 | tvbanywhere | 152 | 2025-02-19 23:35:00 至 2025-02-22 00:00:00 | ❌ |
-| Hands Up | Hands Up | tvbanywhere | 140 | 2025-02-19 23:44:00 至 2025-02-22 00:20:00 | ❌ |
-| 看看新聞直播 | 看看新聞直播 | tvbanywhere | 4 | 2025-02-20 15:00:00 至 2025-02-25 15:00:00 | ❌ |
-| 第一財經直播 | 第一財經直播 | tvbanywhere | 56 | 2025-01-23 21:00:00 至 2025-02-20 21:30:00 | ❌ |
-| cctv1 | cctv1 | tvbanywhere | 115 | 2025-02-19 00:09:20 至 2025-02-21 23:59:00 | ❌ |
-| cctv2 | cctv2 | tvbanywhere | 114 | 2025-02-19 00:55:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv3 | cctv3 | tvbanywhere | 86 | 2025-02-19 00:27:45 至 2025-02-21 23:59:00 | ❌ |
-| cctv4亚洲 | cctv4亚洲 | tvbanywhere | 143 | 2025-02-19 00:27:30 至 2025-02-21 23:59:00 | ❌ |
-| cctv5 | cctv5 | tvbanywhere | 66 | 2025-02-19 00:05:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv5+ | cctv5+ | tvbanywhere | 51 | 2025-02-19 00:51:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv6 | cctv6 | tvbanywhere | 80 | 2025-02-19 00:08:21 至 2025-02-21 23:59:00 | ❌ |
-| cctv7 | cctv7 | tvbanywhere | 109 | 2025-02-19 00:03:45 至 2025-02-21 23:59:00 | ❌ |
-| cctv8 | cctv8 | tvbanywhere | 126 | 2025-02-19 00:00:40 至 2025-02-21 23:59:00 | ❌ |
-| cctv9 | cctv9 | tvbanywhere | 84 | 2025-02-19 00:03:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv10 | cctv10 | tvbanywhere | 103 | 2025-02-19 00:06:30 至 2025-02-21 23:59:00 | ❌ |
-| cctv11 | cctv11 | tvbanywhere | 52 | 2025-02-19 00:05:45 至 2025-02-21 23:59:00 | ❌ |
-| cctv12 | cctv12 | tvbanywhere | 90 | 2025-02-19 00:41:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv13 | cctv13 | tvbanywhere | 102 | 2025-02-19 00:00:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv14 | cctv14 | tvbanywhere | 48 | 2025-02-19 06:00:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv15 | cctv15 | tvbanywhere | 55 | 2025-02-19 06:00:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv16 | cctv16 | tvbanywhere | 77 | 2025-02-19 00:55:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv17 | cctv17 | tvbanywhere | 110 | 2025-02-19 00:21:00 至 2025-02-21 23:59:00 | ❌ |
-| cctv4k | cctv4k | tvbanywhere | 170 | 2025-02-19 06:00:49 至 2025-02-21 23:59:25 | ❌ |
-| cctv8k | cctv8k | tvbanywhere | 816 | 2025-02-19 07:00:35 至 2025-02-21 22:59:25 | ❌ |
-| cctv第一剧场 | cctv第一剧场 | tvbanywhere | 284 | 2025-02-19 00:19:25 至 2025-02-22 00:00:00 | ❌ |
-| cctv风云剧场 | cctv风云剧场 | tvbanywhere | 177 | 2025-02-19 00:41:56 至 2025-02-22 00:00:00 | ❌ |
-| cctv怀旧剧场 | cctv怀旧剧场 | tvbanywhere | 91 | 2025-02-19 00:20:10 至 2025-02-22 00:00:00 | ❌ |
-| cctv世界地理 | cctv世界地理 | tvbanywhere | 179 | 2025-02-19 00:31:22 至 2025-02-22 00:00:00 | ❌ |
-| cctv风云音乐 | cctv风云音乐 | tvbanywhere | 89 | 2025-02-19 00:33:20 至 2025-02-22 00:00:00 | ❌ |
-| cctv兵器科技 | cctv兵器科技 | tvbanywhere | 120 | 2025-02-19 08:02:00 至 2025-02-21 23:26:00 | ❌ |
-| cctv风云足球 | cctv风云足球 | tvbanywhere | 105 | 2025-02-19 01:10:00 至 2025-02-22 00:00:00 | ❌ |
-| cctv高尔夫 | cctv高尔夫 | tvbanywhere | 47 | 2025-02-19 00:55:00 至 2025-02-22 00:00:00 | ❌ |
-| cctv女性时尚 | cctv女性时尚 | tvbanywhere | 110 | 2025-02-19 00:27:07 至 2025-02-22 00:00:00 | ❌ |
-| cctv文化精品 | cctv文化精品 | tvbanywhere | 96 | 2025-02-19 00:24:35 至 2025-02-22 00:00:00 | ❌ |
-| cctv台球 | cctv台球 | tvbanywhere | 69 | 2025-02-19 01:13:00 至 2025-02-22 00:00:00 | ❌ |
-| cctv电视指南 | cctv电视指南 | tvbanywhere | 236 | 2025-02-19 00:15:15 至 2025-02-21 00:00:00 | ❌ |
-| cctv卫生健康 | cctv卫生健康 | tvbanywhere | 149 | 2025-02-19 00:09:18 至 2025-02-22 00:00:00 | ❌ |
-| cgtn | cgtn | tvbanywhere | 136 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| cgtn法语 | cgtn法语 | tvbanywhere | 123 | 2025-02-19 00:15:00 至 2025-02-22 00:00:00 | ❌ |
-| cgtn俄语 | cgtn俄语 | tvbanywhere | 141 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| cgtn阿拉伯语 | cgtn阿拉伯语 | tvbanywhere | 132 | 2025-02-19 00:15:00 至 2025-02-22 00:00:00 | ❌ |
-| cgtn西班牙语 | cgtn西班牙语 | tvbanywhere | 147 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| cgtn英文记录片 | cgtn英文记录片 | tvbanywhere | 108 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| 北京卫视 | 北京卫视 | tvbanywhere | 103 | 2025-02-19 00:42:00 至 2025-02-22 00:00:00 | ❌ |
-| 东方卫视 (2) | 东方卫视 | tvbanywhere | 141 | 2025-02-19 00:15:00 至 2025-02-22 00:00:00 | ❌ |
-| 江苏卫视 | 江苏卫视 | tvbanywhere | 93 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| 浙江卫视 | 浙江卫视 | tvbanywhere | 126 | 2025-02-19 00:04:00 至 2025-02-22 00:00:00 | ❌ |
-| 湖南卫视 | 湖南卫视 | tvbanywhere | 111 | 2025-02-19 00:02:00 至 2025-02-22 00:00:00 | ❌ |
-| 湖北卫视 | 湖北卫视 | tvbanywhere | 93 | 2025-02-19 00:27:00 至 2025-02-22 00:00:00 | ❌ |
-| 广东卫视 | 广东卫视 | tvbanywhere | 101 | 2025-02-19 00:19:00 至 2025-02-22 00:00:00 | ❌ |
-| 广西卫视 | 广西卫视 | tvbanywhere | 112 | 2025-02-19 00:17:00 至 2025-02-22 00:00:00 | ❌ |
-| 黑龙江卫视 | 黑龙江卫视 | tvbanywhere | 95 | 2025-02-19 00:36:00 至 2025-02-22 00:00:00 | ❌ |
-| 海南卫视 | 海南卫视 | tvbanywhere | 121 | 2025-02-19 00:18:00 至 2025-02-22 00:00:00 | ❌ |
-| 重庆卫视 | 重庆卫视 | tvbanywhere | 116 | 2025-02-19 00:26:00 至 2025-02-22 00:00:00 | ❌ |
-| 深圳卫视 | 深圳卫视 | tvbanywhere | 111 | 2025-02-19 00:13:00 至 2025-02-22 00:00:00 | ❌ |
-| 四川卫视 | 四川卫视 | tvbanywhere | 109 | 2025-02-19 00:25:00 至 2025-02-22 00:00:00 | ❌ |
-| 河南卫视 | 河南卫视 | tvbanywhere | 100 | 2025-02-19 00:02:00 至 2025-02-22 00:00:00 | ❌ |
-| 东南卫视 | 东南卫视 | tvbanywhere | 95 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| 贵州卫视 | 贵州卫视 | tvbanywhere | 101 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| 江西卫视 | 江西卫视 | tvbanywhere | 103 | 2025-02-19 00:29:00 至 2025-02-22 00:00:00 | ❌ |
-| 辽宁卫视 | 辽宁卫视 | tvbanywhere | 103 | 2025-02-19 00:01:00 至 2025-02-22 00:00:00 | ❌ |
-| 安徽卫视 | 安徽卫视 | tvbanywhere | 109 | 2025-02-19 00:05:00 至 2025-02-22 00:00:00 | ❌ |
-| 河北卫视 | 河北卫视 | tvbanywhere | 90 | 2025-02-19 01:13:00 至 2025-02-22 00:00:00 | ❌ |
-| 山东卫视 | 山东卫视 | tvbanywhere | 98 | 2025-02-19 00:15:00 至 2025-02-22 00:00:00 | ❌ |
-| 天津卫视 | 天津卫视 | tvbanywhere | 93 | 2025-02-19 00:15:00 至 2025-02-22 00:00:00 | ❌ |
-| 吉林卫视 | 吉林卫视 | tvbanywhere | 129 | 2025-02-19 00:28:00 至 2025-02-22 00:00:00 | ❌ |
-| 陕西卫视 | 陕西卫视 | tvbanywhere | 89 | 2025-02-19 00:41:00 至 2025-02-22 00:00:00 | ❌ |
-| 甘肃卫视 | 甘肃卫视 | tvbanywhere | 126 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| 宁夏卫视 | 宁夏卫视 | tvbanywhere | 126 | 2025-02-19 00:11:00 至 2025-02-22 00:00:00 | ❌ |
-| 内蒙古卫视 | 内蒙古卫视 | tvbanywhere | 108 | 2025-02-19 00:15:00 至 2025-02-22 00:00:00 | ❌ |
-| 云南卫视 | 云南卫视 | tvbanywhere | 97 | 2025-02-19 00:51:00 至 2025-02-22 00:00:00 | ❌ |
-| 山西卫视 | 山西卫视 | tvbanywhere | 101 | 2025-02-19 00:42:00 至 2025-02-22 00:00:00 | ❌ |
-| 青海卫视 | 青海卫视 | tvbanywhere | 97 | 2025-02-19 00:42:00 至 2025-02-22 00:00:00 | ❌ |
-| 西藏卫视 | 西藏卫视 | tvbanywhere | 110 | 2025-02-19 00:19:00 至 2025-02-22 00:00:00 | ❌ |
-| 中国教育电视台-1 | 中国教育电视台-1 | tvbanywhere | 198 | 2025-02-19 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| 新疆卫视 | 新疆卫视 | tvbanywhere | 110 | 2025-02-19 00:19:00 至 2025-02-22 00:00:00 | ❌ |
-| 兵团卫视 | 兵团卫视 | tvbanywhere | 0 | 无节目 | ❌ |
-| 香港電台31 | 香港電台31 | tvbanywhere | 86 | 2025-02-20 00:00:00 至 2025-02-21 23:30:00 | ❌ |
-| 香港電台32 | 香港電台32 | tvbanywhere | 52 | 2025-02-20 00:00:00 至 2025-02-22 00:00:00 | ❌ |
-| 香港電台33 | 香港電台33 | tvbanywhere | 34 | 2025-02-20 00:00:00 至 2025-02-21 00:01:00 | ❌ |
-| ABC Australia | ABC Australia | tvbanywhere | 0 | 无节目 | ❌ |
-| Al Jazeera English  | Al Jazeera English  | tvbanywhere | 0 | 无节目 | ❌ |
-| Al Quran Al Kareem | Al Quran Al Kareem | tvbanywhere | 0 | 无节目 | ❌ |
-| Animax  | Animax  | tvbanywhere | 0 | 无节目 | ✅ |
-| ANTV | ANTV | tvbanywhere | 0 | 无节目 | ❌ |
-| Arirang  | Arirang  | tvbanywhere | 0 | 无节目 | ❌ |
-| AXN | AXN | tvbanywhere | 0 | 无节目 | ❌ |
-| AXN HD  | AXN HD  | tvbanywhere | 0 | 无节目 | ✅ |
-| BBC Earth | BBC Earth | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ✅ |
-| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ✅ |
-| Bloomberg | Bloomberg | tvbanywhere | 0 | 无节目 | ❌ |
-| BTV | BTV | tvbanywhere | 0 | 无节目 | ❌ |
-| CBeebies | CBeebies | tvbanywhere | 0 | 无节目 | ❌ |
-| CCM | CCM | tvbanywhere | 0 | 无节目 | ❌ |
-| Celebrities TV | Celebrities TV | tvbanywhere | 0 | 无节目 | ❌ |
-| Celestial Movies | Celestial Movies | tvbanywhere | 0 | 无节目 | ❌ |
-| CGTN  | CGTN  | tvbanywhere | 0 | 无节目 | ❌ |
-| CGTN Documentary | CGTN Documentary | tvbanywhere | 0 | 无节目 | ❌ |
-| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ✅ |
-| CINEMACHI | CINEMACHI | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI ACTION | CINEMACHI ACTION | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI ACTION HD | CINEMACHI ACTION HD | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI HD | CINEMACHI HD | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI KIDS | CINEMACHI KIDS | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI KIDS HD | CINEMACHI KIDS HD | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI MAX  | CINEMACHI MAX  | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI MAX HD | CINEMACHI MAX HD | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI XTRA  | CINEMACHI XTRA  | tvbanywhere | 0 | 无节目 | ❌ |
-| CINEMACHI XTRA HD | CINEMACHI XTRA HD | tvbanywhere | 0 | 无节目 | ❌ |
-| CNBC | CNBC | tvbanywhere | 0 | 无节目 | ❌ |
-| Crime Investigation | Crime Investigation | tvbanywhere | 0 | 无节目 | ❌ |
-| Dreamworks | Dreamworks | tvbanywhere | 0 | 无节目 | ❌ |
-| DW English | DW English | tvbanywhere | 0 | 无节目 | ❌ |
-| Entertainment  | Entertainment  | tvbanywhere | 0 | 无节目 | ❌ |
-| EURONEWS | EURONEWS | tvbanywhere | 0 | 无节目 | ❌ |
-| Fight Sports | Fight Sports | tvbanywhere | 0 | 无节目 | ❌ |
-| FMN | FMN | tvbanywhere | 0 | 无节目 | ❌ |
-| FOX News | FOX News | tvbanywhere | 0 | 无节目 | ❌ |
-| France 24 English | France 24 English | tvbanywhere | 0 | 无节目 | ❌ |
-| Galaxy | Galaxy | tvbanywhere | 0 | 无节目 | ❌ |
-| Galaxy Premium | Galaxy Premium | tvbanywhere | 0 | 无节目 | ❌ |
-| Global Trekker | Global Trekker | tvbanywhere | 0 | 无节目 | ❌ |
-| GTV  | GTV  | tvbanywhere | 0 | 无节目 | ❌ |
-| GTV HD | GTV HD | tvbanywhere | 0 | 无节目 | ❌ |
-| History  | History  | tvbanywhere | 0 | 无节目 | ✅ |
-| HITS  | HITS  | tvbanywhere | 0 | 无节目 | ❌ |
-| HITS MOVIES | HITS MOVIES | tvbanywhere | 0 | 无节目 | ❌ |
-| HITS MOVIES HD | HITS MOVIES HD | tvbanywhere | 0 | 无节目 | ❌ |
-| IDX  | IDX  | tvbanywhere | 0 | 无节目 | ❌ |
-| IDX HD | IDX HD | tvbanywhere | 0 | 无节目 | ❌ |
-| IMC  | IMC  | tvbanywhere | 0 | 无节目 | ❌ |
-| Indosiar | Indosiar | tvbanywhere | 0 | 无节目 | ❌ |
-| iNews | iNews | tvbanywhere | 0 | 无节目 | ❌ |
-| iNews HD  | iNews HD  | tvbanywhere | 0 | 无节目 | ❌ |
-| JAKTV | JAKTV | tvbanywhere | 0 | 无节目 | ❌ |
-| Kids TV  | Kids TV  | tvbanywhere | 0 | 无节目 | ❌ |
-| KIX | KIX | tvbanywhere | 0 | 无节目 | ❌ |
-| Kompas TV | Kompas TV | tvbanywhere | 0 | 无节目 | ❌ |
-| LIFE | LIFE | tvbanywhere | 0 | 无节目 | ❌ |
-| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ✅ |
-| Love Nature  | Love Nature  | tvbanywhere | 0 | 无节目 | ✅ |
-| Love Nature HD | Love Nature HD | tvbanywhere | 0 | 无节目 | ❌ |
-| Metro TV | Metro TV | tvbanywhere | 0 | 无节目 | ❌ |
-| MNCTV | MNCTV | tvbanywhere | 0 | 无节目 | ❌ |
-| MNCTV HD  | MNCTV HD  | tvbanywhere | 0 | 无节目 | ❌ |
-| MTV 90 | MTV 90 | tvbanywhere | 0 | 无节目 | ❌ |
-| MTV LIVE  | MTV LIVE  | tvbanywhere | 0 | 无节目 | ❌ |
-| Music TV] | Music TV] | tvbanywhere | 0 | 无节目 | ❌ |
-| Muslim TV  | Muslim TV  | tvbanywhere | 0 | 无节目 | ❌ |
-| My Cinema | My Cinema | tvbanywhere | 0 | 无节目 | ❌ |
-| My Cinema Asia  | My Cinema Asia  | tvbanywhere | 0 | 无节目 | ❌ |
-| My Family  | My Family  | tvbanywhere | 0 | 无节目 | ❌ |
-| My Kidz | My Kidz | tvbanywhere | 0 | 无节目 | ❌ |
-| NET TV | NET TV | tvbanywhere | 0 | 无节目 | ❌ |
-| NHK World  | NHK World  | tvbanywhere | 0 | 无节目 | ❌ |
-| NHK World Premium | NHK World Premium | tvbanywhere | 0 | 无节目 | ❌ |
-| Nick Jr. HD | Nick Jr. HD | tvbanywhere | 0 | 无节目 | ❌ |
-| Nickelodeon | Nickelodeon | tvbanywhere | 0 | 无节目 | ❌ |
-| Nickelodeon Jr | Nickelodeon Jr | tvbanywhere | 0 | 无节目 | ❌ |
-| OK TV  | OK TV  | tvbanywhere | 0 | 无节目 | ❌ |
-| Okezone TV | Okezone TV | tvbanywhere | 0 | 无节目 | ❌ |
-| ONE  | ONE  | tvbanywhere | 0 | 无节目 | ❌ |
-| ONE HD  | ONE HD  | tvbanywhere | 0 | 无节目 | ✅ |
-| Outdoor Channel  | Outdoor Channel  | tvbanywhere | 0 | 无节目 | ❌ |
-| Outdoor channel HD | Outdoor channel HD | tvbanywhere | 0 | 无节目 | ❌ |
-| PARAMOUNT  | PARAMOUNT  | tvbanywhere | 0 | 无节目 | ❌ |
-| PARAMOUNT HD | PARAMOUNT HD | tvbanywhere | 0 | 无节目 | ❌ |
-| RCTI  | RCTI  | tvbanywhere | 0 | 无节目 | ❌ |
-| RCTI HD | RCTI HD | tvbanywhere | 0 | 无节目 | ❌ |
-| Rock Action | Rock Action | tvbanywhere | 0 | 无节目 | ❌ |
-| Rock Entertainment | Rock Entertainment | tvbanywhere | 0 | 无节目 | ❌ |
-| SCTV | SCTV | tvbanywhere | 0 | 无节目 | ❌ |
-| SEA TODAY  | SEA TODAY  | tvbanywhere | 0 | 无节目 | ❌ |
-| Sindo News TV  | Sindo News TV  | tvbanywhere | 0 | 无节目 | ❌ |
-| Sindo News TV HD] | Sindo News TV HD] | tvbanywhere | 0 | 无节目 | ❌ |
-| Soccer Channel  | Soccer Channel  | tvbanywhere | 0 | 无节目 | ❌ |
-| Soccer Channel HD | Soccer Channel HD | tvbanywhere | 0 | 无节目 | ❌ |
-| Sportstars | Sportstars | tvbanywhere | 0 | 无节目 | ❌ |
-| Sportstars 2  | Sportstars 2  | tvbanywhere | 0 | 无节目 | ❌ |
-| Sportstars 2 HD] | Sportstars 2 HD] | tvbanywhere | 0 | 无节目 | ❌ |
-| Sportstars 3  | Sportstars 3  | tvbanywhere | 0 | 无节目 | ❌ |
-| Sportstars 4 | Sportstars 4 | tvbanywhere | 0 | 无节目 | ❌ |
-| Sportstars 4 HD | Sportstars 4 HD | tvbanywhere | 0 | 无节目 | ❌ |
-| Sportstars HD  | Sportstars HD  | tvbanywhere | 0 | 无节目 | ❌ |
-| SPOTV  | SPOTV  | tvbanywhere | 0 | 无节目 | ✅ |
-| SPOTV 2  | SPOTV 2  | tvbanywhere | 0 | 无节目 | ❌ |
-| SPOTV 2 HD  | SPOTV 2 HD  | tvbanywhere | 0 | 无节目 | ❌ |
-| SPOTV HD  | SPOTV HD  | tvbanywhere | 0 | 无节目 | ❌ |
-| Tawaf TV | Tawaf TV | tvbanywhere | 0 | 无节目 | ❌ |
-| Thrill  | Thrill  | tvbanywhere | 0 | 无节目 | ✅ |
-| Trans 7  | Trans 7  | tvbanywhere | 0 | 无节目 | ❌ |
-| Trans TV | Trans TV | tvbanywhere | 0 | 无节目 | ❌ |
-| tvN  | tvN  | tvbanywhere | 0 | 无节目 | ✅ |
-| tvN HD | tvN HD | tvbanywhere | 0 | 无节目 | ❌ |
-| tvN Movies  | tvN Movies  | tvbanywhere | 0 | 无节目 | ❌ |
-| tvN Movies HD | tvN Movies HD | tvbanywhere | 0 | 无节目 | ❌ |
-| tvOne | tvOne | tvbanywhere | 0 | 无节目 | ❌ |
-| TVRI  | TVRI  | tvbanywhere | 0 | 无节目 | ❌ |
-| Vision Prime | Vision Prime | tvbanywhere | 0 | 无节目 | ❌ |
-| Vision Prime HD | Vision Prime HD | tvbanywhere | 0 | 无节目 | ❌ |
-| Zee Bioskop | Zee Bioskop | tvbanywhere | 0 | 无节目 | ❌ |
-| Zoomoo | Zoomoo | tvbanywhere | 0 | 无节目 | ❌ |
-| 第一财经 (2) | 第一财经 | tvbanywhere | 135 | 2025-02-17 12:30:00 至 2025-02-22 00:00:00 | ❌ |
-| 新闻综合 | 新闻综合 | tvbanywhere | 169 | 2025-02-17 12:30:00 至 2025-02-22 00:00:00 | ❌ |
-| 外语频道 | 外语频道 | tvbanywhere | 0 | 无节目 | ❌ |
-| 都市频道 | 都市频道 | tvbanywhere | 206 | 2025-02-17 12:29:00 至 2025-02-22 00:00:00 | ❌ |
-| 金色学堂 | 金色学堂 | tvbanywhere | 479 | 2025-02-17 12:29:00 至 2025-02-22 00:00:00 | ❌ |
-| 五星体育 (2) | 五星体育 | tvbanywhere | 168 | 2025-02-17 12:10:00 至 2025-02-22 00:00:00 | ❌ |
-| 上海教育 | 上海教育 | tvbanywhere | 190 | 2025-02-17 12:34:00 至 2025-02-22 00:00:00 | ❌ |
-| 法治天地 | 法治天地 | tvbanywhere | 202 | 2025-02-17 13:00:00 至 2025-02-22 00:00:00 | ❌ |
-| elta體育max 1 | elta體育max 1 | tvbanywhere | 16 | 2025-02-19 20:30:00 至 2025-02-21 22:30:00 | ❌ |
-| elta體育max 2 | elta體育max 2 | tvbanywhere | 16 | 2025-02-19 20:05:00 至 2025-02-21 22:30:00 | ❌ |
-| elta體育max 3 | elta體育max 3 | tvbanywhere | 17 | 2025-02-19 22:05:00 至 2025-02-21 23:30:00 | ❌ |
-| elta體育max 4 | elta體育max 4 | tvbanywhere | 21 | 2025-02-19 22:05:00 至 2025-02-21 21:30:00 | ❌ |
-| elta體育max5 | elta體育max5 | tvbanywhere | 0 | 无节目 | ❌ |
-| elta體育max 6 | elta體育max 6 | tvbanywhere | 17 | 2025-02-19 20:00:00 至 2025-02-21 22:50:00 | ❌ |
-| elta體育max 7 | elta體育max 7 | tvbanywhere | 15 | 2025-02-19 20:00:00 至 2025-02-21 23:50:00 | ❌ |
-| elta體育max 8 | elta體育max 8 | tvbanywhere | 13 | 2025-02-19 20:00:00 至 2025-02-21 20:00:00 | ❌ |
-| elta日韓 | elta日韓 | tvbanywhere | 48 | 2025-02-19 23:20:00 至 2025-02-21 23:20:00 | ❌ |
+| 翡翠台 | 翡翠台 | tvbanywhere | 85 | 2026-09-22 01:00:00 至 2026-09-24 01:00:00 | ✅ |
+| 翡翠台(国际版) | 翡翠台(国际版) | tvbanywhere | 81 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 无线新闻(国际版) | 无线新闻(国际版) | tvbanywhere | 99 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| TVB生活台 | TVB生活台 | tvbanywhere | 97 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 娱乐新闻 | 娱乐新闻 | tvbanywhere | 97 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| TVB星河 | TVB星河 | tvbanywhere | 49 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| TVB功夫台 | TVB功夫台 | tvbanywhere | 65 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| TVB粤语片 | TVB粤语片 | tvbanywhere | 30 | 2026-09-22 01:05:00 至 2026-09-24 00:55:00 | ✅ |
+|  CCCTV4 |  CCCTV4 | tvbanywhere | 112 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 中國電影頻道CCMC | 中國電影頻道CCMC | tvbanywhere | 32 | 2026-09-22 00:03:00 至 2026-09-24 00:19:00 | ✅ |
+| 第一財經直播 | 第一財經直播 | tvbanywhere | 7 | 2026-09-22 08:30:00 至 2026-09-22 17:00:00 | ✅ |
+| cctv1 | cctv1 | tvbanywhere | 104 | 2026-09-21 01:01:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv2 | cctv2 | tvbanywhere | 114 | 2026-09-21 00:22:30 至 2026-09-23 23:59:00 | ✅ |
+| cctv3 | cctv3 | tvbanywhere | 76 | 2026-09-21 00:34:05 至 2026-09-23 23:59:00 | ✅ |
+| cctv4亚洲 | cctv4亚洲 | tvbanywhere | 128 | 2026-09-21 00:17:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv5 | cctv5 | tvbanywhere | 56 | 2026-09-21 00:17:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv5+ | cctv5+ | tvbanywhere | 39 | 2026-09-21 00:05:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv6 | cctv6 | tvbanywhere | 55 | 2026-09-21 00:24:25 至 2026-09-23 23:59:00 | ✅ |
+| cctv7 | cctv7 | tvbanywhere | 107 | 2026-09-21 06:03:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv8 | cctv8 | tvbanywhere | 117 | 2026-09-21 00:03:50 至 2026-09-23 23:59:00 | ✅ |
+| cctv9 | cctv9 | tvbanywhere | 84 | 2026-09-21 00:00:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv10 | cctv10 | tvbanywhere | 94 | 2026-09-21 00:05:30 至 2026-09-23 23:59:00 | ✅ |
+| cctv11 | cctv11 | tvbanywhere | 53 | 2026-09-21 00:43:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv12 | cctv12 | tvbanywhere | 93 | 2026-09-21 00:17:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv13 | cctv13 | tvbanywhere | 104 | 2026-09-21 00:00:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv14 | cctv14 | tvbanywhere | 53 | 2026-09-21 06:00:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv15 | cctv15 | tvbanywhere | 52 | 2026-09-21 01:12:15 至 2026-09-23 23:59:00 | ✅ |
+| cctv16 | cctv16 | tvbanywhere | 47 | 2026-09-21 01:00:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv17 | cctv17 | tvbanywhere | 79 | 2026-09-21 00:55:00 至 2026-09-23 23:59:00 | ✅ |
+| cctv4k | cctv4k | tvbanywhere | 84 | 2026-09-21 06:00:49 至 2026-09-23 23:59:25 | ✅ |
+| cctv8k | cctv8k | tvbanywhere | 747 | 2026-09-21 07:00:35 至 2026-09-23 22:59:25 | ✅ |
+| cctv第一剧场 | cctv第一剧场 | tvbanywhere | 396 | 2026-09-21 00:18:45 至 2026-09-24 00:00:00 | ✅ |
+| cctv风云剧场 | cctv风云剧场 | tvbanywhere | 111 | 2026-09-21 07:00:00 至 2026-09-23 00:00:00 | ✅ |
+| cctv怀旧剧场 | cctv怀旧剧场 | tvbanywhere | 101 | 2026-09-21 00:17:45 至 2026-09-24 00:00:00 | ✅ |
+| cctv世界地理 | cctv世界地理 | tvbanywhere | 164 | 2026-09-21 00:29:30 至 2026-09-24 00:00:00 | ✅ |
+| cctv风云音乐 | cctv风云音乐 | tvbanywhere | 79 | 2026-09-21 00:26:57 至 2026-09-24 00:00:00 | ✅ |
+| cctv兵器科技 | cctv兵器科技 | tvbanywhere | 150 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| cctv风云足球 | cctv风云足球 | tvbanywhere | 108 | 2026-09-21 01:10:00 至 2026-09-24 00:00:00 | ✅ |
+| cctv高尔夫 | cctv高尔夫 | tvbanywhere | 48 | 2026-09-21 00:52:00 至 2026-09-24 00:00:00 | ✅ |
+| cctv女性时尚 | cctv女性时尚 | tvbanywhere | 81 | 2026-09-21 00:15:15 至 2026-09-24 00:00:00 | ✅ |
+| cctv文化精品 | cctv文化精品 | tvbanywhere | 92 | 2026-09-21 00:00:50 至 2026-09-24 00:00:00 | ✅ |
+| cctv台球 | cctv台球 | tvbanywhere | 69 | 2026-09-21 00:45:15 至 2026-09-24 00:00:00 | ✅ |
+| cctv电视指南 | cctv电视指南 | tvbanywhere | 392 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| cctv卫生健康 | cctv卫生健康 | tvbanywhere | 136 | 2026-09-21 00:10:53 至 2026-09-24 00:00:00 | ✅ |
+| cgtn | cgtn | tvbanywhere | 138 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| cgtn法语 | cgtn法语 | tvbanywhere | 122 | 2026-09-21 00:15:00 至 2026-09-24 00:00:00 | ✅ |
+| cgtn俄语 | cgtn俄语 | tvbanywhere | 141 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| cgtn阿拉伯语 | cgtn阿拉伯语 | tvbanywhere | 132 | 2026-09-21 00:15:00 至 2026-09-24 00:00:00 | ✅ |
+| cgtn西班牙语 | cgtn西班牙语 | tvbanywhere | 146 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| cgtn英文记录片 | cgtn英文记录片 | tvbanywhere | 106 | 2026-09-21 00:00:00 至 2026-09-23 23:57:00 | ✅ |
+| 北京卫视 | 北京卫视 | tvbanywhere | 101 | 2026-09-21 00:21:00 至 2026-09-24 00:00:00 | ✅ |
+| 东方卫视 (2) | 东方卫视 | tvbanywhere | 131 | 2026-09-21 00:25:00 至 2026-09-24 00:00:00 | ✅ |
+| 江苏卫视 | 江苏卫视 | tvbanywhere | 92 | 2026-09-21 00:09:00 至 2026-09-24 00:00:00 | ✅ |
+| 湖南卫视 | 湖南卫视 | tvbanywhere | 109 | 2026-09-21 00:47:00 至 2026-09-24 00:00:00 | ✅ |
+| 湖北卫视 | 湖北卫视 | tvbanywhere | 99 | 2026-09-21 00:17:00 至 2026-09-24 00:00:00 | ✅ |
+| 广东卫视 | 广东卫视 | tvbanywhere | 98 | 2026-09-21 00:26:00 至 2026-09-24 00:00:00 | ✅ |
+| 广西卫视 | 广西卫视 | tvbanywhere | 97 | 2026-09-21 00:13:00 至 2026-09-24 00:00:00 | ✅ |
+| 黑龙江卫视 | 黑龙江卫视 | tvbanywhere | 102 | 2026-09-21 00:28:00 至 2026-09-24 00:00:00 | ✅ |
+| 海南卫视 | 海南卫视 | tvbanywhere | 110 | 2026-09-21 00:10:00 至 2026-09-24 00:00:00 | ✅ |
+| 重庆卫视 | 重庆卫视 | tvbanywhere | 115 | 2026-09-21 00:23:00 至 2026-09-24 00:00:00 | ✅ |
+| 深圳卫视 | 深圳卫视 | tvbanywhere | 115 | 2026-09-21 00:25:00 至 2026-09-24 00:00:00 | ✅ |
+| 四川卫视 | 四川卫视 | tvbanywhere | 99 | 2026-09-21 00:33:00 至 2026-09-24 00:00:00 | ✅ |
+| 河南卫视 | 河南卫视 | tvbanywhere | 115 | 2026-09-21 00:22:00 至 2026-09-24 00:00:00 | ✅ |
+| 东南卫视 | 东南卫视 | tvbanywhere | 100 | 2026-09-21 00:04:00 至 2026-09-24 00:00:00 | ✅ |
+| 贵州卫视 | 贵州卫视 | tvbanywhere | 121 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 江西卫视 | 江西卫视 | tvbanywhere | 94 | 2026-09-21 00:35:00 至 2026-09-24 00:00:00 | ✅ |
+| 辽宁卫视 | 辽宁卫视 | tvbanywhere | 116 | 2026-09-21 00:45:00 至 2026-09-24 00:00:00 | ✅ |
+| 安徽卫视 | 安徽卫视 | tvbanywhere | 110 | 2026-09-21 00:26:00 至 2026-09-24 00:00:00 | ✅ |
+| 河北卫视 | 河北卫视 | tvbanywhere | 92 | 2026-09-21 00:09:00 至 2026-09-24 00:00:00 | ✅ |
+| 山东卫视 | 山东卫视 | tvbanywhere | 104 | 2026-09-21 01:04:00 至 2026-09-24 00:00:00 | ✅ |
+| 天津卫视 | 天津卫视 | tvbanywhere | 89 | 2026-09-21 00:26:00 至 2026-09-24 00:00:00 | ✅ |
+| 吉林卫视 | 吉林卫视 | tvbanywhere | 111 | 2026-09-21 00:28:00 至 2026-09-24 00:00:00 | ✅ |
+| 陕西卫视 | 陕西卫视 | tvbanywhere | 86 | 2026-09-21 00:31:00 至 2026-09-24 00:00:00 | ✅ |
+| 甘肃卫视 | 甘肃卫视 | tvbanywhere | 114 | 2026-09-21 00:51:00 至 2026-09-24 00:00:00 | ✅ |
+| 宁夏卫视 | 宁夏卫视 | tvbanywhere | 123 | 2026-09-21 00:19:00 至 2026-09-24 00:00:00 | ✅ |
+| 内蒙古卫视 | 内蒙古卫视 | tvbanywhere | 108 | 2026-09-21 00:03:00 至 2026-09-24 00:00:00 | ✅ |
+| 云南卫视 | 云南卫视 | tvbanywhere | 88 | 2026-09-21 02:56:00 至 2026-09-24 00:00:00 | ✅ |
+| 山西卫视 | 山西卫视 | tvbanywhere | 94 | 2026-09-21 00:25:00 至 2026-09-24 00:00:00 | ✅ |
+| 青海卫视 | 青海卫视 | tvbanywhere | 98 | 2026-09-21 00:48:00 至 2026-09-24 00:00:00 | ✅ |
+| 西藏卫视 | 西藏卫视 | tvbanywhere | 130 | 2026-09-21 00:16:00 至 2026-09-24 00:00:00 | ✅ |
+| 中国教育电视台-1 | 中国教育电视台-1 | tvbanywhere | 206 | 2026-09-21 00:20:00 至 2026-09-24 00:00:00 | ✅ |
+| 新疆卫视 | 新疆卫视 | tvbanywhere | 102 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 兵团卫视 | 兵团卫视 | tvbanywhere | 99 | 2026-09-21 01:28:00 至 2026-09-24 00:00:00 | ✅ |
+| 国学频道 | 国学频道 | tvbanywhere | 158 | 2026-09-21 04:12:00 至 2026-09-24 00:00:00 | ✅ |
+| elta體育max 1 | elta體育max 1 | tvbanywhere | 13 | 2026-09-21 20:30:00 至 2026-09-23 18:00:00 | ✅ |
+| elta體育max 2 | elta體育max 2 | tvbanywhere | 13 | 2026-09-21 21:20:00 至 2026-09-23 15:55:00 | ✅ |
+| elta體育max 3 | elta體育max 3 | tvbanywhere | 11 | 2026-09-21 18:56:00 至 2026-09-23 16:00:00 | ✅ |
+| elta體育max 4 | elta體育max 4 | tvbanywhere | 13 | 2026-09-21 18:40:00 至 2026-09-23 18:20:00 | ✅ |
+| elta體育max 5 | elta體育max 5 | tvbanywhere | 15 | 2026-09-21 18:00:00 至 2026-09-23 23:00:00 | ✅ |
+| elta體育max 6 | elta體育max 6 | tvbanywhere | 9 | 2026-09-21 18:00:00 至 2026-09-23 18:00:00 | ✅ |
+| elta體育max 7 | elta體育max 7 | tvbanywhere | 10 | 2026-09-21 18:00:00 至 2026-09-23 18:00:00 | ✅ |
+| elta體育max 8 | elta體育max 8 | tvbanywhere | 33 | 2026-09-21 18:00:00 至 2026-09-24 00:00:00 | ✅ |
+| elta日韓 | elta日韓 | tvbanywhere | 40 | 2026-09-21 23:00:00 至 2026-09-23 23:00:00 | ✅ |
 | TVB翡翠娛樂臺(TVBe) | TVB翡翠娛樂臺(TVBe) | mytvsuper | 121 | 2026-09-21 08:00:00 至 2026-09-24 08:00:00 | ✅ |
 | 翡翠一臺(TVB1) | 翡翠一臺(TVB1) | mytvsuper | 119 | 2026-09-21 08:30:00 至 2026-09-24 08:00:00 | ✅ |
 | TVB無綫新聞臺(TVB News) | TVB無綫新聞臺(TVB News) | mytvsuper | 42 | 2026-09-21 09:00:00 至 2026-09-24 09:00:00 | ✅ |
@@ -327,23 +192,23 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 娛樂新聞台 (免費) | 娛樂新聞台 (免費) | mytvsuper | 141 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | 戲曲台 | 戲曲台 | mytvsuper | 288 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | SUPER Kids Channel | SUPER Kids Channel | mytvsuper | 219 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
-| ZooMoo (2) | ZooMoo | mytvsuper | 456 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
-| Nickelodeon (2) | Nickelodeon | mytvsuper | 201 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
+| ZooMoo | ZooMoo | mytvsuper | 456 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
+| Nickelodeon | Nickelodeon | mytvsuper | 201 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | Nick Jr | Nick Jr | mytvsuper | 249 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | 粵語片台 | 粵語片台 | mytvsuper | 44 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | 美亞電影台 | 美亞電影台 | mytvsuper | 44 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | Thrill | Thrill | mytvsuper | 53 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | 天映經典頻道 | 天映經典頻道 | mytvsuper | 44 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | 中國電影頻道 | 中國電影頻道 | mytvsuper | 81 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
-| ROCK Action (2) | ROCK Action | mytvsuper | 45 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
+| ROCK Action | ROCK Action | mytvsuper | 45 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | PopC | PopC | mytvsuper | 51 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | Action Hollywood Movies (免費) | Action Hollywood Movies (免費) | mytvsuper | 35 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | Rialto Classic Movies (RCM) (免費) | Rialto Classic Movies (RCM) (免費) | mytvsuper | 36 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
-| KIX (2) | KIX | mytvsuper | 53 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
+| KIX | KIX | mytvsuper | 53 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | TRACE Sport Stars (免費) | TRACE Sport Stars (免費) | mytvsuper | 144 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
-| Love Nature HD (2) | Love Nature HD | mytvsuper | 81 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
+| Love Nature HD | Love Nature HD | mytvsuper | 81 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | Love Nature 4K | Love Nature 4K | mytvsuper | 81 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
-| Global Trekker (2) | Global Trekker | mytvsuper | 110 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
+| Global Trekker | Global Trekker | mytvsuper | 110 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | Pet Club TV (免費) | Pet Club TV (免費) | mytvsuper | 88 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | Globetrotter (免費) | Globetrotter (免費) | mytvsuper | 96 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
 | Docsville (免費) | Docsville (免費) | mytvsuper | 72 | 2026-09-21 06:00:00 至 2026-09-24 06:00:00 | ✅ |
@@ -400,146 +265,146 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 龍華日韓台 | 龍華日韓台 | mytvsuper | 26 | 2026-09-22 00:00:00 至 2026-09-23 23:00:00 | ✅ |
 | 龍華偶像台OTT | 龍華偶像台OTT | mytvsuper | 28 | 2026-09-22 00:00:00 至 2026-09-23 21:00:00 | ✅ |
 | viu6 | viu6 | mytvsuper | 53 | 2026-09-22 02:15:00 至 2026-09-23 23:59:00 | ✅ |
-| ViuTV | ViuTV | mytvsuper | 71 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Viu 頻道 | Viu 頻道 | mytvsuper | 46 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| now 劇集 | now 劇集 | mytvsuper | 46 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| video express rentnow | video express rentnow | mytvsuper | 23 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| nowjeli | nowjeli | mytvsuper | 42 | 2026-09-22 01:30:00 至 2026-09-23 23:59:00 | ✅ |
-| HBO Hits香港 | HBO Hits香港 | mytvsuper | 26 | 2026-09-22 02:40:00 至 2026-09-23 23:59:00 | ✅ |
-| HBO Family香港 | HBO Family香港 | mytvsuper | 96 | 2026-09-22 02:25:00 至 2026-09-23 23:59:00 | ✅ |
-| CINEMAX香港 | CINEMAX香港 | mytvsuper | 29 | 2026-09-22 01:45:00 至 2026-09-23 23:59:00 | ✅ |
-| HBO Signature香港 | HBO Signature香港 | mytvsuper | 31 | 2026-09-22 01:10:00 至 2026-09-23 23:59:00 | ✅ |
-| HBO香港 | HBO香港 | mytvsuper | 27 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| MOVIE MOVIE | MOVIE MOVIE | mytvsuper | 27 | 2026-09-22 01:25:00 至 2026-09-23 23:59:00 | ✅ |
-| 爆谷台 | 爆谷台 | mytvsuper | 30 | 2026-09-22 02:25:00 至 2026-09-23 23:59:00 | ✅ |
-| Now爆谷星影台 | Now爆谷星影台 | mytvsuper | 29 | 2026-09-22 02:05:00 至 2026-09-23 23:59:00 | ✅ |
-| Animax香港 | Animax香港 | mytvsuper | 91 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| tvN香港 | tvN香港 | mytvsuper | 34 | 2026-09-22 02:40:00 至 2026-09-23 23:59:00 | ✅ |
-| KBS World香港 | KBS World香港 | mytvsuper | 58 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
+| ViuTV | ViuTV | mytvsuper | 69 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Viu 頻道 | Viu 頻道 | mytvsuper | 44 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| now 劇集 | now 劇集 | mytvsuper | 45 | 2026-09-22 03:30:00 至 2026-09-23 23:59:00 | ✅ |
+| video express rentnow | video express rentnow | mytvsuper | 22 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| nowjeli | nowjeli | mytvsuper | 39 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| HBO Hits香港 | HBO Hits香港 | mytvsuper | 25 | 2026-09-22 04:10:00 至 2026-09-23 23:59:00 | ✅ |
+| HBO Family香港 | HBO Family香港 | mytvsuper | 91 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| CINEMAX香港 | CINEMAX香港 | mytvsuper | 28 | 2026-09-22 03:10:00 至 2026-09-23 23:59:00 | ✅ |
+| HBO Signature香港 | HBO Signature香港 | mytvsuper | 29 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| HBO香港 | HBO香港 | mytvsuper | 26 | 2026-09-22 04:15:00 至 2026-09-23 23:59:00 | ✅ |
+| MOVIE MOVIE | MOVIE MOVIE | mytvsuper | 26 | 2026-09-22 03:55:00 至 2026-09-23 23:59:00 | ✅ |
+| 爆谷台 | 爆谷台 | mytvsuper | 29 | 2026-09-22 03:55:00 至 2026-09-23 23:59:00 | ✅ |
+| Now爆谷星影台 | Now爆谷星影台 | mytvsuper | 27 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Animax香港 | Animax香港 | mytvsuper | 88 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| tvN香港 | tvN香港 | mytvsuper | 32 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| KBS World香港 | KBS World香港 | mytvsuper | 56 | 2026-09-22 03:45:00 至 2026-09-23 23:59:00 | ✅ |
 | 東森亞洲 | 東森亞洲 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| moov | moov | mytvsuper | 22 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| moov | moov | mytvsuper | 21 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Panda TV | Panda TV | mytvsuper | 8 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Discovery Asia香港 | Discovery Asia香港 | mytvsuper | 71 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Discovery Channel香港 | Discovery Channel香港 | mytvsuper | 46 | 2026-09-22 01:35:00 至 2026-09-23 23:59:00 | ✅ |
-| 動物星球頻道香港 | 動物星球頻道香港 | mytvsuper | 58 | 2026-09-22 02:40:00 至 2026-09-23 23:59:00 | ✅ |
-| Discovery 科學頻道香港 | Discovery 科學頻道香港 | mytvsuper | 73 | 2026-09-22 02:33:00 至 2026-09-23 23:59:00 | ✅ |
-| DMAX香港 | DMAX香港 | mytvsuper | 67 | 2026-09-22 02:21:00 至 2026-09-23 23:59:00 | ✅ |
-| TLC旅遊生活頻道香港 | TLC旅遊生活頻道香港 | mytvsuper | 65 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Love Nature香港 | Love Nature香港 | mytvsuper | 52 | 2026-09-22 02:20:00 至 2026-09-23 23:59:00 | ✅ |
-| BBC Earth香港 | BBC Earth香港 | mytvsuper | 54 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| 戶外頻道香港 | 戶外頻道香港 | mytvsuper | 60 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| 罪案 + 偵緝香港 | 罪案 + 偵緝香港 | mytvsuper | 53 | 2026-09-22 02:15:00 至 2026-09-23 23:59:00 | ✅ |
-| HISTORY香港 | HISTORY香港 | mytvsuper | 50 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| CNN 國際新聞網絡香港 | CNN 國際新聞網絡香港 | mytvsuper | 59 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| CNBC香港 | CNBC香港 | mytvsuper | 83 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| BBC News香港 | BBC News香港 | mytvsuper | 100 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Bloomberg Television香港 | Bloomberg Television香港 | mytvsuper | 33 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| 亞洲新聞台香港 | 亞洲新聞台香港 | mytvsuper | 43 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Discovery Asia香港 | Discovery Asia香港 | mytvsuper | 68 | 2026-09-22 03:41:00 至 2026-09-23 23:59:00 | ✅ |
+| Discovery Channel香港 | Discovery Channel香港 | mytvsuper | 45 | 2026-09-22 03:25:00 至 2026-09-23 23:59:00 | ✅ |
+| 動物星球頻道香港 | 動物星球頻道香港 | mytvsuper | 57 | 2026-09-22 03:35:00 至 2026-09-23 23:59:00 | ✅ |
+| Discovery 科學頻道香港 | Discovery 科學頻道香港 | mytvsuper | 71 | 2026-09-22 04:07:00 至 2026-09-23 23:59:00 | ✅ |
+| DMAX香港 | DMAX香港 | mytvsuper | 64 | 2026-09-22 03:59:00 至 2026-09-23 23:59:00 | ✅ |
+| TLC旅遊生活頻道香港 | TLC旅遊生活頻道香港 | mytvsuper | 63 | 2026-09-22 03:50:00 至 2026-09-23 23:59:00 | ✅ |
+| Love Nature香港 | Love Nature香港 | mytvsuper | 50 | 2026-09-22 04:10:00 至 2026-09-23 23:59:00 | ✅ |
+| BBC Earth香港 | BBC Earth香港 | mytvsuper | 52 | 2026-09-22 04:10:00 至 2026-09-23 23:59:00 | ✅ |
+| 戶外頻道香港 | 戶外頻道香港 | mytvsuper | 58 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 罪案 + 偵緝香港 | 罪案 + 偵緝香港 | mytvsuper | 51 | 2026-09-22 04:05:00 至 2026-09-23 23:59:00 | ✅ |
+| HISTORY香港 | HISTORY香港 | mytvsuper | 49 | 2026-09-22 03:25:00 至 2026-09-23 23:59:00 | ✅ |
+| CNN 國際新聞網絡香港 | CNN 國際新聞網絡香港 | mytvsuper | 57 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| CNBC香港 | CNBC香港 | mytvsuper | 80 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| BBC News香港 | BBC News香港 | mytvsuper | 97 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Bloomberg Television香港 | Bloomberg Television香港 | mytvsuper | 32 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 亞洲新聞台香港 | 亞洲新聞台香港 | mytvsuper | 41 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Sky News香港 | Sky News香港 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| DW (English)香港 | DW (English)香港 | mytvsuper | 141 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| 半島電視台英語頻道香港 | 半島電視台英語頻道香港 | mytvsuper | 70 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| euronews香港 | euronews香港 | mytvsuper | 142 | 2026-09-22 02:45:00 至 2026-09-23 23:59:00 | ✅ |
-| France 24香港 | France 24香港 | mytvsuper | 225 | 2026-09-22 02:10:00 至 2026-09-23 23:59:00 | ✅ |
-| NHK WORLD-JAPA香港 | NHK WORLD-JAPA香港 | mytvsuper | 175 | 2026-09-22 02:43:00 至 2026-09-23 23:59:00 | ✅ |
+| DW (English)香港 | DW (English)香港 | mytvsuper | 136 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 半島電視台英語頻道香港 | 半島電視台英語頻道香港 | mytvsuper | 67 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| euronews香港 | euronews香港 | mytvsuper | 137 | 2026-09-22 04:15:00 至 2026-09-23 23:59:00 | ✅ |
+| France 24香港 | France 24香港 | mytvsuper | 218 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| NHK WORLD-JAPA香港 | NHK WORLD-JAPA香港 | mytvsuper | 170 | 2026-09-22 04:15:00 至 2026-09-23 23:59:00 | ✅ |
 | RT香港 | RT香港 | mytvsuper | 5 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| 中國環球電視網香港 | 中國環球電視網香港 | mytvsuper | 88 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| now直播  | now直播  | mytvsuper | 19 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| now新聞 | now新聞 | mytvsuper | 99 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| now財經 | now財經 | mytvsuper | 88 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| now報價 | now報價 | mytvsuper | 22 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| 鳳凰資訊 | 鳳凰資訊 | mytvsuper | 119 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
+| 中國環球電視網香港 | 中國環球電視網香港 | mytvsuper | 85 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| now直播  | now直播  | mytvsuper | 18 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
+| now新聞 | now新聞 | mytvsuper | 96 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| now財經 | now財經 | mytvsuper | 87 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
+| now報價 | now報價 | mytvsuper | 21 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 鳳凰資訊 | 鳳凰資訊 | mytvsuper | 115 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | 智叻樂園 | 智叻樂園 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| 鳳凰中文 | 鳳凰中文 | mytvsuper | 93 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Cartoon Network香港 | Cartoon Network香港 | mytvsuper | 56 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Nickelodeon香港 | Nickelodeon香港 | mytvsuper | 125 | 2026-09-22 02:35:00 至 2026-09-23 23:59:00 | ✅ |
-| CBeebies香港 | CBeebies香港 | mytvsuper | 304 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
+| 鳳凰中文 | 鳳凰中文 | mytvsuper | 90 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Cartoon Network香港 | Cartoon Network香港 | mytvsuper | 54 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Nickelodeon香港 | Nickelodeon香港 | mytvsuper | 121 | 2026-09-22 04:15:00 至 2026-09-23 23:59:00 | ✅ |
+| CBeebies香港 | CBeebies香港 | mytvsuper | 294 | 2026-09-22 04:11:00 至 2026-09-23 23:59:00 | ✅ |
 | Moonbug香港 | Moonbug香港 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Nick Jr.香港 | Nick Jr.香港 | mytvsuper | 151 | 2026-09-22 02:40:00 至 2026-09-23 23:59:00 | ✅ |
+| Nick Jr.香港 | Nick Jr.香港 | mytvsuper | 147 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Da Vinc香港 | Da Vinc香港 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| BBC Lifestyle香港 | BBC Lifestyle香港 | mytvsuper | 56 | 2026-09-22 02:20:00 至 2026-09-23 23:59:00 | ✅ |
-| AXN香港 | AXN香港 | mytvsuper | 52 | 2026-09-22 02:20:00 至 2026-09-23 23:59:00 | ✅ |
-| ROCK Entertainment香港 | ROCK Entertainment香港 | mytvsuper | 56 | 2026-09-22 02:15:00 至 2026-09-23 23:59:00 | ✅ |
+| BBC Lifestyle香港 | BBC Lifestyle香港 | mytvsuper | 54 | 2026-09-22 04:10:00 至 2026-09-23 23:59:00 | ✅ |
+| AXN香港 | AXN香港 | mytvsuper | 50 | 2026-09-22 04:10:00 至 2026-09-23 23:59:00 | ✅ |
+| ROCK Entertainment香港 | ROCK Entertainment香港 | mytvsuper | 54 | 2026-09-22 03:45:00 至 2026-09-23 23:59:00 | ✅ |
 | Lifetime香港 | Lifetime香港 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Food Network香港 | Food Network香港 | mytvsuper | 84 | 2026-09-22 02:36:00 至 2026-09-23 23:59:00 | ✅ |
-| 亞洲美食台香港 | 亞洲美食台香港 | mytvsuper | 79 | 2026-09-22 02:45:00 至 2026-09-23 23:59:00 | ✅ |
+| Food Network香港 | Food Network香港 | mytvsuper | 81 | 2026-09-22 04:15:00 至 2026-09-23 23:59:00 | ✅ |
+| 亞洲美食台香港 | 亞洲美食台香港 | mytvsuper | 76 | 2026-09-22 04:05:00 至 2026-09-23 23:59:00 | ✅ |
 | 旅遊頻道香港 | 旅遊頻道香港 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
 | 居家樂活頻道香港 | 居家樂活頻道香港 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Netflix香港 | Netflix香港 | mytvsuper | 22 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Netflix香港 | Netflix香港 | mytvsuper | 21 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | 深圳衛視香港 | 深圳衛視香港 | mytvsuper | 57 | 2026-09-22 00:55:00 至 2026-09-23 23:59:00 | ✅ |
-| CCTV-1香港 | CCTV-1香港 | mytvsuper | 74 | 2026-09-22 02:43:00 至 2026-09-23 23:59:00 | ✅ |
-| CCTV-4香港 | CCTV-4香港 | mytvsuper | 78 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| 大灣區衛視香港 | 大灣區衛視香港 | mytvsuper | 38 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| 中央電視台新聞頻道香港 | 中央電視台新聞頻道香港 | mytvsuper | 49 | 2026-09-22 02:33:00 至 2026-09-23 23:59:00 | ✅ |
-| 鳳凰衛視中文台 | 鳳凰衛視中文台 | mytvsuper | 93 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
+| CCTV-1香港 | CCTV-1香港 | mytvsuper | 70 | 2026-09-22 03:46:00 至 2026-09-23 23:59:00 | ✅ |
+| CCTV-4香港 | CCTV-4香港 | mytvsuper | 75 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 大灣區衛視香港 | 大灣區衛視香港 | mytvsuper | 37 | 2026-09-22 02:55:00 至 2026-09-23 23:59:00 | ✅ |
+| 中央電視台新聞頻道香港 | 中央電視台新聞頻道香港 | mytvsuper | 46 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 鳳凰衛視中文台 | 鳳凰衛視中文台 | mytvsuper | 90 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | OneTV 綜合頻道 | OneTV 綜合頻道 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
 | 三沙衛視香港 | 三沙衛視香港 | mytvsuper | 5 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
 | 浙江衛視香港 | 浙江衛視香港 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| ABC Australia香港 | ABC Australia香港 | mytvsuper | 63 | 2026-09-22 02:45:00 至 2026-09-23 23:59:00 | ✅ |
+| ABC Australia香港 | ABC Australia香港 | mytvsuper | 61 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | now體育 | now體育 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
 | now體育4k | now體育4k | mytvsuper | 0 | 无节目 | ❌ |
 | now體育4k (2) | now體育4k | mytvsuper | 0 | 无节目 | ❌ |
-| now體育4k (3) | now體育4k | mytvsuper | 89 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超TV | Now Sports 英超TV | mytvsuper | 61 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超TV1 | Now Sports 英超TV1 | mytvsuper | 37 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超 TV2 | Now Sports 英超 TV2 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超 TV3 | Now Sports 英超 TV3 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超 TV4 | Now Sports 英超 TV4 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超 TV5 | Now Sports 英超 TV5 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超 TV6 | Now Sports 英超 TV6 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超 TV7 | Now Sports 英超 TV7 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超 TV8 | Now Sports 英超 TV8 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 英超 TV9 | Now Sports 英超 TV9 | mytvsuper | 22 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| now體育4k (3) | now體育4k | mytvsuper | 85 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超TV | Now Sports 英超TV | mytvsuper | 59 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超TV1 | Now Sports 英超TV1 | mytvsuper | 36 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超 TV2 | Now Sports 英超 TV2 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超 TV3 | Now Sports 英超 TV3 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超 TV4 | Now Sports 英超 TV4 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超 TV5 | Now Sports 英超 TV5 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超 TV6 | Now Sports 英超 TV6 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超 TV7 | Now Sports 英超 TV7 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超 TV8 | Now Sports 英超 TV8 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 英超 TV9 | Now Sports 英超 TV9 | mytvsuper | 21 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Now Sports Premier | Now Sports Premier | mytvsuper | 37 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 1 | Now Sports 1 | mytvsuper | 28 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 2 | Now Sports 2 | mytvsuper | 30 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 3 | Now Sports 3 | mytvsuper | 54 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 4 | Now Sports 4 | mytvsuper | 59 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 5 | Now Sports 5 | mytvsuper | 31 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 6 | Now Sports 6 | mytvsuper | 35 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 1 | Now Sports 1 | mytvsuper | 27 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 2 | Now Sports 2 | mytvsuper | 29 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 3 | Now Sports 3 | mytvsuper | 52 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 4 | Now Sports 4 | mytvsuper | 58 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 5 | Now Sports 5 | mytvsuper | 30 | 2026-09-22 03:05:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 6 | Now Sports 6 | mytvsuper | 34 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Now Sports 7 | Now Sports 7 | mytvsuper | 48 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| beIN SPORTS 1 | beIN SPORTS 1 | mytvsuper | 34 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| beIN SPORTS 2 | beIN SPORTS 2 | mytvsuper | 48 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| MUTV | MUTV | mytvsuper | 80 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 641 | Now Sports 641 | mytvsuper | 22 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| beIN SPORTS 1 | beIN SPORTS 1 | mytvsuper | 33 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
+| beIN SPORTS 2 | beIN SPORTS 2 | mytvsuper | 47 | 2026-09-22 03:50:00 至 2026-09-23 23:59:00 | ✅ |
+| MUTV | MUTV | mytvsuper | 79 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 641 | Now Sports 641 | mytvsuper | 21 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | NBA | NBA | mytvsuper | 33 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
 | beIN SPORTS 3 | beIN SPORTS 3 | mytvsuper | 34 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| beIN SPORTS 4 | beIN SPORTS 4 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| beIN SPORTS 5 | beIN SPORTS 5 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| beIN SPORTS 6 | beIN SPORTS 6 | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
+| beIN SPORTS 4 | beIN SPORTS 4 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| beIN SPORTS 5 | beIN SPORTS 5 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| beIN SPORTS 6 | beIN SPORTS 6 | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | beIN SPORTS RUGBY | beIN SPORTS RUGBY | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 651 | Now Sports 651 | mytvsuper | 22 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 652 | Now Sports 652 | mytvsuper | 22 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports 668 | Now Sports 668 | mytvsuper | 49 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 651 | Now Sports 651 | mytvsuper | 21 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 652 | Now Sports 652 | mytvsuper | 21 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports 668 | Now Sports 668 | mytvsuper | 48 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | SPOTV | SPOTV | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
 | SPOTV2 | SPOTV2 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Cricbuzz  | Cricbuzz  | mytvsuper | 73 | 2026-09-22 01:46:00 至 2026-09-23 23:59:00 | ✅ |
-| Premier Sports | Premier Sports | mytvsuper | 42 | 2026-09-22 02:45:00 至 2026-09-23 23:59:00 | ✅ |
-| Now Sports plus | Now Sports plus | mytvsuper | 11 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Cricbuzz  | Cricbuzz  | mytvsuper | 70 | 2026-09-22 03:50:00 至 2026-09-23 23:59:00 | ✅ |
+| Premier Sports | Premier Sports | mytvsuper | 39 | 2026-09-22 03:50:00 至 2026-09-23 23:59:00 | ✅ |
+| Now Sports plus | Now Sports plus | mytvsuper | 10 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Now Sports 681 | Now Sports 681 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now 高爾夫2 | Now 高爾夫2 | mytvsuper | 16 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Now 高爾夫3 | Now 高爾夫3 | mytvsuper | 25 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now 高爾夫2 | Now 高爾夫2 | mytvsuper | 15 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Now 高爾夫3 | Now 高爾夫3 | mytvsuper | 24 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Lucky 688 | Lucky 688 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| NHK World Premium (2) | NHK World Premium | mytvsuper | 137 | 2026-09-22 02:45:00 至 2026-09-23 23:59:00 | ✅ |
-| TV5MONDE Style | TV5MONDE Style | mytvsuper | 88 | 2026-09-22 02:46:00 至 2026-09-23 23:59:00 | ✅ |
-| TV5MONDE ASIE | TV5MONDE ASIE | mytvsuper | 86 | 2026-09-22 02:32:00 至 2026-09-23 23:59:00 | ✅ |
-| France 24 (French) | France 24 (French) | mytvsuper | 196 | 2026-09-22 02:15:00 至 2026-09-23 23:59:00 | ✅ |
+| NHK World Premium | NHK World Premium | mytvsuper | 134 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| TV5MONDE Style | TV5MONDE Style | mytvsuper | 85 | 2026-09-22 04:04:00 至 2026-09-23 23:59:00 | ✅ |
+| TV5MONDE ASIE | TV5MONDE ASIE | mytvsuper | 82 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| France 24 (French) | France 24 (French) | mytvsuper | 189 | 2026-09-22 04:15:00 至 2026-09-23 23:59:00 | ✅ |
 | GMA Pinoy TV | GMA Pinoy TV | mytvsuper | 55 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
 | GMA Life T | GMA Life T | mytvsuper | 51 | 2026-09-22 02:45:00 至 2026-09-23 23:59:00 | ✅ |
-| TFC | TFC | mytvsuper | 53 | 2026-09-22 02:15:00 至 2026-09-23 23:59:00 | ✅ |
-| Sony TV (India) | Sony TV (India) | mytvsuper | 50 | 2026-09-22 01:30:00 至 2026-09-23 23:59:00 | ✅ |
+| TFC | TFC | mytvsuper | 50 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Sony TV (India) | Sony TV (India) | mytvsuper | 48 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Sony MAX | Sony MAX | mytvsuper | 19 | 2026-09-22 02:44:00 至 2026-09-23 23:59:00 | ✅ |
-| Sony SAB | Sony SAB | mytvsuper | 102 | 2026-09-22 02:43:00 至 2026-09-23 23:59:00 | ✅ |
-| MTV India | MTV India | mytvsuper | 31 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| COLORS | COLORS | mytvsuper | 83 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
+| Sony SAB | Sony SAB | mytvsuper | 99 | 2026-09-22 04:01:00 至 2026-09-23 23:59:00 | ✅ |
+| MTV India | MTV India | mytvsuper | 30 | 2026-09-22 03:00:00 至 2026-09-23 23:59:00 | ✅ |
+| COLORS | COLORS | mytvsuper | 80 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Zee Cinema International | Zee Cinema International | mytvsuper | 16 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| Zee TV | Zee TV | mytvsuper | 72 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Zee News | Zee News | mytvsuper | 91 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Star Gold | Star Gold | mytvsuper | 21 | 2026-09-22 01:01:00 至 2026-09-23 23:59:00 | ✅ |
-| STAR PLUS | STAR PLUS | mytvsuper | 90 | 2026-09-22 02:30:00 至 2026-09-23 23:59:00 | ✅ |
-| Star Bharat | Star Bharat | mytvsuper | 71 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Zee TV | Zee TV | mytvsuper | 69 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Zee News | Zee News | mytvsuper | 88 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Star Gold | Star Gold | mytvsuper | 20 | 2026-09-22 03:31:00 至 2026-09-23 23:59:00 | ✅ |
+| STAR PLUS | STAR PLUS | mytvsuper | 87 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| Star Bharat | Star Bharat | mytvsuper | 69 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | 成人節目資訊 | 成人節目資訊 | mytvsuper | 2 | 2026-09-22 08:00:00 至 2026-09-23 23:59:00 | ✅ |
-| 冰火頻道 | 冰火頻道 | mytvsuper | 19 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
-| 成人極品台 | 成人極品台 | mytvsuper | 46 | 2026-09-22 02:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 冰火頻道 | 冰火頻道 | mytvsuper | 18 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 成人極品台 | 成人極品台 | mytvsuper | 44 | 2026-09-22 04:00:00 至 2026-09-23 23:59:00 | ✅ |
 | Channel 5 | Channel 5 | mytvsuper | 134 | 2026-09-22 00:00:00 至 2026-09-25 00:30:00 | ✅ |
 | Channel 8 | Channel 8 | mytvsuper | 119 | 2026-09-22 00:00:00 至 2026-09-25 01:00:00 | ✅ |
 | Channel U | Channel U | mytvsuper | 113 | 2026-09-22 00:00:00 至 2026-09-25 00:30:00 | ✅ |
@@ -596,7 +461,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Crime + Investigation HD | Crime + Investigation HD | mytvsuper | 87 | 2026-09-21 23:35:00 至 2026-09-25 00:25:00 | ✅ |
 | 中天亞洲台新加坡版 | 中天亞洲台新加坡版 | mytvsuper | 72 | 2026-09-22 00:00:00 至 2026-09-25 01:00:00 | ✅ |
 | Discovery HD新加坡版 | Discovery HD新加坡版 | mytvsuper | 77 | 2026-09-21 23:45:00 至 2026-09-25 00:40:00 | ✅ |
-| 東方衛視國際版版 | 東方衛視國際版版 | mytvsuper | 35 | 2026-09-21 22:38:00 至 2026-09-25 06:00:00 | ✅ |
+| 東方衛視國際版版 | 東方衛視國際版版 | mytvsuper | 59 | 2026-09-21 22:38:00 至 2026-09-25 06:00:00 | ✅ |
 | DreamWorks HD | DreamWorks HD | mytvsuper | 144 | 2026-09-21 21:50:00 至 2026-09-25 00:20:00 | ✅ |
 | 東森亞洲臺新加坡版 | 東森亞洲臺新加坡版 | mytvsuper | 75 | 2026-09-22 00:00:00 至 2026-09-25 01:00:00 | ✅ |
 | HGTV HD新加坡版 | HGTV HD新加坡版 | mytvsuper | 123 | 2026-09-21 23:40:00 至 2026-09-25 00:05:00 | ✅ |
@@ -616,7 +481,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Hub Premier 10 | Hub Premier 10 | mytvsuper | 6 | 2026-09-22 00:00:00 至 2026-09-26 00:00:00 | ✅ |
 | Hub Premier 11 | Hub Premier 11 | mytvsuper | 6 | 2026-09-22 00:00:00 至 2026-09-26 00:00:00 | ✅ |
 | Hub Ruyi | Hub Ruyi | mytvsuper | 75 | 2026-09-22 00:00:00 至 2026-09-25 01:00:00 | ✅ |
-| Hub Sports 1 HD | Hub Sports 1 HD | mytvsuper | 39 | 2026-09-22 00:00:00 至 2026-09-25 04:00:00 | ✅ |
+| Hub Sports 1 HD | Hub Sports 1 HD | mytvsuper | 40 | 2026-09-22 00:00:00 至 2026-09-25 04:00:00 | ✅ |
 | Hub Sports 2 HD | Hub Sports 2 HD | mytvsuper | 42 | 2026-09-22 00:00:00 至 2026-09-25 05:00:00 | ✅ |
 | Hub Sports 3 HD | Hub Sports 3 HD | mytvsuper | 23 | 2026-09-22 00:00:00 至 2026-09-25 00:30:00 | ✅ |
 | Hub VV Drama HD | Hub VV Drama HD | mytvsuper | 88 | 2026-09-21 23:20:00 至 2026-09-25 00:15:00 | ✅ |
@@ -646,7 +511,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Zee Tamil HD | Zee Tamil HD | mytvsuper | 130 | 2026-09-22 00:00:00 至 2026-09-25 00:30:00 | ✅ |
 | Zee Thirai | Zee Thirai | mytvsuper | 36 | 2026-09-22 00:00:00 至 2026-09-25 00:30:00 | ✅ |
 | Zee TV HD | Zee TV HD | mytvsuper | 117 | 2026-09-22 00:00:00 至 2026-09-25 00:30:00 | ✅ |
-| 重温经典频道 | 重温经典频道 | mytvsuper | 0 | 无节目 | ❌ |
+| 重温经典频道 | 重温经典频道 | mytvsuper | 39 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
 | 新视觉 | 新视觉 | mytvsuper | 69 | 2026-09-21 14:11:00 至 2026-09-23 23:59:00 | ✅ |
 | 劲爆体育 | 劲爆体育 | mytvsuper | 0 | 无节目 | ❌ |
 | 海峡卫视 | 海峡卫视 | mytvsuper | 107 | 2026-09-21 14:39:00 至 2026-09-23 23:59:00 | ✅ |
@@ -676,7 +541,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 河南文物宝库 | 河南文物宝库 | mytvsuper | 40 | 2026-09-22 00:00:00 至 2026-09-22 23:57:00 | ✅ |
 | 河南武术 | 河南武术 | mytvsuper | 21 | 2026-09-22 00:00:00 至 2026-09-22 23:57:00 | ✅ |
 | 河南晴彩中原 | 河南晴彩中原 | mytvsuper | 6 | 2026-09-22 00:00:00 至 2026-09-22 23:57:00 | ✅ |
-| 浙江卫视 (2) | 浙江卫视 | mytvsuper | 99 | 2026-09-22 00:00:00 至 2026-09-23 00:00:00 | ✅ |
+| 浙江卫视 | 浙江卫视 | mytvsuper | 99 | 2026-09-22 00:00:00 至 2026-09-23 00:00:00 | ✅ |
 | 浙江钱江都市 | 浙江钱江都市 | mytvsuper | 157 | 2026-09-22 00:00:00 至 2026-09-23 00:00:00 | ✅ |
 | 浙江经济 | 浙江经济 | mytvsuper | 112 | 2026-09-22 00:00:00 至 2026-09-23 00:00:00 | ✅ |
 | 浙江科教 | 浙江科教 | mytvsuper | 217 | 2026-09-22 00:00:00 至 2026-09-23 00:00:00 | ✅ |
@@ -699,18 +564,18 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 广东嘉佳卡通 | 广东嘉佳卡通 | mytvsuper | 27 | 2026-09-22 00:00:00 至 2026-09-23 22:58:00 | ✅ |
 | 广东移动 | 广东移动 | mytvsuper | 113 | 2026-09-22 00:34:00 至 2026-09-24 00:05:00 | ✅ |
 | 广东岭南戏曲 | 广东岭南戏曲 | mytvsuper | 70 | 2026-09-22 00:57:00 至 2026-09-24 00:10:00 | ✅ |
-| 陝西卫视 | 陝西卫视 | mytvsuper | 0 | 无节目 | ❌ |
-| 陝西新闻资讯 | 陝西新闻资讯 | mytvsuper | 0 | 无节目 | ❌ |
-| 陝西都市青春 | 陝西都市青春 | mytvsuper | 0 | 无节目 | ❌ |
-| 陝西银龄频道 | 陝西银龄频道 | mytvsuper | 0 | 无节目 | ❌ |
-| 陝西秦腔频道 | 陝西秦腔频道 | mytvsuper | 0 | 无节目 | ❌ |
-| 陝西体育休闲 | 陝西体育休闲 | mytvsuper | 0 | 无节目 | ❌ |
-| 陝西农林 | 陝西农林 | mytvsuper | 0 | 无节目 | ❌ |
-| 陝西移动电视 | 陝西移动电视 | mytvsuper | 0 | 无节目 | ❌ |
-| 广西卫视 (2) | 广西卫视 | mytvsuper | 0 | 无节目 | ❌ |
-| 广西综艺旅游频道 | 广西综艺旅游频道 | mytvsuper | 0 | 无节目 | ❌ |
-| 广西都市频道 | 广西都市频道 | mytvsuper | 0 | 无节目 | ❌ |
-| 广西新闻频道 | 广西新闻频道 | mytvsuper | 28 | 2026-09-23 00:00:00 至 2026-09-23 23:59:00 | ❌ |
+| 陝西卫视 | 陝西卫视 | mytvsuper | 36 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
+| 陝西新闻资讯 | 陝西新闻资讯 | mytvsuper | 37 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
+| 陝西都市青春 | 陝西都市青春 | mytvsuper | 32 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
+| 陝西银龄频道 | 陝西银龄频道 | mytvsuper | 45 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
+| 陝西秦腔频道 | 陝西秦腔频道 | mytvsuper | 49 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
+| 陝西体育休闲 | 陝西体育休闲 | mytvsuper | 36 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
+| 陝西农林 | 陝西农林 | mytvsuper | 54 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
+| 陝西移动电视 | 陝西移动电视 | mytvsuper | 131 | 2026-09-22 00:00:00 至 2026-09-22 23:59:00 | ✅ |
+| 广西卫视 (2) | 广西卫视 | mytvsuper | 60 | 2026-09-22 00:30:00 至 2026-09-23 23:59:00 | ✅ |
+| 广西综艺旅游频道 | 广西综艺旅游频道 | mytvsuper | 21 | 2026-09-22 01:00:00 至 2026-09-23 23:59:00 | ✅ |
+| 广西都市频道 | 广西都市频道 | mytvsuper | 33 | 2026-09-22 00:40:00 至 2026-09-23 23:59:00 | ✅ |
+| 广西新闻频道 | 广西新闻频道 | mytvsuper | 62 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
 | 广西影视频道 | 广西影视频道 | mytvsuper | 43 | 2026-09-22 00:45:00 至 2026-09-23 23:59:00 | ✅ |
 | 广西国际频道 | 广西国际频道 | mytvsuper | 39 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
 | 广西乐思购频道 | 广西乐思购频道 | mytvsuper | 10 | 2026-09-22 00:00:00 至 2026-09-23 23:59:00 | ✅ |
@@ -734,10 +599,10 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 山东少儿 | 山东少儿 | mytvsuper | 27 | 2026-09-22 06:00:00 至 2026-09-23 00:02:00 | ✅ |
 | 奥林匹克官网直播 | 奥林匹克官网直播 | mytvsuper | 96 | 2026-09-20 23:45:57 至 2026-09-23 16:53:05 | ✅ |
 | 澳視澳門 | 澳視澳門 | 4gtv | 86 | 2026-09-22 07:00:00 至 2026-09-24 05:25:00 | ✅ |
-| 澳門葡萄牙 | 澳門葡萄牙 | 4gtv | 33 | 2026-09-22 13:20:00 至 2026-09-24 00:10:00 | ❌ |
+| 澳門葡萄牙 | 澳門葡萄牙 | 4gtv | 33 | 2026-09-22 13:20:00 至 2026-09-24 00:10:00 | ✅ |
 | 澳門資訊 | 澳門資訊 | 4gtv | 95 | 2026-09-22 06:59:00 至 2026-09-24 02:00:00 | ✅ |
 | 澳門體育 | 澳門體育 | 4gtv | 32 | 2026-09-22 07:59:00 至 2026-09-24 01:00:00 | ✅ |
-| 澳門綜藝 | 澳門綜藝 | 4gtv | 32 | 2026-09-22 09:59:00 至 2026-09-24 00:01:00 | ❌ |
+| 澳門綜藝 | 澳門綜藝 | 4gtv | 32 | 2026-09-22 09:59:00 至 2026-09-24 00:01:00 | ✅ |
 | 澳門衛星 | 澳門衛星 | 4gtv | 86 | 2026-09-22 00:02:00 至 2026-09-23 23:40:00 | ✅ |
 | 民視HD | 民視HD | 4gtv | 66 | 2026-09-22 01:30:00 至 2026-09-24 01:30:00 | ✅ |
 | 人間衛視HD | 人間衛視HD | 4gtv | 62 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
@@ -763,7 +628,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Cbeebies HD (2) | Cbeebies HD | 4gtv | 320 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 達文西頻道HD | 達文西頻道HD | 4gtv | 174 | 2026-09-22 00:03:00 至 2026-09-24 00:06:00 | ✅ |
 | Nick Jr.  | Nick Jr.  | 4gtv | 164 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| DREAMWORKS (2) | DREAMWORKS | 4gtv | 122 | 2026-09-22 00:20:00 至 2026-09-24 00:20:00 | ✅ |
+| DREAMWORKS | DREAMWORKS | 4gtv | 122 | 2026-09-22 00:20:00 至 2026-09-24 00:20:00 | ✅ |
 | 國會頻道1HD | 國會頻道1HD | 4gtv | 19 | 2026-09-22 03:02:00 至 2026-09-24 00:00:00 | ✅ |
 | 國會頻道2HD | 國會頻道2HD | 4gtv | 22 | 2026-09-22 01:15:00 至 2026-09-24 03:42:00 | ✅ |
 | Fun探索娛樂台 4K | Fun探索娛樂台 4K | 4gtv | 46 | 2026-09-22 00:12:00 至 2026-09-24 00:19:00 | ✅ |
@@ -856,11 +721,11 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 曼迪日本台HD | 曼迪日本台HD | 4gtv | 96 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | Animax | Animax | 4gtv | 96 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | OUTtv HD | OUTtv HD | 4gtv | 74 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| tvN HD (2) | tvN HD | 4gtv | 35 | 2026-09-22 00:50:00 至 2026-09-24 00:30:00 | ✅ |
+| tvN HD | tvN HD | 4gtv | 35 | 2026-09-22 00:50:00 至 2026-09-24 00:30:00 | ✅ |
 | 韓國娛樂台KMTV HD | 韓國娛樂台KMTV HD | 4gtv | 68 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 華藝中文台 | 華藝中文台 | 4gtv | 48 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | ROCK Extreme | ROCK Extreme | 4gtv | 48 | 2026-09-22 00:10:00 至 2026-09-24 00:00:00 | ✅ |
-| ROCK Entertainment (2) | ROCK Entertainment | 4gtv | 59 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| ROCK Entertainment | ROCK Entertainment | 4gtv | 59 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 東森購物1台HD | 東森購物1台HD | 4gtv | 48 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 美好2台 | 美好2台 | 4gtv | 90 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | momo1台HD | momo1台HD | 4gtv | 72 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
@@ -880,10 +745,10 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 東森購物5台HD | 東森購物5台HD | 4gtv | 48 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | CNNI HD | CNNI HD | 4gtv | 62 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | BBC NEWS HD (2) | BBC NEWS HD | 4gtv | 106 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| Bloomberg (2) | Bloomberg | 4gtv | 36 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| Bloomberg | Bloomberg | 4gtv | 36 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | Channel NewsAsia | Channel NewsAsia | 4gtv | 46 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | CNBC Asia | CNBC Asia | 4gtv | 94 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| Euronews (2) | Euronews | 4gtv | 154 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| Euronews | Euronews | 4gtv | 154 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 德國之聲 | 德國之聲 | 4gtv | 147 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | FRANCE24E HD | FRANCE24E HD | 4gtv | 239 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | TaiwanPlus | TaiwanPlus | 4gtv | 117 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
@@ -941,7 +806,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 好消息衛星電視台 | 好消息衛星電視台 | 4gtv | 102 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 原住民族電視台 | 原住民族電視台 | 4gtv | 54 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 客家電視台 | 客家電視台 | 4gtv | 74 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| BBC EARTH (2) | BBC EARTH | 4gtv | 56 | 2026-09-22 00:40:00 至 2026-09-24 00:35:00 | ✅ |
+| BBC EARTH | BBC EARTH | 4gtv | 56 | 2026-09-22 00:40:00 至 2026-09-24 00:35:00 | ✅ |
 | Discovery | Discovery | 4gtv | 59 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | TLC 旅遊生活頻道 | TLC 旅遊生活頻道 | 4gtv | 62 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 動物星球頻道 | 動物星球頻道 | 4gtv | 56 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
@@ -990,7 +855,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | LS TIME電影台 | LS TIME電影台 | 4gtv | 22 | 2026-09-22 01:10:00 至 2026-09-24 00:55:00 | ✅ |
 | HBO | HBO | 4gtv | 25 | 2026-09-22 00:40:00 至 2026-09-24 00:20:00 | ✅ |
 | 東森洋片台 | 東森洋片台 | 4gtv | 22 | 2026-09-22 00:30:00 至 2026-09-24 00:05:00 | ✅ |
-| AXN (2) | AXN | 4gtv | 44 | 2026-09-22 00:00:00 至 2026-09-24 00:25:00 | ✅ |
+| AXN | AXN | 4gtv | 44 | 2026-09-22 00:00:00 至 2026-09-24 00:25:00 | ✅ |
 | 好萊塢電影台 | 好萊塢電影台 | 4gtv | 22 | 2026-09-22 02:15:00 至 2026-09-24 00:00:00 | ✅ |
 | AMC電影 | AMC電影 | 4gtv | 30 | 2026-09-22 01:10:00 至 2026-09-24 00:10:00 | ✅ |
 | CINEMAX有線 | CINEMAX有線 | 4gtv | 29 | 2026-09-22 01:45:00 至 2026-09-24 01:30:00 | ✅ |
@@ -1027,7 +892,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 世界衛星電視台 | 世界衛星電視台 | 4gtv | 50 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 佛衛電視慈悲台 | 佛衛電視慈悲台 | 4gtv | 61 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 信大電視台 (2) | 信大電視台 | 4gtv | 48 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| NHK WORLD PREMIUM (3) | NHK WORLD PREMIUM | 4gtv | 143 | 2026-09-22 00:15:00 至 2026-09-24 00:15:00 | ✅ |
+| NHK WORLD PREMIUM (2) | NHK WORLD PREMIUM | 4gtv | 143 | 2026-09-22 00:15:00 至 2026-09-24 00:15:00 | ✅ |
 | 全大電視台 | 全大電視台 | 4gtv | 24 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 美麗人生購物台 | 美麗人生購物台 | 4gtv | 48 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 正德電視台 | 正德電視台 | 4gtv | 48 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
@@ -1105,7 +970,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 靖洋卡通有線 | 靖洋卡通有線 | 4gtv | 96 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | Nickelodeon Asia尼克兒童頻道 | Nickelodeon Asia尼克兒童頻道 | 4gtv | 132 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | CARTOONITO | CARTOONITO | 4gtv | 296 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| Cbeebies (2) | Cbeebies | 4gtv | 320 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| Cbeebies | Cbeebies | 4gtv | 320 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | Eurosport | Eurosport | 4gtv | 38 | 2026-09-22 00:15:00 至 2026-09-24 00:00:00 | ✅ |
 | 博斯運動二台有線 | 博斯運動二台有線 | 4gtv | 24 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 博斯高球一台有線 | 博斯高球一台有線 | 4gtv | 11 | 2026-09-22 00:30:00 至 2026-09-24 00:00:00 | ✅ |
@@ -1284,12 +1149,12 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 靖天日本台 (2) | 靖天日本台 | 4gtv | 108 | 2026-09-22 00:30:00 至 2026-09-25 00:30:00 | ✅ |
 | 新唐人亞太台 (2) | 新唐人亞太台 | 4gtv | 141 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | ARIRANG阿里郎頻道 | ARIRANG阿里郎頻道 | 4gtv | 165 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
-| Global Trekker (3) | Global Trekker | 4gtv | 111 | 2026-09-22 00:50:00 至 2026-09-25 00:10:00 | ✅ |
+| Global Trekker (2) | Global Trekker | 4gtv | 111 | 2026-09-22 00:50:00 至 2026-09-25 00:10:00 | ✅ |
 | 原住民族電視台 (2) | 原住民族電視台 | 4gtv | 81 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 東森購物二台 | 東森購物二台 | 4gtv | 72 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | LiveABC互動英語頻道 (2) | LiveABC互動英語頻道 | 4gtv | 189 | 2026-09-22 00:23:00 至 2026-09-25 00:22:00 | ✅ |
 | 達文西頻道 (2) | 達文西頻道 | 4gtv | 262 | 2026-09-22 00:03:00 至 2026-09-25 00:06:00 | ✅ |
-| ELTV生活英語台 (2) | ELTV生活英語台 | ofiii | 281 | 2026-09-21 03:30:00 至 2026-09-27 00:00:00 | ✅ |
+| ELTV生活英語台 (2) | ELTV生活英語台 | ofiii | 278 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
 | Nick Jr. 兒童頻道 | Nick Jr. 兒童頻道 | 4gtv | 246 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 尼克兒童頻道 (2) | 尼克兒童頻道 | 4gtv | 198 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | DreamWorks 夢工廠動畫 | DreamWorks 夢工廠動畫 | 4gtv | 183 | 2026-09-22 00:20:00 至 2026-09-25 00:20:00 | ✅ |
@@ -1306,8 +1171,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 東森財經新聞台 (2) | 東森財經新聞台 | 4gtv | 66 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 中視新聞 | 中視新聞 | 4gtv | 72 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | Bloomberg TV | Bloomberg TV | 4gtv | 54 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
-| 寰宇新聞台 (2) | 寰宇新聞台 | ofiii | 14820 | 2026-09-21 02:55:00 至 2026-09-27 00:55:00 | ✅ |
-| 寰宇新聞台灣台 (2) | 寰宇新聞台灣台 | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
+| 寰宇新聞台 (2) | 寰宇新聞台 | ofiii | 14664 | 2026-09-22 04:55:00 至 2026-09-28 00:55:00 | ✅ |
+| 寰宇新聞台灣台 (2) | 寰宇新聞台灣台 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
 | SBN全球財經台 | SBN全球財經台 | 4gtv | 132 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 寰宇財經台 | 寰宇財經台 | 4gtv | 72 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | TVBS (3) | TVBS | 4gtv | 60 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
@@ -1346,7 +1211,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Pet Club TV | Pet Club TV | 4gtv | 84 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 民視旅遊台 | 民視旅遊台 | 4gtv | 123 | 2026-09-22 00:04:00 至 2026-09-25 00:11:00 | ✅ |
 | 滾動力rollor | 滾動力rollor | 4gtv | 72 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
-| 亞洲旅遊台 (2) | 亞洲旅遊台 | ofiii | 117 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
+| 亞洲旅遊台 (2) | 亞洲旅遊台 | ofiii | 116 | 2026-09-22 04:00:00 至 2026-09-28 00:00:00 | ✅ |
 | fun探索娛樂台 | fun探索娛樂台 | 4gtv | 69 | 2026-09-22 00:12:00 至 2026-09-25 01:06:00 | ✅ |
 | 幸福空間居家台 (3) | 幸福空間居家台 | 4gtv | 72 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | Love Nature | Love Nature | 4gtv | 81 | 2026-09-22 00:35:00 至 2026-09-25 00:35:00 | ✅ |
@@ -1366,7 +1231,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 視納華仁紀實頻道 | 視納華仁紀實頻道 | 4gtv | 95 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 影迷數位紀實台 (2) | 影迷數位紀實台 | 4gtv | 81 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 金光布袋戲 (2) | 金光布袋戲 | 4gtv | 46 | 2026-09-22 00:00:00 至 2026-09-25 00:02:00 | ✅ |
-| ROCK Action (3) | ROCK Action | 4gtv | 42 | 2026-09-22 00:30:00 至 2026-09-25 01:05:00 | ✅ |
+| ROCK Action (2) | ROCK Action | 4gtv | 42 | 2026-09-22 00:30:00 至 2026-09-25 01:05:00 | ✅ |
 | OUTtv | OUTtv | 4gtv | 111 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 采昌影劇台 (2) | 采昌影劇台 | 4gtv | 47 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 靖天映畫 | 靖天映畫 | 4gtv | 36 | 2026-09-22 01:05:00 至 2026-09-25 01:35:00 | ✅ |
@@ -1391,10 +1256,10 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 經典電影台 | 經典電影台 | 4gtv | 42 | 2026-09-22 01:10:00 至 2026-09-25 00:40:00 | ✅ |
 | 經典卡通台 | 經典卡通台 | 4gtv | 201 | 2026-09-22 00:02:00 至 2026-09-25 01:07:00 | ✅ |
 | 精選動漫台 | 精選動漫台 | 4gtv | 122 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
-| 中視 (2) | 中視 | ofiii | 148 | 2026-09-21 02:30:00 至 2026-09-27 00:00:00 | ✅ |
-| 華視 (2) | 華視 | ofiii | 138 | 2026-09-21 03:00:00 至 2026-09-27 00:10:00 | ✅ |
-| 好消息2台 (2) | 好消息2台 | ofiii | 271 | 2026-09-21 03:30:00 至 2026-09-27 00:00:00 | ✅ |
-| 好消息 (2) | 好消息 | ofiii | 284 | 2026-09-21 03:00:00 至 2026-09-27 00:30:00 | ✅ |
+| 中視 (2) | 中視 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:30:00 | ✅ |
+| 華視 (2) | 華視 | ofiii | 137 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 好消息2台 (2) | 好消息2台 | ofiii | 272 | 2026-09-22 05:05:00 至 2026-09-28 00:00:00 | ✅ |
+| 好消息 (2) | 好消息 | ofiii | 267 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
 | ELTV生活英语台 | ELTV生活英语台 | 4gtv | 0 | 无节目 | ❌ |
 | 龍華卡通台 (2) | 龍華卡通台 | 4gtv | 0 | 无节目 | ❌ |
 | 亞洲旅遊台 (3) | 亞洲旅遊台 | 4gtv | 0 | 无节目 | ❌ |
@@ -1408,14 +1273,14 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 華视新闻 | 華视新闻 | 4gtv | 0 | 无节目 | ❌ |
 | 倪珍播新聞 | 倪珍播新聞 | 4gtv | 0 | 无节目 | ❌ |
 | 三立新闻iNEWS | 三立新闻iNEWS | 4gtv | 0 | 无节目 | ❌ |
-| 寰宇財經台 (2) | 寰宇財經台 | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 中視新聞 (2) | 中視新聞 | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 中天新聞台 (2) | 中天新聞台 | ofiii | 123 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
+| 寰宇財經台 (2) | 寰宇財經台 | ofiii | 140 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 中視新聞 (2) | 中視新聞 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 中天新聞台 (2) | 中天新聞台 | ofiii | 122 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
 | 寰宇新聞台 (3) | 寰宇新聞台 | 4gtv | 0 | 无节目 | ❌ |
 | 寰宇新聞台 (4) | 寰宇新聞台 | 4gtv | 0 | 无节目 | ❌ |
 | 第1商業台 | 第1商業台 | 4gtv | 0 | 无节目 | ❌ |
-| 國會頻道1台 (2) | 國會頻道1台 | ofiii | 46 | 2026-09-21 01:09:00 至 2026-09-27 01:46:00 | ✅ |
-| 國會頻道2台 (2) | 國會頻道2台 | ofiii | 67 | 2026-09-21 03:05:00 至 2026-09-27 00:55:00 | ✅ |
+| 國會頻道1台 (2) | 國會頻道1台 | ofiii | 39 | 2026-09-22 04:43:00 至 2026-09-28 01:09:00 | ✅ |
+| 國會頻道2台 (2) | 國會頻道2台 | ofiii | 63 | 2026-09-22 04:53:00 至 2026-09-28 00:00:00 | ✅ |
 | 龍華經典台 | 龍華經典台 | 4gtv | 0 | 无节目 | ❌ |
 | 龍華電影臺 | 龍華電影臺 | 4gtv | 0 | 无节目 | ❌ |
 | 龍華洋片台OTT | 龍華洋片台OTT | 4gtv | 0 | 无节目 | ❌ |
@@ -1450,176 +1315,176 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | EBS PLUS1 | EBS PLUS1 | 4gtv | 67 | 2026-09-22 04:00:00 至 2026-09-24 03:10:00 | ✅ |
 | EBS PLUS2 | EBS PLUS2 | 4gtv | 81 | 2026-09-22 06:00:00 至 2026-09-23 23:40:00 | ✅ |
 | EBS EDUCATION | EBS EDUCATION | 4gtv | 141 | 2026-09-22 05:00:00 至 2026-09-23 22:50:00 | ✅ |
-| 喀秋莎 | 喀秋莎 | 4gtv | 60 | 2026-09-22 06:30:00 至 2026-09-23 06:20:00 | ✅ |
-| ASMR行車紀錄 | ASMR行車紀錄 | ofiii | 5 | 2026-09-20 23:07:21 至 2026-09-21 07:30:22 | ❌ |
-| DayStar | DayStar | ofiii | 224 | 2026-09-20 23:00:00 至 2026-09-27 00:30:00 | ✅ |
-| ELTV生活英語台 (2) | ELTV生活英語台 | ofiii | 281 | 2026-09-21 03:30:00 至 2026-09-27 00:00:00 | ✅ |
+| 喀秋莎 | 喀秋莎 | 4gtv | 60 | 2026-09-22 06:25:00 至 2026-09-23 06:20:00 | ✅ |
+| ASMR行車紀錄 | ASMR行車紀錄 | ofiii | 5 | 2026-09-22 00:16:24 至 2026-09-22 08:39:25 | ❌ |
+| DayStar | DayStar | ofiii | 255 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| ELTV生活英語台 (2) | ELTV生活英語台 | ofiii | 278 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
 | Focus探索新知台 | Focus探索新知台 | ofiii | 100 | 2026-09-20 13:59:02 至 2026-09-22 22:57:42 | ✅ |
-| Freeman @台灣 | Freeman @台灣 | ofiii | 63 | 2026-09-21 00:25:06 至 2026-09-21 06:57:42 | ❌ |
-| Golden 強片台 | Golden 強片台 | ofiii | 14 | 2026-09-20 14:58:52 至 2026-09-21 16:12:15 | ❌ |
-| Golden影迷台 | Golden影迷台 | ofiii | 21 | 2026-09-19 23:38:58 至 2026-09-21 11:02:55 | ❌ |
-| JOJO 的奇妙冒險 | JOJO 的奇妙冒險 | ofiii | 155 | 2026-09-19 01:30:22 至 2026-09-21 15:25:46 | ❌ |
-| NANA | NANA | ofiii | 50 | 2026-09-20 11:51:38 至 2026-09-21 06:24:07 | ❌ |
-| SPY X FAMILY 間諜家家酒 | SPY X FAMILY 間諜家家酒 | ofiii | 50 | 2026-09-20 18:20:58 至 2026-09-21 14:16:32 | ❌ |
-| SPY X FAMILY 間諜家家酒(中文版) | SPY X FAMILY 間諜家家酒(中文版) | ofiii | 50 | 2026-09-20 17:29:23 至 2026-09-21 13:25:13 | ❌ |
-| Smart知識台 (2) | Smart知識台 | ofiii | 137 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
+| Freeman @台灣 | Freeman @台灣 | ofiii | 63 | 2026-09-22 02:35:30 至 2026-09-22 09:08:06 | ✅ |
+| Golden 強片台 | Golden 強片台 | ofiii | 14 | 2026-09-21 16:18:55 至 2026-09-22 17:32:18 | ✅ |
+| Golden影迷台 | Golden影迷台 | ofiii | 21 | 2026-09-21 10:29:59 至 2026-09-22 21:53:56 | ✅ |
+| JOJO 的奇妙冒險 | JOJO 的奇妙冒險 | ofiii | 155 | 2026-09-21 15:25:46 至 2026-09-24 05:21:10 | ✅ |
+| NANA | NANA | ofiii | 50 | 2026-09-22 00:56:36 至 2026-09-22 19:29:05 | ✅ |
+| SPY X FAMILY 間諜家家酒 | SPY X FAMILY 間諜家家酒 | ofiii | 50 | 2026-09-21 14:16:32 至 2026-09-22 10:12:06 | ✅ |
+| SPY X FAMILY 間諜家家酒(中文版) | SPY X FAMILY 間諜家家酒(中文版) | ofiii | 50 | 2026-09-21 13:25:13 至 2026-09-22 09:21:03 | ✅ |
+| Smart知識台 (2) | Smart知識台 | ofiii | 129 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
 | WTO姐妹會 | WTO姐妹會 | ofiii | 96 | 2026-09-19 17:36:08 至 2026-09-22 20:48:13 | ✅ |
-| Yes娛樂 | Yes娛樂 | ofiii | 8 | 2026-09-21 03:56:12 至 2026-09-21 04:10:40 | ❌ |
-| 一拳超人(中文版)《9/27即將下架》 | 一拳超人(中文版)《9/27即將下架》 | ofiii | 12 | 2026-09-21 03:12:42 至 2026-09-21 08:01:16 | ❌ |
-| 三十而已 | 三十而已 | ofiii | 43 | 2026-09-20 16:25:24 至 2026-09-22 00:41:44 | ❌ |
-| 三國 | 三國 | ofiii | 95 | 2026-09-18 06:39:10 至 2026-09-21 07:34:46 | ❌ |
-| 三立新聞LIVE | 三立新聞LIVE | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 三立新聞iNEWS (2) | 三立新聞iNEWS | ofiii | 142 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
+| Yes娛樂 | Yes娛樂 | ofiii | 5 | 2026-09-22 05:25:16 至 2026-09-22 05:34:42 | ❌ |
+| 一拳超人(中文版)《9/27即將下架》 | 一拳超人(中文版)《9/27即將下架》 | ofiii | 12 | 2026-09-22 03:28:22 至 2026-09-22 08:16:56 | ❌ |
+| 三十而已 | 三十而已 | ofiii | 43 | 2026-09-22 00:44:37 至 2026-09-23 09:00:57 | ✅ |
+| 三國 | 三國 | ofiii | 95 | 2026-09-21 07:34:46 至 2026-09-24 08:30:22 | ✅ |
+| 三立新聞LIVE | 三立新聞LIVE | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 三立新聞iNEWS (2) | 三立新聞iNEWS | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
 | 世界第一等 | 世界第一等 | ofiii | 96 | 2026-09-20 03:29:19 至 2026-09-23 03:27:21 | ✅ |
-| 中國旅遊大探索 | 中國旅遊大探索 | ofiii | 19 | 2026-09-21 01:14:50 至 2026-09-21 16:49:19 | ❌ |
-| 中國美食大探索 | 中國美食大探索 | ofiii | 70 | 2026-09-20 17:01:31 至 2026-09-21 08:00:55 | ❌ |
+| 中國旅遊大探索 | 中國旅遊大探索 | ofiii | 19 | 2026-09-21 16:49:19 至 2026-09-22 08:23:48 | ❌ |
+| 中國美食大探索 | 中國美食大探索 | ofiii | 70 | 2026-09-21 23:00:19 至 2026-09-22 13:59:43 | ✅ |
 | 中天亞洲精采台 | 中天亞洲精采台 | ofiii | 100 | 2026-09-20 06:23:16 至 2026-09-23 02:58:24 | ✅ |
-| 中天新聞台 (2) | 中天新聞台 | ofiii | 123 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 中華一番(中文版) | 中華一番(中文版) | ofiii | 52 | 2026-09-20 12:58:38 至 2026-09-21 09:05:18 | ❌ |
-| 中視 (2) | 中視 | ofiii | 148 | 2026-09-21 02:30:00 至 2026-09-27 00:00:00 | ✅ |
-| 中視新聞 (2) | 中視新聞 | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 九九敬老頻道 | 九九敬老頻道 | ofiii | 81 | 2026-09-20 10:01:58 至 2026-09-22 02:12:13 | ❌ |
-| 九重紫 | 九重紫 | ofiii | 34 | 2026-09-20 12:03:14 至 2026-09-21 13:49:59 | ❌ |
-| 亞洲旅遊台 (2) | 亞洲旅遊台 | ofiii | 117 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 人氣動漫預告 | 人氣動漫預告 | ofiii | 32 | 2026-09-21 03:58:40 至 2026-09-21 04:47:20 | ❌ |
-| 仁心俱樂部 | 仁心俱樂部 | ofiii | 40 | 2026-09-20 16:20:38 至 2026-09-21 22:36:46 | ❌ |
-| 以愛為營 | 以愛為營 | ofiii | 36 | 2026-09-20 12:04:45 至 2026-09-21 15:26:09 | ❌ |
-| 俗女養成記 | 俗女養成記 | ofiii | 10 | 2026-09-20 23:39:21 至 2026-09-21 07:29:24 | ❌ |
+| 中天新聞台 (2) | 中天新聞台 | ofiii | 122 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 中華一番(中文版) | 中華一番(中文版) | ofiii | 52 | 2026-09-22 05:11:58 至 2026-09-23 01:18:38 | ✅ |
+| 中視 (2) | 中視 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:30:00 | ✅ |
+| 中視新聞 (2) | 中視新聞 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 九九敬老頻道 | 九九敬老頻道 | ofiii | 81 | 2026-09-22 02:12:13 至 2026-09-23 18:22:28 | ✅ |
+| 九重紫 | 九重紫 | ofiii | 34 | 2026-09-21 13:49:59 至 2026-09-22 15:36:44 | ✅ |
+| 亞洲旅遊台 (2) | 亞洲旅遊台 | ofiii | 116 | 2026-09-22 04:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 人氣動漫預告 | 人氣動漫預告 | ofiii | 32 | 2026-09-22 05:07:20 至 2026-09-22 05:56:00 | ❌ |
+| 仁心俱樂部 | 仁心俱樂部 | ofiii | 40 | 2026-09-21 22:36:46 至 2026-09-23 04:52:54 | ✅ |
+| 以愛為營 | 以愛為營 | ofiii | 36 | 2026-09-21 15:26:09 至 2026-09-22 18:47:33 | ✅ |
+| 俗女養成記 | 俗女養成記 | ofiii | 10 | 2026-09-21 23:09:30 至 2026-09-22 06:59:33 | ❌ |
 | 倚天屠龍記 2019 | 倚天屠龍記 2019 | ofiii | 50 | 2026-09-21 02:19:01 至 2026-09-22 16:25:02 | ✅ |
 | 全民星攻略 | 全民星攻略 | ofiii | 96 | 2026-09-20 17:09:28 至 2026-09-23 20:09:33 | ✅ |
-| 全民星攻略 知識開箱 | 全民星攻略 知識開箱 | ofiii | 28 | 2026-09-21 03:47:02 至 2026-09-21 04:43:29 | ❌ |
-| 刀劍神域(中文版) | 刀劍神域(中文版) | ofiii | 50 | 2026-09-21 03:00:03 至 2026-09-22 00:07:16 | ❌ |
-| 劉德華台 | 劉德華台 | ofiii | 8 | 2026-09-20 18:02:29 至 2026-09-21 06:28:47 | ❌ |
-| 包青天 1993版 | 包青天 1993版 | ofiii | 110 | 2026-09-18 03:12:05 至 2026-09-21 17:21:42 | ❌ |
-| 去有風的地方 | 去有風的地方 | ofiii | 40 | 2026-09-20 11:28:18 至 2026-09-21 18:13:58 | ❌ |
+| 全民星攻略 知識開箱 | 全民星攻略 知識開箱 | ofiii | 28 | 2026-09-22 05:11:11 至 2026-09-22 06:07:38 | ❌ |
+| 刀劍神域(中文版) | 刀劍神域(中文版) | ofiii | 50 | 2026-09-22 00:07:16 至 2026-09-22 21:14:29 | ✅ |
+| 劉德華台 | 劉德華台 | ofiii | 8 | 2026-09-21 18:27:40 至 2026-09-22 06:53:58 | ❌ |
+| 包青天 1993版 | 包青天 1993版 | ofiii | 110 | 2026-09-21 17:21:42 至 2026-09-25 07:31:19 | ✅ |
+| 去有風的地方 | 去有風的地方 | ofiii | 40 | 2026-09-21 18:13:58 至 2026-09-23 00:59:38 | ✅ |
 | 台灣1001個故事 | 台灣1001個故事 | ofiii | 96 | 2026-09-20 07:55:39 至 2026-09-23 15:06:08 | ✅ |
-| 台灣向前行 | 台灣向前行 | ofiii | 10 | 2026-09-20 19:17:36 至 2026-09-21 07:43:35 | ❌ |
-| 台灣啟示錄 | 台灣啟示錄 | ofiii | 96 | 2026-09-18 08:45:58 至 2026-09-21 15:51:38 | ❌ |
-| 台灣壹百種味道 | 台灣壹百種味道 | ofiii | 93 | 2026-09-20 03:47:24 至 2026-09-21 17:34:17 | ❌ |
-| 台灣戲劇台 | 台灣戲劇台 | ofiii | 148 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 台灣最前線 | 台灣最前線 | ofiii | 10 | 2026-09-20 15:37:54 至 2026-09-21 08:05:54 | ❌ |
-| 台灣真善美 | 台灣真善美 | ofiii | 35 | 2026-09-20 13:38:02 至 2026-09-21 18:32:54 | ❌ |
+| 台灣向前行 | 台灣向前行 | ofiii | 10 | 2026-09-21 20:38:09 至 2026-09-22 09:04:08 | ✅ |
+| 台灣啟示錄 | 台灣啟示錄 | ofiii | 96 | 2026-09-21 15:51:38 至 2026-09-24 22:57:18 | ✅ |
+| 台灣壹百種味道 | 台灣壹百種味道 | ofiii | 93 | 2026-09-21 17:34:17 至 2026-09-23 07:21:10 | ✅ |
+| 台灣戲劇台 | 台灣戲劇台 | ofiii | 148 | 2026-09-22 04:30:00 至 2026-09-28 00:00:00 | ✅ |
+| 台灣最前線 | 台灣最前線 | ofiii | 10 | 2026-09-22 00:33:54 至 2026-09-22 17:01:54 | ✅ |
+| 台灣真善美 | 台灣真善美 | ofiii | 35 | 2026-09-21 18:32:54 至 2026-09-22 23:27:46 | ✅ |
 | 台灣第一等 | 台灣第一等 | ofiii | 96 | 2026-09-20 12:50:13 至 2026-09-23 12:50:53 | ✅ |
 | 台灣靈異事件 | 台灣靈異事件 | ofiii | 100 | 2026-09-18 03:59:07 至 2026-09-22 21:25:04 | ✅ |
-| 史上最強弟子兼一(中文版) | 史上最強弟子兼一(中文版) | ofiii | 50 | 2026-09-20 08:06:02 至 2026-09-21 04:42:05 | ❌ |
-| 周星馳台 | 周星馳台 | ofiii | 8 | 2026-09-20 16:40:31 至 2026-09-21 05:14:04 | ❌ |
-| 咱的城 咱的市 咱台灣的味 | 咱的城 咱的市 咱台灣的味 | ofiii | 26 | 2026-09-20 11:26:40 至 2026-09-21 08:04:05 | ❌ |
+| 史上最強弟子兼一(中文版) | 史上最強弟子兼一(中文版) | ofiii | 50 | 2026-09-22 01:18:08 至 2026-09-22 21:54:11 | ✅ |
+| 周星馳台 | 周星馳台 | ofiii | 8 | 2026-09-21 16:55:08 至 2026-09-22 05:28:41 | ❌ |
+| 咱的城 咱的市 咱台灣的味 | 咱的城 咱的市 咱台灣的味 | ofiii | 26 | 2026-09-22 04:41:30 至 2026-09-23 01:18:55 | ✅ |
 | 哆啦Ａ夢台 | 哆啦Ａ夢台 | ofiii | 21 | 2026-09-20 20:11:42 至 2026-09-22 06:49:19 | ❌ |
 | 哈哈台 | 哈哈台 | ofiii | 100 | 2026-09-20 23:43:37 至 2026-09-22 12:24:03 | ✅ |
-| 啦啦隊獨家專訪 | 啦啦隊獨家專訪 | ofiii | 86 | 2026-09-20 19:59:43 至 2026-09-21 13:44:00 | ❌ |
-| 回到20歲 | 回到20歲 | ofiii | 12 | 2026-09-20 19:07:03 至 2026-09-21 07:24:20 | ❌ |
-| 國會頻道1台 (2) | 國會頻道1台 | ofiii | 46 | 2026-09-21 01:09:00 至 2026-09-27 01:46:00 | ✅ |
-| 國會頻道2台 (2) | 國會頻道2台 | ofiii | 67 | 2026-09-21 03:05:00 至 2026-09-27 00:55:00 | ✅ |
-| 國色芳華 | 國色芳華 | ofiii | 32 | 2026-09-20 22:57:58 至 2026-09-21 22:45:18 | ❌ |
-| 國際大小事 | 國際大小事 | ofiii | 100 | 2026-09-21 03:04:52 至 2026-09-21 06:02:50 | ❌ |
-| 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | ofiii | 14 | 2026-09-21 00:36:26 至 2026-09-21 06:35:49 | ❌ |
-| 地球檔案庫 | 地球檔案庫 | ofiii | 26 | 2026-09-20 12:06:12 至 2026-09-21 09:20:42 | ❌ |
-| 夏日陽光海浪聲 | 夏日陽光海浪聲 | ofiii | 3 | 2026-09-21 01:08:51 至 2026-09-21 04:14:43 | ❌ |
-| 夢幻遊戲(中文版) | 夢幻遊戲(中文版) | ofiii | 52 | 2026-09-20 11:39:14 至 2026-09-21 08:00:44 | ❌ |
-| 大新聞大爆卦 | 大新聞大爆卦 | ofiii | 10 | 2026-09-20 22:47:51 至 2026-09-21 15:19:24 | ❌ |
-| 大生意人 | 大生意人 | ofiii | 40 | 2026-09-20 19:41:23 至 2026-09-22 02:04:03 | ❌ |
-| 大胃王來了！ | 大胃王來了！ | ofiii | 100 | 2026-09-18 22:29:50 至 2026-09-22 03:49:08 | ❌ |
-| 大自然流水聲 | 大自然流水聲 | ofiii | 1 | 2026-09-21 03:12:07 至 2026-09-21 04:18:12 | ❌ |
+| 啦啦隊獨家專訪 | 啦啦隊獨家專訪 | ofiii | 86 | 2026-09-21 13:44:00 至 2026-09-22 07:28:17 | ❌ |
+| 回到20歲 | 回到20歲 | ofiii | 12 | 2026-09-21 19:46:43 至 2026-09-22 08:04:00 | ❌ |
+| 國會頻道1台 (2) | 國會頻道1台 | ofiii | 39 | 2026-09-22 04:43:00 至 2026-09-28 01:09:00 | ✅ |
+| 國會頻道2台 (2) | 國會頻道2台 | ofiii | 63 | 2026-09-22 04:53:00 至 2026-09-28 00:00:00 | ✅ |
+| 國色芳華 | 國色芳華 | ofiii | 32 | 2026-09-21 22:45:18 至 2026-09-22 22:32:38 | ✅ |
+| 國際大小事 | 國際大小事 | ofiii | 100 | 2026-09-22 02:48:36 至 2026-09-22 05:46:34 | ❌ |
+| 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | ofiii | 14 | 2026-09-22 00:33:58 至 2026-09-22 06:33:21 | ❌ |
+| 地球檔案庫 | 地球檔案庫 | ofiii | 26 | 2026-09-21 09:20:42 至 2026-09-22 06:35:12 | ❌ |
+| 夏日陽光海浪聲 | 夏日陽光海浪聲 | ofiii | 3 | 2026-09-22 05:01:39 至 2026-09-22 08:07:31 | ❌ |
+| 夢幻遊戲(中文版) | 夢幻遊戲(中文版) | ofiii | 52 | 2026-09-22 04:22:14 至 2026-09-23 00:43:44 | ✅ |
+| 大新聞大爆卦 | 大新聞大爆卦 | ofiii | 10 | 2026-09-21 13:15:18 至 2026-09-22 05:47:57 | ❌ |
+| 大生意人 | 大生意人 | ofiii | 40 | 2026-09-22 02:04:03 至 2026-09-23 08:26:43 | ✅ |
+| 大胃王來了！ | 大胃王來了！ | ofiii | 100 | 2026-09-22 03:49:08 至 2026-09-25 09:08:26 | ✅ |
+| 大自然流水聲 | 大自然流水聲 | ofiii | 1 | 2026-09-22 05:38:07 至 2026-09-22 06:44:12 | ❌ |
 | 天才衝衝衝 | 天才衝衝衝 | ofiii | 96 | 2026-09-16 21:19:13 至 2026-09-24 01:55:46 | ✅ |
-| 女神蒙上眼 | 女神蒙上眼 | ofiii | 30 | 2026-09-20 07:58:56 至 2026-09-21 07:20:09 | ❌ |
-| 好搭檔 | 好搭檔 | ofiii | 16 | 2026-09-20 21:02:55 至 2026-09-21 14:04:14 | ❌ |
-| 好消息 (2) | 好消息 | ofiii | 284 | 2026-09-21 03:00:00 至 2026-09-27 00:30:00 | ✅ |
-| 好消息2台 (2) | 好消息2台 | ofiii | 271 | 2026-09-21 03:30:00 至 2026-09-27 00:00:00 | ✅ |
+| 女神蒙上眼 | 女神蒙上眼 | ofiii | 30 | 2026-09-21 07:20:09 至 2026-09-22 06:41:22 | ❌ |
+| 好搭檔 | 好搭檔 | ofiii | 16 | 2026-09-21 14:04:14 至 2026-09-22 07:05:33 | ❌ |
+| 好消息 (2) | 好消息 | ofiii | 267 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 好消息2台 (2) | 好消息2台 | ofiii | 272 | 2026-09-22 05:05:00 至 2026-09-28 00:00:00 | ✅ |
 | 好運來 | 好運來 | ofiii | 100 | 2026-09-18 14:33:48 至 2026-09-25 10:59:40 | ✅ |
-| 完美的家族 | 完美的家族 | ofiii | 12 | 2026-09-20 23:52:38 至 2026-09-21 11:45:49 | ❌ |
-| 家業 | 家業 | ofiii | 42 | 2026-09-19 21:29:28 至 2026-09-21 05:16:58 | ❌ |
-| 寰宇全視界 | 寰宇全視界 | ofiii | 10 | 2026-09-20 18:46:32 至 2026-09-21 05:56:03 | ❌ |
-| 寰宇新聞台 (2) | 寰宇新聞台 | ofiii | 14820 | 2026-09-21 02:55:00 至 2026-09-27 00:55:00 | ✅ |
-| 寰宇新聞台灣台 (2) | 寰宇新聞台灣台 | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 寰宇財經台 (2) | 寰宇財經台 | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
+| 完美的家族 | 完美的家族 | ofiii | 12 | 2026-09-21 23:39:00 至 2026-09-22 11:32:11 | ✅ |
+| 家業 | 家業 | ofiii | 42 | 2026-09-21 05:16:58 至 2026-09-22 13:04:28 | ✅ |
+| 寰宇全視界 | 寰宇全視界 | ofiii | 10 | 2026-09-22 04:15:05 至 2026-09-22 15:24:36 | ✅ |
+| 寰宇新聞台 (2) | 寰宇新聞台 | ofiii | 14664 | 2026-09-22 04:55:00 至 2026-09-28 00:55:00 | ✅ |
+| 寰宇新聞台灣台 (2) | 寰宇新聞台灣台 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 寰宇財經台 (2) | 寰宇財經台 | ofiii | 140 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
 | 廉政英雄 | 廉政英雄 | ofiii | 110 | 2026-09-17 10:18:05 至 2026-09-22 10:17:42 | ✅ |
-| 徐海莉 Hailey | 徐海莉 Hailey | ofiii | 63 | 2026-09-20 12:16:12 至 2026-09-21 04:40:02 | ❌ |
-| 怪奇研究室 | 怪奇研究室 | ofiii | 24 | 2026-09-20 22:58:19 至 2026-09-21 08:05:03 | ❌ |
-| 怪醫黑傑克TV(中文版) | 怪醫黑傑克TV(中文版) | ofiii | 63 | 2026-09-20 22:38:54 至 2026-09-22 00:08:38 | ❌ |
-| 我們這一家 | 我們這一家 | ofiii | 100 | 2026-09-20 21:37:58 至 2026-09-22 04:02:34 | ❌ |
-| 我的老師叫小賀 | 我的老師叫小賀 | ofiii | 100 | 2026-09-20 00:28:00 至 2026-09-21 10:18:29 | ❌ |
-| 掏掏新聞 | 掏掏新聞 | ofiii | 140 | 2026-09-21 04:00:00 至 2026-09-27 00:03:00 | ✅ |
-| 放鬆的爵士午後 | 放鬆的爵士午後 | ofiii | 5 | 2026-09-21 01:58:07 至 2026-09-21 07:09:01 | ❌ |
-| 新兵日記 | 新兵日記 | ofiii | 43 | 2026-09-20 00:53:21 至 2026-09-22 05:27:09 | ❌ |
-| 新兵日記之特戰英雄 | 新兵日記之特戰英雄 | ofiii | 22 | 2026-09-20 19:00:29 至 2026-09-21 18:38:24 | ❌ |
-| 新哆啦A夢(中文版) | 新哆啦A夢(中文版) | ofiii | 100 | 2026-09-20 00:19:02 至 2026-09-21 15:34:32 | ❌ |
-| 新哆啦A夢(中文版)2台 | 新哆啦A夢(中文版)2台 | ofiii | 63 | 2026-09-20 03:04:00 至 2026-09-21 05:18:37 | ❌ |
-| 新忍者哈特利 | 新忍者哈特利 | ofiii | 52 | 2026-09-21 03:38:45 至 2026-09-22 00:52:45 | ❌ |
-| 新聞觀測站 | 新聞觀測站 | ofiii | 20 | 2026-09-20 17:28:29 至 2026-09-21 06:05:31 | ❌ |
-| 早餐中國 | 早餐中國 | ofiii | 90 | 2026-09-20 20:19:02 至 2026-09-21 06:44:29 | ❌ |
+| 徐海莉 Hailey | 徐海莉 Hailey | ofiii | 63 | 2026-09-21 21:03:52 至 2026-09-22 13:27:42 | ✅ |
+| 怪奇研究室 | 怪奇研究室 | ofiii | 24 | 2026-09-22 02:18:31 至 2026-09-22 11:25:15 | ✅ |
+| 怪醫黑傑克TV(中文版) | 怪醫黑傑克TV(中文版) | ofiii | 63 | 2026-09-22 00:08:38 至 2026-09-23 01:38:22 | ✅ |
+| 我們這一家 | 我們這一家 | ofiii | 100 | 2026-09-22 04:02:34 至 2026-09-23 10:27:10 | ✅ |
+| 我的老師叫小賀 | 我的老師叫小賀 | ofiii | 100 | 2026-09-21 10:18:29 至 2026-09-22 20:08:58 | ✅ |
+| 掏掏新聞 | 掏掏新聞 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:03:00 | ✅ |
+| 放鬆的爵士午後 | 放鬆的爵士午後 | ofiii | 5 | 2026-09-22 03:52:37 至 2026-09-22 09:03:31 | ✅ |
+| 新兵日記 | 新兵日記 | ofiii | 43 | 2026-09-22 05:27:09 至 2026-09-24 10:00:57 | ✅ |
+| 新兵日記之特戰英雄 | 新兵日記之特戰英雄 | ofiii | 22 | 2026-09-21 18:38:24 至 2026-09-22 18:16:19 | ✅ |
+| 新哆啦A夢(中文版) | 新哆啦A夢(中文版) | ofiii | 100 | 2026-09-21 15:34:32 至 2026-09-23 06:50:02 | ✅ |
+| 新哆啦A夢(中文版)2台 | 新哆啦A夢(中文版)2台 | ofiii | 63 | 2026-09-21 04:57:39 至 2026-09-22 07:12:16 | ❌ |
+| 新忍者哈特利 | 新忍者哈特利 | ofiii | 52 | 2026-09-22 00:52:45 至 2026-09-22 22:06:45 | ✅ |
+| 新聞觀測站 | 新聞觀測站 | ofiii | 20 | 2026-09-21 18:42:33 至 2026-09-22 07:19:35 | ❌ |
+| 早餐中國 | 早餐中國 | ofiii | 90 | 2026-09-22 03:35:23 至 2026-09-22 14:00:50 | ✅ |
 | 月曜1起玩 | 月曜1起玩 | ofiii | 100 | 2026-09-20 16:00:29 至 2026-09-23 03:30:04 | ✅ |
-| 有你的時光裡 | 有你的時光裡 | ofiii | 32 | 2026-09-20 22:00:43 至 2026-09-21 21:42:00 | ❌ |
-| 木曜4超玩 一日系列 | 木曜4超玩 一日系列 | ofiii | 63 | 2026-09-19 15:12:30 至 2026-09-22 05:12:08 | ❌ |
+| 有你的時光裡 | 有你的時光裡 | ofiii | 32 | 2026-09-21 21:42:00 至 2026-09-22 21:23:17 | ✅ |
+| 木曜4超玩 一日系列 | 木曜4超玩 一日系列 | ofiii | 63 | 2026-09-22 05:12:08 至 2026-09-24 19:11:46 | ✅ |
 | 朱元璋 | 朱元璋 | ofiii | 46 | 2026-09-20 19:19:31 至 2026-09-22 06:24:32 | ❌ |
-| 朱雀堂 | 朱雀堂 | ofiii | 30 | 2026-09-20 20:01:58 至 2026-09-21 05:03:28 | ❌ |
+| 朱雀堂 | 朱雀堂 | ofiii | 30 | 2026-09-21 23:06:28 至 2026-09-22 08:07:58 | ❌ |
 | 東森娛樂台 | 東森娛樂台 | ofiii | 100 | 2026-09-19 14:32:17 至 2026-09-22 18:43:24 | ✅ |
-| 東森購物1台 (2) | 東森購物1台 | ofiii | 211 | 2026-09-21 03:20:00 至 2026-09-27 00:00:00 | ✅ |
-| 東森購物2台 (2) | 東森購物2台 | ofiii | 211 | 2026-09-21 03:20:00 至 2026-09-27 00:00:00 | ✅ |
-| 歐飛動作電影台 | 歐飛動作電影台 | ofiii | 14 | 2026-09-20 13:53:42 至 2026-09-21 11:57:57 | ❌ |
-| 歐飛電影台 | 歐飛電影台 | ofiii | 14 | 2026-09-20 15:03:47 至 2026-09-21 15:44:06 | ❌ |
-| 步步驚心 | 步步驚心 | ofiii | 35 | 2026-09-20 15:54:05 至 2026-09-21 20:28:42 | ❌ |
-| 武媚娘傳奇 | 武媚娘傳奇 | ofiii | 82 | 2026-09-18 15:01:04 至 2026-09-21 04:44:25 | ❌ |
-| 毛茸茸親子台 | 毛茸茸親子台 | ofiii | 29 | 2026-09-21 00:20:24 至 2026-09-21 04:09:20 | ❌ |
-| 民視異言堂 | 民視異言堂 | ofiii | 20 | 2026-09-20 22:33:52 至 2026-09-21 12:13:03 | ❌ |
-| 水龍吟 | 水龍吟 | ofiii | 40 | 2026-09-21 02:00:58 至 2026-09-22 08:55:53 | ✅ |
+| 東森購物1台 (2) | 東森購物1台 | ofiii | 208 | 2026-09-22 05:20:00 至 2026-09-28 00:00:00 | ✅ |
+| 東森購物2台 (2) | 東森購物2台 | ofiii | 208 | 2026-09-22 05:20:00 至 2026-09-28 00:00:00 | ✅ |
+| 歐飛動作電影台 | 歐飛動作電影台 | ofiii | 14 | 2026-09-21 11:57:57 至 2026-09-22 10:02:12 | ✅ |
+| 歐飛電影台 | 歐飛電影台 | ofiii | 14 | 2026-09-21 15:33:30 至 2026-09-22 16:13:49 | ✅ |
+| 步步驚心 | 步步驚心 | ofiii | 35 | 2026-09-21 20:28:42 至 2026-09-23 01:03:19 | ✅ |
+| 武媚娘傳奇 | 武媚娘傳奇 | ofiii | 82 | 2026-09-21 04:44:25 至 2026-09-23 18:27:46 | ✅ |
+| 毛茸茸親子台 | 毛茸茸親子台 | ofiii | 29 | 2026-09-22 03:02:56 至 2026-09-22 06:51:52 | ❌ |
+| 民視異言堂 | 民視異言堂 | ofiii | 20 | 2026-09-21 20:03:57 至 2026-09-22 09:56:59 | ✅ |
+| 水龍吟 | 水龍吟 | ofiii | 40 | 2026-09-21 02:00:58 至 2026-09-22 08:55:53 | ❌ |
 | 法眼黑與白 | 法眼黑與白 | ofiii | 96 | 2026-09-20 17:22:22 至 2026-09-23 23:29:59 | ✅ |
-| 泰可愛旋風 | 泰可愛旋風 | ofiii | 100 | 2026-09-20 15:11:18 至 2026-09-21 22:07:04 | ❌ |
-| 溢起趣打卡 | 溢起趣打卡 | ofiii | 13 | 2026-09-20 22:57:03 至 2026-09-21 08:39:26 | ❌ |
-| 溢遊未盡 | 溢遊未盡 | ofiii | 26 | 2026-09-20 21:16:20 至 2026-09-21 17:45:43 | ❌ |
-| 演唱會直擊 | 演唱會直擊 | ofiii | 100 | 2026-09-20 23:57:53 至 2026-09-21 12:10:55 | ❌ |
-| 無職轉生，到了異世界就拿出真本事 | 無職轉生，到了異世界就拿出真本事 | ofiii | 61 | 2026-09-20 08:41:43 至 2026-09-21 08:45:27 | ❌ |
+| 泰可愛旋風 | 泰可愛旋風 | ofiii | 100 | 2026-09-21 22:07:04 至 2026-09-23 05:02:50 | ✅ |
+| 溢起趣打卡 | 溢起趣打卡 | ofiii | 13 | 2026-09-22 04:04:12 至 2026-09-22 13:46:35 | ✅ |
+| 溢遊未盡 | 溢遊未盡 | ofiii | 26 | 2026-09-21 17:45:43 至 2026-09-22 14:15:06 | ✅ |
+| 演唱會直擊 | 演唱會直擊 | ofiii | 100 | 2026-09-22 00:23:57 至 2026-09-22 12:36:59 | ✅ |
+| 無職轉生，到了異世界就拿出真本事 | 無職轉生，到了異世界就拿出真本事 | ofiii | 62 | 2026-09-22 02:05:43 至 2026-09-23 02:33:07 | ✅ |
 | 獵人(中文版) | 獵人(中文版) | ofiii | 148 | 2026-09-19 20:45:18 至 2026-09-22 06:54:38 | ❌ |
-| 生命的贏家 | 生命的贏家 | ofiii | 63 | 2026-09-20 03:49:13 至 2026-09-21 07:13:18 | ❌ |
-| 療癒下雨聲 | 療癒下雨聲 | ofiii | 3 | 2026-09-21 02:26:03 至 2026-09-21 05:31:35 | ❌ |
-| 真珠美人魚(中文版) | 真珠美人魚(中文版) | ofiii | 52 | 2026-09-20 07:25:18 至 2026-09-21 04:30:35 | ❌ |
-| 短劇馬拉松 | 短劇馬拉松 | ofiii | 150 | 2026-09-19 22:06:21 至 2026-09-21 11:02:35 | ❌ |
-| 私藏浪漫 | 私藏浪漫 | ofiii | 33 | 2026-09-20 06:45:06 至 2026-09-21 07:58:33 | ❌ |
-| 秘境不思溢 | 秘境不思溢 | ofiii | 29 | 2026-09-20 07:05:43 至 2026-09-21 07:00:31 | ❌ |
-| 空中英語教室HD頻道 | 空中英語教室HD頻道 | ofiii | 573 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 第1商業台 (2) | 第1商業台 | ofiii | 257 | 2026-09-21 03:30:00 至 2026-09-27 00:00:00 | ✅ |
-| 第1財經 | 第1財經 | ofiii | 10 | 2026-09-21 02:59:36 至 2026-09-21 06:55:05 | ❌ |
+| 生命的贏家 | 生命的贏家 | ofiii | 63 | 2026-09-21 07:13:18 至 2026-09-22 10:37:23 | ✅ |
+| 療癒下雨聲 | 療癒下雨聲 | ofiii | 3 | 2026-09-22 03:10:19 至 2026-09-22 06:15:51 | ❌ |
+| 真珠美人魚(中文版) | 真珠美人魚(中文版) | ofiii | 52 | 2026-09-22 01:35:52 至 2026-09-22 22:41:09 | ✅ |
+| 短劇馬拉松 | 短劇馬拉松 | ofiii | 150 | 2026-09-21 11:02:35 至 2026-09-22 23:58:49 | ✅ |
+| 私藏浪漫 | 私藏浪漫 | ofiii | 33 | 2026-09-21 07:58:33 至 2026-09-22 09:12:00 | ✅ |
+| 秘境不思溢 | 秘境不思溢 | ofiii | 29 | 2026-09-21 07:00:31 至 2026-09-22 06:55:19 | ❌ |
+| 空中英語教室HD頻道 | 空中英語教室HD頻道 | ofiii | 550 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 第1商業台 (2) | 第1商業台 | ofiii | 254 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 第1財經 | 第1財經 | ofiii | 10 | 2026-09-22 02:32:30 至 2026-09-22 06:27:59 | ❌ |
 | 第一神拳 | 第一神拳 | ofiii | 127 | 2026-09-20 21:07:42 至 2026-09-22 22:52:06 | ✅ |
-| 紓壓雷雨聲 | 紓壓雷雨聲 | ofiii | 2 | 2026-09-21 02:46:11 至 2026-09-21 04:50:27 | ❌ |
-| 經典劇場《9/27即將下架》 | 經典劇場《9/27即將下架》 | ofiii | 140 | 2026-09-21 04:00:00 至 2026-09-27 00:03:00 | ✅ |
+| 紓壓雷雨聲 | 紓壓雷雨聲 | ofiii | 2 | 2026-09-22 03:37:23 至 2026-09-22 05:41:39 | ❌ |
+| 經典劇場《9/27即將下架》 | 經典劇場《9/27即將下架》 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:03:00 | ✅ |
 | 綜藝大集合 | 綜藝大集合 | ofiii | 96 | 2026-09-16 08:46:15 至 2026-09-22 06:15:12 | ❌ |
-| 膽大黨 | 膽大黨 | ofiii | 24 | 2026-09-20 22:41:08 至 2026-09-21 08:14:50 | ❌ |
-| 良陳美錦 | 良陳美錦 | ofiii | 41 | 2026-09-20 19:12:49 至 2026-09-22 02:37:03 | ❌ |
-| 華視 (2) | 華視 | ofiii | 138 | 2026-09-21 03:00:00 至 2026-09-27 00:10:00 | ✅ |
-| 華視新聞 (2) | 華視新聞 | ofiii | 132 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 華語金選台 | 華語金選台 | ofiii | 7 | 2026-09-21 00:11:02 至 2026-09-21 13:33:43 | ❌ |
-| 葬送的芙莉蓮 | 葬送的芙莉蓮 | ofiii | 38 | 2026-09-20 21:28:40 至 2026-09-21 12:58:19 | ❌ |
-| 蠟筆小新(中文版) | 蠟筆小新(中文版) | ofiii | 100 | 2026-09-20 09:56:28 至 2026-09-22 02:24:03 | ❌ |
-| 親子探索台 | 親子探索台 | ofiii | 36 | 2026-09-21 00:25:12 至 2026-09-21 05:11:25 | ❌ |
+| 膽大黨 | 膽大黨 | ofiii | 24 | 2026-09-22 03:22:14 至 2026-09-22 12:55:56 | ✅ |
+| 良陳美錦 | 良陳美錦 | ofiii | 41 | 2026-09-22 01:38:35 至 2026-09-23 09:02:49 | ✅ |
+| 華視 (2) | 華視 | ofiii | 137 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 華視新聞 (2) | 華視新聞 | ofiii | 130 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 華語金選台 | 華語金選台 | ofiii | 7 | 2026-09-22 02:56:24 至 2026-09-22 16:19:05 | ✅ |
+| 葬送的芙莉蓮 | 葬送的芙莉蓮 | ofiii | 38 | 2026-09-22 04:27:58 至 2026-09-22 19:57:37 | ✅ |
+| 蠟筆小新(中文版) | 蠟筆小新(中文版) | ofiii | 100 | 2026-09-22 02:24:03 至 2026-09-23 18:51:38 | ✅ |
+| 親子探索台 | 親子探索台 | ofiii | 36 | 2026-09-22 05:02:30 至 2026-09-22 09:48:43 | ✅ |
 | 詹姆士出走料理 | 詹姆士出走料理 | ofiii | 96 | 2026-09-19 18:54:13 至 2026-09-22 19:51:29 | ✅ |
 | 請問今晚住誰家 | 請問今晚住誰家 | ofiii | 96 | 2026-09-20 19:53:19 至 2026-09-23 22:45:34 | ✅ |
 | 豬哥壹級棒 | 豬哥壹級棒 | ofiii | 96 | 2026-09-19 22:07:50 至 2026-09-23 02:50:37 | ✅ |
-| 超人力霸王劇場版 | 超人力霸王劇場版 | ofiii | 17 | 2026-09-20 22:39:16 至 2026-09-21 20:15:55 | ❌ |
-| 超人力霸王台 | 超人力霸王台 | ofiii | 52 | 2026-09-20 21:37:18 至 2026-09-21 19:32:26 | ❌ |
-| 軍師聯盟 | 軍師聯盟 | ofiii | 42 | 2026-09-20 19:01:58 至 2026-09-22 03:38:38 | ❌ |
-| 軍師聯盟2 虎嘯龍吟 | 軍師聯盟2 虎嘯龍吟 | ofiii | 44 | 2026-09-20 03:09:19 至 2026-09-21 11:56:28 | ❌ |
+| 超人力霸王劇場版 | 超人力霸王劇場版 | ofiii | 17 | 2026-09-21 20:15:55 至 2026-09-22 17:52:34 | ✅ |
+| 超人力霸王台 | 超人力霸王台 | ofiii | 52 | 2026-09-21 19:32:26 至 2026-09-22 17:27:34 | ✅ |
+| 軍師聯盟 | 軍師聯盟 | ofiii | 42 | 2026-09-22 03:38:38 至 2026-09-23 12:15:18 | ✅ |
+| 軍師聯盟2 虎嘯龍吟 | 軍師聯盟2 虎嘯龍吟 | ofiii | 44 | 2026-09-21 11:56:28 至 2026-09-22 20:43:37 | ✅ |
 | 進擊的台灣 | 進擊的台灣 | ofiii | 96 | 2026-09-20 04:20:28 至 2026-09-23 10:57:21 | ✅ |
-| 達摩本草 x 立適康 | 達摩本草 x 立適康 | ofiii | 7 | 2026-09-21 03:59:04 至 2026-09-21 04:01:49 | ❌ |
-| 鄉民大學問 | 鄉民大學問 | ofiii | 48 | 2026-09-19 17:27:16 至 2026-09-21 21:03:13 | ❌ |
-| 酷洛米的繽紛旅程 (中文版) | 酷洛米的繽紛旅程 (中文版) | ofiii | 21 | 2026-09-21 03:29:43 至 2026-09-21 04:16:40 | ❌ |
+| 達摩本草 x 立適康 | 達摩本草 x 立適康 | ofiii | 7 | 2026-09-22 05:25:19 至 2026-09-22 05:28:04 | ❌ |
+| 鄉民大學問 | 鄉民大學問 | ofiii | 48 | 2026-09-21 21:03:13 至 2026-09-24 00:39:10 | ✅ |
+| 酷洛米的繽紛旅程 (中文版) | 酷洛米的繽紛旅程 (中文版) | ofiii | 21 | 2026-09-22 05:19:04 至 2026-09-22 06:06:01 | ❌ |
 | 醫師好辣 | 醫師好辣 | ofiii | 96 | 2026-09-20 02:28:31 至 2026-09-23 05:11:13 | ✅ |
-| 鋼之鍊金術師 | 鋼之鍊金術師 | ofiii | 51 | 2026-09-20 13:58:32 至 2026-09-21 10:17:01 | ❌ |
-| 錦繡安寧 | 錦繡安寧 | ofiii | 40 | 2026-09-20 09:06:36 至 2026-09-21 15:46:58 | ❌ |
-| 隊長小翼(中文版) | 隊長小翼(中文版) | ofiii | 52 | 2026-09-20 21:22:22 至 2026-09-21 18:09:28 | ❌ |
-| 非凡大探索 | 非凡大探索 | ofiii | 96 | 2026-09-18 02:46:20 至 2026-09-21 09:16:43 | ❌ |
-| 韶華若錦 | 韶華若錦 | ofiii | 31 | 2026-09-20 21:40:58 至 2026-09-21 21:17:16 | ❌ |
-| 頭腦共助 | 頭腦共助 | ofiii | 16 | 2026-09-20 19:42:42 至 2026-09-21 12:32:16 | ❌ |
-| 饕客揪愛吃 | 饕客揪愛吃 | ofiii | 100 | 2026-09-21 01:42:19 至 2026-09-21 07:17:11 | ❌ |
-| 香港天王台 | 香港天王台 | ofiii | 14 | 2026-09-20 11:46:04 至 2026-09-21 10:49:43 | ❌ |
+| 鋼之鍊金術師 | 鋼之鍊金術師 | ofiii | 51 | 2026-09-21 10:17:01 至 2026-09-22 06:35:30 | ❌ |
+| 錦繡安寧 | 錦繡安寧 | ofiii | 40 | 2026-09-21 16:11:27 至 2026-09-22 22:51:49 | ✅ |
+| 隊長小翼(中文版) | 隊長小翼(中文版) | ofiii | 52 | 2026-09-21 18:09:28 至 2026-09-22 14:56:34 | ✅ |
+| 非凡大探索 | 非凡大探索 | ofiii | 96 | 2026-09-21 09:46:18 至 2026-09-24 16:16:41 | ✅ |
+| 韶華若錦 | 韶華若錦 | ofiii | 31 | 2026-09-21 21:17:16 至 2026-09-22 20:53:34 | ✅ |
+| 頭腦共助 | 頭腦共助 | ofiii | 16 | 2026-09-22 05:21:50 至 2026-09-22 22:11:24 | ✅ |
+| 饕客揪愛吃 | 饕客揪愛吃 | ofiii | 100 | 2026-09-22 00:01:47 至 2026-09-22 05:36:39 | ❌ |
+| 香港天王台 | 香港天王台 | ofiii | 14 | 2026-09-21 10:49:43 至 2026-09-22 09:53:22 | ✅ |
 | 鬼話連篇 | 鬼話連篇 | ofiii | 63 | 2026-09-20 00:11:17 至 2026-09-23 08:36:23 | ✅ |
 | 麥卡貝網路電視 | 麥卡貝網路電視 | ofiii | 100 | 2026-09-20 01:43:08 至 2026-09-24 18:37:24 | ✅ |
 | 黃金歲月 | 黃金歲月 | ofiii | 100 | 2026-09-16 20:56:45 至 2026-09-23 16:55:46 | ✅ |
-| 龍華偶像台 (2) | 龍華偶像台 | ofiii | 143 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 龍華卡通台 (3) | 龍華卡通台 | ofiii | 545 | 2026-09-21 03:45:00 至 2026-09-27 00:00:00 | ✅ |
-| 龍華戲劇台 (2) | 龍華戲劇台 | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 龍華日韓台 (2) | 龍華日韓台 | ofiii | 141 | 2026-09-21 03:00:00 至 2026-09-27 00:00:00 | ✅ |
-| 龍華洋片台 (2) | 龍華洋片台 | ofiii | 78 | 2026-09-21 02:55:00 至 2026-09-27 00:45:00 | ✅ |
-| 龍華經典台 (2) | 龍華經典台 | ofiii | 65 | 2026-09-21 02:00:00 至 2026-09-27 02:00:00 | ✅ |
-| 龍華電影台 | 龍華電影台 | ofiii | 66 | 2026-09-21 03:05:00 至 2026-09-27 01:55:00 | ✅ |
+| 龍華偶像台 (2) | 龍華偶像台 | ofiii | 143 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 龍華卡通台 (3) | 龍華卡通台 | ofiii | 531 | 2026-09-22 05:15:00 至 2026-09-28 00:00:00 | ✅ |
+| 龍華戲劇台 (2) | 龍華戲劇台 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 龍華日韓台 (2) | 龍華日韓台 | ofiii | 139 | 2026-09-22 05:00:00 至 2026-09-28 00:00:00 | ✅ |
+| 龍華洋片台 (2) | 龍華洋片台 | ofiii | 77 | 2026-09-22 04:25:00 至 2026-09-28 01:10:00 | ✅ |
+| 龍華經典台 (2) | 龍華經典台 | ofiii | 66 | 2026-09-22 02:00:00 至 2026-09-28 02:00:00 | ✅ |
+| 龍華電影台 | 龍華電影台 | ofiii | 64 | 2026-09-22 04:30:00 至 2026-09-28 01:15:00 | ✅ |
 | 哈哈炫动 (2) | 哈哈炫动 | 51zmt | 40 | 2026-09-22 00:15:00 至 2026-09-24 00:15:00 | ✅ |
 | 黄河卫视 | 黄河卫视 | 51zmt | 40 | 2026-09-22 00:10:00 至 2026-09-24 00:10:00 | ✅ |
 | 卡酷少儿 | 卡酷动画 | 51zmt | 129 | 2026-09-22 00:03:00 至 2026-09-24 00:12:00 | ✅ |
@@ -1712,8 +1577,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 黑龙江少儿 | 黑龙江少儿 | 51zmt | 66 | 2026-09-22 00:54:00 至 2026-09-24 00:54:00 | ✅ |
 | 东方财经 | 东方财经 | 51zmt | 84 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 新视觉 (2) | 新视觉 | 51zmt | 57 | 2026-09-22 06:01:00 至 2026-09-24 00:45:00 | ✅ |
-| 法治天地 (2) | 法治天地 | 51zmt | 97 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| 金色学堂 (2) | 金色 | 51zmt | 210 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 法治天地 | 法治天地 | 51zmt | 97 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 金色学堂 | 金色 | 51zmt | 210 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 全纪实 | 全纪实 | 51zmt | 114 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 欢笑剧场 | 欢笑剧场 | 51zmt | 63 | 2026-09-22 00:27:00 至 2026-09-24 00:57:00 | ✅ |
 | 动漫秀场 | 动漫秀场 | 51zmt | 199 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
@@ -1721,7 +1586,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 都市剧场 | 都市剧场 | 51zmt | 86 | 2026-09-22 00:04:00 至 2026-09-24 01:21:00 | ✅ |
 | 游戏风云 | 游戏风云 | 51zmt | 74 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 上海新闻综合 (2) | 上视新闻频道 | 51zmt | 73 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| 第一财经 (3) | 第一财经 | 51zmt | 66 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
+| 第一财经 (2) | 第一财经 | 51zmt | 66 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 东方影视 | 东方影视 | 51zmt | 50 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 五星体育频道 | 五星体育频道 | 51zmt | 62 | 2026-09-22 00:00:00 至 2026-09-24 02:00:00 | ✅ |
 | 中国交通频道 | 中国交通频道 | 51zmt | 108 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
@@ -1774,7 +1639,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 汽摩 | 汽摩 | 51zmt | 330 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 天元围棋 | 天元围棋 | 51zmt | 59 | 2026-09-22 00:30:00 至 2026-09-24 00:30:00 | ✅ |
 | 早期教育 | 早期教育 | 51zmt | 120 | 2026-09-22 00:10:00 至 2026-09-24 00:10:00 | ✅ |
-| 证券资讯 | 证券资讯 | 51zmt | 52 | 2026-09-22 08:30:00 至 2026-09-24 08:30:00 | ❌ |
+| 证券资讯 | 证券资讯 | 51zmt | 52 | 2026-09-22 08:30:00 至 2026-09-24 08:30:00 | ✅ |
 | 央视台球 | 央视台球 | 51zmt | 45 | 2026-09-22 00:58:00 至 2026-09-24 00:25:00 | ✅ |
 | 武术世界 | 武术世界 | 51zmt | 96 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 发现之旅 | 发现之旅 | 51zmt | 103 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
@@ -1823,7 +1688,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 湖南爱晚 | 湖南爱晚 | 51zmt | 17 | 2026-09-22 07:30:00 至 2026-09-24 07:30:00 | ✅ |
 | 江西都市 | 江西都市 | 51zmt | 38 | 2026-09-22 00:30:00 至 2026-09-24 00:30:00 | ✅ |
 | 江西经济 | 江西经济 | 51zmt | 22 | 2026-09-22 06:00:00 至 2026-09-24 06:00:00 | ✅ |
-| 江西公共 | 江西公共 | 51zmt | 18 | 2026-09-22 08:50:00 至 2026-09-24 08:50:00 | ❌ |
+| 江西公共 | 江西公共 | 51zmt | 18 | 2026-09-22 08:50:00 至 2026-09-24 08:50:00 | ✅ |
 | 江西新闻 | 江西新闻 | 51zmt | 22 | 2026-09-22 06:30:00 至 2026-09-24 06:30:00 | ✅ |
 | 江西少儿 | 江西少儿 | 51zmt | 20 | 2026-09-22 00:00:00 至 2026-09-24 00:00:00 | ✅ |
 | 福建综合 | 福建综合 | 51zmt | 41 | 2026-09-22 00:25:00 至 2026-09-24 00:25:00 | ✅ |
