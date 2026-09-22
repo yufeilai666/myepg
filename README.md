@@ -165,8 +165,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | AXN | AXN | tvbanywhere | 0 | 无节目 | ❌ |
 | AXN HD  | AXN HD  | tvbanywhere | 0 | 无节目 | ❌ |
 | BBC Earth | BBC Earth | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ❌ |
+| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ✅ |
+| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ✅ |
 | Bloomberg | Bloomberg | tvbanywhere | 0 | 无节目 | ❌ |
 | BTV | BTV | tvbanywhere | 0 | 无节目 | ❌ |
 | CBeebies | CBeebies | tvbanywhere | 0 | 无节目 | ❌ |
@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Celestial Movies | Celestial Movies | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN  | CGTN  | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN Documentary | CGTN Documentary | tvbanywhere | 0 | 无节目 | ❌ |
-| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ❌ |
+| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ✅ |
 | CINEMACHI | CINEMACHI | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION | CINEMACHI ACTION | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION HD | CINEMACHI ACTION HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Global Trekker | Global Trekker | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV  | GTV  | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV HD | GTV HD | tvbanywhere | 0 | 无节目 | ❌ |
-| History  | History  | tvbanywhere | 0 | 无节目 | ❌ |
+| History  | History  | tvbanywhere | 0 | 无节目 | ✅ |
 | HITS  | HITS  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES | HITS MOVIES | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES HD | HITS MOVIES HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KIX | KIX | tvbanywhere | 0 | 无节目 | ❌ |
 | Kompas TV | Kompas TV | tvbanywhere | 0 | 无节目 | ❌ |
 | LIFE | LIFE | tvbanywhere | 0 | 无节目 | ❌ |
-| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ❌ |
+| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ✅ |
 | Love Nature  | Love Nature  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature HD | Love Nature HD | tvbanywhere | 0 | 无节目 | ❌ |
 | Metro TV | Metro TV | tvbanywhere | 0 | 无节目 | ❌ |
@@ -1495,7 +1495,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 台灣啟示錄 | 台灣啟示錄 | ofiii | 96 | 2026-09-21 15:51:38 至 2026-09-24 22:57:18 | ✅ |
 | 台灣壹百種味道 | 台灣壹百種味道 | ofiii | 93 | 2026-09-21 17:34:17 至 2026-09-23 07:21:10 | ✅ |
 | 台灣戲劇台 | 台灣戲劇台 | ofiii | 148 | 2026-09-22 04:30:00 至 2026-09-28 00:00:00 | ✅ |
-| 台灣最前線 | 台灣最前線 | ofiii | 10 | 2026-09-22 00:33:54 至 2026-09-22 17:01:54 | ✅ |
+| 台灣最前線 | 台灣最前線 | ofiii | 10 | 2026-09-22 00:33:54 至 2026-09-22 17:01:54 | ❌ |
 | 台灣真善美 | 台灣真善美 | ofiii | 35 | 2026-09-21 18:32:54 至 2026-09-22 23:27:46 | ✅ |
 | 台灣第一等 | 台灣第一等 | ofiii | 96 | 2026-09-20 12:50:13 至 2026-09-23 12:50:53 | ✅ |
 | 台灣靈異事件 | 台灣靈異事件 | ofiii | 100 | 2026-09-18 03:59:07 至 2026-09-22 21:25:04 | ✅ |
