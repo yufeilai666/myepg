@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-09-22 12:55:59 (UTC+8)
+- **最后更新时间**: 2026-09-22 16:55:57 (UTC+8)
 - **频道总数**: 1926
 
 ## 频道列表
@@ -57,10 +57,10 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 上海都市频道 | 上海都市频道 | kankannews | 83 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ✅ |
 | 哈哈炫动 | 哈哈炫动 | kankannews | 145 | 2026-09-21 00:00:00 至 2026-09-23 00:00:00 | ✅ |
 | 亚洲卫视 | 亚洲卫视 | asiasatv | 126 | 2026-09-21 00:00:00 至 2026-09-28 00:00:00 | ✅ |
-| CCTV1 香港 | CCTV1 香港 | epg.pw | 69 | 2026-09-21 00:00:00 至 2026-09-24 00:00:00 | ✅ |
-| CCTV4 香港 | CCTV4 香港 | epg.pw | 79 | 2026-09-21 00:20:00 至 2026-09-23 00:00:00 | ✅ |
-| CCTV4 欧洲 | CCTV4 欧洲 | epg.pw | 84 | 2026-09-22 00:00:00 至 2026-09-25 00:00:00 | ✅ |
-| CCTV4 美洲 | CCTV4 美洲 | epg.pw | 83 | 2026-09-22 00:23:00 至 2026-09-25 00:00:00 | ✅ |
+| CCTV1 香港 | CCTV1 香港 | epg.pw | 159 | 2026-09-21 00:00:00 至 2026-09-26 00:00:00 | ✅ |
+| CCTV4 香港 | CCTV4 香港 | epg.pw | 161 | 2026-09-21 00:20:00 至 2026-09-25 00:00:00 | ✅ |
+| CCTV4 欧洲 | CCTV4 欧洲 | epg.pw | 163 | 2026-09-21 00:15:00 至 2026-09-26 00:00:00 | ✅ |
+| CCTV4 美洲 | CCTV4 美洲 | epg.pw | 164 | 2026-09-21 00:17:00 至 2026-09-26 00:00:00 | ✅ |
 | 香港卫视 | 香港衛視 | hkstv | 247 | 2026-09-21 00:11:00 至 2026-09-24 23:50:00 | ✅ |
 | HOY 76 | HOY 76 | hoytv | 611 | 2026-09-08 01:30:00 至 2026-09-29 23:30:00 | ✅ |
 | HOY 77 | HOY 77 | hoytv | 633 | 2026-09-08 00:45:00 至 2026-09-29 23:30:00 | ✅ |
@@ -165,8 +165,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | AXN | AXN | tvbanywhere | 0 | 无节目 | ❌ |
 | AXN HD  | AXN HD  | tvbanywhere | 0 | 无节目 | ❌ |
 | BBC Earth | BBC Earth | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ✅ |
-| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ✅ |
+| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ❌ |
+| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ❌ |
 | Bloomberg | Bloomberg | tvbanywhere | 0 | 无节目 | ❌ |
 | BTV | BTV | tvbanywhere | 0 | 无节目 | ❌ |
 | CBeebies | CBeebies | tvbanywhere | 0 | 无节目 | ❌ |
@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Celestial Movies | Celestial Movies | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN  | CGTN  | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN Documentary | CGTN Documentary | tvbanywhere | 0 | 无节目 | ❌ |
-| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ✅ |
+| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI | CINEMACHI | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION | CINEMACHI ACTION | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION HD | CINEMACHI ACTION HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Global Trekker | Global Trekker | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV  | GTV  | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV HD | GTV HD | tvbanywhere | 0 | 无节目 | ❌ |
-| History  | History  | tvbanywhere | 0 | 无节目 | ✅ |
+| History  | History  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS  | HITS  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES | HITS MOVIES | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES HD | HITS MOVIES HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KIX | KIX | tvbanywhere | 0 | 无节目 | ❌ |
 | Kompas TV | Kompas TV | tvbanywhere | 0 | 无节目 | ❌ |
 | LIFE | LIFE | tvbanywhere | 0 | 无节目 | ❌ |
-| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ✅ |
+| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature  | Love Nature  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature HD | Love Nature HD | tvbanywhere | 0 | 无节目 | ❌ |
 | Metro TV | Metro TV | tvbanywhere | 0 | 无节目 | ❌ |
@@ -1483,7 +1483,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 仁心俱樂部 | 仁心俱樂部 | ofiii | 40 | 2026-09-21 22:36:46 至 2026-09-23 04:52:54 | ✅ |
 | 以愛為營 | 以愛為營 | ofiii | 36 | 2026-09-21 15:26:09 至 2026-09-22 18:47:33 | ✅ |
 | 俗女養成記 | 俗女養成記 | ofiii | 10 | 2026-09-21 23:09:30 至 2026-09-22 06:59:33 | ❌ |
-| 倚天屠龍記 2019 | 倚天屠龍記 2019 | ofiii | 50 | 2026-09-21 02:19:01 至 2026-09-22 16:25:02 | ✅ |
+| 倚天屠龍記 2019 | 倚天屠龍記 2019 | ofiii | 50 | 2026-09-21 02:19:01 至 2026-09-22 16:25:02 | ❌ |
 | 全民星攻略 | 全民星攻略 | ofiii | 96 | 2026-09-20 17:09:28 至 2026-09-23 20:09:33 | ✅ |
 | 全民星攻略 知識開箱 | 全民星攻略 知識開箱 | ofiii | 28 | 2026-09-22 05:11:11 至 2026-09-22 06:07:38 | ❌ |
 | 刀劍神域(中文版) | 刀劍神域(中文版) | ofiii | 50 | 2026-09-22 00:07:16 至 2026-09-22 21:14:29 | ✅ |
