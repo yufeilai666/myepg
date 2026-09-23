@@ -165,8 +165,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | AXN | AXN | tvbanywhere | 0 | 无节目 | ❌ |
 | AXN HD  | AXN HD  | tvbanywhere | 0 | 无节目 | ❌ |
 | BBC Earth | BBC Earth | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ❌ |
+| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ✅ |
+| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ✅ |
 | Bloomberg | Bloomberg | tvbanywhere | 0 | 无节目 | ❌ |
 | BTV | BTV | tvbanywhere | 0 | 无节目 | ❌ |
 | CBeebies | CBeebies | tvbanywhere | 0 | 无节目 | ❌ |
@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Celestial Movies | Celestial Movies | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN  | CGTN  | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN Documentary | CGTN Documentary | tvbanywhere | 0 | 无节目 | ❌ |
-| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ❌ |
+| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ✅ |
 | CINEMACHI | CINEMACHI | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION | CINEMACHI ACTION | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION HD | CINEMACHI ACTION HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Global Trekker | Global Trekker | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV  | GTV  | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV HD | GTV HD | tvbanywhere | 0 | 无节目 | ❌ |
-| History  | History  | tvbanywhere | 0 | 无节目 | ❌ |
+| History  | History  | tvbanywhere | 0 | 无节目 | ✅ |
 | HITS  | HITS  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES | HITS MOVIES | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES HD | HITS MOVIES HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KIX | KIX | tvbanywhere | 0 | 无节目 | ❌ |
 | Kompas TV | Kompas TV | tvbanywhere | 0 | 无节目 | ❌ |
 | LIFE | LIFE | tvbanywhere | 0 | 无节目 | ❌ |
-| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ❌ |
+| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ✅ |
 | Love Nature  | Love Nature  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature HD | Love Nature HD | tvbanywhere | 0 | 无节目 | ❌ |
 | Metro TV | Metro TV | tvbanywhere | 0 | 无节目 | ❌ |
@@ -1505,7 +1505,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 哆啦Ａ夢台 | 哆啦Ａ夢台 | ofiii | 21 | 2026-09-22 07:15:14 至 2026-09-23 17:52:51 | ✅ |
 | 哈哈台 | 哈哈台 | ofiii | 100 | 2026-09-22 12:56:50 至 2026-09-24 01:37:16 | ✅ |
 | 啦啦隊獨家專訪 | 啦啦隊獨家專訪 | ofiii | 86 | 2026-09-23 01:42:18 至 2026-09-23 19:26:35 | ✅ |
-| 回到20歲 | 回到20歲 | ofiii | 12 | 2026-09-22 20:49:05 至 2026-09-23 09:06:22 | ✅ |
+| 回到20歲 | 回到20歲 | ofiii | 12 | 2026-09-22 20:49:05 至 2026-09-23 09:06:22 | ❌ |
 | 國會頻道1台 (2) | 國會頻道1台 | ofiii | 32 | 2026-09-23 02:07:00 至 2026-09-29 03:02:00 | ✅ |
 | 國會頻道2台 (2) | 國會頻道2台 | ofiii | 64 | 2026-09-23 02:25:00 至 2026-09-29 01:15:00 | ✅ |
 | 國色芳華 | 國色芳華 | ofiii | 32 | 2026-09-22 23:03:31 至 2026-09-23 22:50:51 | ✅ |
@@ -1515,7 +1515,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 夏日陽光海浪聲 | 夏日陽光海浪聲 | ofiii | 3 | 2026-09-23 03:21:42 至 2026-09-23 06:27:34 | ❌ |
 | 夢幻遊戲(中文版) | 夢幻遊戲(中文版) | ofiii | 52 | 2026-09-23 01:18:40 至 2026-09-23 21:40:10 | ✅ |
 | 大新聞大爆卦 | 大新聞大爆卦 | ofiii | 10 | 2026-09-23 03:24:41 至 2026-09-23 19:58:40 | ✅ |
-| 大生意人 | 大生意人 | ofiii | 40 | 2026-09-22 02:35:02 至 2026-09-23 08:57:42 | ✅ |
+| 大生意人 | 大生意人 | ofiii | 40 | 2026-09-22 02:35:02 至 2026-09-23 08:57:42 | ❌ |
 | 大胃王來了！ | 大胃王來了！ | ofiii | 100 | 2026-09-22 04:26:59 至 2026-09-25 09:46:17 | ✅ |
 | 大自然流水聲 | 大自然流水聲 | ofiii | 1 | 2026-09-23 04:18:48 至 2026-09-23 05:24:53 | ❌ |
 | 天才衝衝衝 | 天才衝衝衝 | ofiii | 96 | 2026-09-16 06:09:05 至 2026-09-23 10:40:48 | ✅ |
@@ -1608,7 +1608,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 頭腦共助 | 頭腦共助 | ofiii | 16 | 2026-09-22 22:44:31 至 2026-09-23 15:34:05 | ✅ |
 | 饕客揪愛吃 | 饕客揪愛吃 | ofiii | 100 | 2026-09-23 04:26:18 至 2026-09-23 10:01:10 | ✅ |
 | 香港天王台 | 香港天王台 | ofiii | 14 | 2026-09-22 10:22:31 至 2026-09-23 09:26:10 | ✅ |
-| 鬼話連篇 | 鬼話連篇 | ofiii | 63 | 2026-09-20 00:43:11 至 2026-09-23 09:08:17 | ✅ |
+| 鬼話連篇 | 鬼話連篇 | ofiii | 63 | 2026-09-20 00:43:11 至 2026-09-23 09:08:17 | ❌ |
 | 麥卡貝網路電視 | 麥卡貝網路電視 | ofiii | 100 | 2026-09-20 02:15:59 至 2026-09-24 19:10:15 | ✅ |
 | 黃金歲月 | 黃金歲月 | ofiii | 100 | 2026-09-16 21:34:12 至 2026-09-23 17:33:13 | ✅ |
 | 龍華偶像台 (2) | 龍華偶像台 | ofiii | 144 | 2026-09-23 04:00:00 至 2026-09-29 00:00:00 | ✅ |
@@ -1811,7 +1811,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 重庆社会与法 | 重庆社会与法 | 51zmt | 54 | 2026-09-23 00:18:00 至 2026-09-25 00:18:00 | ✅ |
 | 重庆红岩文化 | 重庆红岩文化 | 51zmt | 33 | 2026-09-23 00:27:00 至 2026-09-25 00:27:00 | ✅ |
 | 重庆新农村 | 重庆新农村 | 51zmt | 37 | 2026-09-23 00:06:00 至 2026-09-25 00:00:00 | ✅ |
-| 重庆红叶 | 重庆红叶 | 51zmt | 56 | 2026-09-23 11:29:00 至 2026-09-25 00:20:00 | ✅ |
+| 重庆红叶 | 重庆红叶 | 51zmt | 56 | 2026-09-23 11:29:00 至 2026-09-25 00:20:00 | ❌ |
 | 海南自贸 | 海南自贸 | 51zmt | 30 | 2026-09-23 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 海南文旅 | 海南文旅 | 51zmt | 20 | 2026-09-23 00:00:00 至 2026-09-25 00:00:00 | ✅ |
 | 海南少儿 | 海南少儿 | 51zmt | 28 | 2026-09-23 00:00:00 至 2026-09-25 00:00:00 | ✅ |
