@@ -165,8 +165,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | AXN | AXN | tvbanywhere | 0 | 无节目 | ❌ |
 | AXN HD  | AXN HD  | tvbanywhere | 0 | 无节目 | ❌ |
 | BBC Earth | BBC Earth | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ❌ |
+| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ✅ |
+| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ✅ |
 | Bloomberg | Bloomberg | tvbanywhere | 0 | 无节目 | ❌ |
 | BTV | BTV | tvbanywhere | 0 | 无节目 | ❌ |
 | CBeebies | CBeebies | tvbanywhere | 0 | 无节目 | ❌ |
@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Celestial Movies | Celestial Movies | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN  | CGTN  | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN Documentary | CGTN Documentary | tvbanywhere | 0 | 无节目 | ❌ |
-| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ❌ |
+| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ✅ |
 | CINEMACHI | CINEMACHI | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION | CINEMACHI ACTION | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION HD | CINEMACHI ACTION HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Global Trekker | Global Trekker | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV  | GTV  | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV HD | GTV HD | tvbanywhere | 0 | 无节目 | ❌ |
-| History  | History  | tvbanywhere | 0 | 无节目 | ❌ |
+| History  | History  | tvbanywhere | 0 | 无节目 | ✅ |
 | HITS  | HITS  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES | HITS MOVIES | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES HD | HITS MOVIES HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KIX | KIX | tvbanywhere | 0 | 无节目 | ❌ |
 | Kompas TV | Kompas TV | tvbanywhere | 0 | 无节目 | ❌ |
 | LIFE | LIFE | tvbanywhere | 0 | 无节目 | ❌ |
-| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ❌ |
+| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ✅ |
 | Love Nature  | Love Nature  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature HD | Love Nature HD | tvbanywhere | 0 | 无节目 | ❌ |
 | Metro TV | Metro TV | tvbanywhere | 0 | 无节目 | ❌ |
@@ -1437,13 +1437,13 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | SBS Golf2 | SBS Golf2 | 4gtv | 0 | 无节目 | ❌ |
 | SBS Biz | SBS Biz | 4gtv | 47 | 2026-09-22 04:00:00 至 2026-09-24 03:00:00 | ✅ |
 | MBC | MBC | 4gtv | 25 | 2026-09-22 04:00:00 至 2026-09-24 00:15:00 | ✅ |
-| MBC every1 | MBC every1 | 4gtv | 27 | 2026-09-21 23:40:00 至 2026-09-23 23:04:00 | ✅ |
+| MBC every1 | MBC every1 | 4gtv | 27 | 2026-09-21 23:40:00 至 2026-09-23 23:04:00 | ❌ |
 | MBC drama | MBC drama | 4gtv | 39 | 2026-09-21 23:50:00 至 2026-09-23 23:34:00 | ✅ |
 | MBC music | MBC music | 4gtv | 41 | 2026-09-21 23:50:00 至 2026-09-23 23:50:00 | ✅ |
-| MBC on | MBC on | 4gtv | 57 | 2026-09-21 23:08:00 至 2026-09-23 23:00:00 | ✅ |
-| MBC net | MBC net | 4gtv | 46 | 2026-09-21 23:00:00 至 2026-09-23 23:00:00 | ✅ |
+| MBC on | MBC on | 4gtv | 57 | 2026-09-21 23:08:00 至 2026-09-23 23:00:00 | ❌ |
+| MBC net | MBC net | 4gtv | 46 | 2026-09-21 23:00:00 至 2026-09-23 23:00:00 | ❌ |
 | EBS1 | EBS1 | 4gtv | 94 | 2026-09-22 04:00:00 至 2026-09-23 23:45:00 | ✅ |
-| EBS2 | EBS2 | 4gtv | 116 | 2026-09-22 05:00:00 至 2026-09-23 23:00:00 | ✅ |
+| EBS2 | EBS2 | 4gtv | 116 | 2026-09-22 05:00:00 至 2026-09-23 23:00:00 | ❌ |
 | EBS CHILD | EBS CHILD | 4gtv | 98 | 2026-09-22 04:00:00 至 2026-09-24 03:00:00 | ✅ |
 | EBS PLUS1 | EBS PLUS1 | 4gtv | 67 | 2026-09-22 04:00:00 至 2026-09-24 03:10:00 | ✅ |
 | EBS PLUS2 | EBS PLUS2 | 4gtv | 81 | 2026-09-22 06:00:00 至 2026-09-23 23:40:00 | ✅ |
