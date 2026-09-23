@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-09-23 20:55:51 (UTC+8)
+- **最后更新时间**: 2026-09-23 22:55:49 (UTC+8)
 - **频道总数**: 1925
 
 ## 频道列表
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | History (astro) | History (astro) | epg.pw | 171 | 2026-09-23 00:45:00 至 2026-09-30 00:05:00 | ✅ |
 | 亚洲美食台 (astro) | 亚洲美食台 (astro) | epg.pw | 288 | 2026-09-23 00:10:00 至 2026-09-30 00:10:00 | ✅ |
 | Discovery Asia (astro) | Discovery Asia (astro) | epg.pw | 239 | 2026-09-23 00:25:00 至 2026-09-30 00:05:00 | ✅ |
-| 千禧经典台 (astro) | 千禧经典台 (astro) | epg.pw | 224 | 2026-09-22 00:55:00 至 2026-09-29 00:55:00 | ✅ |
+| 千禧经典台 (astro) | 千禧经典台 (astro) | epg.pw | 224 | 2026-09-23 00:55:00 至 2026-09-30 00:55:00 | ✅ |
 | LS TIME 龙祥时代 | 龙祥时代 | person | 73 | 2026-09-23 01:05:00 至 2026-09-29 21:00:00 | ✅ |
 | LS TIMES TV | 龙祥频道 (CA) | person | 111 | 2026-09-23 00:10:00 至 2026-09-30 01:05:00 | ✅ |
 | 好莱坞电影台 | 好莱坞电影台 | person | 24 | 2026-09-23 00:00:00 至 2026-09-25 02:15:00 | ✅ |
@@ -165,8 +165,8 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | AXN | AXN | tvbanywhere | 0 | 无节目 | ❌ |
 | AXN HD  | AXN HD  | tvbanywhere | 0 | 无节目 | ❌ |
 | BBC Earth | BBC Earth | tvbanywhere | 0 | 无节目 | ❌ |
-| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ✅ |
-| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ✅ |
+| BBC Earth HD  | BBC Earth HD  | tvbanywhere | 0 | 无节目 | ❌ |
+| BBC World News  | BBC World News  | tvbanywhere | 0 | 无节目 | ❌ |
 | Bloomberg | Bloomberg | tvbanywhere | 0 | 无节目 | ❌ |
 | BTV | BTV | tvbanywhere | 0 | 无节目 | ❌ |
 | CBeebies | CBeebies | tvbanywhere | 0 | 无节目 | ❌ |
@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Celestial Movies | Celestial Movies | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN  | CGTN  | tvbanywhere | 0 | 无节目 | ❌ |
 | CGTN Documentary | CGTN Documentary | tvbanywhere | 0 | 无节目 | ❌ |
-| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ✅ |
+| Channel News Asia  | Channel News Asia  | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI | CINEMACHI | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION | CINEMACHI ACTION | tvbanywhere | 0 | 无节目 | ❌ |
 | CINEMACHI ACTION HD | CINEMACHI ACTION HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Global Trekker | Global Trekker | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV  | GTV  | tvbanywhere | 0 | 无节目 | ❌ |
 | GTV HD | GTV HD | tvbanywhere | 0 | 无节目 | ❌ |
-| History  | History  | tvbanywhere | 0 | 无节目 | ✅ |
+| History  | History  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS  | HITS  | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES | HITS MOVIES | tvbanywhere | 0 | 无节目 | ❌ |
 | HITS MOVIES HD | HITS MOVIES HD | tvbanywhere | 0 | 无节目 | ❌ |
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | KIX | KIX | tvbanywhere | 0 | 无节目 | ❌ |
 | Kompas TV | Kompas TV | tvbanywhere | 0 | 无节目 | ❌ |
 | LIFE | LIFE | tvbanywhere | 0 | 无节目 | ❌ |
-| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ✅ |
+| Lifetime  | Lifetime  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature  | Love Nature  | tvbanywhere | 0 | 无节目 | ❌ |
 | Love Nature HD | Love Nature HD | tvbanywhere | 0 | 无节目 | ❌ |
 | Metro TV | Metro TV | tvbanywhere | 0 | 无节目 | ❌ |
@@ -1447,7 +1447,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | EBS CHILD | EBS CHILD | 4gtv | 98 | 2026-09-22 04:00:00 至 2026-09-24 03:00:00 | ✅ |
 | EBS PLUS1 | EBS PLUS1 | 4gtv | 67 | 2026-09-22 04:00:00 至 2026-09-24 03:10:00 | ✅ |
 | EBS PLUS2 | EBS PLUS2 | 4gtv | 81 | 2026-09-22 06:00:00 至 2026-09-23 23:40:00 | ✅ |
-| EBS EDUCATION | EBS EDUCATION | 4gtv | 141 | 2026-09-22 05:00:00 至 2026-09-23 22:50:00 | ✅ |
+| EBS EDUCATION | EBS EDUCATION | 4gtv | 141 | 2026-09-22 05:00:00 至 2026-09-23 22:50:00 | ❌ |
 | 喀秋莎 | 喀秋莎 | 4gtv | 60 | 2026-09-22 06:25:00 至 2026-09-23 06:20:00 | ❌ |
 | ASMR行車紀錄 | ASMR行車紀錄 | ofiii | 5 | 2026-09-23 01:55:31 至 2026-09-23 10:18:32 | ❌ |
 | DayStar | DayStar | ofiii | 257 | 2026-09-23 04:30:00 至 2026-09-29 00:00:00 | ✅ |
@@ -1481,7 +1481,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 亞洲旅遊台 (3) | 亞洲旅遊台 | ofiii | 116 | 2026-09-23 04:00:00 至 2026-09-29 00:00:00 | ✅ |
 | 人氣動漫預告 | 人氣動漫預告 | ofiii | 32 | 2026-09-23 04:20:15 至 2026-09-23 05:08:55 | ❌ |
 | 仁心俱樂部 | 仁心俱樂部 | ofiii | 40 | 2026-09-21 23:08:20 至 2026-09-23 05:24:28 | ❌ |
-| 以愛為營 | 以愛為營 | ofiii | 36 | 2026-09-22 19:19:05 至 2026-09-23 22:40:29 | ✅ |
+| 以愛為營 | 以愛為營 | ofiii | 36 | 2026-09-22 19:19:05 至 2026-09-23 22:40:29 | ❌ |
 | 俗女養成記 | 俗女養成記 | ofiii | 10 | 2026-09-22 23:13:15 至 2026-09-23 07:03:18 | ❌ |
 | 倚天屠龍記 2019 | 倚天屠龍記 2019 | ofiii | 50 | 2026-09-22 16:56:04 至 2026-09-24 07:02:05 | ✅ |
 | 全民星攻略 | 全民星攻略 | ofiii | 96 | 2026-09-20 17:41:37 至 2026-09-23 20:41:42 | ❌ |
@@ -1501,14 +1501,14 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 台灣靈異事件 | 台灣靈異事件 | ofiii | 100 | 2026-09-22 21:58:14 至 2026-09-27 15:24:11 | ✅ |
 | 史上最強弟子兼一(中文版) | 史上最強弟子兼一(中文版) | ofiii | 50 | 2026-09-22 22:29:04 至 2026-09-23 19:05:07 | ❌ |
 | 周星馳台 | 周星馳台 | ofiii | 8 | 2026-09-22 18:31:08 至 2026-09-23 07:04:41 | ❌ |
-| 咱的城 咱的市 咱台灣的味 | 咱的城 咱的市 咱台灣的味 | ofiii | 26 | 2026-09-23 01:56:37 至 2026-09-23 22:34:02 | ✅ |
+| 咱的城 咱的市 咱台灣的味 | 咱的城 咱的市 咱台灣的味 | ofiii | 26 | 2026-09-23 01:56:37 至 2026-09-23 22:34:02 | ❌ |
 | 哆啦Ａ夢台 | 哆啦Ａ夢台 | ofiii | 21 | 2026-09-22 07:15:14 至 2026-09-23 17:52:51 | ❌ |
 | 哈哈台 | 哈哈台 | ofiii | 100 | 2026-09-22 12:56:50 至 2026-09-24 01:37:16 | ✅ |
 | 啦啦隊獨家專訪 | 啦啦隊獨家專訪 | ofiii | 86 | 2026-09-23 01:42:18 至 2026-09-23 19:26:35 | ❌ |
 | 回到20歲 | 回到20歲 | ofiii | 12 | 2026-09-22 20:49:05 至 2026-09-23 09:06:22 | ❌ |
 | 國會頻道1台 (2) | 國會頻道1台 | ofiii | 32 | 2026-09-23 02:07:00 至 2026-09-29 03:02:00 | ✅ |
 | 國會頻道2台 (2) | 國會頻道2台 | ofiii | 64 | 2026-09-23 02:25:00 至 2026-09-29 01:15:00 | ✅ |
-| 國色芳華 | 國色芳華 | ofiii | 32 | 2026-09-22 23:03:31 至 2026-09-23 22:50:51 | ✅ |
+| 國色芳華 | 國色芳華 | ofiii | 32 | 2026-09-22 23:03:31 至 2026-09-23 22:50:51 | ❌ |
 | 國際大小事 | 國際大小事 | ofiii | 100 | 2026-09-23 03:00:14 至 2026-09-23 05:58:12 | ❌ |
 | 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | ofiii | 14 | 2026-09-23 01:05:23 至 2026-09-23 07:04:46 | ❌ |
 | 地球檔案庫 | 地球檔案庫 | ofiii | 26 | 2026-09-23 04:19:11 至 2026-09-24 01:33:41 | ✅ |
