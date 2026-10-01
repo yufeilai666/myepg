@@ -425,7 +425,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | MasterChef | MasterChef | mytvsuper | 67 | 2026-09-28 23:34:54 至 2026-10-02 00:47:30 | ❌ |
 | Deal or No Deal | Deal or No Deal | mytvsuper | 106 | 2026-09-28 23:12:24 至 2026-10-02 00:17:21 | ❌ |
 | River Monsters | River Monsters | mytvsuper | 81 | 2026-09-28 23:46:33 至 2026-10-02 00:12:58 | ❌ |
-| FIFA+ | FIFA+ | mytvsuper | 55 | 2026-09-28 23:59:13 至 2026-10-02 02:34:09 | ✅ |
+| FIFA+ | FIFA+ | mytvsuper | 55 | 2026-09-28 23:59:13 至 2026-10-02 02:34:09 | ❌ |
 |  W-Sport |  W-Sport | mytvsuper | 57 | 2026-09-29 00:00:00 至 2026-10-02 00:30:00 | ❌ |
 | TRACE Sport Stars | TRACE Sport Stars | mytvsuper | 147 | 2026-09-29 00:00:00 至 2026-10-02 00:30:00 | ❌ |
 | Action Hollywood Movies | Action Hollywood Movies | mytvsuper | 39 | 2026-09-29 00:00:00 至 2026-10-02 02:00:00 | ❌ |
@@ -457,7 +457,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | CNBC HD | CNBC HD | mytvsuper | 135 | 2026-09-29 00:00:00 至 2026-10-02 00:30:00 | ❌ |
 | CNN HD | CNN HD | mytvsuper | 91 | 2026-09-29 00:00:00 至 2026-10-02 01:00:00 | ❌ |
 | COLORS (2) | COLORS | mytvsuper | 135 | 2026-09-29 00:00:00 至 2026-10-02 00:30:00 | ❌ |
-| COLORS Tamil HD | COLORS Tamil HD | mytvsuper | 70 | 2026-09-29 00:00:00 至 2026-10-02 02:30:00 | ✅ |
+| COLORS Tamil HD | COLORS Tamil HD | mytvsuper | 70 | 2026-09-29 00:00:00 至 2026-10-02 02:30:00 | ❌ |
 | Crime + Investigation HD | Crime + Investigation HD | mytvsuper | 90 | 2026-09-28 23:35:00 至 2026-10-02 00:25:00 | ❌ |
 | 中天亞洲台新加坡版 | 中天亞洲台新加坡版 | mytvsuper | 72 | 2026-09-29 00:00:00 至 2026-10-02 01:00:00 | ❌ |
 | Discovery HD新加坡版 | Discovery HD新加坡版 | mytvsuper | 80 | 2026-09-28 23:45:00 至 2026-10-02 00:40:00 | ❌ |
@@ -481,11 +481,11 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Hub Premier 10 | Hub Premier 10 | mytvsuper | 6 | 2026-09-29 00:00:00 至 2026-10-03 00:00:00 | ✅ |
 | Hub Premier 11 | Hub Premier 11 | mytvsuper | 6 | 2026-09-29 00:00:00 至 2026-10-03 00:00:00 | ✅ |
 | Hub Ruyi | Hub Ruyi | mytvsuper | 75 | 2026-09-29 00:00:00 至 2026-10-02 01:00:00 | ❌ |
-| Hub Sports 1 HD | Hub Sports 1 HD | mytvsuper | 43 | 2026-09-29 00:00:00 至 2026-10-02 03:00:00 | ✅ |
-| Hub Sports 2 HD | Hub Sports 2 HD | mytvsuper | 48 | 2026-09-29 00:00:00 至 2026-10-02 03:00:00 | ✅ |
+| Hub Sports 1 HD | Hub Sports 1 HD | mytvsuper | 43 | 2026-09-29 00:00:00 至 2026-10-02 03:00:00 | ❌ |
+| Hub Sports 2 HD | Hub Sports 2 HD | mytvsuper | 48 | 2026-09-29 00:00:00 至 2026-10-02 03:00:00 | ❌ |
 | Hub Sports 3 HD | Hub Sports 3 HD | mytvsuper | 23 | 2026-09-29 00:00:00 至 2026-10-02 02:00:00 | ❌ |
 | Hub VV Drama HD | Hub VV Drama HD | mytvsuper | 89 | 2026-09-28 23:20:00 至 2026-10-02 00:15:00 | ❌ |
-| Kalaignar TV | Kalaignar TV | mytvsuper | 78 | 2026-09-28 23:30:00 至 2026-10-02 03:00:00 | ✅ |
+| Kalaignar TV | Kalaignar TV | mytvsuper | 78 | 2026-09-28 23:30:00 至 2026-10-02 03:00:00 | ❌ |
 | Karisma | Karisma | mytvsuper | 66 | 2026-09-28 23:30:00 至 2026-10-02 00:45:00 | ❌ |
 | KBS World HD | KBS World HD | mytvsuper | 89 | 2026-09-28 23:35:00 至 2026-10-02 00:55:00 | ❌ |
 | KTV HD | KTV HD | mytvsuper | 30 | 2026-09-28 21:30:00 至 2026-10-02 01:00:00 | ❌ |
@@ -1342,7 +1342,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 中華一番(中文版) | 中華一番(中文版) | ofiii | 52 | 2026-09-30 14:18:38 至 2026-10-01 10:25:18 | ❌ |
 | 中視 (2) | 中視 | ofiii | 92 | 2026-10-01 05:00:00 至 2026-10-05 07:00:00 | ✅ |
 | 中視新聞 (2) | 中視新聞 | ofiii | 98 | 2026-10-01 05:00:00 至 2026-10-05 07:00:00 | ✅ |
-| 九九敬老頻道 | 九九敬老頻道 | ofiii | 81 | 2026-09-30 11:08:39 至 2026-10-02 03:18:54 | ✅ |
+| 九九敬老頻道 | 九九敬老頻道 | ofiii | 81 | 2026-09-30 11:08:39 至 2026-10-02 03:18:54 | ❌ |
 | 九重紫《10/5即將下架》 | 九重紫《10/5即將下架》 | ofiii | 34 | 2026-09-30 04:03:59 至 2026-10-01 05:50:44 | ❌ |
 | 亞洲旅遊台 (2) | 亞洲旅遊台 | ofiii | 116 | 2026-10-01 04:00:00 至 2026-10-07 00:00:00 | ✅ |
 | 人氣動漫預告 | 人氣動漫預告 | ofiii | 32 | 2026-10-01 05:41:20 至 2026-10-01 06:30:00 | ❌ |
