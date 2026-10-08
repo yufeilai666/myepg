@@ -31,7 +31,7 @@ jobs:
       run: |
         # 定义需要同步的文件数组
         files=(
-          'snow_epg.xml'
+          # 'snow_epg.xml'
           'snow_epg.xml.gz'
           'snow_epg.json'
           'README.md'
