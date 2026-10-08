@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-10-08 20:55:54 (UTC+8)
+- **最后更新时间**: 2026-10-08 22:55:56 (UTC+8)
 - **频道总数**: 2135
 
 ## 频道列表
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | History (astro) | History (astro) | epg.pw | 184 | 2026-10-08 00:45:00 至 2026-10-15 00:05:00 | ✅ |
 | 亚洲美食台 (astro) | 亚洲美食台 (astro) | epg.pw | 292 | 2026-10-08 00:10:00 至 2026-10-15 00:10:00 | ✅ |
 | Discovery Asia (astro) | Discovery Asia (astro) | epg.pw | 230 | 2026-10-08 00:25:00 至 2026-10-15 00:05:00 | ✅ |
-| 千禧经典台 (astro) | 千禧經典台 (astro) | epg.pw | 226 | 2026-10-07 00:55:00 至 2026-10-14 00:55:00 | ✅ |
+| 千禧经典台 (astro) | 千禧經典台 (astro) | epg.pw | 226 | 2026-10-08 00:55:00 至 2026-10-15 00:55:00 | ✅ |
 | LS TIME 龙祥时代 | 龙祥时代 | person | 73 | 2026-10-08 01:35:00 至 2026-10-14 23:10:00 | ✅ |
 | LS TIMES TV | 龙祥频道 (CA) | person | 110 | 2026-10-08 00:50:00 至 2026-10-15 00:10:00 | ✅ |
 | 好莱坞电影台 | 好莱坞电影台 | person | 13 | 2026-10-08 00:15:00 至 2026-10-09 02:45:00 | ✅ |
