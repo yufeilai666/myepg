@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-10-09 20:55:59 (UTC+8)
+- **最后更新时间**: 2026-10-09 22:55:53 (UTC+8)
 - **频道总数**: 2134
 
 ## 频道列表
@@ -24,12 +24,12 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | astro AOD (astro) | astro AOD (astro) | epg.pw | 197 | 2026-10-09 00:30:00 至 2026-10-16 00:00:00 | ✅ |
 | astro AEC (astro) | astro AEC (astro) | epg.pw | 208 | 2026-10-09 00:00:00 至 2026-10-16 00:00:00 | ✅ |
 | astro QJ (astro) | astro QJ (astro) | epg.pw | 195 | 2026-10-09 00:00:00 至 2026-10-16 00:00:00 | ✅ |
-| Global Trekker (astro) | Global Trekker (astro) | epg.pw | 208 | 2026-10-08 00:40:00 至 2026-10-15 00:10:00 | ✅ |
-| 美亚电影台 (Mod) | 美亚电影台 (Mod) | epg.pw | 98 | 2026-10-08 00:30:00 至 2026-10-15 00:00:00 | ✅ |
+| Global Trekker (astro) | Global Trekker (astro) | epg.pw | 208 | 2026-10-09 00:35:00 至 2026-10-16 00:10:00 | ✅ |
+| 美亚电影台 (Mod) | 美亚电影台 (Mod) | epg.pw | 98 | 2026-10-09 00:35:00 至 2026-10-16 00:00:00 | ✅ |
 | History (astro) | History (astro) | epg.pw | 184 | 2026-10-09 00:45:00 至 2026-10-16 00:05:00 | ✅ |
 | 亚洲美食台 (astro) | 亚洲美食台 (astro) | epg.pw | 296 | 2026-10-09 00:10:00 至 2026-10-16 00:10:00 | ✅ |
 | Discovery Asia (astro) | Discovery Asia (astro) | epg.pw | 230 | 2026-10-09 00:25:00 至 2026-10-16 00:05:00 | ✅ |
-| 千禧经典台 (astro) | 千禧經典台 (astro) | epg.pw | 226 | 2026-10-08 00:55:00 至 2026-10-15 00:55:00 | ✅ |
+| 千禧经典台 (astro) | 千禧經典台 (astro) | epg.pw | 226 | 2026-10-09 00:55:00 至 2026-10-16 00:55:00 | ✅ |
 | LS TIME 龙祥时代 | 龙祥时代 | person | 72 | 2026-10-09 01:30:00 至 2026-10-15 23:10:00 | ✅ |
 | LS TIMES TV | 龙祥频道 (CA) | person | 109 | 2026-10-09 01:00:00 至 2026-10-16 01:35:00 | ✅ |
 | 好莱坞电影台 | 好莱坞电影台 | person | 83 | 2026-10-09 00:30:00 至 2026-10-16 02:30:00 | ✅ |
@@ -1704,7 +1704,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | CGTN西班牙语频道 | CGTN西班牙语频道 | LiuYi0526 | 196 | 2026-10-08 00:00:00 至 2026-10-11 00:00:00 | ✅ |
 | CGTN纪录频道 | CGTN外语纪录频道 | LiuYi0526 | 144 | 2026-10-08 00:00:00 至 2026-10-11 00:00:00 | ✅ |
 | CCTV+ Channel 1 | CCTV+ Channel 1 | LiuYi0526 | 0 | 无节目 | ❌ |
-| CCTV+ Channel 2 | CCTV+ Channel 2 | LiuYi0526 | 2 | 2026-10-10 10:00:00 至 2026-10-10 16:00:00 | ❌ |
+| CCTV+ Channel 2 | CCTV+ Channel 2 | LiuYi0526 | 2 | 2026-10-10 10:00:00 至 2026-10-10 16:00:00 | ✅ |
 | CCTV+ Channel 3 | CCTV+ Channel 3 | LiuYi0526 | 0 | 无节目 | ❌ |
 | CCTV+ Channel 4 | CCTV+ Channel 4 | LiuYi0526 | 0 | 无节目 | ❌ |
 | 江西卫视 (2) | 江西卫视-高清 | LiuYi0526 | 83 | 2026-10-08 02:15:00 至 2026-10-11 01:15:00 | ✅ |
