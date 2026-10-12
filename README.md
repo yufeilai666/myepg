@@ -295,7 +295,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | NHK World Premium | NHK World Premium | huangguatv | 529 | 2026-10-10 00:13:00 至 2026-10-18 00:30:00 | ✅ |
 | TV5MONDE Style | TV5MONDE Style | huangguatv | 371 | 2026-10-10 00:10:00 至 2026-10-18 00:29:00 | ✅ |
 | TV5MONDE ASIE | TV5MONDE ASIE | huangguatv | 383 | 2026-10-10 00:31:00 至 2026-10-18 00:42:00 | ✅ |
-| France 24 (French) | France 24 (French) | huangguatv | 296 | 2026-10-10 00:00:00 至 2026-10-12 17:56:00 | ✅ |
+| France 24 (French) | France 24 (French) | huangguatv | 296 | 2026-10-10 00:00:00 至 2026-10-12 17:56:00 | ❌ |
 | GMA Pinoy TV | GMA Pinoy TV | huangguatv | 225 | 2026-10-10 00:00:00 至 2026-10-18 00:00:00 | ✅ |
 | GMA Life TV | GMA Life TV | huangguatv | 221 | 2026-10-10 00:00:00 至 2026-10-18 00:00:00 | ✅ |
 | GMA News TV | GMA News TV | huangguatv | 231 | 2026-10-10 00:45:00 至 2026-10-18 00:00:00 | ✅ |
