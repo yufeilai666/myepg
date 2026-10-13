@@ -555,25 +555,25 @@
     "channel_id": "CCTV1 香港",
     "channel_name": "CCTV1 香港",
     "source": "epg.pw",
-    "programme_count": 0,
+    "programme_count": 158,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-10-13 00:00:00",
+      "end": "2026-10-18 00:00:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "CCTV4 香港",
     "channel_name": "CCTV4 香港",
     "source": "epg.pw",
-    "programme_count": 0,
+    "programme_count": 163,
     "date_range": {
-      "start": null,
-      "end": null
+      "start": "2026-10-13 00:40:00",
+      "end": "2026-10-17 00:00:00"
     },
-    "has_programmes": false,
-    "is_valid": false
+    "has_programmes": true,
+    "is_valid": true
   },
   {
     "channel_id": "香港卫视",
@@ -1881,7 +1881,7 @@
       "end": "2026-10-20 00:30:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "翡翠台 (澳大利亞)",
@@ -1929,7 +1929,7 @@
       "end": "2026-10-20 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "TVB生活台",
@@ -15725,8 +15725,8 @@
     "source": "tvmao",
     "programme_count": 75,
     "date_range": {
-      "start": "2026-10-13 00:49:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:48:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15735,10 +15735,10 @@
     "channel_id": "CCTV2",
     "channel_name": "CCTV2",
     "source": "tvmao",
-    "programme_count": 83,
+    "programme_count": 84,
     "date_range": {
-      "start": "2026-10-13 00:06:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:03:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15749,8 +15749,8 @@
     "source": "tvmao",
     "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 00:24:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15759,10 +15759,10 @@
     "channel_id": "CCTV4",
     "channel_name": "CCTV4",
     "source": "tvmao",
-    "programme_count": 82,
+    "programme_count": 85,
     "date_range": {
-      "start": "2026-10-13 00:36:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:36:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15771,10 +15771,10 @@
     "channel_id": "CCTV4 欧洲",
     "channel_name": "CCTV4 欧洲",
     "source": "tvmao",
-    "programme_count": 83,
+    "programme_count": 85,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15783,10 +15783,10 @@
     "channel_id": "CCTV4 美洲",
     "channel_name": "CCTV4 美洲",
     "source": "tvmao",
-    "programme_count": 82,
+    "programme_count": 85,
     "date_range": {
-      "start": "2026-10-13 00:23:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15795,10 +15795,10 @@
     "channel_id": "CCTV5",
     "channel_name": "CCTV5",
     "source": "tvmao",
-    "programme_count": 50,
+    "programme_count": 51,
     "date_range": {
-      "start": "2026-10-13 01:06:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15807,10 +15807,10 @@
     "channel_id": "CCTV5+",
     "channel_name": "CCTV5+",
     "source": "tvmao",
-    "programme_count": 33,
+    "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 01:06:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15819,10 +15819,10 @@
     "channel_id": "CCTV6",
     "channel_name": "CCTV6",
     "source": "tvmao",
-    "programme_count": 66,
+    "programme_count": 63,
     "date_range": {
-      "start": "2026-10-13 00:12:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:23:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15831,10 +15831,10 @@
     "channel_id": "CCTV7",
     "channel_name": "CCTV7",
     "source": "tvmao",
-    "programme_count": 79,
+    "programme_count": 78,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15843,10 +15843,10 @@
     "channel_id": "CCTV8",
     "channel_name": "CCTV8",
     "source": "tvmao",
-    "programme_count": 77,
+    "programme_count": 78,
     "date_range": {
-      "start": "2026-10-13 00:04:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:04:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15855,10 +15855,10 @@
     "channel_id": "CCTV9",
     "channel_name": "CCTV9",
     "source": "tvmao",
-    "programme_count": 65,
+    "programme_count": 61,
     "date_range": {
-      "start": "2026-10-13 00:31:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:31:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15867,10 +15867,10 @@
     "channel_id": "CCTV10",
     "channel_name": "CCTV10",
     "source": "tvmao",
-    "programme_count": 71,
+    "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 00:01:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:21:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15881,8 +15881,8 @@
     "source": "tvmao",
     "programme_count": 34,
     "date_range": {
-      "start": "2026-10-13 00:49:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:03:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15891,10 +15891,10 @@
     "channel_id": "CCTV12",
     "channel_name": "CCTV12",
     "source": "tvmao",
-    "programme_count": 63,
+    "programme_count": 62,
     "date_range": {
-      "start": "2026-10-13 00:37:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:37:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15905,8 +15905,8 @@
     "source": "tvmao",
     "programme_count": 84,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15915,10 +15915,10 @@
     "channel_id": "CCTV14",
     "channel_name": "CCTV14",
     "source": "tvmao",
-    "programme_count": 41,
+    "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:32:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:32:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15927,10 +15927,10 @@
     "channel_id": "CCTV15",
     "channel_name": "CCTV15",
     "source": "tvmao",
-    "programme_count": 35,
+    "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 00:26:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:51:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15939,10 +15939,10 @@
     "channel_id": "CCTV16",
     "channel_name": "CCTV16",
     "source": "tvmao",
-    "programme_count": 49,
+    "programme_count": 50,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:35:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15953,8 +15953,8 @@
     "source": "tvmao",
     "programme_count": 50,
     "date_range": {
-      "start": "2026-10-13 00:38:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:08:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15963,10 +15963,10 @@
     "channel_id": "CCTV4K",
     "channel_name": "CCTV4K",
     "source": "tvmao",
-    "programme_count": 74,
+    "programme_count": 76,
     "date_range": {
-      "start": "2026-10-13 06:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15975,10 +15975,10 @@
     "channel_id": "CGTN",
     "channel_name": "CGTN",
     "source": "tvmao",
-    "programme_count": 91,
+    "programme_count": 90,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15989,8 +15989,8 @@
     "source": "tvmao",
     "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -15999,10 +15999,10 @@
     "channel_id": "CGTN西班牙语",
     "channel_name": "CGTN西班牙语",
     "source": "tvmao",
-    "programme_count": 91,
+    "programme_count": 92,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16013,8 +16013,8 @@
     "source": "tvmao",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-10-13 00:15:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:15:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16025,8 +16025,8 @@
     "source": "tvmao",
     "programme_count": 68,
     "date_range": {
-      "start": "2026-10-13 00:15:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:15:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16037,8 +16037,8 @@
     "source": "tvmao",
     "programme_count": 94,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16047,10 +16047,10 @@
     "channel_id": "安徽卫视",
     "channel_name": "安徽卫视",
     "source": "tvmao",
-    "programme_count": 72,
+    "programme_count": 73,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:09:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16059,10 +16059,10 @@
     "channel_id": "北京卫视",
     "channel_name": "北京卫视",
     "source": "tvmao",
-    "programme_count": 66,
+    "programme_count": 73,
     "date_range": {
-      "start": "2026-10-13 00:27:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:06:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16071,10 +16071,10 @@
     "channel_id": "卡酷少儿",
     "channel_name": "卡酷少儿",
     "source": "tvmao",
-    "programme_count": 134,
+    "programme_count": 136,
     "date_range": {
-      "start": "2026-10-13 00:03:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:16:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16083,10 +16083,10 @@
     "channel_id": "重庆卫视",
     "channel_name": "重庆卫视",
     "source": "tvmao",
-    "programme_count": 76,
+    "programme_count": 78,
     "date_range": {
-      "start": "2026-10-13 01:31:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:06:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16095,10 +16095,10 @@
     "channel_id": "东南卫视",
     "channel_name": "东南卫视",
     "source": "tvmao",
-    "programme_count": 61,
+    "programme_count": 60,
     "date_range": {
-      "start": "2026-10-13 00:46:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:44:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16107,10 +16107,10 @@
     "channel_id": "厦门卫视",
     "channel_name": "厦门卫视",
     "source": "tvmao",
-    "programme_count": 67,
+    "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16119,10 +16119,10 @@
     "channel_id": "甘肃卫视",
     "channel_name": "甘肃卫视",
     "source": "tvmao",
-    "programme_count": 75,
+    "programme_count": 73,
     "date_range": {
-      "start": "2026-10-13 00:20:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:34:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16131,10 +16131,10 @@
     "channel_id": "广东卫视",
     "channel_name": "广东卫视",
     "source": "tvmao",
-    "programme_count": 66,
+    "programme_count": 60,
     "date_range": {
-      "start": "2026-10-13 01:41:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:55:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16143,10 +16143,10 @@
     "channel_id": "深圳卫视",
     "channel_name": "深圳卫视",
     "source": "tvmao",
-    "programme_count": 144,
+    "programme_count": 148,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:03:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16155,10 +16155,10 @@
     "channel_id": "广西卫视",
     "channel_name": "广西卫视",
     "source": "tvmao",
-    "programme_count": 56,
+    "programme_count": 66,
     "date_range": {
-      "start": "2026-10-13 02:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16167,10 +16167,10 @@
     "channel_id": "贵州卫视",
     "channel_name": "贵州卫视",
     "source": "tvmao",
-    "programme_count": 69,
+    "programme_count": 75,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16179,10 +16179,10 @@
     "channel_id": "海南卫视",
     "channel_name": "海南卫视",
     "source": "tvmao",
-    "programme_count": 72,
+    "programme_count": 73,
     "date_range": {
-      "start": "2026-10-13 00:15:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:15:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16191,10 +16191,10 @@
     "channel_id": "河北卫视",
     "channel_name": "河北卫视",
     "source": "tvmao",
-    "programme_count": 59,
+    "programme_count": 61,
     "date_range": {
-      "start": "2026-10-13 00:39:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16203,10 +16203,10 @@
     "channel_id": "黑龙江卫视",
     "channel_name": "黑龙江卫视",
     "source": "tvmao",
-    "programme_count": 68,
+    "programme_count": 63,
     "date_range": {
-      "start": "2026-10-13 00:28:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:31:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16215,10 +16215,10 @@
     "channel_id": "河南卫视",
     "channel_name": "河南卫视",
     "source": "tvmao",
-    "programme_count": 63,
+    "programme_count": 70,
     "date_range": {
-      "start": "2026-10-13 08:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:07:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16227,10 +16227,10 @@
     "channel_id": "湖北卫视",
     "channel_name": "湖北卫视",
     "source": "tvmao",
-    "programme_count": 103,
+    "programme_count": 102,
     "date_range": {
-      "start": "2026-10-13 00:42:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:48:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16241,8 +16241,8 @@
     "source": "tvmao",
     "programme_count": 65,
     "date_range": {
-      "start": "2026-10-13 01:30:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:30:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16251,10 +16251,10 @@
     "channel_id": "金鹰卡通",
     "channel_name": "金鹰卡通",
     "source": "tvmao",
-    "programme_count": 38,
+    "programme_count": 119,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16263,10 +16263,10 @@
     "channel_id": "江苏卫视",
     "channel_name": "江苏卫视",
     "source": "tvmao",
-    "programme_count": 62,
+    "programme_count": 59,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16275,10 +16275,10 @@
     "channel_id": "江西卫视",
     "channel_name": "江西卫视",
     "source": "tvmao",
-    "programme_count": 56,
+    "programme_count": 55,
     "date_range": {
-      "start": "2026-10-13 00:34:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:09:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16287,10 +16287,10 @@
     "channel_id": "吉林卫视",
     "channel_name": "吉林卫视",
     "source": "tvmao",
-    "programme_count": 70,
+    "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 00:29:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:19:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16299,10 +16299,10 @@
     "channel_id": "辽宁卫视",
     "channel_name": "辽宁卫视",
     "source": "tvmao",
-    "programme_count": 72,
+    "programme_count": 68,
     "date_range": {
-      "start": "2026-10-13 00:33:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:08:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16311,10 +16311,10 @@
     "channel_id": "内蒙古卫视",
     "channel_name": "内蒙古卫视",
     "source": "tvmao",
-    "programme_count": 68,
+    "programme_count": 62,
     "date_range": {
-      "start": "2026-10-13 00:40:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:25:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16323,10 +16323,10 @@
     "channel_id": "宁夏卫视",
     "channel_name": "宁夏卫视",
     "source": "tvmao",
-    "programme_count": 78,
+    "programme_count": 81,
     "date_range": {
-      "start": "2026-10-13 00:15:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:57:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16335,10 +16335,10 @@
     "channel_id": "山西卫视",
     "channel_name": "山西卫视",
     "source": "tvmao",
-    "programme_count": 64,
+    "programme_count": 66,
     "date_range": {
-      "start": "2026-10-13 00:24:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:24:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16347,10 +16347,10 @@
     "channel_id": "山东卫视",
     "channel_name": "山东卫视",
     "source": "tvmao",
-    "programme_count": 69,
+    "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 00:03:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:18:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16359,10 +16359,10 @@
     "channel_id": "东方卫视",
     "channel_name": "东方卫视",
     "source": "tvmao",
-    "programme_count": 87,
+    "programme_count": 88,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:24:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16373,8 +16373,8 @@
     "source": "tvmao",
     "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:15:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:15:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16383,10 +16383,10 @@
     "channel_id": "陕西卫视",
     "channel_name": "陕西卫视",
     "source": "tvmao",
-    "programme_count": 59,
+    "programme_count": 57,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16397,8 +16397,8 @@
     "source": "tvmao",
     "programme_count": 65,
     "date_range": {
-      "start": "2026-10-13 00:35:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:33:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16409,8 +16409,8 @@
     "source": "tvmao",
     "programme_count": 60,
     "date_range": {
-      "start": "2026-10-13 00:35:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16419,10 +16419,10 @@
     "channel_id": "新疆卫视",
     "channel_name": "新疆卫视",
     "source": "tvmao",
-    "programme_count": 69,
+    "programme_count": 70,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:19:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16431,10 +16431,10 @@
     "channel_id": "云南卫视",
     "channel_name": "云南卫视",
     "source": "tvmao",
-    "programme_count": 63,
+    "programme_count": 64,
     "date_range": {
-      "start": "2026-10-13 02:41:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:50:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16443,10 +16443,10 @@
     "channel_id": "浙江卫视",
     "channel_name": "浙江卫视",
     "source": "tvmao",
-    "programme_count": 83,
+    "programme_count": 75,
     "date_range": {
-      "start": "2026-10-13 00:21:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:55:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16455,10 +16455,10 @@
     "channel_id": "青海卫视",
     "channel_name": "青海卫视",
     "source": "tvmao",
-    "programme_count": 60,
+    "programme_count": 67,
     "date_range": {
-      "start": "2026-10-13 05:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:12:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16469,8 +16469,8 @@
     "source": "tvmao",
     "programme_count": 90,
     "date_range": {
-      "start": "2026-10-13 01:51:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:51:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16479,10 +16479,10 @@
     "channel_id": "西藏卫视",
     "channel_name": "西藏卫视",
     "source": "tvmao",
-    "programme_count": 77,
+    "programme_count": 90,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:19:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16493,8 +16493,8 @@
     "source": "tvmao",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 01:05:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:05:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16503,10 +16503,10 @@
     "channel_id": "兵团卫视",
     "channel_name": "兵团卫视",
     "source": "tvmao",
-    "programme_count": 64,
+    "programme_count": 71,
     "date_range": {
-      "start": "2026-10-13 00:50:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:16:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16515,10 +16515,10 @@
     "channel_id": "海峡卫视",
     "channel_name": "海峡卫视",
     "source": "tvmao",
-    "programme_count": 79,
+    "programme_count": 85,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16529,8 +16529,8 @@
     "source": "tvmao",
     "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16541,8 +16541,8 @@
     "source": "tvmao",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16551,9 +16551,9 @@
     "channel_id": "三沙卫视",
     "channel_name": "三沙卫视",
     "source": "tvmao",
-    "programme_count": 92,
+    "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-14 00:00:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -16565,8 +16565,8 @@
     "source": "tvmao",
     "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 01:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:10:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16575,10 +16575,10 @@
     "channel_id": "风云音乐",
     "channel_name": "风云音乐",
     "source": "tvmao",
-    "programme_count": 38,
+    "programme_count": 41,
     "date_range": {
-      "start": "2026-10-13 10:51:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:23:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16589,8 +16589,8 @@
     "source": "tvmao",
     "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 00:18:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:18:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16601,8 +16601,8 @@
     "source": "tvmao",
     "programme_count": 43,
     "date_range": {
-      "start": "2026-10-13 07:01:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 07:01:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16613,8 +16613,8 @@
     "source": "tvmao",
     "programme_count": 82,
     "date_range": {
-      "start": "2026-10-13 00:35:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:35:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16625,8 +16625,8 @@
     "source": "tvmao",
     "programme_count": 252,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16635,10 +16635,10 @@
     "channel_id": "怀旧剧场",
     "channel_name": "怀旧剧场",
     "source": "tvmao",
-    "programme_count": 38,
+    "programme_count": 37,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:19:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16649,8 +16649,8 @@
     "source": "tvmao",
     "programme_count": 74,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:07:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16659,10 +16659,10 @@
     "channel_id": "女性时尚",
     "channel_name": "女性时尚",
     "source": "tvmao",
-    "programme_count": 47,
+    "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 08:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16673,8 +16673,8 @@
     "source": "tvmao",
     "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 00:29:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:32:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16683,10 +16683,10 @@
     "channel_id": "央视精品",
     "channel_name": "央视精品",
     "source": "tvmao",
-    "programme_count": 57,
+    "programme_count": 58,
     "date_range": {
-      "start": "2026-10-13 01:15:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:17:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16697,8 +16697,8 @@
     "source": "tvmao",
     "programme_count": 70,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16709,8 +16709,8 @@
     "source": "tvmao",
     "programme_count": 24,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16721,8 +16721,8 @@
     "source": "tvmao",
     "programme_count": 330,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16733,8 +16733,8 @@
     "source": "tvmao",
     "programme_count": 96,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16743,10 +16743,10 @@
     "channel_id": "天元围棋",
     "channel_name": "天元围棋",
     "source": "tvmao",
-    "programme_count": 66,
+    "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16757,8 +16757,8 @@
     "source": "tvmao",
     "programme_count": 110,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16769,8 +16769,8 @@
     "source": "tvmao",
     "programme_count": 81,
     "date_range": {
-      "start": "2026-10-13 08:01:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 08:01:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16779,10 +16779,10 @@
     "channel_id": "发现之旅",
     "channel_name": "发现之旅",
     "source": "tvmao",
-    "programme_count": 101,
+    "programme_count": 102,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16791,10 +16791,10 @@
     "channel_id": "老故事",
     "channel_name": "老故事",
     "source": "tvmao",
-    "programme_count": 124,
+    "programme_count": 119,
     "date_range": {
-      "start": "2026-10-13 00:04:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:04:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16803,10 +16803,10 @@
     "channel_id": "央视台球",
     "channel_name": "央视台球",
     "source": "tvmao",
-    "programme_count": 49,
+    "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:17:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:01:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16817,8 +16817,8 @@
     "source": "tvmao",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16829,8 +16829,8 @@
     "source": "tvmao",
     "programme_count": 122,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16841,8 +16841,8 @@
     "source": "tvmao",
     "programme_count": 144,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16853,8 +16853,8 @@
     "source": "tvmao",
     "programme_count": 112,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:02:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16865,8 +16865,8 @@
     "source": "tvmao",
     "programme_count": 74,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16875,10 +16875,10 @@
     "channel_id": "幼儿教育",
     "channel_name": "幼儿教育",
     "source": "tvmao",
-    "programme_count": 52,
+    "programme_count": 53,
     "date_range": {
-      "start": "2026-10-13 08:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 08:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16887,9 +16887,9 @@
     "channel_id": "快乐垂钓",
     "channel_name": "快乐垂钓",
     "source": "tvmao",
-    "programme_count": 32,
+    "programme_count": 16,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-14 00:00:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -16901,8 +16901,8 @@
     "source": "tvmao",
     "programme_count": 56,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16911,10 +16911,10 @@
     "channel_id": "CETV1",
     "channel_name": "CETV1",
     "source": "tvmao",
-    "programme_count": 164,
+    "programme_count": 165,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16923,10 +16923,10 @@
     "channel_id": "CETV2",
     "channel_name": "CETV2",
     "source": "tvmao",
-    "programme_count": 46,
+    "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 06:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16935,10 +16935,10 @@
     "channel_id": "CETV3",
     "channel_name": "CETV3",
     "source": "tvmao",
-    "programme_count": 59,
+    "programme_count": 60,
     "date_range": {
-      "start": "2026-10-13 00:04:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:04:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16947,10 +16947,10 @@
     "channel_id": "CETV4",
     "channel_name": "CETV4",
     "source": "tvmao",
-    "programme_count": 135,
+    "programme_count": 133,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16959,10 +16959,10 @@
     "channel_id": "CHC动作电影",
     "channel_name": "CHC动作电影",
     "source": "tvmao",
-    "programme_count": 55,
+    "programme_count": 57,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:09:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16973,8 +16973,8 @@
     "source": "tvmao",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:06:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:13:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16985,8 +16985,8 @@
     "source": "tvmao",
     "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 01:17:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:53:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -16997,8 +16997,8 @@
     "source": "tvmao",
     "programme_count": 100,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17009,8 +17009,8 @@
     "source": "tvmao",
     "programme_count": 107,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17021,8 +17021,8 @@
     "source": "tvmao",
     "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17031,10 +17031,10 @@
     "channel_id": "爱家购物",
     "channel_name": "爱家购物",
     "source": "tvmao",
-    "programme_count": 44,
+    "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 01:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17043,10 +17043,10 @@
     "channel_id": "财富天下",
     "channel_name": "财富天下",
     "source": "tvmao",
-    "programme_count": 78,
+    "programme_count": 77,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17057,8 +17057,8 @@
     "source": "tvmao",
     "programme_count": 146,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17069,8 +17069,8 @@
     "source": "tvmao",
     "programme_count": 53,
     "date_range": {
-      "start": "2026-10-13 08:30:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 08:30:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17081,8 +17081,8 @@
     "source": "tvmao",
     "programme_count": 134,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17091,10 +17091,10 @@
     "channel_id": "重温经典 (2)",
     "channel_name": "重温经典",
     "source": "tvmao",
-    "programme_count": 48,
+    "programme_count": 49,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17103,10 +17103,10 @@
     "channel_id": "卫生健康",
     "channel_name": "卫生健康",
     "source": "tvmao",
-    "programme_count": 95,
+    "programme_count": 94,
     "date_range": {
-      "start": "2026-10-13 00:08:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:08:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17115,10 +17115,10 @@
     "channel_id": "DOX剧场",
     "channel_name": "DOX剧场",
     "source": "tvmao",
-    "programme_count": 85,
+    "programme_count": 86,
     "date_range": {
-      "start": "2026-10-13 00:31:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:11:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17129,8 +17129,8 @@
     "source": "tvmao",
     "programme_count": 62,
     "date_range": {
-      "start": "2026-10-13 00:41:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:41:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17139,10 +17139,10 @@
     "channel_id": "DOX新知",
     "channel_name": "DOX新知",
     "source": "tvmao",
-    "programme_count": 89,
+    "programme_count": 92,
     "date_range": {
-      "start": "2026-10-13 00:07:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:31:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17151,10 +17151,10 @@
     "channel_id": "DOX新艺",
     "channel_name": "DOX新艺",
     "source": "tvmao",
-    "programme_count": 72,
+    "programme_count": 75,
     "date_range": {
-      "start": "2026-10-13 00:31:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:40:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17163,10 +17163,10 @@
     "channel_id": "DOX映画",
     "channel_name": "DOX映画",
     "source": "tvmao",
-    "programme_count": 24,
+    "programme_count": 27,
     "date_range": {
-      "start": "2026-10-13 01:05:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:07:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17175,10 +17175,10 @@
     "channel_id": "DOX英伦",
     "channel_name": "DOX英伦",
     "source": "tvmao",
-    "programme_count": 52,
+    "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:39:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:19:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17187,10 +17187,10 @@
     "channel_id": "DOX院线",
     "channel_name": "DOX院线",
     "source": "tvmao",
-    "programme_count": 34,
+    "programme_count": 33,
     "date_range": {
-      "start": "2026-10-13 00:16:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:23:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17199,10 +17199,10 @@
     "channel_id": "DOX雅趣",
     "channel_name": "DOX雅趣",
     "source": "tvmao",
-    "programme_count": 80,
+    "programme_count": 86,
     "date_range": {
-      "start": "2026-10-13 00:36:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:16:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17211,10 +17211,10 @@
     "channel_id": "SITV劲爆体育",
     "channel_name": "SITV劲爆体育",
     "source": "tvmao",
-    "programme_count": 38,
+    "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17223,10 +17223,10 @@
     "channel_id": "SITV欢笑剧场",
     "channel_name": "SITV欢笑剧场",
     "source": "tvmao",
-    "programme_count": 76,
+    "programme_count": 86,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:09:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17235,10 +17235,10 @@
     "channel_id": "SITV法治天地",
     "channel_name": "SITV法治天地",
     "source": "tvmao",
-    "programme_count": 93,
+    "programme_count": 104,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17247,10 +17247,10 @@
     "channel_id": "SITV游戏风云",
     "channel_name": "SITV游戏风云",
     "source": "tvmao",
-    "programme_count": 74,
+    "programme_count": 84,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17261,8 +17261,8 @@
     "source": "tvmao",
     "programme_count": 118,
     "date_range": {
-      "start": "2026-10-13 01:18:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:18:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17271,10 +17271,10 @@
     "channel_id": "SITV生活时尚",
     "channel_name": "SITV生活时尚",
     "source": "tvmao",
-    "programme_count": 210,
+    "programme_count": 249,
     "date_range": {
-      "start": "2026-10-13 00:14:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:12:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17285,8 +17285,8 @@
     "source": "tvmao",
     "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 01:17:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:17:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17297,8 +17297,8 @@
     "source": "tvmao",
     "programme_count": 132,
     "date_range": {
-      "start": "2026-10-13 01:18:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:18:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17307,10 +17307,10 @@
     "channel_id": "SITV都市剧场",
     "channel_name": "SITV都市剧场",
     "source": "tvmao",
-    "programme_count": 91,
+    "programme_count": 108,
     "date_range": {
-      "start": "2026-10-13 00:27:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:02:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17319,10 +17319,10 @@
     "channel_id": "东方财经·浦东",
     "channel_name": "东方财经·浦东",
     "source": "tvmao",
-    "programme_count": 113,
+    "programme_count": 105,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17331,10 +17331,10 @@
     "channel_id": "SITV乐游",
     "channel_name": "SITV乐游",
     "source": "tvmao",
-    "programme_count": 116,
+    "programme_count": 131,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17345,8 +17345,8 @@
     "source": "tvmao",
     "programme_count": 30,
     "date_range": {
-      "start": "2026-10-13 01:02:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:02:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17355,10 +17355,10 @@
     "channel_id": "SITV动漫秀场",
     "channel_name": "SITV动漫秀场",
     "source": "tvmao",
-    "programme_count": 199,
+    "programme_count": 200,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17367,10 +17367,10 @@
     "channel_id": "广东房产频道",
     "channel_name": "广东房产频道",
     "source": "tvmao",
-    "programme_count": 160,
+    "programme_count": 162,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17381,8 +17381,8 @@
     "source": "tvmao",
     "programme_count": 91,
     "date_range": {
-      "start": "2026-10-13 06:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 06:10:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17391,10 +17391,10 @@
     "channel_id": "SITV新视觉",
     "channel_name": "SITV新视觉",
     "source": "tvmao",
-    "programme_count": 52,
+    "programme_count": 58,
     "date_range": {
-      "start": "2026-10-13 00:27:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:52:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17405,8 +17405,8 @@
     "source": "tvmao",
     "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:17:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:17:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17417,8 +17417,8 @@
     "source": "tvmao",
     "programme_count": 30,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17429,8 +17429,8 @@
     "source": "tvmao",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:24:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:24:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17441,8 +17441,8 @@
     "source": "tvmao",
     "programme_count": 66,
     "date_range": {
-      "start": "2026-10-13 00:12:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:12:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17453,8 +17453,8 @@
     "source": "tvmao",
     "programme_count": 142,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17465,8 +17465,8 @@
     "source": "tvmao",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 01:01:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:01:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17477,8 +17477,8 @@
     "source": "tvmao",
     "programme_count": 26,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17489,8 +17489,8 @@
     "source": "tvmao",
     "programme_count": 26,
     "date_range": {
-      "start": "2026-10-13 01:31:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:31:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17501,8 +17501,8 @@
     "source": "tvmao",
     "programme_count": 76,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17513,8 +17513,8 @@
     "source": "tvmao",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 00:36:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:36:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17525,8 +17525,8 @@
     "source": "tvmao",
     "programme_count": 24,
     "date_range": {
-      "start": "2026-10-13 00:43:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:43:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17537,8 +17537,8 @@
     "source": "tvmao",
     "programme_count": 102,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17549,8 +17549,8 @@
     "source": "tvmao",
     "programme_count": 162,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17559,10 +17559,10 @@
     "channel_id": "SITV金色学堂",
     "channel_name": "SITV金色学堂",
     "source": "tvmao",
-    "programme_count": 189,
+    "programme_count": 217,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17573,8 +17573,8 @@
     "source": "tvmao",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 01:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17583,10 +17583,10 @@
     "channel_id": "SITV魅力足球",
     "channel_name": "SITV魅力足球",
     "source": "tvmao",
-    "programme_count": 29,
+    "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 13:05:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 01:15:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17597,8 +17597,8 @@
     "source": "tvmao",
     "programme_count": 108,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17607,10 +17607,10 @@
     "channel_id": "上海新闻综合",
     "channel_name": "上海新闻综合",
     "source": "tvmao",
-    "programme_count": 71,
+    "programme_count": 73,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17619,10 +17619,10 @@
     "channel_id": "第一财经",
     "channel_name": "第一财经",
     "source": "tvmao",
-    "programme_count": 53,
+    "programme_count": 59,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17631,10 +17631,10 @@
     "channel_id": "东方影视",
     "channel_name": "东方影视",
     "source": "tvmao",
-    "programme_count": 46,
+    "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:47:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 06:08:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17643,9 +17643,9 @@
     "channel_id": "五星体育",
     "channel_name": "五星体育",
     "source": "tvmao",
-    "programme_count": 57,
+    "programme_count": 31,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-14 01:17:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -17655,10 +17655,10 @@
     "channel_id": "上海教育电视",
     "channel_name": "上海教育电视",
     "source": "tvmao",
-    "programme_count": 45,
+    "programme_count": 58,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:20:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17667,10 +17667,10 @@
     "channel_id": "求索纪录",
     "channel_name": "求索纪录",
     "source": "tvmao",
-    "programme_count": 72,
+    "programme_count": 74,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17681,8 +17681,8 @@
     "source": "tvmao",
     "programme_count": 41,
     "date_range": {
-      "start": "2026-10-13 05:46:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 05:46:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17693,8 +17693,8 @@
     "source": "tvmao",
     "programme_count": 41,
     "date_range": {
-      "start": "2026-10-13 05:59:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 05:59:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17703,10 +17703,10 @@
     "channel_id": "南昌都市频道",
     "channel_name": "南昌都市频道",
     "source": "tvmao",
-    "programme_count": 48,
+    "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 06:08:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 06:07:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -17715,10 +17715,10 @@
     "channel_id": "南昌数字频道",
     "channel_name": "南昌数字频道",
     "source": "tvmao",
-    "programme_count": 36,
+    "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18219,10 +18219,10 @@
     "channel_id": "CCTV-1 综合",
     "channel_name": "CCTV-1 综合",
     "source": "gdct",
-    "programme_count": 127,
+    "programme_count": 128,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:52:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18231,10 +18231,10 @@
     "channel_id": "CCTV-10 科教",
     "channel_name": "CCTV-10 科教",
     "source": "gdct",
-    "programme_count": 113,
+    "programme_count": 149,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18243,10 +18243,10 @@
     "channel_id": "CCTV-11 戏曲",
     "channel_name": "CCTV-11 戏曲",
     "source": "gdct",
-    "programme_count": 65,
+    "programme_count": 86,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18255,10 +18255,10 @@
     "channel_id": "CCTV-12 社会与法",
     "channel_name": "CCTV-12 社会与法",
     "source": "gdct",
-    "programme_count": 100,
+    "programme_count": 132,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18267,10 +18267,10 @@
     "channel_id": "CCTV-13 新闻",
     "channel_name": "CCTV-13 新闻",
     "source": "gdct",
-    "programme_count": 112,
+    "programme_count": 149,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18279,10 +18279,10 @@
     "channel_id": "CCTV-14 少儿",
     "channel_name": "CCTV-14 少儿",
     "source": "gdct",
-    "programme_count": 63,
+    "programme_count": 82,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18291,10 +18291,10 @@
     "channel_id": "CCTV-15 音乐",
     "channel_name": "CCTV-15 音乐",
     "source": "gdct",
-    "programme_count": 57,
+    "programme_count": 74,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18315,10 +18315,10 @@
     "channel_id": "CCTV-17 农业农村",
     "channel_name": "CCTV-17 农业 农村",
     "source": "gdct",
-    "programme_count": 89,
+    "programme_count": 90,
     "date_range": {
       "start": "2026-10-13 00:33:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18327,10 +18327,10 @@
     "channel_id": "CCTV-2 财经",
     "channel_name": "CCTV-2 财经",
     "source": "gdct",
-    "programme_count": 131,
+    "programme_count": 170,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18339,10 +18339,10 @@
     "channel_id": "CCTV-3 综艺",
     "channel_name": "CCTV-3 综艺",
     "source": "gdct",
-    "programme_count": 71,
+    "programme_count": 95,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18351,10 +18351,10 @@
     "channel_id": "CCTV-4 中文国际",
     "channel_name": "CCTV-4 中文国际",
     "source": "gdct",
-    "programme_count": 126,
+    "programme_count": 169,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18411,10 +18411,10 @@
     "channel_id": "CCTV-5+ 体育赛事",
     "channel_name": "CCTV-5+ 体育赛事",
     "source": "gdct",
-    "programme_count": 62,
+    "programme_count": 83,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18423,10 +18423,10 @@
     "channel_id": "CCTV-6 电影",
     "channel_name": "CCTV-6 电影",
     "source": "gdct",
-    "programme_count": 104,
+    "programme_count": 139,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18435,10 +18435,10 @@
     "channel_id": "CCTV-7 国防军事",
     "channel_name": "CCTV-7 国防 军事",
     "source": "gdct",
-    "programme_count": 124,
+    "programme_count": 163,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18447,10 +18447,10 @@
     "channel_id": "CCTV-8 电视剧",
     "channel_name": "CCTV-8 电视剧",
     "source": "gdct",
-    "programme_count": 123,
+    "programme_count": 164,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18459,10 +18459,10 @@
     "channel_id": "CCTV-9 记录",
     "channel_name": "CCTV-9 记录",
     "source": "gdct",
-    "programme_count": 97,
+    "programme_count": 127,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18471,10 +18471,10 @@
     "channel_id": "CCTV-世界地理",
     "channel_name": "CCTV-世界地理",
     "source": "gdct",
-    "programme_count": 114,
+    "programme_count": 115,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:35:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18495,10 +18495,10 @@
     "channel_id": "CCTV-卫生健康",
     "channel_name": "CCTV-卫生健康",
     "source": "gdct",
-    "programme_count": 145,
+    "programme_count": 146,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:08:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18507,10 +18507,10 @@
     "channel_id": "CCTV-央视台球",
     "channel_name": "CCTV-央视台球",
     "source": "gdct",
-    "programme_count": 72,
+    "programme_count": 73,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:34:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18519,10 +18519,10 @@
     "channel_id": "CCTV-央视文化精品",
     "channel_name": "CCTV-央视文化精品",
     "source": "gdct",
-    "programme_count": 78,
+    "programme_count": 79,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:28:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18543,10 +18543,10 @@
     "channel_id": "CCTV-女性时尚",
     "channel_name": "CCTV-女性时尚",
     "source": "gdct",
-    "programme_count": 77,
+    "programme_count": 78,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 03:55:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18555,10 +18555,10 @@
     "channel_id": "CCTV-怀旧剧场",
     "channel_name": "CCTV-怀旧剧场",
     "source": "gdct",
-    "programme_count": 62,
+    "programme_count": 63,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:07:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18567,10 +18567,10 @@
     "channel_id": "CCTV-电视指南",
     "channel_name": "CCTV-电视指南",
     "source": "gdct",
-    "programme_count": 225,
+    "programme_count": 226,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18579,10 +18579,10 @@
     "channel_id": "CCTV-第一剧场",
     "channel_name": "CCTV-第一剧场",
     "source": "gdct",
-    "programme_count": 72,
+    "programme_count": 73,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:18:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18591,10 +18591,10 @@
     "channel_id": "CCTV-风云剧场",
     "channel_name": "CCTV-风云剧场",
     "source": "gdct",
-    "programme_count": 69,
+    "programme_count": 70,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 03:40:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18603,10 +18603,10 @@
     "channel_id": "CCTV-风云音乐",
     "channel_name": "CCTV-风云音乐",
     "source": "gdct",
-    "programme_count": 71,
+    "programme_count": 72,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 03:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18615,10 +18615,10 @@
     "channel_id": "CCTV-高尔夫网球",
     "channel_name": "CCTV-高尔夫网球",
     "source": "gdct",
-    "programme_count": 51,
+    "programme_count": 52,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:52:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18630,7 +18630,7 @@
     "programme_count": 181,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:01:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18651,10 +18651,10 @@
     "channel_id": "CETV-4",
     "channel_name": "CETV4",
     "source": "gdct",
-    "programme_count": 139,
+    "programme_count": 142,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18783,7 +18783,7 @@
     "channel_id": "广州综合",
     "channel_name": "广州综合",
     "source": "gdct",
-    "programme_count": 91,
+    "programme_count": 92,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 23:59:59"
@@ -18795,10 +18795,10 @@
     "channel_id": "惠州综合",
     "channel_name": "惠州综合",
     "source": "gdct",
-    "programme_count": 125,
+    "programme_count": 126,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:02:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18807,10 +18807,10 @@
     "channel_id": "惠州都市生活",
     "channel_name": "惠州都市生活",
     "source": "gdct",
-    "programme_count": 95,
+    "programme_count": 96,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 06:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18927,10 +18927,10 @@
     "channel_id": "深圳宝安",
     "channel_name": "深圳宝安",
     "source": "gdct",
-    "programme_count": 75,
+    "programme_count": 100,
     "date_range": {
       "start": "2026-10-13 06:55:00",
-      "end": "2026-10-16 00:00:00"
+      "end": "2026-10-17 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18939,10 +18939,10 @@
     "channel_id": "深圳少儿",
     "channel_name": "深圳少儿",
     "source": "gdct",
-    "programme_count": 166,
+    "programme_count": 218,
     "date_range": {
-      "start": "2026-10-13 15:52:00",
-      "end": "2026-10-16 00:35:00"
+      "start": "2026-10-13 21:52:00",
+      "end": "2026-10-16 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18951,10 +18951,10 @@
     "channel_id": "深圳电视剧",
     "channel_name": "深圳电视剧",
     "source": "gdct",
-    "programme_count": 89,
+    "programme_count": 113,
     "date_range": {
       "start": "2026-10-13 00:20:00",
-      "end": "2026-10-16 00:20:00"
+      "end": "2026-10-16 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18963,10 +18963,10 @@
     "channel_id": "深圳都市",
     "channel_name": "深圳都市",
     "source": "gdct",
-    "programme_count": 113,
+    "programme_count": 147,
     "date_range": {
       "start": "2026-10-13 00:18:00",
-      "end": "2026-10-16 00:10:00"
+      "end": "2026-10-16 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19047,10 +19047,10 @@
     "channel_id": "睛彩广场舞",
     "channel_name": "睛彩广场舞",
     "source": "gdct",
-    "programme_count": 115,
+    "programme_count": 151,
     "date_range": {
-      "start": "2026-10-13 15:55:00",
-      "end": "2026-10-16 00:30:00"
+      "start": "2026-10-13 21:30:00",
+      "end": "2026-10-16 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19059,10 +19059,10 @@
     "channel_id": "睛彩竞技",
     "channel_name": "睛彩竞技",
     "source": "gdct",
-    "programme_count": 67,
+    "programme_count": 83,
     "date_range": {
-      "start": "2026-10-13 15:55:00",
-      "end": "2026-10-16 01:20:00"
+      "start": "2026-10-13 17:25:00",
+      "end": "2026-10-16 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19071,10 +19071,10 @@
     "channel_id": "睛彩篮球",
     "channel_name": "睛彩篮球",
     "source": "gdct",
-    "programme_count": 102,
+    "programme_count": 135,
     "date_range": {
-      "start": "2026-10-13 15:55:00",
-      "end": "2026-10-16 00:00:00"
+      "start": "2026-10-13 20:40:00",
+      "end": "2026-10-16 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19083,10 +19083,10 @@
     "channel_id": "睛彩青少",
     "channel_name": "睛彩青少",
     "source": "gdct",
-    "programme_count": 107,
+    "programme_count": 137,
     "date_range": {
-      "start": "2026-10-13 15:15:00",
-      "end": "2026-10-16 00:00:00"
+      "start": "2026-10-13 21:45:00",
+      "end": "2026-10-16 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19119,10 +19119,10 @@
     "channel_id": "阳江-1",
     "channel_name": "阳江-1",
     "source": "gdct",
-    "programme_count": 72,
+    "programme_count": 73,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 23:59:59"
+      "end": "2026-10-16 00:09:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19383,10 +19383,10 @@
     "channel_id": "睛彩天下",
     "channel_name": "睛彩天下",
     "source": "hebeiiptv",
-    "programme_count": 78,
+    "programme_count": 91,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:44:00"
+      "end": "2026-10-16 00:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19395,10 +19395,10 @@
     "channel_id": "石家庄新闻综合",
     "channel_name": "石家庄新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 85,
+    "programme_count": 100,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 16:30:00"
+      "end": "2026-10-16 05:52:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19407,10 +19407,10 @@
     "channel_id": "石家庄城市服务",
     "channel_name": "石家庄城市服务",
     "source": "hebeiiptv",
-    "programme_count": 98,
+    "programme_count": 118,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 16:10:00"
+      "end": "2026-10-16 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19419,10 +19419,10 @@
     "channel_id": "石家庄文化娱乐",
     "channel_name": "石家庄文化娱乐",
     "source": "hebeiiptv",
-    "programme_count": 85,
+    "programme_count": 106,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:50:00"
+      "end": "2026-10-16 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19431,10 +19431,10 @@
     "channel_id": "承德新闻综合",
     "channel_name": "承德新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 91,
+    "programme_count": 113,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:55:00"
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19443,10 +19443,10 @@
     "channel_id": "承德旅游文化",
     "channel_name": "承德旅游文化",
     "source": "hebeiiptv",
-    "programme_count": 88,
+    "programme_count": 107,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:55:00"
+      "end": "2026-10-16 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19455,10 +19455,10 @@
     "channel_id": "张家口新闻综合",
     "channel_name": "张家口新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 88,
+    "programme_count": 109,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 14:10:00"
+      "end": "2026-10-16 06:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19467,10 +19467,10 @@
     "channel_id": "张家口公共",
     "channel_name": "张家口公共",
     "source": "hebeiiptv",
-    "programme_count": 131,
+    "programme_count": 166,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:45:00"
+      "end": "2026-10-16 06:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19479,10 +19479,10 @@
     "channel_id": "秦皇岛新闻综合",
     "channel_name": "秦皇岛新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 98,
+    "programme_count": 128,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:54:00"
+      "end": "2026-10-16 05:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19491,10 +19491,10 @@
     "channel_id": "秦皇岛民生",
     "channel_name": "秦皇岛民生",
     "source": "hebeiiptv",
-    "programme_count": 100,
+    "programme_count": 123,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:39:00"
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19503,10 +19503,10 @@
     "channel_id": "唐山新闻综合",
     "channel_name": "唐山新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 55,
+    "programme_count": 70,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 14:30:00"
+      "end": "2026-10-16 06:45:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19515,10 +19515,10 @@
     "channel_id": "唐山生活服务",
     "channel_name": "唐山生活服务",
     "source": "hebeiiptv",
-    "programme_count": 44,
+    "programme_count": 57,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 17:00:00"
+      "end": "2026-10-16 07:31:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19527,10 +19527,10 @@
     "channel_id": "唐山影视",
     "channel_name": "唐山影视",
     "source": "hebeiiptv",
-    "programme_count": 49,
+    "programme_count": 60,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 15:50:00"
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19539,10 +19539,10 @@
     "channel_id": "唐山公共",
     "channel_name": "唐山公共",
     "source": "hebeiiptv",
-    "programme_count": 36,
+    "programme_count": 49,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 14:40:00"
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19551,10 +19551,10 @@
     "channel_id": "廊坊新闻",
     "channel_name": "廊坊新闻",
     "source": "hebeiiptv",
-    "programme_count": 87,
+    "programme_count": 106,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 17:00:00"
+      "end": "2026-10-16 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19563,10 +19563,10 @@
     "channel_id": "廊坊公共",
     "channel_name": "廊坊公共",
     "source": "hebeiiptv",
-    "programme_count": 117,
+    "programme_count": 142,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 14:00:00"
+      "end": "2026-10-16 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19575,10 +19575,10 @@
     "channel_id": "沧州新闻综合",
     "channel_name": "沧州新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 173,
+    "programme_count": 217,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:34:00"
+      "end": "2026-10-16 06:25:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19587,10 +19587,10 @@
     "channel_id": "沧州公共",
     "channel_name": "沧州公共",
     "source": "hebeiiptv",
-    "programme_count": 170,
+    "programme_count": 214,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:33:00"
+      "end": "2026-10-16 06:33:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19599,10 +19599,10 @@
     "channel_id": "沧州影视娱乐",
     "channel_name": "沧州影视娱乐",
     "source": "hebeiiptv",
-    "programme_count": 178,
+    "programme_count": 220,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:45:00"
+      "end": "2026-10-16 06:25:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19611,10 +19611,10 @@
     "channel_id": "保定新闻综合",
     "channel_name": "保定新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 78,
+    "programme_count": 93,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:40:00"
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19623,10 +19623,10 @@
     "channel_id": "保定民生",
     "channel_name": "保定民生",
     "source": "hebeiiptv",
-    "programme_count": 133,
+    "programme_count": 165,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:40:00"
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19635,10 +19635,10 @@
     "channel_id": "衡水新闻综合",
     "channel_name": "衡水新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 82,
+    "programme_count": 106,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 14:04:00"
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19647,10 +19647,10 @@
     "channel_id": "衡水经济科教",
     "channel_name": "衡水经济科教",
     "source": "hebeiiptv",
-    "programme_count": 69,
+    "programme_count": 90,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:55:00"
+      "end": "2026-10-16 07:40:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19659,10 +19659,10 @@
     "channel_id": "邢台综合",
     "channel_name": "邢台综合",
     "source": "hebeiiptv",
-    "programme_count": 67,
+    "programme_count": 87,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:59:00"
+      "end": "2026-10-16 06:29:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19671,10 +19671,10 @@
     "channel_id": "邢台城市生活",
     "channel_name": "邢台城市生活",
     "source": "hebeiiptv",
-    "programme_count": 104,
+    "programme_count": 130,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 14:15:00"
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19683,10 +19683,10 @@
     "channel_id": "邯郸新闻综合",
     "channel_name": "邯郸新闻综合",
     "source": "hebeiiptv",
-    "programme_count": 66,
+    "programme_count": 79,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 17:20:00"
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19695,10 +19695,10 @@
     "channel_id": "邯郸公共",
     "channel_name": "邯郸公共",
     "source": "hebeiiptv",
-    "programme_count": 65,
+    "programme_count": 80,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 17:35:00"
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19707,10 +19707,10 @@
     "channel_id": "邯郸科技教育",
     "channel_name": "邯郸科技教育",
     "source": "hebeiiptv",
-    "programme_count": 69,
+    "programme_count": 85,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 13:49:00"
+      "end": "2026-10-16 00:40:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21677,8 +21677,8 @@
     "source": "51zmt",
     "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:15:00",
-      "end": "2026-10-15 00:15:00"
+      "start": "2026-10-14 00:15:00",
+      "end": "2026-10-16 00:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21689,8 +21689,8 @@
     "source": "51zmt",
     "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21699,10 +21699,10 @@
     "channel_id": "卡酷少儿 (2)",
     "channel_name": "卡酷动画",
     "source": "51zmt",
-    "programme_count": 134,
+    "programme_count": 136,
     "date_range": {
-      "start": "2026-10-13 00:03:00",
-      "end": "2026-10-15 00:08:00"
+      "start": "2026-10-14 00:16:00",
+      "end": "2026-10-16 00:08:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21713,8 +21713,8 @@
     "source": "51zmt",
     "programme_count": 200,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21723,10 +21723,10 @@
     "channel_id": "中国教育1台",
     "channel_name": "中国教育1台",
     "source": "51zmt",
-    "programme_count": 164,
+    "programme_count": 165,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21735,10 +21735,10 @@
     "channel_id": "中国教育2台",
     "channel_name": "中国教育2台",
     "source": "51zmt",
-    "programme_count": 45,
+    "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 06:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21747,10 +21747,10 @@
     "channel_id": "中国教育3台",
     "channel_name": "中国教育3台",
     "source": "51zmt",
-    "programme_count": 59,
+    "programme_count": 60,
     "date_range": {
-      "start": "2026-10-13 00:04:00",
-      "end": "2026-10-15 00:04:00"
+      "start": "2026-10-14 00:04:00",
+      "end": "2026-10-16 00:04:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21759,10 +21759,10 @@
     "channel_id": "凤凰中文",
     "channel_name": "凤凰中文",
     "source": "51zmt",
-    "programme_count": 98,
+    "programme_count": 99,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21773,8 +21773,8 @@
     "source": "51zmt",
     "programme_count": 126,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21783,10 +21783,10 @@
     "channel_id": "天津文艺 (2)",
     "channel_name": "天津文艺",
     "source": "51zmt",
-    "programme_count": 46,
+    "programme_count": 43,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:50:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21795,10 +21795,10 @@
     "channel_id": "天津影视 (2)",
     "channel_name": "天津影视",
     "source": "51zmt",
-    "programme_count": 16,
+    "programme_count": 14,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:08:00"
+      "start": "2026-10-14 00:08:00",
+      "end": "2026-10-16 00:08:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21807,10 +21807,10 @@
     "channel_id": "天津都市频道",
     "channel_name": "天津都市频道",
     "source": "51zmt",
-    "programme_count": 60,
+    "programme_count": 49,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21819,10 +21819,10 @@
     "channel_id": "天津体育 (2)",
     "channel_name": "天津体育",
     "source": "51zmt",
-    "programme_count": 46,
+    "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21831,10 +21831,10 @@
     "channel_id": "天津新闻 (2)",
     "channel_name": "天津新闻",
     "source": "51zmt",
-    "programme_count": 66,
+    "programme_count": 84,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:31:00"
+      "start": "2026-10-14 00:31:00",
+      "end": "2026-10-16 00:31:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21845,8 +21845,8 @@
     "source": "51zmt",
     "programme_count": 50,
     "date_range": {
-      "start": "2026-10-13 00:32:00",
-      "end": "2026-10-15 00:32:00"
+      "start": "2026-10-14 00:32:00",
+      "end": "2026-10-16 00:32:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21857,8 +21857,8 @@
     "source": "51zmt",
     "programme_count": 52,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21867,10 +21867,10 @@
     "channel_id": "江苏休闲体育",
     "channel_name": "江苏休闲体育",
     "source": "51zmt",
-    "programme_count": 97,
+    "programme_count": 96,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:15:00"
+      "start": "2026-10-14 00:15:00",
+      "end": "2026-10-16 00:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21879,10 +21879,10 @@
     "channel_id": "优漫卡通",
     "channel_name": "优漫卡通",
     "source": "51zmt",
-    "programme_count": 55,
+    "programme_count": 58,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21893,20 +21893,20 @@
     "source": "51zmt",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 02:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-15 02:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "江苏综艺",
     "channel_name": "江苏综艺",
     "source": "51zmt",
-    "programme_count": 48,
+    "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 01:30:00",
-      "end": "2026-10-15 00:40:00"
+      "start": "2026-10-14 00:40:00",
+      "end": "2026-10-16 00:40:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21917,8 +21917,8 @@
     "source": "51zmt",
     "programme_count": 36,
     "date_range": {
-      "start": "2026-10-13 00:16:00",
-      "end": "2026-10-15 00:16:00"
+      "start": "2026-10-14 00:16:00",
+      "end": "2026-10-16 00:16:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21929,8 +21929,8 @@
     "source": "51zmt",
     "programme_count": 22,
     "date_range": {
-      "start": "2026-10-13 07:20:00",
-      "end": "2026-10-15 07:20:00"
+      "start": "2026-10-14 07:20:00",
+      "end": "2026-10-16 07:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21941,8 +21941,8 @@
     "source": "51zmt",
     "programme_count": 26,
     "date_range": {
-      "start": "2026-10-13 07:40:00",
-      "end": "2026-10-15 07:40:00"
+      "start": "2026-10-14 07:40:00",
+      "end": "2026-10-16 07:40:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21951,10 +21951,10 @@
     "channel_id": "宁夏公共",
     "channel_name": "宁夏公共",
     "source": "51zmt",
-    "programme_count": 57,
+    "programme_count": 55,
     "date_range": {
-      "start": "2026-10-13 00:50:00",
-      "end": "2026-10-15 00:50:00"
+      "start": "2026-10-14 00:50:00",
+      "end": "2026-10-16 00:45:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21963,10 +21963,10 @@
     "channel_id": "河北都市 (2)",
     "channel_name": "河北都市",
     "source": "51zmt",
-    "programme_count": 37,
+    "programme_count": 21,
     "date_range": {
-      "start": "2026-10-13 01:45:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21977,8 +21977,8 @@
     "source": "51zmt",
     "programme_count": 27,
     "date_range": {
-      "start": "2026-10-13 00:47:00",
-      "end": "2026-10-15 06:30:00"
+      "start": "2026-10-14 06:30:00",
+      "end": "2026-10-16 06:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21987,10 +21987,10 @@
     "channel_id": "河北经济",
     "channel_name": "河北经济",
     "source": "51zmt",
-    "programme_count": 27,
+    "programme_count": 16,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 06:00:00"
+      "start": "2026-10-14 06:00:00",
+      "end": "2026-10-16 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21999,10 +21999,10 @@
     "channel_id": "浙江经视",
     "channel_name": "浙江经视",
     "source": "51zmt",
-    "programme_count": 116,
+    "programme_count": 81,
     "date_range": {
-      "start": "2026-10-13 00:23:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:33:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22013,8 +22013,8 @@
     "source": "51zmt",
     "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22025,8 +22025,8 @@
     "source": "51zmt",
     "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22035,10 +22035,10 @@
     "channel_id": "浙江民生休闲 (2)",
     "channel_name": "浙江民生休闲",
     "source": "51zmt",
-    "programme_count": 56,
+    "programme_count": 50,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22047,10 +22047,10 @@
     "channel_id": "浙江公共新闻",
     "channel_name": "浙江公共新闻",
     "source": "51zmt",
-    "programme_count": 70,
+    "programme_count": 59,
     "date_range": {
-      "start": "2026-10-13 02:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 02:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22061,8 +22061,8 @@
     "source": "51zmt",
     "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22071,10 +22071,10 @@
     "channel_id": "山东齐鲁",
     "channel_name": "山东齐鲁",
     "source": "51zmt",
-    "programme_count": 81,
+    "programme_count": 78,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-15 00:01:00"
+      "start": "2026-10-14 00:07:00",
+      "end": "2026-10-16 00:22:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22083,10 +22083,10 @@
     "channel_id": "山东体育",
     "channel_name": "山东体育",
     "source": "51zmt",
-    "programme_count": 78,
+    "programme_count": 82,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22097,8 +22097,8 @@
     "source": "51zmt",
     "programme_count": 102,
     "date_range": {
-      "start": "2026-10-13 00:06:00",
-      "end": "2026-10-14 23:55:00"
+      "start": "2026-10-14 00:06:00",
+      "end": "2026-10-15 23:55:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22109,8 +22109,8 @@
     "source": "51zmt",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-14 23:37:00"
+      "start": "2026-10-14 00:02:00",
+      "end": "2026-10-15 23:37:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22119,10 +22119,10 @@
     "channel_id": "山东综艺",
     "channel_name": "山东综艺",
     "source": "51zmt",
-    "programme_count": 63,
+    "programme_count": 62,
     "date_range": {
-      "start": "2026-10-13 00:44:00",
-      "end": "2026-10-15 01:00:00"
+      "start": "2026-10-14 00:23:00",
+      "end": "2026-10-16 00:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22131,10 +22131,10 @@
     "channel_id": "山东生活",
     "channel_name": "山东生活",
     "source": "51zmt",
-    "programme_count": 89,
+    "programme_count": 90,
     "date_range": {
-      "start": "2026-10-13 00:04:00",
-      "end": "2026-10-15 00:19:00"
+      "start": "2026-10-14 00:19:00",
+      "end": "2026-10-16 00:29:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22145,8 +22145,8 @@
     "source": "51zmt",
     "programme_count": 50,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22157,8 +22157,8 @@
     "source": "51zmt",
     "programme_count": 30,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 05:45:00",
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22167,10 +22167,10 @@
     "channel_id": "河南电视剧",
     "channel_name": "河南电视剧",
     "source": "51zmt",
-    "programme_count": 20,
+    "programme_count": 17,
     "date_range": {
-      "start": "2026-10-13 00:40:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22179,10 +22179,10 @@
     "channel_id": "河南新闻",
     "channel_name": "河南新闻",
     "source": "51zmt",
-    "programme_count": 78,
+    "programme_count": 85,
     "date_range": {
-      "start": "2026-10-13 00:18:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:18:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22193,8 +22193,8 @@
     "source": "51zmt",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 00:11:00",
-      "end": "2026-10-15 00:11:00"
+      "start": "2026-10-14 00:11:00",
+      "end": "2026-10-16 00:11:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22205,8 +22205,8 @@
     "source": "51zmt",
     "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 00:20:00",
-      "end": "2026-10-15 00:20:00"
+      "start": "2026-10-14 00:20:00",
+      "end": "2026-10-16 00:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22217,8 +22217,8 @@
     "source": "51zmt",
     "programme_count": 76,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22229,8 +22229,8 @@
     "source": "51zmt",
     "programme_count": 33,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22241,8 +22241,8 @@
     "source": "51zmt",
     "programme_count": 29,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22251,10 +22251,10 @@
     "channel_id": "广西影视",
     "channel_name": "广西影视",
     "source": "51zmt",
-    "programme_count": 38,
+    "programme_count": 37,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22265,8 +22265,8 @@
     "source": "51zmt",
     "programme_count": 67,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22277,8 +22277,8 @@
     "source": "51zmt",
     "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 00:09:00",
-      "end": "2026-10-15 00:09:00"
+      "start": "2026-10-14 00:09:00",
+      "end": "2026-10-16 00:09:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22287,10 +22287,10 @@
     "channel_id": "云南都市",
     "channel_name": "云南都市",
     "source": "51zmt",
-    "programme_count": 32,
+    "programme_count": 39,
     "date_range": {
-      "start": "2026-10-13 02:12:00",
-      "end": "2026-10-15 02:12:00"
+      "start": "2026-10-14 02:12:00",
+      "end": "2026-10-16 02:12:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22301,8 +22301,8 @@
     "source": "51zmt",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:18:00",
-      "end": "2026-10-15 00:18:00"
+      "start": "2026-10-14 00:18:00",
+      "end": "2026-10-16 00:18:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22313,8 +22313,8 @@
     "source": "51zmt",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 00:26:00",
-      "end": "2026-10-15 00:26:00"
+      "start": "2026-10-14 00:26:00",
+      "end": "2026-10-16 00:26:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22323,10 +22323,10 @@
     "channel_id": "安徽影视",
     "channel_name": "安徽影视",
     "source": "51zmt",
-    "programme_count": 34,
+    "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:07:00"
+      "start": "2026-10-14 00:07:00",
+      "end": "2026-10-16 00:07:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22335,10 +22335,10 @@
     "channel_id": "安徽公共",
     "channel_name": "安徽公共",
     "source": "51zmt",
-    "programme_count": 76,
+    "programme_count": 75,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22349,8 +22349,8 @@
     "source": "51zmt",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-15 00:02:00"
+      "start": "2026-10-14 00:02:00",
+      "end": "2026-10-16 00:02:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22361,8 +22361,8 @@
     "source": "51zmt",
     "programme_count": 35,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:35:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22371,10 +22371,10 @@
     "channel_id": "湖北影视",
     "channel_name": "湖北影视",
     "source": "51zmt",
-    "programme_count": 37,
+    "programme_count": 52,
     "date_range": {
-      "start": "2026-10-13 01:35:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22383,10 +22383,10 @@
     "channel_id": "湖北教育",
     "channel_name": "湖北教育",
     "source": "51zmt",
-    "programme_count": 43,
+    "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 02:54:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22395,10 +22395,10 @@
     "channel_id": "湖北经济",
     "channel_name": "湖北经济",
     "source": "51zmt",
-    "programme_count": 30,
+    "programme_count": 29,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 00:06:00"
+      "start": "2026-10-14 00:06:00",
+      "end": "2026-10-16 00:06:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22409,8 +22409,8 @@
     "source": "51zmt",
     "programme_count": 43,
     "date_range": {
-      "start": "2026-10-13 00:39:00",
-      "end": "2026-10-15 00:39:00"
+      "start": "2026-10-14 00:39:00",
+      "end": "2026-10-16 00:39:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22421,8 +22421,8 @@
     "source": "51zmt",
     "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 01:20:00",
-      "end": "2026-10-15 01:20:00"
+      "start": "2026-10-14 01:20:00",
+      "end": "2026-10-16 01:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22433,8 +22433,8 @@
     "source": "51zmt",
     "programme_count": 70,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22443,10 +22443,10 @@
     "channel_id": "海南公共",
     "channel_name": "海南公共",
     "source": "51zmt",
-    "programme_count": 35,
+    "programme_count": 33,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22455,10 +22455,10 @@
     "channel_id": "重庆影视",
     "channel_name": "重庆影视",
     "source": "51zmt",
-    "programme_count": 44,
+    "programme_count": 50,
     "date_range": {
-      "start": "2026-10-13 00:04:00",
-      "end": "2026-10-15 00:12:00"
+      "start": "2026-10-14 00:01:00",
+      "end": "2026-10-16 00:07:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22469,8 +22469,8 @@
     "source": "51zmt",
     "programme_count": 80,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:11:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22479,10 +22479,10 @@
     "channel_id": "重庆少儿",
     "channel_name": "重庆少儿",
     "source": "51zmt",
-    "programme_count": 35,
+    "programme_count": 31,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 01:00:00"
+      "start": "2026-10-14 01:00:00",
+      "end": "2026-10-16 01:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22493,8 +22493,8 @@
     "source": "51zmt",
     "programme_count": 36,
     "date_range": {
-      "start": "2026-10-13 00:46:00",
-      "end": "2026-10-15 00:46:00"
+      "start": "2026-10-14 00:46:00",
+      "end": "2026-10-16 00:46:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22505,8 +22505,8 @@
     "source": "51zmt",
     "programme_count": 36,
     "date_range": {
-      "start": "2026-10-13 00:13:00",
-      "end": "2026-10-15 00:13:00"
+      "start": "2026-10-14 00:13:00",
+      "end": "2026-10-16 00:13:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22517,8 +22517,8 @@
     "source": "51zmt",
     "programme_count": 22,
     "date_range": {
-      "start": "2026-10-13 00:07:00",
-      "end": "2026-10-15 00:07:00"
+      "start": "2026-10-14 00:07:00",
+      "end": "2026-10-16 00:07:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22527,10 +22527,10 @@
     "channel_id": "北京纪实科教 (2)",
     "channel_name": "北京纪实",
     "source": "51zmt",
-    "programme_count": 84,
+    "programme_count": 85,
     "date_range": {
-      "start": "2026-10-13 00:18:00",
-      "end": "2026-10-15 00:34:00"
+      "start": "2026-10-14 00:32:00",
+      "end": "2026-10-16 00:22:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22541,8 +22541,8 @@
     "source": "51zmt",
     "programme_count": 62,
     "date_range": {
-      "start": "2026-10-13 00:03:00",
-      "end": "2026-10-15 00:03:00"
+      "start": "2026-10-14 00:03:00",
+      "end": "2026-10-16 00:03:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22551,10 +22551,10 @@
     "channel_id": "北京影视 (2)",
     "channel_name": "BTV影视",
     "source": "51zmt",
-    "programme_count": 60,
+    "programme_count": 61,
     "date_range": {
-      "start": "2026-10-13 00:39:00",
-      "end": "2026-10-15 00:03:00"
+      "start": "2026-10-14 00:03:00",
+      "end": "2026-10-16 00:28:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22563,10 +22563,10 @@
     "channel_id": "北京财经 (2)",
     "channel_name": "BTV财经",
     "source": "51zmt",
-    "programme_count": 49,
+    "programme_count": 50,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 05:45:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22577,8 +22577,8 @@
     "source": "51zmt",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:38:00",
-      "end": "2026-10-15 00:28:00"
+      "start": "2026-10-14 00:28:00",
+      "end": "2026-10-16 00:28:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22589,8 +22589,8 @@
     "source": "51zmt",
     "programme_count": 56,
     "date_range": {
-      "start": "2026-10-13 00:50:00",
-      "end": "2026-10-15 00:50:00"
+      "start": "2026-10-14 00:50:00",
+      "end": "2026-10-16 00:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22601,8 +22601,8 @@
     "source": "51zmt",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:08:00",
-      "end": "2026-10-15 00:08:00"
+      "start": "2026-10-14 00:08:00",
+      "end": "2026-10-16 00:08:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22613,8 +22613,8 @@
     "source": "51zmt",
     "programme_count": 66,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22623,10 +22623,10 @@
     "channel_id": "内蒙新闻综合",
     "channel_name": "内蒙新闻综合",
     "source": "51zmt",
-    "programme_count": 35,
+    "programme_count": 34,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:45:00"
+      "start": "2026-10-14 00:45:00",
+      "end": "2026-10-16 01:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22637,8 +22637,8 @@
     "source": "51zmt",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22649,8 +22649,8 @@
     "source": "51zmt",
     "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:01:00",
-      "end": "2026-10-15 00:01:00"
+      "start": "2026-10-14 06:31:00",
+      "end": "2026-10-16 00:01:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22661,8 +22661,8 @@
     "source": "51zmt",
     "programme_count": 18,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22673,8 +22673,8 @@
     "source": "51zmt",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 01:35:00",
-      "end": "2026-10-15 01:35:00"
+      "start": "2026-10-14 01:35:00",
+      "end": "2026-10-16 01:35:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22685,8 +22685,8 @@
     "source": "51zmt",
     "programme_count": 56,
     "date_range": {
-      "start": "2026-10-13 05:10:00",
-      "end": "2026-10-15 05:10:00"
+      "start": "2026-10-14 05:10:00",
+      "end": "2026-10-16 05:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22697,8 +22697,8 @@
     "source": "51zmt",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 00:33:00",
-      "end": "2026-10-15 00:33:00"
+      "start": "2026-10-14 00:33:00",
+      "end": "2026-10-16 00:33:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22709,8 +22709,8 @@
     "source": "51zmt",
     "programme_count": 36,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-15 00:02:00"
+      "start": "2026-10-14 00:02:00",
+      "end": "2026-10-16 00:02:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22721,8 +22721,8 @@
     "source": "51zmt",
     "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:16:00",
-      "end": "2026-10-15 00:16:00"
+      "start": "2026-10-14 00:16:00",
+      "end": "2026-10-16 00:16:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22733,8 +22733,8 @@
     "source": "51zmt",
     "programme_count": 66,
     "date_range": {
-      "start": "2026-10-13 00:54:00",
-      "end": "2026-10-15 00:54:00"
+      "start": "2026-10-14 00:54:00",
+      "end": "2026-10-16 00:54:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22745,8 +22745,8 @@
     "source": "51zmt",
     "programme_count": 86,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22755,10 +22755,10 @@
     "channel_id": "新视觉",
     "channel_name": "新视觉",
     "source": "51zmt",
-    "programme_count": 54,
+    "programme_count": 58,
     "date_range": {
-      "start": "2026-10-13 00:27:00",
-      "end": "2026-10-15 00:40:00"
+      "start": "2026-10-14 00:52:00",
+      "end": "2026-10-16 00:42:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22767,10 +22767,10 @@
     "channel_id": "法治天地",
     "channel_name": "法治天地",
     "source": "51zmt",
-    "programme_count": 93,
+    "programme_count": 104,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22779,10 +22779,10 @@
     "channel_id": "金色学堂",
     "channel_name": "金色",
     "source": "51zmt",
-    "programme_count": 189,
+    "programme_count": 217,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22793,8 +22793,8 @@
     "source": "51zmt",
     "programme_count": 131,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22803,10 +22803,10 @@
     "channel_id": "欢笑剧场",
     "channel_name": "欢笑剧场",
     "source": "51zmt",
-    "programme_count": 78,
+    "programme_count": 86,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:17:00"
+      "start": "2026-10-14 00:09:00",
+      "end": "2026-10-16 00:22:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22815,10 +22815,10 @@
     "channel_id": "动漫秀场",
     "channel_name": "动漫秀场",
     "source": "51zmt",
-    "programme_count": 199,
+    "programme_count": 200,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22827,10 +22827,10 @@
     "channel_id": "生活时尚",
     "channel_name": "生活时尚",
     "source": "51zmt",
-    "programme_count": 210,
+    "programme_count": 249,
     "date_range": {
-      "start": "2026-10-13 00:14:00",
-      "end": "2026-10-15 00:14:00"
+      "start": "2026-10-14 00:12:00",
+      "end": "2026-10-16 00:02:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22839,10 +22839,10 @@
     "channel_id": "都市剧场",
     "channel_name": "都市剧场",
     "source": "51zmt",
-    "programme_count": 94,
+    "programme_count": 108,
     "date_range": {
-      "start": "2026-10-13 00:27:00",
-      "end": "2026-10-15 01:46:00"
+      "start": "2026-10-14 00:02:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22851,10 +22851,10 @@
     "channel_id": "游戏风云",
     "channel_name": "游戏风云",
     "source": "51zmt",
-    "programme_count": 74,
+    "programme_count": 84,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22863,10 +22863,10 @@
     "channel_id": "上海新闻综合 (3)",
     "channel_name": "上视新闻频道",
     "source": "51zmt",
-    "programme_count": 73,
+    "programme_count": 74,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 05:32:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22875,10 +22875,10 @@
     "channel_id": "第一财经 (3)",
     "channel_name": "第一财经",
     "source": "51zmt",
-    "programme_count": 66,
+    "programme_count": 65,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22887,10 +22887,10 @@
     "channel_id": "东方影视 (2)",
     "channel_name": "东方影视",
     "source": "51zmt",
-    "programme_count": 50,
+    "programme_count": 53,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22899,9 +22899,9 @@
     "channel_id": "五星体育频道",
     "channel_name": "五星体育频道",
     "source": "51zmt",
-    "programme_count": 57,
+    "programme_count": 31,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-14 01:17:00",
       "end": "2026-10-15 02:00:00"
     },
     "has_programmes": true,
@@ -22913,8 +22913,8 @@
     "source": "51zmt",
     "programme_count": 108,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22925,8 +22925,8 @@
     "source": "51zmt",
     "programme_count": 22,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22937,8 +22937,8 @@
     "source": "51zmt",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22949,8 +22949,8 @@
     "source": "51zmt",
     "programme_count": 20,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22961,8 +22961,8 @@
     "source": "51zmt",
     "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22971,10 +22971,10 @@
     "channel_id": "金鹰纪实",
     "channel_name": "金鹰纪实",
     "source": "51zmt",
-    "programme_count": 66,
+    "programme_count": 67,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22985,8 +22985,8 @@
     "source": "51zmt",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -22997,8 +22997,8 @@
     "source": "51zmt",
     "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 06:10:00",
-      "end": "2026-10-15 06:10:00"
+      "start": "2026-10-14 06:10:00",
+      "end": "2026-10-16 06:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23007,10 +23007,10 @@
     "channel_id": "SCTV4",
     "channel_name": "SCTV4",
     "source": "51zmt",
-    "programme_count": 72,
+    "programme_count": 73,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:20:00"
+      "start": "2026-10-14 00:20:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23021,8 +23021,8 @@
     "source": "51zmt",
     "programme_count": 14,
     "date_range": {
-      "start": "2026-10-13 07:00:00",
-      "end": "2026-10-15 07:00:00"
+      "start": "2026-10-14 07:00:00",
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23031,10 +23031,10 @@
     "channel_id": "SCTV7",
     "channel_name": "SCTV7",
     "source": "51zmt",
-    "programme_count": 29,
+    "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 03:20:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23045,8 +23045,8 @@
     "source": "51zmt",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 02:00:00",
-      "end": "2026-10-15 02:00:00"
+      "start": "2026-10-14 02:00:00",
+      "end": "2026-10-16 02:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23057,8 +23057,8 @@
     "source": "51zmt",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23067,10 +23067,10 @@
     "channel_id": "CDTV1",
     "channel_name": "CDTV1",
     "source": "51zmt",
-    "programme_count": 57,
+    "programme_count": 56,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23081,8 +23081,8 @@
     "source": "51zmt",
     "programme_count": 82,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:05:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23091,10 +23091,10 @@
     "channel_id": "CDTV3",
     "channel_name": "CDTV3",
     "source": "51zmt",
-    "programme_count": 64,
+    "programme_count": 61,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23105,8 +23105,8 @@
     "source": "51zmt",
     "programme_count": 34,
     "date_range": {
-      "start": "2026-10-13 00:03:00",
-      "end": "2026-10-15 00:03:00"
+      "start": "2026-10-14 00:03:00",
+      "end": "2026-10-16 00:03:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23115,10 +23115,10 @@
     "channel_id": "CDTV5",
     "channel_name": "CDTV5",
     "source": "51zmt",
-    "programme_count": 66,
+    "programme_count": 67,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23129,8 +23129,8 @@
     "source": "51zmt",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23141,8 +23141,8 @@
     "source": "51zmt",
     "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 01:10:00",
-      "end": "2026-10-15 01:10:00"
+      "start": "2026-10-14 01:10:00",
+      "end": "2026-10-16 01:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23151,10 +23151,10 @@
     "channel_id": "辽宁都市",
     "channel_name": "辽宁都市",
     "source": "51zmt",
-    "programme_count": 53,
+    "programme_count": 52,
     "date_range": {
-      "start": "2026-10-13 00:36:00",
-      "end": "2026-10-15 00:37:00"
+      "start": "2026-10-14 00:36:00",
+      "end": "2026-10-16 00:36:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23163,10 +23163,10 @@
     "channel_id": "辽宁影视剧",
     "channel_name": "辽宁影视剧",
     "source": "51zmt",
-    "programme_count": 164,
+    "programme_count": 162,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 00:35:00"
+      "start": "2026-10-14 00:12:00",
+      "end": "2026-10-16 00:03:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23175,10 +23175,10 @@
     "channel_id": "辽宁青少",
     "channel_name": "辽宁青少",
     "source": "51zmt",
-    "programme_count": 66,
+    "programme_count": 67,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 00:18:00"
+      "start": "2026-10-14 00:19:00",
+      "end": "2026-10-16 00:19:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23187,10 +23187,10 @@
     "channel_id": "辽宁生活",
     "channel_name": "辽宁生活",
     "source": "51zmt",
-    "programme_count": 53,
+    "programme_count": 52,
     "date_range": {
-      "start": "2026-10-13 00:26:00",
-      "end": "2026-10-15 00:26:00"
+      "start": "2026-10-14 00:07:00",
+      "end": "2026-10-16 00:26:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23201,8 +23201,8 @@
     "source": "51zmt",
     "programme_count": 70,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23213,8 +23213,8 @@
     "source": "51zmt",
     "programme_count": 80,
     "date_range": {
-      "start": "2026-10-13 00:21:00",
-      "end": "2026-10-15 00:22:00"
+      "start": "2026-10-14 00:21:00",
+      "end": "2026-10-16 00:21:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23223,10 +23223,10 @@
     "channel_id": "辽宁体育",
     "channel_name": "辽宁体育",
     "source": "51zmt",
-    "programme_count": 70,
+    "programme_count": 71,
     "date_range": {
-      "start": "2026-10-13 01:33:00",
-      "end": "2026-10-15 01:41:00"
+      "start": "2026-10-14 00:03:00",
+      "end": "2026-10-16 00:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23235,10 +23235,10 @@
     "channel_id": "辽宁经济",
     "channel_name": "辽宁经济",
     "source": "51zmt",
-    "programme_count": 52,
+    "programme_count": 51,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:05:00"
+      "start": "2026-10-14 06:00:00",
+      "end": "2026-10-16 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23247,10 +23247,10 @@
     "channel_id": "嘉佳卡通 (2)",
     "channel_name": "嘉佳卡通",
     "source": "51zmt",
-    "programme_count": 55,
+    "programme_count": 51,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:03:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23259,10 +23259,10 @@
     "channel_id": "广东体育 (2)",
     "channel_name": "广东体育",
     "source": "51zmt",
-    "programme_count": 46,
+    "programme_count": 51,
     "date_range": {
-      "start": "2026-10-13 00:51:00",
-      "end": "2026-10-15 00:01:00"
+      "start": "2026-10-14 00:18:00",
+      "end": "2026-10-16 01:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23273,8 +23273,8 @@
     "source": "51zmt",
     "programme_count": 79,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23285,8 +23285,8 @@
     "source": "51zmt",
     "programme_count": 56,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:05:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23295,10 +23295,10 @@
     "channel_id": "CHC高清电影",
     "channel_name": "CHC高清电影",
     "source": "51zmt",
-    "programme_count": 31,
+    "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23309,8 +23309,8 @@
     "source": "51zmt",
     "programme_count": 56,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:05:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23319,10 +23319,10 @@
     "channel_id": "求索记录",
     "channel_name": "求索记录",
     "source": "51zmt",
-    "programme_count": 72,
+    "programme_count": 74,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23331,10 +23331,10 @@
     "channel_id": "CHC动作电影 (2)",
     "channel_name": "CHC动作电影",
     "source": "51zmt",
-    "programme_count": 55,
+    "programme_count": 57,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-15 01:15:00"
+      "start": "2026-10-14 00:09:00",
+      "end": "2026-10-16 01:02:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23345,8 +23345,8 @@
     "source": "51zmt",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:06:00",
-      "end": "2026-10-15 01:43:00"
+      "start": "2026-10-14 01:13:00",
+      "end": "2026-10-16 00:22:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23357,8 +23357,8 @@
     "source": "51zmt",
     "programme_count": 24,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:05:00"
+      "start": "2026-10-14 00:05:00",
+      "end": "2026-10-16 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23367,10 +23367,10 @@
     "channel_id": "风云音乐 (2)",
     "channel_name": "风云音乐",
     "source": "51zmt",
-    "programme_count": 45,
+    "programme_count": 41,
     "date_range": {
-      "start": "2026-10-13 00:09:00",
-      "end": "2026-10-15 00:04:00"
+      "start": "2026-10-14 00:23:00",
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23381,8 +23381,8 @@
     "source": "51zmt",
     "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 00:18:00",
-      "end": "2026-10-15 00:18:00"
+      "start": "2026-10-14 00:18:00",
+      "end": "2026-10-16 00:18:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23393,8 +23393,8 @@
     "source": "51zmt",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 07:01:00",
-      "end": "2026-10-15 07:01:00"
+      "start": "2026-10-14 07:01:00",
+      "end": "2026-10-16 07:01:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23405,8 +23405,8 @@
     "source": "51zmt",
     "programme_count": 82,
     "date_range": {
-      "start": "2026-10-13 00:35:00",
-      "end": "2026-10-15 00:35:00"
+      "start": "2026-10-14 00:35:00",
+      "end": "2026-10-16 00:35:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23415,10 +23415,10 @@
     "channel_id": "怀旧剧场 (2)",
     "channel_name": "怀旧剧场",
     "source": "51zmt",
-    "programme_count": 38,
+    "programme_count": 37,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 00:19:00"
+      "start": "2026-10-14 00:19:00",
+      "end": "2026-10-16 00:07:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23429,8 +23429,8 @@
     "source": "51zmt",
     "programme_count": 74,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:07:00",
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23441,8 +23441,8 @@
     "source": "51zmt",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:06:00"
+      "start": "2026-10-14 08:00:00",
+      "end": "2026-10-16 08:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23453,8 +23453,8 @@
     "source": "51zmt",
     "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 00:29:00",
-      "end": "2026-10-15 00:32:00"
+      "start": "2026-10-14 00:32:00",
+      "end": "2026-10-16 00:52:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23463,10 +23463,10 @@
     "channel_id": "央视精品 (2)",
     "channel_name": "央视精品",
     "source": "51zmt",
-    "programme_count": 57,
+    "programme_count": 58,
     "date_range": {
-      "start": "2026-10-13 01:15:00",
-      "end": "2026-10-15 00:17:00"
+      "start": "2026-10-14 00:17:00",
+      "end": "2026-10-16 00:26:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23475,10 +23475,10 @@
     "channel_id": "汽摩 (2)",
     "channel_name": "汽摩",
     "source": "51zmt",
-    "programme_count": 331,
+    "programme_count": 330,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23487,10 +23487,10 @@
     "channel_id": "天元围棋 (3)",
     "channel_name": "天元围棋",
     "source": "51zmt",
-    "programme_count": 65,
+    "programme_count": 64,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23501,8 +23501,8 @@
     "source": "51zmt",
     "programme_count": 110,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23513,8 +23513,8 @@
     "source": "51zmt",
     "programme_count": 52,
     "date_range": {
-      "start": "2026-10-13 08:30:00",
-      "end": "2026-10-15 08:30:00"
+      "start": "2026-10-14 08:30:00",
+      "end": "2026-10-16 08:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23523,10 +23523,10 @@
     "channel_id": "央视台球 (2)",
     "channel_name": "央视台球",
     "source": "51zmt",
-    "programme_count": 49,
+    "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:17:00",
-      "end": "2026-10-15 00:06:00"
+      "start": "2026-10-14 00:01:00",
+      "end": "2026-10-16 00:34:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23537,8 +23537,8 @@
     "source": "51zmt",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23547,10 +23547,10 @@
     "channel_id": "发现之旅 (3)",
     "channel_name": "发现之旅",
     "source": "51zmt",
-    "programme_count": 101,
+    "programme_count": 102,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23561,8 +23561,8 @@
     "source": "51zmt",
     "programme_count": 144,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23573,8 +23573,8 @@
     "source": "51zmt",
     "programme_count": 112,
     "date_range": {
-      "start": "2026-10-13 00:02:00",
-      "end": "2026-10-15 00:02:00"
+      "start": "2026-10-14 00:02:00",
+      "end": "2026-10-16 00:02:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23585,8 +23585,8 @@
     "source": "51zmt",
     "programme_count": 74,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23595,10 +23595,10 @@
     "channel_id": "老故事 (3)",
     "channel_name": "老故事",
     "source": "51zmt",
-    "programme_count": 124,
+    "programme_count": 119,
     "date_range": {
-      "start": "2026-10-13 00:04:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:04:00",
+      "end": "2026-10-16 00:01:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23609,8 +23609,8 @@
     "source": "51zmt",
     "programme_count": 36,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23621,8 +23621,8 @@
     "source": "51zmt",
     "programme_count": 122,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23633,8 +23633,8 @@
     "source": "51zmt",
     "programme_count": 107,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23645,8 +23645,8 @@
     "source": "51zmt",
     "programme_count": 152,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23657,8 +23657,8 @@
     "source": "51zmt",
     "programme_count": 76,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23667,10 +23667,10 @@
     "channel_id": "珠江频道",
     "channel_name": "珠江频道",
     "source": "51zmt",
-    "programme_count": 42,
+    "programme_count": 41,
     "date_range": {
-      "start": "2026-10-13 00:05:00",
-      "end": "2026-10-15 00:09:00"
+      "start": "2026-10-14 00:04:00",
+      "end": "2026-10-16 00:05:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23681,8 +23681,8 @@
     "source": "51zmt",
     "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 01:15:00",
-      "end": "2026-10-15 01:15:00"
+      "start": "2026-10-14 01:15:00",
+      "end": "2026-10-16 01:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23691,10 +23691,10 @@
     "channel_id": "中国教育4台",
     "channel_name": "中国教育4台",
     "source": "51zmt",
-    "programme_count": 104,
+    "programme_count": 133,
     "date_range": {
-      "start": "2026-10-13 00:15:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23705,8 +23705,8 @@
     "source": "51zmt",
     "programme_count": 31,
     "date_range": {
-      "start": "2026-10-13 00:28:00",
-      "end": "2026-10-15 00:28:00"
+      "start": "2026-10-14 00:29:00",
+      "end": "2026-10-16 00:29:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23717,8 +23717,8 @@
     "source": "51zmt",
     "programme_count": 34,
     "date_range": {
-      "start": "2026-10-13 03:25:00",
-      "end": "2026-10-14 23:40:00"
+      "start": "2026-10-14 03:25:00",
+      "end": "2026-10-15 23:40:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23729,8 +23729,8 @@
     "source": "51zmt",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 01:00:00",
-      "end": "2026-10-15 01:00:00"
+      "start": "2026-10-14 01:00:00",
+      "end": "2026-10-16 01:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23741,8 +23741,8 @@
     "source": "51zmt",
     "programme_count": 24,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23751,10 +23751,10 @@
     "channel_id": "新疆哈语",
     "channel_name": "新疆哈语",
     "source": "51zmt",
-    "programme_count": 43,
+    "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23763,10 +23763,10 @@
     "channel_id": "新疆维语",
     "channel_name": "新疆维语",
     "source": "51zmt",
-    "programme_count": 45,
+    "programme_count": 47,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23775,10 +23775,10 @@
     "channel_id": "新疆汉语",
     "channel_name": "新疆汉语",
     "source": "51zmt",
-    "programme_count": 27,
+    "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 01:10:00",
-      "end": "2026-10-15 01:10:00"
+      "start": "2026-10-14 01:10:00",
+      "end": "2026-10-16 01:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23787,10 +23787,10 @@
     "channel_id": "新疆体育",
     "channel_name": "新疆体育",
     "source": "51zmt",
-    "programme_count": 42,
+    "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 00:08:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:08:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23801,8 +23801,8 @@
     "source": "51zmt",
     "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23813,8 +23813,8 @@
     "source": "51zmt",
     "programme_count": 25,
     "date_range": {
-      "start": "2026-10-13 02:30:00",
-      "end": "2026-10-15 02:30:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 02:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23823,10 +23823,10 @@
     "channel_id": "青海都市",
     "channel_name": "青海都市",
     "source": "51zmt",
-    "programme_count": 29,
+    "programme_count": 30,
     "date_range": {
-      "start": "2026-10-13 06:59:00",
-      "end": "2026-10-15 06:59:00"
+      "start": "2026-10-14 06:59:00",
+      "end": "2026-10-16 06:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23837,8 +23837,8 @@
     "source": "51zmt",
     "programme_count": 42,
     "date_range": {
-      "start": "2026-10-13 00:48:00",
-      "end": "2026-10-15 00:48:00"
+      "start": "2026-10-14 00:48:00",
+      "end": "2026-10-16 00:48:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23849,8 +23849,8 @@
     "source": "51zmt",
     "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 00:15:00",
-      "end": "2026-10-15 00:15:00"
+      "start": "2026-10-14 00:15:00",
+      "end": "2026-10-16 00:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23861,8 +23861,8 @@
     "source": "51zmt",
     "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23873,8 +23873,8 @@
     "source": "51zmt",
     "programme_count": 34,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23883,10 +23883,10 @@
     "channel_id": "陕西银龄",
     "channel_name": "陕西银龄",
     "source": "51zmt",
-    "programme_count": 33,
+    "programme_count": 30,
     "date_range": {
-      "start": "2026-10-13 07:00:00",
-      "end": "2026-10-15 07:00:00"
+      "start": "2026-10-14 07:00:00",
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23897,8 +23897,8 @@
     "source": "51zmt",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 07:00:00",
-      "end": "2026-10-15 07:00:00"
+      "start": "2026-10-14 07:00:00",
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23909,8 +23909,8 @@
     "source": "51zmt",
     "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 07:02:00",
-      "end": "2026-10-15 07:02:00"
+      "start": "2026-10-14 07:02:00",
+      "end": "2026-10-16 07:02:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23921,8 +23921,8 @@
     "source": "51zmt",
     "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:13:00",
-      "end": "2026-10-15 00:13:00"
+      "start": "2026-10-14 00:13:00",
+      "end": "2026-10-16 00:13:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23933,8 +23933,8 @@
     "source": "51zmt",
     "programme_count": 32,
     "date_range": {
-      "start": "2026-10-13 01:17:00",
-      "end": "2026-10-15 00:01:00"
+      "start": "2026-10-14 00:53:00",
+      "end": "2026-10-16 01:53:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23945,8 +23945,8 @@
     "source": "51zmt",
     "programme_count": 34,
     "date_range": {
-      "start": "2026-10-13 06:54:00",
-      "end": "2026-10-15 06:54:00"
+      "start": "2026-10-14 06:54:00",
+      "end": "2026-10-16 06:54:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23957,8 +23957,8 @@
     "source": "51zmt",
     "programme_count": 24,
     "date_range": {
-      "start": "2026-10-13 05:30:00",
-      "end": "2026-10-15 05:30:00"
+      "start": "2026-10-14 05:30:00",
+      "end": "2026-10-16 05:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23969,8 +23969,8 @@
     "source": "51zmt",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:18:00",
-      "end": "2026-10-15 00:18:00"
+      "start": "2026-10-14 00:18:00",
+      "end": "2026-10-16 00:18:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23979,10 +23979,10 @@
     "channel_id": "重庆红岩文化",
     "channel_name": "重庆红岩文化",
     "source": "51zmt",
-    "programme_count": 48,
+    "programme_count": 33,
     "date_range": {
-      "start": "2026-10-13 00:03:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:27:00",
+      "end": "2026-10-16 00:27:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23991,10 +23991,10 @@
     "channel_id": "重庆新农村",
     "channel_name": "重庆新农村",
     "source": "51zmt",
-    "programme_count": 31,
+    "programme_count": 37,
     "date_range": {
-      "start": "2026-10-13 00:06:00",
-      "end": "2026-10-15 00:06:00"
+      "start": "2026-10-14 00:06:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24005,8 +24005,8 @@
     "source": "51zmt",
     "programme_count": 56,
     "date_range": {
-      "start": "2026-10-13 00:20:00",
-      "end": "2026-10-15 00:20:00"
+      "start": "2026-10-14 11:29:00",
+      "end": "2026-10-16 00:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24017,8 +24017,8 @@
     "source": "51zmt",
     "programme_count": 30,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24029,8 +24029,8 @@
     "source": "51zmt",
     "programme_count": 20,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24041,8 +24041,8 @@
     "source": "51zmt",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24051,10 +24051,10 @@
     "channel_id": "广东民生 (2)",
     "channel_name": "广东民生",
     "source": "51zmt",
-    "programme_count": 68,
+    "programme_count": 69,
     "date_range": {
-      "start": "2026-10-13 00:24:00",
-      "end": "2026-10-15 00:24:00"
+      "start": "2026-10-14 00:24:00",
+      "end": "2026-10-16 00:24:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24065,8 +24065,8 @@
     "source": "51zmt",
     "programme_count": 17,
     "date_range": {
-      "start": "2026-10-13 07:30:00",
-      "end": "2026-10-15 07:30:00"
+      "start": "2026-10-14 07:30:00",
+      "end": "2026-10-16 07:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24077,8 +24077,8 @@
     "source": "51zmt",
     "programme_count": 38,
     "date_range": {
-      "start": "2026-10-13 00:30:00",
-      "end": "2026-10-15 00:30:00"
+      "start": "2026-10-14 00:30:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24089,8 +24089,8 @@
     "source": "51zmt",
     "programme_count": 22,
     "date_range": {
-      "start": "2026-10-13 06:00:00",
-      "end": "2026-10-15 06:00:00"
+      "start": "2026-10-14 06:00:00",
+      "end": "2026-10-16 06:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24101,8 +24101,8 @@
     "source": "51zmt",
     "programme_count": 18,
     "date_range": {
-      "start": "2026-10-13 08:50:00",
-      "end": "2026-10-15 08:50:00"
+      "start": "2026-10-14 08:50:00",
+      "end": "2026-10-16 08:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24113,8 +24113,8 @@
     "source": "51zmt",
     "programme_count": 22,
     "date_range": {
-      "start": "2026-10-13 06:30:00",
-      "end": "2026-10-15 06:30:00"
+      "start": "2026-10-14 06:30:00",
+      "end": "2026-10-16 06:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24125,8 +24125,8 @@
     "source": "51zmt",
     "programme_count": 20,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24137,8 +24137,8 @@
     "source": "51zmt",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 07:00:00",
-      "end": "2026-10-15 07:00:00"
+      "start": "2026-10-14 07:00:00",
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24147,10 +24147,10 @@
     "channel_id": "福建新闻",
     "channel_name": "福建新闻",
     "source": "51zmt",
-    "programme_count": 79,
+    "programme_count": 84,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24159,10 +24159,10 @@
     "channel_id": "福建旅游",
     "channel_name": "福建旅游",
     "source": "51zmt",
-    "programme_count": 34,
+    "programme_count": 35,
     "date_range": {
-      "start": "2026-10-13 05:20:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24173,8 +24173,8 @@
     "source": "51zmt",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-10-13 07:00:00",
-      "end": "2026-10-15 07:00:00"
+      "start": "2026-10-14 07:00:00",
+      "end": "2026-10-16 07:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24185,8 +24185,8 @@
     "source": "51zmt",
     "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24197,8 +24197,8 @@
     "source": "51zmt",
     "programme_count": 50,
     "date_range": {
-      "start": "2026-10-13 00:03:00",
-      "end": "2026-10-15 00:03:00"
+      "start": "2026-10-14 00:03:00",
+      "end": "2026-10-16 00:03:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24209,8 +24209,8 @@
     "source": "51zmt",
     "programme_count": 36,
     "date_range": {
-      "start": "2026-10-13 00:04:00",
-      "end": "2026-10-15 00:04:00"
+      "start": "2026-10-14 00:04:00",
+      "end": "2026-10-16 00:04:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24221,8 +24221,8 @@
     "source": "51zmt",
     "programme_count": 24,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24233,8 +24233,8 @@
     "source": "51zmt",
     "programme_count": 44,
     "date_range": {
-      "start": "2026-10-13 00:41:00",
-      "end": "2026-10-15 00:41:00"
+      "start": "2026-10-14 00:41:00",
+      "end": "2026-10-16 00:41:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24245,8 +24245,8 @@
     "source": "51zmt",
     "programme_count": 40,
     "date_range": {
-      "start": "2026-10-13 00:31:00",
-      "end": "2026-10-15 00:31:00"
+      "start": "2026-10-14 00:31:00",
+      "end": "2026-10-16 00:31:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24255,10 +24255,10 @@
     "channel_id": "河北文旅公共",
     "channel_name": "河北文旅公共",
     "source": "51zmt",
-    "programme_count": 22,
+    "programme_count": 27,
     "date_range": {
-      "start": "2026-10-13 00:53:00",
-      "end": "2026-10-15 06:30:00"
+      "start": "2026-10-14 06:30:00",
+      "end": "2026-10-16 06:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24267,10 +24267,10 @@
     "channel_id": "河北三农",
     "channel_name": "河北三农",
     "source": "51zmt",
-    "programme_count": 61,
+    "programme_count": 84,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24281,8 +24281,8 @@
     "source": "51zmt",
     "programme_count": 74,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-15 00:00:00"
+      "start": "2026-10-14 00:00:00",
+      "end": "2026-10-16 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24291,10 +24291,10 @@
     "channel_id": "山西经济与科技",
     "channel_name": "山西经济与科技",
     "source": "51zmt",
-    "programme_count": 62,
+    "programme_count": 61,
     "date_range": {
-      "start": "2026-10-13 00:31:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 05:45:00",
+      "end": "2026-10-16 00:30:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24305,8 +24305,8 @@
     "source": "51zmt",
     "programme_count": 39,
     "date_range": {
-      "start": "2026-10-13 00:19:00",
-      "end": "2026-10-15 01:50:00"
+      "start": "2026-10-14 01:50:00",
+      "end": "2026-10-16 00:19:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24317,8 +24317,8 @@
     "source": "51zmt",
     "programme_count": 30,
     "date_range": {
-      "start": "2026-10-13 00:10:00",
-      "end": "2026-10-15 00:10:00"
+      "start": "2026-10-14 00:10:00",
+      "end": "2026-10-16 00:10:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24329,8 +24329,8 @@
     "source": "51zmt",
     "programme_count": 26,
     "date_range": {
-      "start": "2026-10-13 06:25:00",
-      "end": "2026-10-15 06:25:00"
+      "start": "2026-10-14 06:25:00",
+      "end": "2026-10-16 06:25:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24341,8 +24341,8 @@
     "source": "51zmt",
     "programme_count": 30,
     "date_range": {
-      "start": "2026-10-13 05:25:00",
-      "end": "2026-10-15 05:25:00"
+      "start": "2026-10-14 05:25:00",
+      "end": "2026-10-16 05:25:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -24363,7 +24363,7 @@
     "channel_id": "CGTN (shanghai)",
     "channel_name": "CGTN",
     "source": "sh-telecom",
-    "programme_count": 91,
+    "programme_count": 90,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -24399,9 +24399,9 @@
     "channel_id": "CHC家庭影院 (shanghai)",
     "channel_name": "CHC家庭影院",
     "source": "sh-telecom",
-    "programme_count": 60,
+    "programme_count": 58,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:10:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24411,9 +24411,9 @@
     "channel_id": "CHC动作电影 (shanghai)",
     "channel_name": "CHC动作电影",
     "source": "sh-telecom",
-    "programme_count": 57,
+    "programme_count": 55,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:05:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24447,9 +24447,9 @@
     "channel_id": "央视台球 (shanghai)",
     "channel_name": "央视台球",
     "source": "sh-telecom",
-    "programme_count": 52,
+    "programme_count": 51,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:17:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24495,9 +24495,9 @@
     "channel_id": "女性时尚 (shanghai)",
     "channel_name": "女性时尚",
     "source": "sh-telecom",
-    "programme_count": 55,
+    "programme_count": 54,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:05:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24519,9 +24519,9 @@
     "channel_id": "怀旧剧场 (shanghai)",
     "channel_name": "怀旧剧场",
     "source": "sh-telecom",
-    "programme_count": 47,
+    "programme_count": 46,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:19:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24543,9 +24543,9 @@
     "channel_id": "第一剧场 (shanghai)",
     "channel_name": "第一剧场",
     "source": "sh-telecom",
-    "programme_count": 52,
+    "programme_count": 51,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:18:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24555,9 +24555,9 @@
     "channel_id": "风云音乐 (shanghai)",
     "channel_name": "风云音乐",
     "source": "sh-telecom",
-    "programme_count": 53,
+    "programme_count": 52,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:09:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24579,9 +24579,9 @@
     "channel_id": "早期教育 (shanghai)",
     "channel_name": "早期教育",
     "source": "sh-telecom",
-    "programme_count": 112,
+    "programme_count": 111,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:10:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24603,9 +24603,9 @@
     "channel_id": "生活时尚 (shanghai)",
     "channel_name": "生活时尚",
     "source": "sh-telecom",
-    "programme_count": 230,
+    "programme_count": 228,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:18:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24615,9 +24615,9 @@
     "channel_id": "动漫秀场 (shanghai)",
     "channel_name": "动漫秀场",
     "source": "sh-telecom",
-    "programme_count": 225,
+    "programme_count": 223,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:13:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24663,9 +24663,9 @@
     "channel_id": "多彩文体 (shanghai)",
     "channel_name": "多彩文体",
     "source": "sh-telecom",
-    "programme_count": 82,
+    "programme_count": 81,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:05:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24675,13 +24675,13 @@
     "channel_id": "东方卫视 (shanghai)",
     "channel_name": "东方卫视",
     "source": "sh-telecom",
-    "programme_count": 40,
+    "programme_count": 79,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
+      "start": "2026-10-13 00:19:00",
+      "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "CCTV-1 (shanghai)",
@@ -24699,79 +24699,7 @@
     "channel_id": "都市频道 (shanghai)",
     "channel_name": "都市频道",
     "source": "sh-telecom",
-    "programme_count": 38,
-    "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
-    },
-    "has_programmes": true,
-    "is_valid": false
-  },
-  {
-    "channel_id": "哈哈炫动 (shanghai)",
-    "channel_name": "哈哈炫动",
-    "source": "sh-telecom",
-    "programme_count": 77,
-    "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
-    },
-    "has_programmes": true,
-    "is_valid": false
-  },
-  {
-    "channel_id": "东方影视 (shanghai)",
-    "channel_name": "东方影视",
-    "source": "sh-telecom",
-    "programme_count": 27,
-    "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
-    },
-    "has_programmes": true,
-    "is_valid": false
-  },
-  {
-    "channel_id": "新闻综合 (shanghai)",
-    "channel_name": "新闻综合",
-    "source": "sh-telecom",
-    "programme_count": 33,
-    "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
-    },
-    "has_programmes": true,
-    "is_valid": false
-  },
-  {
-    "channel_id": "五星体育 (shanghai)",
-    "channel_name": "五星体育",
-    "source": "sh-telecom",
-    "programme_count": 22,
-    "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
-    },
-    "has_programmes": true,
-    "is_valid": false
-  },
-  {
-    "channel_id": "第一财经 (shanghai)",
-    "channel_name": "第一财经",
-    "source": "sh-telecom",
-    "programme_count": 30,
-    "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
-    },
-    "has_programmes": true,
-    "is_valid": false
-  },
-  {
-    "channel_id": "东方购物-1 (shanghai)",
-    "channel_name": "东方购物-1",
-    "source": "sh-telecom",
-    "programme_count": 67,
+    "programme_count": 81,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -24780,8 +24708,56 @@
     "is_valid": true
   },
   {
-    "channel_id": "东方购物-2 (shanghai)",
-    "channel_name": "东方购物-2",
+    "channel_id": "哈哈炫动 (shanghai)",
+    "channel_name": "哈哈炫动",
+    "source": "sh-telecom",
+    "programme_count": 152,
+    "date_range": {
+      "start": "2026-10-13 00:00:00",
+      "end": "2026-10-15 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "东方影视 (shanghai)",
+    "channel_name": "东方影视",
+    "source": "sh-telecom",
+    "programme_count": 53,
+    "date_range": {
+      "start": "2026-10-13 00:00:00",
+      "end": "2026-10-15 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "新闻综合 (shanghai)",
+    "channel_name": "新闻综合",
+    "source": "sh-telecom",
+    "programme_count": 66,
+    "date_range": {
+      "start": "2026-10-13 00:04:00",
+      "end": "2026-10-15 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "五星体育 (shanghai)",
+    "channel_name": "五星体育",
+    "source": "sh-telecom",
+    "programme_count": 48,
+    "date_range": {
+      "start": "2026-10-13 00:02:00",
+      "end": "2026-10-15 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "第一财经 (shanghai)",
+    "channel_name": "第一财经",
     "source": "sh-telecom",
     "programme_count": 63,
     "date_range": {
@@ -24792,36 +24768,60 @@
     "is_valid": true
   },
   {
+    "channel_id": "东方购物-1 (shanghai)",
+    "channel_name": "东方购物-1",
+    "source": "sh-telecom",
+    "programme_count": 66,
+    "date_range": {
+      "start": "2026-10-13 00:15:00",
+      "end": "2026-10-15 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
+    "channel_id": "东方购物-2 (shanghai)",
+    "channel_name": "东方购物-2",
+    "source": "sh-telecom",
+    "programme_count": 62,
+    "date_range": {
+      "start": "2026-10-13 00:20:00",
+      "end": "2026-10-15 00:00:00"
+    },
+    "has_programmes": true,
+    "is_valid": true
+  },
+  {
     "channel_id": "上海教育 (shanghai)",
     "channel_name": "上海教育",
     "source": "sh-telecom",
-    "programme_count": 43,
+    "programme_count": 84,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
+      "start": "2026-10-13 00:14:00",
+      "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "东方财经 (shanghai)",
     "channel_name": "东方财经",
     "source": "sh-telecom",
-    "programme_count": 70,
+    "programme_count": 134,
     "date_range": {
       "start": "2026-10-13 00:00:00",
-      "end": "2026-10-14 00:00:00"
+      "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "金色学堂 (shanghai)",
     "channel_name": "金色学堂",
     "source": "sh-telecom",
-    "programme_count": 216,
+    "programme_count": 214,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:20:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24855,9 +24855,9 @@
     "channel_id": "CCTV-2 (shanghai)",
     "channel_name": "CCTV-2",
     "source": "sh-telecom",
-    "programme_count": 87,
+    "programme_count": 86,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:06:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24891,7 +24891,7 @@
     "channel_id": "CCTV-5 (shanghai)",
     "channel_name": "CCTV-5",
     "source": "sh-telecom",
-    "programme_count": 54,
+    "programme_count": 58,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -24903,9 +24903,9 @@
     "channel_id": "CCTV-6 (shanghai)",
     "channel_name": "CCTV-6",
     "source": "sh-telecom",
-    "programme_count": 74,
+    "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:17:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24915,9 +24915,9 @@
     "channel_id": "CCTV-7 (shanghai)",
     "channel_name": "CCTV-7",
     "source": "sh-telecom",
-    "programme_count": 87,
+    "programme_count": 86,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:10:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24927,9 +24927,9 @@
     "channel_id": "CCTV-8 (shanghai)",
     "channel_name": "CCTV-8",
     "source": "sh-telecom",
-    "programme_count": 82,
+    "programme_count": 81,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:04:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24951,9 +24951,9 @@
     "channel_id": "CCTV-10 (shanghai)",
     "channel_name": "CCTV-10",
     "source": "sh-telecom",
-    "programme_count": 77,
+    "programme_count": 76,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:01:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -24987,7 +24987,7 @@
     "channel_id": "CCTV-13 (shanghai)",
     "channel_name": "CCTV-13",
     "source": "sh-telecom",
-    "programme_count": 74,
+    "programme_count": 75,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25011,7 +25011,7 @@
     "channel_id": "CCTV-15 (shanghai)",
     "channel_name": "CCTV-15",
     "source": "sh-telecom",
-    "programme_count": 43,
+    "programme_count": 42,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25035,7 +25035,7 @@
     "channel_id": "浙江卫视 (shanghai)",
     "channel_name": "浙江卫视",
     "source": "sh-telecom",
-    "programme_count": 93,
+    "programme_count": 91,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25047,9 +25047,9 @@
     "channel_id": "江苏卫视 (shanghai)",
     "channel_name": "江苏卫视",
     "source": "sh-telecom",
-    "programme_count": 69,
+    "programme_count": 70,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:02:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25071,7 +25071,7 @@
     "channel_id": "北京卫视 (shanghai)",
     "channel_name": "北京卫视",
     "source": "sh-telecom",
-    "programme_count": 84,
+    "programme_count": 105,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25083,7 +25083,7 @@
     "channel_id": "广东卫视 (shanghai)",
     "channel_name": "广东卫视",
     "source": "sh-telecom",
-    "programme_count": 79,
+    "programme_count": 74,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25095,9 +25095,9 @@
     "channel_id": "深圳卫视 (shanghai)",
     "channel_name": "深圳卫视",
     "source": "sh-telecom",
-    "programme_count": 108,
+    "programme_count": 119,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:09:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25107,7 +25107,7 @@
     "channel_id": "黑龙江卫视 (shanghai)",
     "channel_name": "黑龙江卫视",
     "source": "sh-telecom",
-    "programme_count": 83,
+    "programme_count": 95,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25121,7 +25121,7 @@
     "source": "sh-telecom",
     "programme_count": 68,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:03:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25143,9 +25143,9 @@
     "channel_id": "安徽卫视 (shanghai)",
     "channel_name": "安徽卫视",
     "source": "sh-telecom",
-    "programme_count": 77,
+    "programme_count": 79,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:05:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25155,7 +25155,7 @@
     "channel_id": "东南卫视 (shanghai)",
     "channel_name": "东南卫视",
     "source": "sh-telecom",
-    "programme_count": 56,
+    "programme_count": 58,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25167,7 +25167,7 @@
     "channel_id": "江西卫视 (shanghai)",
     "channel_name": "江西卫视",
     "source": "sh-telecom",
-    "programme_count": 65,
+    "programme_count": 78,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25191,7 +25191,7 @@
     "channel_id": "天津卫视 (shanghai)",
     "channel_name": "天津卫视",
     "source": "sh-telecom",
-    "programme_count": 63,
+    "programme_count": 62,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25203,9 +25203,9 @@
     "channel_id": "中国教育-1 (shanghai)",
     "channel_name": "中国教育-1",
     "source": "sh-telecom",
-    "programme_count": 163,
+    "programme_count": 159,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:20:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25215,7 +25215,7 @@
     "channel_id": "四川卫视 (shanghai)",
     "channel_name": "四川卫视",
     "source": "sh-telecom",
-    "programme_count": 72,
+    "programme_count": 73,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25239,7 +25239,7 @@
     "channel_id": "贵州卫视 (shanghai)",
     "channel_name": "贵州卫视",
     "source": "sh-telecom",
-    "programme_count": 82,
+    "programme_count": 116,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25251,9 +25251,9 @@
     "channel_id": "海南卫视 (shanghai)",
     "channel_name": "海南卫视",
     "source": "sh-telecom",
-    "programme_count": 49,
+    "programme_count": 48,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:18:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25265,7 +25265,7 @@
     "source": "sh-telecom",
     "programme_count": 62,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:01:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25275,9 +25275,9 @@
     "channel_id": "金鹰纪实 (shanghai)",
     "channel_name": "金鹰纪实",
     "source": "sh-telecom",
-    "programme_count": 86,
+    "programme_count": 85,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:10:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25299,9 +25299,9 @@
     "channel_id": "河南卫视 (shanghai)",
     "channel_name": "河南卫视",
     "source": "sh-telecom",
-    "programme_count": 97,
+    "programme_count": 96,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:12:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25311,7 +25311,7 @@
     "channel_id": "云南卫视 (shanghai)",
     "channel_name": "云南卫视",
     "source": "sh-telecom",
-    "programme_count": 69,
+    "programme_count": 67,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25335,7 +25335,7 @@
     "channel_id": "吉林卫视 (shanghai)",
     "channel_name": "吉林卫视",
     "source": "sh-telecom",
-    "programme_count": 75,
+    "programme_count": 77,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25347,9 +25347,9 @@
     "channel_id": "卡酷少儿 (shanghai)",
     "channel_name": "卡酷少儿",
     "source": "sh-telecom",
-    "programme_count": 191,
+    "programme_count": 190,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:03:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25359,9 +25359,9 @@
     "channel_id": "甘肃卫视 (shanghai)",
     "channel_name": "甘肃卫视",
     "source": "sh-telecom",
-    "programme_count": 95,
+    "programme_count": 104,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:20:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25371,9 +25371,9 @@
     "channel_id": "中国教育-4 (shanghai)",
     "channel_name": "中国教育-4",
     "source": "sh-telecom",
-    "programme_count": 135,
+    "programme_count": 134,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:15:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25383,7 +25383,7 @@
     "channel_id": "青海卫视 (shanghai)",
     "channel_name": "青海卫视",
     "source": "sh-telecom",
-    "programme_count": 66,
+    "programme_count": 67,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25395,9 +25395,9 @@
     "channel_id": "金鹰卡通 (shanghai)",
     "channel_name": "金鹰卡通",
     "source": "sh-telecom",
-    "programme_count": 295,
+    "programme_count": 294,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:15:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25407,7 +25407,7 @@
     "channel_id": "山西卫视 (shanghai)",
     "channel_name": "山西卫视",
     "source": "sh-telecom",
-    "programme_count": 44,
+    "programme_count": 47,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25419,7 +25419,7 @@
     "channel_id": "内蒙古卫视 (shanghai)",
     "channel_name": "内蒙古卫视",
     "source": "sh-telecom",
-    "programme_count": 79,
+    "programme_count": 82,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25431,9 +25431,9 @@
     "channel_id": "新疆卫视 (shanghai)",
     "channel_name": "新疆卫视",
     "source": "sh-telecom",
-    "programme_count": 73,
+    "programme_count": 72,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:18:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25455,9 +25455,9 @@
     "channel_id": "西藏卫视 (shanghai)",
     "channel_name": "西藏卫视",
     "source": "sh-telecom",
-    "programme_count": 188,
+    "programme_count": 186,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:19:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25469,7 +25469,7 @@
     "source": "sh-telecom",
     "programme_count": 61,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:12:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25479,9 +25479,9 @@
     "channel_id": "宁夏卫视 (shanghai)",
     "channel_name": "宁夏卫视",
     "source": "sh-telecom",
-    "programme_count": 86,
+    "programme_count": 85,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:11:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25491,7 +25491,7 @@
     "channel_id": "CCTV-16 (shanghai)",
     "channel_name": "CCTV-16",
     "source": "sh-telecom",
-    "programme_count": 50,
+    "programme_count": 55,
     "date_range": {
       "start": "2026-10-13 00:00:00",
       "end": "2026-10-15 00:00:00"
@@ -25503,9 +25503,9 @@
     "channel_id": "欢笑剧场 (shanghai)",
     "channel_name": "欢笑剧场",
     "source": "sh-telecom",
-    "programme_count": 82,
+    "programme_count": 81,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:05:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25527,9 +25527,9 @@
     "channel_id": "嘉佳卡通 (shanghai)",
     "channel_name": "嘉佳卡通",
     "source": "sh-telecom",
-    "programme_count": 303,
+    "programme_count": 300,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:17:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
@@ -25563,9 +25563,9 @@
     "channel_id": "家庭理财 (shanghai)",
     "channel_name": "家庭理财",
     "source": "sh-telecom",
-    "programme_count": 136,
+    "programme_count": 135,
     "date_range": {
-      "start": "2026-10-13 00:00:00",
+      "start": "2026-10-13 00:05:00",
       "end": "2026-10-15 00:00:00"
     },
     "has_programmes": true,
