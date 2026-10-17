@@ -2,7 +2,7 @@
 
 源: https://github.com/LiuYi0526/IPTVnew/tree/main/TVlogos
 
-共找到 988 个Logo文件
+共找到 998 个Logo文件
 
 | logo名称 | logo链接 |
 |----------|----------|
@@ -165,13 +165,23 @@
 | ELTA13 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA13.png> |
 | ELTA2 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA2.png> |
 | ELTA3 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA3.png> |
-| ELTA4 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA4.png> |
-| ELTA5 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA5.png> |
-| ELTA6 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA6.png> |
 | ELTA7 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA7.png> |
 | ELTA8 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA8.png> |
 | ELTA9 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA9.png> |
-| ELTA體育-4台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育-4台.png> |
+| ELTA體育1台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育1台.png> |
+| ELTA體育2台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育2台.png> |
+| ELTA體育3台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育3台.png> |
+| ELTA體育4台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育4台.png> |
+| ELTA體育MAX10台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX10台.png> |
+| ELTA體育MAX1台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX1台.png> |
+| ELTA體育MAX2台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX2台.png> |
+| ELTA體育MAX3台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX3台.png> |
+| ELTA體育MAX4台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX4台.png> |
+| ELTA體育MAX5台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX5台.png> |
+| ELTA體育MAX6台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX6台.png> |
+| ELTA體育MAX7台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX7台.png> |
+| ELTA體育MAX8台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX8台.png> |
+| ELTA體育MAX9台 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ELTA體育MAX9台.png> |
 | ERA1 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ERA1.png> |
 | ERA2 | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ERA2.png> |
 | ETtoday | <https://raw.githubusercontent.com/LiuYi0526/IPTVnew/main/TVlogos/Taiwan/ETtoday.png> |
