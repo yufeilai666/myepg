@@ -1869,7 +1869,7 @@
       "end": "2026-10-24 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "中國中央電視台中文國際頻道 (亞洲)",
@@ -1881,7 +1881,7 @@
       "end": "2026-10-24 00:36:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "中國電影頻道 (北美)",
@@ -1905,7 +1905,7 @@
       "end": "2026-10-24 00:50:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "翡翠台 (澳大利亞)",
@@ -1953,7 +1953,7 @@
       "end": "2026-10-24 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "鳳凰衛視中文台 (澳大利亞)",
@@ -1965,7 +1965,7 @@
       "end": "2026-10-24 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "TVB生活台",
@@ -13191,9 +13191,9 @@
     "channel_id": "東森洋片台 (tbc)",
     "channel_name": "東森洋片台",
     "source": "tbc",
-    "programme_count": 33,
+    "programme_count": 34,
     "date_range": {
-      "start": "2026-10-18 01:55:00",
+      "start": "2026-10-18 00:30:00",
       "end": "2026-10-21 01:35:00"
     },
     "has_programmes": true,
@@ -13239,7 +13239,7 @@
     "channel_id": "緯來育樂台 (tbc)",
     "channel_name": "緯來育樂台",
     "source": "tbc",
-    "programme_count": 69,
+    "programme_count": 71,
     "date_range": {
       "start": "2026-10-18 00:00:00",
       "end": "2026-10-21 00:00:00"
@@ -16617,7 +16617,7 @@
       "end": "2026-10-20 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "风云足球",
@@ -17133,7 +17133,7 @@
       "end": "2026-10-20 00:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "中华特产",
@@ -18279,10 +18279,10 @@
     "channel_id": "CCTV-1 综合",
     "channel_name": "CCTV-1 综合",
     "source": "gdct",
-    "programme_count": 112,
+    "programme_count": 113,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:08:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18291,10 +18291,10 @@
     "channel_id": "CCTV-10 科教",
     "channel_name": "CCTV-10 科教",
     "source": "gdct",
-    "programme_count": 106,
+    "programme_count": 141,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18303,10 +18303,10 @@
     "channel_id": "CCTV-11 戏曲",
     "channel_name": "CCTV-11 戏曲",
     "source": "gdct",
-    "programme_count": 64,
+    "programme_count": 86,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18315,10 +18315,10 @@
     "channel_id": "CCTV-12 社会与法",
     "channel_name": "CCTV-12 社会与法",
     "source": "gdct",
-    "programme_count": 102,
+    "programme_count": 135,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18327,10 +18327,10 @@
     "channel_id": "CCTV-13 新闻",
     "channel_name": "CCTV-13 新闻",
     "source": "gdct",
-    "programme_count": 121,
+    "programme_count": 159,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18339,10 +18339,10 @@
     "channel_id": "CCTV-14 少儿",
     "channel_name": "CCTV-14 少儿",
     "source": "gdct",
-    "programme_count": 56,
+    "programme_count": 76,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18351,10 +18351,10 @@
     "channel_id": "CCTV-15 音乐",
     "channel_name": "CCTV-15 音乐",
     "source": "gdct",
-    "programme_count": 55,
+    "programme_count": 73,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18375,10 +18375,10 @@
     "channel_id": "CCTV-17 农业农村",
     "channel_name": "CCTV-17 农业 农村",
     "source": "gdct",
-    "programme_count": 88,
+    "programme_count": 89,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:23:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18387,10 +18387,10 @@
     "channel_id": "CCTV-2 财经",
     "channel_name": "CCTV-2 财经",
     "source": "gdct",
-    "programme_count": 123,
+    "programme_count": 164,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18399,10 +18399,10 @@
     "channel_id": "CCTV-3 综艺",
     "channel_name": "CCTV-3 综艺",
     "source": "gdct",
-    "programme_count": 68,
+    "programme_count": 91,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18411,10 +18411,10 @@
     "channel_id": "CCTV-4 中文国际",
     "channel_name": "CCTV-4 中文国际",
     "source": "gdct",
-    "programme_count": 123,
+    "programme_count": 165,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18471,10 +18471,10 @@
     "channel_id": "CCTV-5+ 体育赛事",
     "channel_name": "CCTV-5+ 体育赛事",
     "source": "gdct",
-    "programme_count": 61,
+    "programme_count": 81,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18483,10 +18483,10 @@
     "channel_id": "CCTV-6 电影",
     "channel_name": "CCTV-6 电影",
     "source": "gdct",
-    "programme_count": 102,
+    "programme_count": 135,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18495,10 +18495,10 @@
     "channel_id": "CCTV-7 国防军事",
     "channel_name": "CCTV-7 国防 军事",
     "source": "gdct",
-    "programme_count": 101,
+    "programme_count": 139,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18507,10 +18507,10 @@
     "channel_id": "CCTV-8 电视剧",
     "channel_name": "CCTV-8 电视剧",
     "source": "gdct",
-    "programme_count": 123,
+    "programme_count": 164,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18519,10 +18519,10 @@
     "channel_id": "CCTV-9 记录",
     "channel_name": "CCTV-9 记录",
     "source": "gdct",
-    "programme_count": 93,
+    "programme_count": 123,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 23:59:59"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18531,10 +18531,10 @@
     "channel_id": "CCTV-世界地理",
     "channel_name": "CCTV-世界地理",
     "source": "gdct",
-    "programme_count": 114,
+    "programme_count": 115,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:35:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18543,10 +18543,10 @@
     "channel_id": "CCTV-兵器科技",
     "channel_name": "CCTV-兵器科技",
     "source": "gdct",
-    "programme_count": 74,
+    "programme_count": 75,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 01:13:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18555,10 +18555,10 @@
     "channel_id": "CCTV-卫生健康",
     "channel_name": "CCTV-卫生健康",
     "source": "gdct",
-    "programme_count": 131,
+    "programme_count": 132,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:08:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18567,10 +18567,10 @@
     "channel_id": "CCTV-央视台球",
     "channel_name": "CCTV-央视台球",
     "source": "gdct",
-    "programme_count": 71,
+    "programme_count": 72,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:58:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18579,10 +18579,10 @@
     "channel_id": "CCTV-央视文化精品",
     "channel_name": "CCTV-央视文化精品",
     "source": "gdct",
-    "programme_count": 85,
+    "programme_count": 86,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 01:14:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18603,10 +18603,10 @@
     "channel_id": "CCTV-女性时尚",
     "channel_name": "CCTV-女性时尚",
     "source": "gdct",
-    "programme_count": 78,
+    "programme_count": 79,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 03:53:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18615,10 +18615,10 @@
     "channel_id": "CCTV-怀旧剧场",
     "channel_name": "CCTV-怀旧剧场",
     "source": "gdct",
-    "programme_count": 63,
+    "programme_count": 64,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:19:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18627,10 +18627,10 @@
     "channel_id": "CCTV-电视指南",
     "channel_name": "CCTV-电视指南",
     "source": "gdct",
-    "programme_count": 199,
+    "programme_count": 200,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:20:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18639,10 +18639,10 @@
     "channel_id": "CCTV-第一剧场",
     "channel_name": "CCTV-第一剧场",
     "source": "gdct",
-    "programme_count": 69,
+    "programme_count": 70,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:18:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18651,10 +18651,10 @@
     "channel_id": "CCTV-风云剧场",
     "channel_name": "CCTV-风云剧场",
     "source": "gdct",
-    "programme_count": 69,
+    "programme_count": 70,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 03:46:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18663,10 +18663,10 @@
     "channel_id": "CCTV-风云音乐",
     "channel_name": "CCTV-风云音乐",
     "source": "gdct",
-    "programme_count": 65,
+    "programme_count": 66,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 03:25:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18675,10 +18675,10 @@
     "channel_id": "CCTV-高尔夫网球",
     "channel_name": "CCTV-高尔夫网球",
     "source": "gdct",
-    "programme_count": 51,
+    "programme_count": 52,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:52:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18711,10 +18711,10 @@
     "channel_id": "CETV-4",
     "channel_name": "CETV4",
     "source": "gdct",
-    "programme_count": 135,
+    "programme_count": 136,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:15:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18730,18 +18730,6 @@
     },
     "has_programmes": true,
     "is_valid": true
-  },
-  {
-    "channel_id": "东莞生活资讯",
-    "channel_name": "东莞生活资讯",
-    "source": "gdct",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false,
-    "is_valid": false
   },
   {
     "channel_id": "中山综合",
@@ -18855,10 +18843,10 @@
     "channel_id": "惠州综合",
     "channel_name": "惠州综合",
     "source": "gdct",
-    "programme_count": 125,
+    "programme_count": 126,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:02:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18867,10 +18855,10 @@
     "channel_id": "惠州都市生活",
     "channel_name": "惠州都市生活",
     "source": "gdct",
-    "programme_count": 96,
+    "programme_count": 97,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 06:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18987,10 +18975,10 @@
     "channel_id": "深圳宝安",
     "channel_name": "深圳宝安",
     "source": "gdct",
-    "programme_count": 63,
+    "programme_count": 88,
     "date_range": {
       "start": "2026-10-17 06:55:00",
-      "end": "2026-10-20 00:00:00"
+      "end": "2026-10-21 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -18999,10 +18987,10 @@
     "channel_id": "深圳少儿",
     "channel_name": "深圳少儿",
     "source": "gdct",
-    "programme_count": 92,
+    "programme_count": 119,
     "date_range": {
       "start": "2026-10-17 21:56:00",
-      "end": "2026-10-20 00:35:00"
+      "end": "2026-10-20 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19011,10 +18999,10 @@
     "channel_id": "深圳电视剧",
     "channel_name": "深圳电视剧",
     "source": "gdct",
-    "programme_count": 90,
+    "programme_count": 123,
     "date_range": {
       "start": "2026-10-17 00:21:00",
-      "end": "2026-10-20 00:30:00"
+      "end": "2026-10-20 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19023,10 +19011,10 @@
     "channel_id": "深圳都市",
     "channel_name": "深圳都市",
     "source": "gdct",
-    "programme_count": 109,
+    "programme_count": 151,
     "date_range": {
       "start": "2026-10-17 00:22:00",
-      "end": "2026-10-20 00:10:00"
+      "end": "2026-10-20 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19035,10 +19023,10 @@
     "channel_id": "深圳龙岗",
     "channel_name": "深圳龙岗",
     "source": "gdct",
-    "programme_count": 75,
+    "programme_count": 100,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-20 00:00:00"
+      "end": "2026-10-21 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19107,10 +19095,10 @@
     "channel_id": "睛彩广场舞",
     "channel_name": "睛彩广场舞",
     "source": "gdct",
-    "programme_count": 94,
+    "programme_count": 130,
     "date_range": {
       "start": "2026-10-17 21:45:00",
-      "end": "2026-10-20 00:30:00"
+      "end": "2026-10-20 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19119,10 +19107,10 @@
     "channel_id": "睛彩竞技",
     "channel_name": "睛彩竞技",
     "source": "gdct",
-    "programme_count": 57,
+    "programme_count": 90,
     "date_range": {
       "start": "2026-10-17 21:45:00",
-      "end": "2026-10-20 00:50:00"
+      "end": "2026-10-20 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19131,10 +19119,10 @@
     "channel_id": "睛彩篮球",
     "channel_name": "睛彩篮球",
     "source": "gdct",
-    "programme_count": 83,
+    "programme_count": 119,
     "date_range": {
       "start": "2026-10-17 21:40:00",
-      "end": "2026-10-20 00:00:00"
+      "end": "2026-10-20 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19143,10 +19131,10 @@
     "channel_id": "睛彩青少",
     "channel_name": "睛彩青少",
     "source": "gdct",
-    "programme_count": 83,
+    "programme_count": 124,
     "date_range": {
       "start": "2026-10-17 21:15:00",
-      "end": "2026-10-20 00:00:00"
+      "end": "2026-10-20 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -19179,10 +19167,10 @@
     "channel_id": "阳江-1",
     "channel_name": "阳江-1",
     "source": "gdct",
-    "programme_count": 61,
+    "programme_count": 62,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-19 23:59:59"
+      "end": "2026-10-20 00:09:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20667,10 +20655,10 @@
     "channel_id": "北京卫视 (2)",
     "channel_name": "BRTV北京卫视高清",
     "source": "beijingiptv",
-    "programme_count": 269,
+    "programme_count": 297,
     "date_range": {
-      "start": "2026-10-17 00:32:00",
-      "end": "2026-10-25 00:27:00"
+      "start": "2026-10-17 00:00:00",
+      "end": "2026-10-26 00:07:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20679,10 +20667,10 @@
     "channel_id": "北京文艺",
     "channel_name": "BRTV文艺高清",
     "source": "beijingiptv",
-    "programme_count": 336,
+    "programme_count": 378,
     "date_range": {
       "start": "2026-10-17 00:22:00",
-      "end": "2026-10-25 00:29:00"
+      "end": "2026-10-26 00:31:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20715,10 +20703,10 @@
     "channel_id": "北京财经",
     "channel_name": "BRTV财经高清",
     "source": "beijingiptv",
-    "programme_count": 329,
+    "programme_count": 368,
     "date_range": {
       "start": "2026-10-17 00:44:00",
-      "end": "2026-10-25 00:17:00"
+      "end": "2026-10-26 00:17:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20727,10 +20715,10 @@
     "channel_id": "北京体育休闲",
     "channel_name": "BRTV体育休闲高清",
     "source": "beijingiptv",
-    "programme_count": 197,
+    "programme_count": 223,
     "date_range": {
       "start": "2026-10-17 00:12:00",
-      "end": "2026-10-25 00:27:00"
+      "end": "2026-10-26 00:17:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20739,10 +20727,10 @@
     "channel_id": "北京生活",
     "channel_name": "BRTV生活高清",
     "source": "beijingiptv",
-    "programme_count": 456,
+    "programme_count": 513,
     "date_range": {
       "start": "2026-10-17 00:12:00",
-      "end": "2026-10-25 00:14:00"
+      "end": "2026-10-26 00:14:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20751,10 +20739,10 @@
     "channel_id": "北京卡酷少儿",
     "channel_name": "BRTV卡酷少儿高清",
     "source": "beijingiptv",
-    "programme_count": 472,
+    "programme_count": 538,
     "date_range": {
       "start": "2026-10-17 00:27:00",
-      "end": "2026-10-25 00:12:00"
+      "end": "2026-10-26 00:03:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20763,10 +20751,10 @@
     "channel_id": "北京新闻",
     "channel_name": "BRTV新闻高清",
     "source": "beijingiptv",
-    "programme_count": 268,
+    "programme_count": 300,
     "date_range": {
       "start": "2026-10-17 00:25:00",
-      "end": "2026-10-25 00:25:00"
+      "end": "2026-10-26 00:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20775,10 +20763,10 @@
     "channel_id": "求索4K",
     "channel_name": "求索4K",
     "source": "beijingiptv",
-    "programme_count": 262,
+    "programme_count": 294,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-25 00:00:00"
+      "end": "2026-10-26 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20787,10 +20775,10 @@
     "channel_id": "淘剧场",
     "channel_name": "淘剧场",
     "source": "beijingiptv",
-    "programme_count": 259,
+    "programme_count": 292,
     "date_range": {
       "start": "2026-10-17 00:22:00",
-      "end": "2026-10-25 00:05:00"
+      "end": "2026-10-26 00:43:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20799,10 +20787,10 @@
     "channel_id": "淘电影",
     "channel_name": "淘电影",
     "source": "beijingiptv",
-    "programme_count": 104,
+    "programme_count": 116,
     "date_range": {
       "start": "2026-10-17 02:01:00",
-      "end": "2026-10-25 01:46:00"
+      "end": "2026-10-26 00:32:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20823,10 +20811,10 @@
     "channel_id": "睛彩竞技 (2)",
     "channel_name": "睛彩竞技",
     "source": "beijingiptv",
-    "programme_count": 265,
+    "programme_count": 300,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-25 00:00:00"
+      "end": "2026-10-26 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20835,10 +20823,10 @@
     "channel_id": "睛彩篮球 (2)",
     "channel_name": "睛彩篮球",
     "source": "beijingiptv",
-    "programme_count": 332,
+    "programme_count": 372,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-25 00:00:00"
+      "end": "2026-10-26 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20847,10 +20835,10 @@
     "channel_id": "睛彩青少 (2)",
     "channel_name": "睛彩青少",
     "source": "beijingiptv",
-    "programme_count": 344,
+    "programme_count": 386,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-25 00:00:00"
+      "end": "2026-10-26 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20859,10 +20847,10 @@
     "channel_id": "睛彩广场舞 (2)",
     "channel_name": "睛彩广场舞",
     "source": "beijingiptv",
-    "programme_count": 384,
+    "programme_count": 430,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-25 00:00:00"
+      "end": "2026-10-26 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20871,10 +20859,10 @@
     "channel_id": "北京卫视4K",
     "channel_name": "北京卫视4K超高清 SDR",
     "source": "beijingiptv",
-    "programme_count": 269,
+    "programme_count": 296,
     "date_range": {
       "start": "2026-10-17 00:32:00",
-      "end": "2026-10-25 00:27:00"
+      "end": "2026-10-26 00:07:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20883,10 +20871,10 @@
     "channel_id": "BRTV北京卫视",
     "channel_name": "BRTV北京卫视",
     "source": "beijingiptv",
-    "programme_count": 269,
+    "programme_count": 297,
     "date_range": {
-      "start": "2026-10-17 00:32:00",
-      "end": "2026-10-25 00:27:00"
+      "start": "2026-10-17 00:00:00",
+      "end": "2026-10-26 00:07:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20895,10 +20883,10 @@
     "channel_id": "BRTV文艺",
     "channel_name": "BRTV文艺",
     "source": "beijingiptv",
-    "programme_count": 336,
+    "programme_count": 378,
     "date_range": {
       "start": "2026-10-17 00:22:00",
-      "end": "2026-10-25 00:29:00"
+      "end": "2026-10-26 00:31:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20931,10 +20919,10 @@
     "channel_id": "BRTV财经",
     "channel_name": "BRTV财经",
     "source": "beijingiptv",
-    "programme_count": 329,
+    "programme_count": 368,
     "date_range": {
       "start": "2026-10-17 00:44:00",
-      "end": "2026-10-25 00:17:00"
+      "end": "2026-10-26 00:17:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20943,10 +20931,10 @@
     "channel_id": "BRTV生活",
     "channel_name": "BRTV生活",
     "source": "beijingiptv",
-    "programme_count": 456,
+    "programme_count": 513,
     "date_range": {
       "start": "2026-10-17 00:12:00",
-      "end": "2026-10-25 00:14:00"
+      "end": "2026-10-26 00:14:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20955,10 +20943,10 @@
     "channel_id": "BRTV卡酷少儿",
     "channel_name": "BRTV卡酷少儿",
     "source": "beijingiptv",
-    "programme_count": 472,
+    "programme_count": 538,
     "date_range": {
       "start": "2026-10-17 00:27:00",
-      "end": "2026-10-25 00:12:00"
+      "end": "2026-10-26 00:03:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20967,10 +20955,10 @@
     "channel_id": "BRTV新闻",
     "channel_name": "BRTV新闻",
     "source": "beijingiptv",
-    "programme_count": 268,
+    "programme_count": 300,
     "date_range": {
       "start": "2026-10-17 00:25:00",
-      "end": "2026-10-25 00:25:00"
+      "end": "2026-10-26 00:50:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20979,10 +20967,10 @@
     "channel_id": "BTV国际频道",
     "channel_name": "BTV国际频道",
     "source": "beijingiptv",
-    "programme_count": 324,
+    "programme_count": 363,
     "date_range": {
       "start": "2026-10-17 00:08:00",
-      "end": "2026-10-25 00:08:00"
+      "end": "2026-10-26 00:08:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -20991,10 +20979,10 @@
     "channel_id": "IPTV6+",
     "channel_name": "IPTV6+",
     "source": "beijingiptv",
-    "programme_count": 45,
+    "programme_count": 58,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-20 00:00:00"
+      "end": "2026-10-21 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21003,10 +20991,10 @@
     "channel_id": "IPTV3+",
     "channel_name": "IPTV3+",
     "source": "beijingiptv",
-    "programme_count": 72,
+    "programme_count": 96,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-20 00:00:00"
+      "end": "2026-10-21 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21015,10 +21003,10 @@
     "channel_id": "IPTV5+",
     "channel_name": "IPTV5+",
     "source": "beijingiptv",
-    "programme_count": 113,
+    "programme_count": 151,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-20 00:00:00"
+      "end": "2026-10-21 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21027,10 +21015,10 @@
     "channel_id": "IPTV8+",
     "channel_name": "IPTV8+",
     "source": "beijingiptv",
-    "programme_count": 108,
+    "programme_count": 145,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-20 00:00:00"
+      "end": "2026-10-21 00:00:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21039,10 +21027,10 @@
     "channel_id": "淘Baby",
     "channel_name": "淘Baby",
     "source": "beijingiptv",
-    "programme_count": 209,
+    "programme_count": 235,
     "date_range": {
       "start": "2026-10-17 01:02:00",
-      "end": "2026-10-25 00:17:00"
+      "end": "2026-10-26 00:18:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21051,10 +21039,10 @@
     "channel_id": "四海钓鱼 (2)",
     "channel_name": "四海钓鱼",
     "source": "beijingiptv",
-    "programme_count": 375,
+    "programme_count": 410,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-24 23:59:00"
+      "end": "2026-10-25 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -21063,10 +21051,10 @@
     "channel_id": "环球旅游",
     "channel_name": "环球旅游",
     "source": "beijingiptv",
-    "programme_count": 590,
+    "programme_count": 666,
     "date_range": {
       "start": "2026-10-17 00:00:00",
-      "end": "2026-10-24 23:59:00"
+      "end": "2026-10-25 23:59:00"
     },
     "has_programmes": true,
     "is_valid": true
@@ -23577,7 +23565,7 @@
       "end": "2026-10-19 08:00:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "央视台球 (2)",
@@ -24165,7 +24153,7 @@
       "end": "2026-10-19 08:50:00"
     },
     "has_programmes": true,
-    "is_valid": false
+    "is_valid": true
   },
   {
     "channel_id": "江西新闻",
