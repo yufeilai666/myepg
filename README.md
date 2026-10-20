@@ -1700,7 +1700,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | CGTN西班牙语频道 | CGTN西班牙语频道 | LiuYi0526 | 195 | 2026-10-19 00:00:00 至 2026-10-22 00:00:00 | ✅ |
 | CGTN纪录频道 | CGTN外语纪录频道 | LiuYi0526 | 140 | 2026-10-19 00:00:00 至 2026-10-21 23:57:00 | ✅ |
 | CCTV+ Channel 1 | CCTV+ Channel 1 | LiuYi0526 | 1 | 2026-10-20 14:30:00 至 2026-10-20 16:00:00 | ❌ |
-| CCTV+ Channel 2 | CCTV+ Channel 2 | LiuYi0526 | 2 | 2026-10-20 09:00:00 至 2026-10-20 16:30:00 | ✅ |
+| CCTV+ Channel 2 | CCTV+ Channel 2 | LiuYi0526 | 2 | 2026-10-20 09:00:00 至 2026-10-20 16:30:00 | ❌ |
 | CCTV+ Channel 3 | CCTV+ Channel 3 | LiuYi0526 | 0 | 无节目 | ❌ |
 | CCTV+ Channel 4 | CCTV+ Channel 4 | LiuYi0526 | 0 | 无节目 | ❌ |
 | 江西卫视 (2) | 江西卫视-高清 | LiuYi0526 | 80 | 2026-10-19 02:13:00 至 2026-10-22 01:15:00 | ✅ |
