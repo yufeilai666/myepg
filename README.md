@@ -356,7 +356,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | ROCK Entertainme | ROCK Entertainme | macaucable | 71 | 2026-10-30 00:25:00 至 2026-11-01 05:30:00 | ✅ |
 | ROCK Action (2) | ROCK Action | macaucable | 40 | 2026-10-30 03:15:00 至 2026-11-05 19:20:00 | ✅ |
 | KIX電影台 | KIX電影台 | macaucable | 37 | 2026-10-30 01:40:00 至 2026-11-01 00:35:00 | ✅ |
-| Outdoor Channel | Outdoor Channel | macaucable | 52 | 2026-10-30 00:00:00 至 2026-10-31 21:00:00 | ✅ |
+| Outdoor Channel | Outdoor Channel | macaucable | 52 | 2026-10-30 00:00:00 至 2026-10-31 21:00:00 | ❌ |
 | 歷史高清頻道 | 歷史高清頻道 | macaucable | 0 | 无节目 | ❌ |
 | AXN HD | AXN HD | macaucable | 50 | 2026-10-30 00:30:00 至 2026-10-31 23:50:00 | ✅ |
 | Global Trekker探索世界頻道 | Global Trekker探索世界頻道 | macaucable | 215 | 2026-10-30 00:40:00 至 2026-11-05 22:55:00 | ✅ |
