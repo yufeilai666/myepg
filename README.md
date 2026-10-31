@@ -351,7 +351,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | 球迷台 | 球迷台 | macaucable | 87 | 2026-10-30 00:00:00 至 2026-11-06 00:00:00 | ✅ |
 | 英超1台 | 英超1台 | macaucable | 231 | 2026-10-30 00:00:00 至 2026-11-06 00:00:00 | ✅ |
 | 英超2台 | 英超2台 | macaucable | 85 | 2026-10-30 00:00:00 至 2026-11-06 00:00:00 | ✅ |
-| Eurosoprt HD | Eurosoprt HD | macaucable | 24 | 2026-10-30 01:00:00 至 2026-10-31 21:30:00 | ✅ |
+| Eurosoprt HD | Eurosoprt HD | macaucable | 24 | 2026-10-30 01:00:00 至 2026-10-31 21:30:00 | ❌ |
 | HITS電影台 | HITS電影台 | macaucable | 117 | 2026-10-30 00:00:00 至 2026-11-05 22:15:00 | ✅ |
 | ROCK Entertainme | ROCK Entertainme | macaucable | 71 | 2026-10-30 00:25:00 至 2026-11-01 05:30:00 | ✅ |
 | ROCK Action (2) | ROCK Action | macaucable | 40 | 2026-10-30 03:15:00 至 2026-11-05 19:20:00 | ✅ |
