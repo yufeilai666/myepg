@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-11-12 20:57:46 (UTC+8)
+- **最后更新时间**: 2026-11-12 22:57:43 (UTC+8)
 - **频道总数**: 2144
 
 ## 频道列表
@@ -29,10 +29,10 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | History (astro) | History (astro) | epg.pw | 186 | 2026-11-12 00:45:00 至 2026-11-19 00:05:00 | ✅ |
 | 亚洲美食台 (astro) | 亚洲美食台 (astro) | epg.pw | 306 | 2026-11-12 00:10:00 至 2026-11-19 00:10:00 | ✅ |
 | Discovery Asia (astro) | Discovery Asia (astro) | epg.pw | 239 | 2026-11-12 00:25:00 至 2026-11-19 00:05:00 | ✅ |
-| 千禧经典台 (astro) | 千禧經典台 (astro) | epg.pw | 226 | 2026-11-11 00:55:00 至 2026-11-18 00:55:00 | ✅ |
-| 鳳凰衛視中文台 (astro) | 鳳凰衛視中文台 (astro) | epg.pw | 392 | 2026-11-10 00:03:00 至 2026-11-18 00:03:00 | ✅ |
-| 鳳凰衛視資訊台 (astro) | 鳳凰衛視資訊台 (astro) | epg.pw | 508 | 2026-11-10 00:03:00 至 2026-11-18 00:03:00 | ✅ |
-| 鳳凰衛視香港台 (unifitv) | 鳳凰衛視香港台 (unifitv) | epg.pw | 338 | 2026-11-10 00:03:00 至 2026-11-17 00:03:00 | ✅ |
+| 千禧经典台 (astro) | 千禧經典台 (astro) | epg.pw | 226 | 2026-11-12 00:55:00 至 2026-11-19 00:55:00 | ✅ |
+| 鳳凰衛視中文台 (astro) | 鳳凰衛視中文台 (astro) | epg.pw | 390 | 2026-11-11 00:03:00 至 2026-11-19 00:03:00 | ✅ |
+| 鳳凰衛視資訊台 (astro) | 鳳凰衛視資訊台 (astro) | epg.pw | 508 | 2026-11-11 00:03:00 至 2026-11-19 00:03:00 | ✅ |
+| 鳳凰衛視香港台 (unifitv) | 鳳凰衛視香港台 (unifitv) | epg.pw | 338 | 2026-11-11 00:03:00 至 2026-11-18 00:03:00 | ✅ |
 | LS TIME 龙祥时代 | 龙祥时代 | person | 81 | 2026-11-12 02:35:00 至 2026-11-18 23:05:00 | ✅ |
 | LS TIMES TV | 龙祥频道 (CA) | person | 109 | 2026-11-12 00:20:00 至 2026-11-19 01:20:00 | ✅ |
 | 好莱坞电影台 | 好莱坞电影台 | person | 12 | 2026-11-12 01:45:00 至 2026-11-13 02:15:00 | ✅ |
@@ -1713,7 +1713,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | CGTN西班牙语频道 | CGTN西班牙语频道 | LiuYi0526 | 196 | 2026-11-11 00:00:00 至 2026-11-14 00:00:00 | ✅ |
 | CGTN纪录频道 | CGTN外语纪录频道 | LiuYi0526 | 144 | 2026-11-11 00:00:00 至 2026-11-14 00:00:00 | ✅ |
 | CCTV+ Channel 1 | CCTV+ Channel 1 | LiuYi0526 | 0 | 无节目 | ❌ |
-| CCTV+ Channel 2 | CCTV+ Channel 2 | LiuYi0526 | 1 | 2026-11-13 15:00:00 至 2026-11-13 16:30:00 | ❌ |
+| CCTV+ Channel 2 | CCTV+ Channel 2 | LiuYi0526 | 1 | 2026-11-13 15:00:00 至 2026-11-13 16:30:00 | ✅ |
 | CCTV+ Channel 3 | CCTV+ Channel 3 | LiuYi0526 | 0 | 无节目 | ❌ |
 | CCTV+ Channel 4 | CCTV+ Channel 4 | LiuYi0526 | 0 | 无节目 | ❌ |
 | 江西卫视 (2) | 江西卫视-高清 | LiuYi0526 | 0 | 无节目 | ❌ |
