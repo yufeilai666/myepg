@@ -946,7 +946,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Global Trekker (3) | Global Trekker (hami) | hami | 126 | 2026-11-11 23:25:00 至 2026-11-16 00:20:00 | ❌ |
 | Global Trekker(免費) | Global Trekker(免費) (hami) | hami | 126 | 2026-11-11 23:25:00 至 2026-11-16 00:20:00 | ❌ |
 | Hami WBC1台 | Hami WBC1台 (hami) | hami | 4 | 2026-11-12 00:00:00 至 2026-11-15 23:59:59 | ❌ |
-| Hami大聯盟1台 | Hami大聯盟1台 (hami) | hami | 30 | 2026-11-11 23:17:24 至 2026-11-16 03:17:25 | ✅ |
+| Hami大聯盟1台 | Hami大聯盟1台 (hami) | hami | 30 | 2026-11-11 23:17:24 至 2026-11-16 03:17:25 | ❌ |
 | Hami大聯盟2台 | Hami大聯盟2台 (hami) | hami | 31 | 2026-11-11 22:23:07 至 2026-11-16 01:46:48 | ❌ |
 | Hami熱播台 | Hami熱播台 (hami) | hami | 4 | 2026-11-12 00:00:00 至 2026-11-15 23:59:59 | ❌ |
 | Hami足球1台 | Hami足球1台 (hami) | hami | 4 | 2026-11-12 00:00:00 至 2026-11-15 23:59:59 | ❌ |
