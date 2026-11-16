@@ -354,7 +354,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | Eurosoprt HD | Eurosoprt HD | macaucable | 0 | 无节目 | ❌ |
 | HITS電影台 | HITS電影台 | macaucable | 73 | 2026-11-15 00:15:00 至 2026-11-21 23:00:00 | ✅ |
 | ROCK Entertainme | ROCK Entertainme | macaucable | 0 | 无节目 | ❌ |
-| ROCK Action (2) | ROCK Action | macaucable | 10 | 2026-11-16 23:00:00 至 2026-11-21 22:40:00 | ✅ |
+| ROCK Action (2) | ROCK Action | macaucable | 10 | 2026-11-16 23:00:00 至 2026-11-21 22:40:00 | ❌ |
 | KIX電影台 | KIX電影台 | macaucable | 0 | 无节目 | ❌ |
 | Outdoor Channel | Outdoor Channel | macaucable | 0 | 无节目 | ❌ |
 | 歷史高清頻道 | 歷史高清頻道 | macaucable | 0 | 无节目 | ❌ |
