@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 
 ## 更新信息
 - **节目单名称**: snow_epg.xml
-- **最后更新时间**: 2026-11-26 20:57:46 (UTC+8)
+- **最后更新时间**: 2026-11-26 22:57:49 (UTC+8)
 - **频道总数**: 2005
 
 ## 频道列表
@@ -24,15 +24,15 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | astro AOD (astro) | astro AOD (astro) | epg.pw | 238 | 2026-11-26 00:30:00 至 2026-12-03 00:00:00 | ✅ |
 | astro AEC (astro) | astro AEC (astro) | epg.pw | 290 | 2026-11-26 00:00:00 至 2026-12-03 00:00:00 | ✅ |
 | astro QJ (astro) | astro QJ (astro) | epg.pw | 197 | 2026-11-26 00:00:00 至 2026-12-03 00:00:00 | ✅ |
-| Global Trekker (astro) | Global Trekker (astro) | epg.pw | 227 | 2026-11-25 00:35:00 至 2026-12-02 00:10:00 | ✅ |
-| 美亚电影台 (Mod) | 美亚电影台 (Mod) | epg.pw | 98 | 2026-11-25 00:40:00 至 2026-12-02 00:00:00 | ✅ |
+| Global Trekker (astro) | Global Trekker (astro) | epg.pw | 227 | 2026-11-26 00:40:00 至 2026-12-03 00:10:00 | ✅ |
+| 美亚电影台 (Mod) | 美亚电影台 (Mod) | epg.pw | 98 | 2026-11-26 00:20:00 至 2026-12-03 00:00:00 | ✅ |
 | History (astro) | History (astro) | epg.pw | 186 | 2026-11-26 00:45:00 至 2026-12-03 00:05:00 | ✅ |
 | 亚洲美食台 (astro) | 亚洲美食台 (astro) | epg.pw | 311 | 2026-11-26 00:10:00 至 2026-12-03 00:10:00 | ✅ |
 | Discovery Asia (astro) | Discovery Asia (astro) | epg.pw | 239 | 2026-11-26 00:25:00 至 2026-12-03 00:05:00 | ✅ |
-| 千禧经典台 (astro) | 千禧經典台 (astro) | epg.pw | 226 | 2026-11-25 00:55:00 至 2026-12-02 00:55:00 | ✅ |
-| 鳳凰衛視中文台 (astro) | 鳳凰衛視中文台 (astro) | epg.pw | 388 | 2026-11-24 00:03:00 至 2026-12-02 00:03:00 | ✅ |
-| 鳳凰衛視資訊台 (astro) | 鳳凰衛視資訊台 (astro) | epg.pw | 508 | 2026-11-24 00:03:00 至 2026-12-02 00:03:00 | ✅ |
-| 鳳凰衛視香港台 (unifitv) | 鳳凰衛視香港台 (unifitv) | epg.pw | 316 | 2026-11-24 00:03:00 至 2026-11-30 23:33:00 | ✅ |
+| 千禧经典台 (astro) | 千禧經典台 (astro) | epg.pw | 226 | 2026-11-26 00:55:00 至 2026-12-03 00:55:00 | ✅ |
+| 鳳凰衛視中文台 (astro) | 鳳凰衛視中文台 (astro) | epg.pw | 388 | 2026-11-25 00:03:00 至 2026-12-03 00:03:00 | ✅ |
+| 鳳凰衛視資訊台 (astro) | 鳳凰衛視資訊台 (astro) | epg.pw | 508 | 2026-11-25 00:03:00 至 2026-12-03 00:03:00 | ✅ |
+| 鳳凰衛視香港台 (unifitv) | 鳳凰衛視香港台 (unifitv) | epg.pw | 265 | 2026-11-25 00:03:00 至 2026-11-30 23:33:00 | ✅ |
 | LS TIME 龙祥时代 | 龙祥时代 | person | 81 | 2026-11-26 01:55:00 至 2026-12-02 23:45:00 | ✅ |
 | LS TIMES TV | 龙祥频道 (CA) | person | 108 | 2026-11-26 00:15:00 至 2026-12-03 00:15:00 | ✅ |
 | 好莱坞电影台 | 好莱坞电影台 | person | 13 | 2026-11-26 01:00:00 至 2026-11-27 03:15:00 | ✅ |
@@ -1707,7 +1707,7 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | CGTN阿拉伯语频道 | CGTN阿拉伯语频道 | LiuYi0526 | 164 | 2026-11-25 00:15:00 至 2026-11-28 00:00:00 | ✅ |
 | CGTN西班牙语频道 | CGTN西班牙语频道 | LiuYi0526 | 186 | 2026-11-25 00:00:00 至 2026-11-28 00:00:00 | ✅ |
 | CGTN纪录频道 | CGTN外语纪录频道 | LiuYi0526 | 142 | 2026-11-25 00:00:00 至 2026-11-28 00:00:00 | ✅ |
-| CCTV+ Channel 1 | CCTV+ Channel 1 | LiuYi0526 | 1 | 2026-11-27 15:00:00 至 2026-11-27 16:30:00 | ❌ |
+| CCTV+ Channel 1 | CCTV+ Channel 1 | LiuYi0526 | 1 | 2026-11-27 15:00:00 至 2026-11-27 16:30:00 | ✅ |
 | CCTV+ Channel 2 | CCTV+ Channel 2 | LiuYi0526 | 0 | 无节目 | ❌ |
 | CCTV+ Channel 3 | CCTV+ Channel 3 | LiuYi0526 | 0 | 无节目 | ❌ |
 | CCTV+ Channel 4 | CCTV+ Channel 4 | LiuYi0526 | 0 | 无节目 | ❌ |
