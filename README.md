@@ -347,10 +347,10 @@ https://raw.githubusercontent.com/yufeilai666/myepg/main/snow_epg.xml.gz
 | NHK 日本國家電視台 | NHK 日本國家電視台 | macaucable | 0 | 无节目 | ❌ |
 | SPOTV | SPOTV | macaucable | 108 | 2026-11-26 01:00:00 至 2026-12-02 22:00:00 | ✅ |
 | SPOTV 2 | SPOTV 2 | macaucable | 100 | 2026-11-26 00:30:00 至 2026-12-02 22:00:00 | ✅ |
-| 球王台 | 球王台 | macaucable | 24 | 2026-11-26 00:00:00 至 2026-11-27 22:00:00 | ✅ |
-| 球迷台 | 球迷台 | macaucable | 23 | 2026-11-26 00:00:00 至 2026-11-27 22:00:00 | ✅ |
+| 球王台 | 球王台 | macaucable | 24 | 2026-11-26 00:00:00 至 2026-11-27 22:00:00 | ❌ |
+| 球迷台 | 球迷台 | macaucable | 23 | 2026-11-26 00:00:00 至 2026-11-27 22:00:00 | ❌ |
 | 英超1台 | 英超1台 | macaucable | 63 | 2026-11-26 00:00:00 至 2026-11-27 23:30:00 | ✅ |
-| 英超2台 | 英超2台 | macaucable | 23 | 2026-11-26 00:00:00 至 2026-11-27 22:00:00 | ✅ |
+| 英超2台 | 英超2台 | macaucable | 23 | 2026-11-26 00:00:00 至 2026-11-27 22:00:00 | ❌ |
 | Eurosoprt HD | Eurosoprt HD | macaucable | 0 | 无节目 | ❌ |
 | HITS電影台 | HITS電影台 | macaucable | 53 | 2026-11-26 01:00:00 至 2026-12-01 02:45:00 | ✅ |
 | ROCK Entertainme | ROCK Entertainme | macaucable | 0 | 无节目 | ❌ |
