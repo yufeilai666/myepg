@@ -2,7 +2,7 @@
 
 源: https://github.com/taksssss/tv/tree/main/icon
 
-共找到 3266 个Logo文件
+共找到 3267 个Logo文件
 
 | logo名称 | logo链接 |
 |----------|----------|
@@ -1303,6 +1303,7 @@
 | 电影原声台CMUSIC | <https://raw.githubusercontent.com/taksssss/tv/main/icon/电影原声台CMUSIC.png> |
 | 电子体育 | <https://raw.githubusercontent.com/taksssss/tv/main/icon/电子体育.png> |
 | 巅峰体育 | <https://raw.githubusercontent.com/taksssss/tv/main/icon/巅峰体育.png> |
+| 多彩文体4K | <https://raw.githubusercontent.com/taksssss/tv/main/icon/多彩文体4K.png> |
 | 大丰公共 | <https://raw.githubusercontent.com/taksssss/tv/main/icon/大丰公共.png> |
 | 大丰新闻 | <https://raw.githubusercontent.com/taksssss/tv/main/icon/大丰新闻.png> |
 | 大连财经 | <https://raw.githubusercontent.com/taksssss/tv/main/icon/大连财经.png> |
